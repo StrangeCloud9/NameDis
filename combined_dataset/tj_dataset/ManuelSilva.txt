@@ -1,0 +1,81 @@
+0;0;manuel silva;laura recalde,joaquin ezpeleta,enrique teruel;petri nets and manufacturing systems an examples driven tour;0F36910E;0AECB621;2004
+1;0;manuel silva;laura recalde,joaquin ezpeleta,enrique teruel;petri nets and manufacturing systems an examples driven tour;1088;0655F58A;2004
+2;0;manuel silva;enrique teruel,j m colom;linear algebraic and linear programming techniques for the analysis of place or transition net systems;0F36910E;0AECB621;1996
+3;0;manuel silva;herve pingaud,enrique teruel,robert valette;petri nets and production systems;3643963B;0AECB621;1998
+4;0;manuel silva;javier campos;structural techniques and performance bounds of stochastic petri net models;0389C918;1002458;1992
+5;0;manuel silva;javier esparza;circuits handles bridges and nets;0F36910E;47CA3817;1989
+6;0;manuel silva;javier esparza;circuits handles bridges and nets;4107;47CA3817;1991
+7;0;manuel silva;javier esparza;on the analysis and synthesis of free choice systems;61;47CA3817;1991
+8;0;manuel silva;javier esparza;on the analysis and synthesis of free choice systems;0F36910E;47CA3817;1989
+9;0;manuel silva;javier esparza;top down synthesis of live and bounded free choice nets;0F36910E;47CA3817;1990
+10;0;manuel silva;j ezpeleta,j m couvreur;a new technique for finding a generating family of siphons traps and st components application to colored petri nets;0F36910E;47CA3817;1991
+11;0;manuel silva;j m colom;convex geometry and semiflows in p t nets a comparative study of algorithms for computation of minimal p semiflows;533;47CA3817;1991
+12;0;manuel silva;j m colom;improving the linearly based characterization of p t nets;0F36910E;47CA3817;1989
+13;0;manuel silva;j m colom;improving the linearly based characterization of p t nets;7711;47CA3817;1990
+14;0;manuel silva;j m colom;improving the linearly based characterization of p t nets;7056;47CA3817;1991
+15;0;manuel silva;patrice moreaux,matteo sereno,serge haddad;structural characterization and qualitative properties of product form stochastic petri nets;0F36910E;47CA3817;2001
+16;0;manuel silva;laura recalde,jorge julvez;on reachability in autonomous continuous petri net systems;0389C918;47CA3817;2003
+17;0;manuel silva;j martinez;a simple and fast algorithm to obtain all invariants of a generalized petri net;3931;953850;1980
+18;0;manuel silva;laura recalde,enrique teruel;autonomous continuous p t systems;0F36910E;47CA3817;1999
+19;0;manuel silva;;interleaving functional and performance structural analysis of net models;0F36910E;47CA3817;1993
+20;0;manuel silva;j m colom;on the computation of structural synchronic invariants in p t nets;18411;0655F58A;1988
+21;0;manuel silva;laura recalde;continuization of timed petri nets from performance evaluation to observation and control;0389C918;47CA3817;2005
+22;0;manuel silva;robert valette;petri nets and flexible manufacturing;6951;47CA3817;1988
+23;0;manuel silva;enrique teruel,j m colom,piotr chrzastowskiwachtel;on weighted t systems;0F36910E;47CA3817;1992
+24;0;manuel silva;enrique teruel;liveness and home states in equal conflict systems;0389C918;47CA3817;1993
+25;0;manuel silva;enrique teruel;well formedness of equal conflict systems;0389C918;47CA3817;1994
+26;0;manuel silva;laura recalde,serge haddad;continuous petri nets expressive power and decidability issues;0F36910E;43618307;2007
+27;0;manuel silva;laura recalde,serge haddad;continuous petri nets expressive power and decidability issues;0F36910E;43618307;2011
+28;0;manuel silva;javier esparza;compositional synthesis of live and bounded free choice petri nets;0F36910E;444A182D;1991
+29;1;manuel silva;sebastian ventura,cesar hervasmartinez,j heras;a two steps method non linear regression and pruning neural network for analyzing multicomponent mixtures;8193;4326CCD6;2001
+30;0;manuel silva;laura recalde,serge haddad;on the computational power of timed differentiable petri nets;10972;45933558;2006
+31;0;manuel silva;laura recalde,c renato vazquez,antonio ramirez;on controllability of timed continuous petri nets;0F36910E;4773F002;2008
+32;0;manuel silva;joao h b da c campos,adrian ramirez;on optimal scheduling in deds;2827;455FBCE1;1993
+33;0;manuel silva;j m colom,enrique teruel;modelling and analysis of deterministic concurrent systems with bulk services and arrivals;9018;011826DA;1993
+34;3;manuel silva;carla pereira,antonio lucas soares,j g fernandes;understanding users response to ontology based systems in the context of an enterprise sponsored virtual community;13993;45C8CEE9;2007
+35;0;manuel silva;morikazu nakamura,seiki kyan,kenji onaga;a genetic algorithm for sex fair stable marriage problem;13102;471752F4;1995
+36;3;manuel silva;ricardo madureira,antonio lucas soares,dora simoes;developing enterprise sponsored virtual communities the case of a sme s knowledge community;12218;447B80D7;2006
+37;0;manuel silva;toshimasa watanabe,kenji onaga;on periodic schedules for deterministically timed petri net systems;19018;44554111;1991
+38;0;manuel silva;joao h b da c campos,j m colom,giovanni chiola;tight polynomial bounds for steady state performance of marked graphs;5341;44554111;1989
+39;0;manuel silva;giovanni chiola,javier campos;properties and steady state performance bounds for petri nets with unique repetitive firing count vector;1106;44554111;1989
+40;0;manuel silva;manuel silva suarez,javier campos;througput upper bounds for markovian petri nets embedded subnets and queueing networks;7861;44554111;1991
+41;0;manuel silva;manuel silva suarez,beatriz sanchez,javier campos;througput lower bounds for markovian petri nets transformation techniques;1331;44554111;1991
+42;0;manuel silva;laura recalde;unforced continuous petri nets and positive systems;0F36910E;363769;2003
+43;0;manuel silva;laura recalde,jorge julvez,emilio jimenez;on observability in timed continuous petri net systems;336;441B582F;2004
+44;0;manuel silva;laura recalde,e jimenez,jorge julvez;design of observers for timed continuous petri net systems;19187;45C7663C;2004
+45;0;manuel silva;laura recalde,jorge julvez,emilio jimenez;relaxed continuous views of discrete event systems considerations on forrester diagrams and petri nets;11914;45C7663C;2004
+46;0;manuel silva;david munoz rodriguez,armin zimmermann;two heuristics for the improvement of a two phase optimization method for manufacturing systems;4752;45C7663C;2004
+47;1;manuel silva;cesar hervasmartinez,a j martinez,j serrano;improving the quantification of highly overlapping chromatographic peaks by using product unit neural networks modeled by an evolutionary algorithm;2058;09F837EB;2005
+48;1;manuel silva;cesar hervasmartinez,eva orejuela,j serrano;heuristic extraction of rules in pruned artificial neural networks models used for quantifying highly overlapping chromatographic peaks;13653;09F837EB;2004
+49;1;manuel silva;jose antonio algar,cesar hervas;correction of temperature variations in kinetic based determinations by use of pruning computational neural networks in conjunction with genetic algorithms;16055;09F837EB;2000
+50;1;manuel silva;rocio toledo,cesar hervas;use of pruned computational neural networks for processing the response of oscillating chemical reactions with a view to analyzing nonlinear multicomponent mixtures;5661;09F837EB;2001
+51;1;manuel silva;sebastian ventura,dolores perezbendito,cesar hervas;computational neural networks for resolving nonlinear multicomponent systems based on chemiluminescence methods;678;09F837EB;1998
+52;1;manuel silva;sebastian ventura,dolores perezbendito,cesar hervas;computational neural networks in conjunction with principal component analysis for resolving highly nonlinear kinetics;7449;09F837EB;1997
+53;1;manuel silva;sebastian ventura,dolores perezbendito,cesar hervas;estimation of parameters of kinetic compartmental models by use of computational neural networks;2860;09F837EB;1997
+54;0;manuel silva;laura recalde,enrique teruel;on linear algebraic techniques for liveness analysis of p t systems;11214;09FD69F0;2011
+55;0;manuel silva;tadao murata;b fairness and structural b fairness in petri net models of concurrent systems;79;0867CDAD;1992
+56;0;manuel silva;hauke jungnitz,manuel silva suarez,beatriz sanchez;approximate throughput computation of stohastic marked graphs;13557;095DDDE1;1992
+57;0;manuel silva;javier campos;embedded product form queueing networks and the improvement of performance bounds for petri net systems;3072;02AEB332;1993
+58;0;manuel silva;patrice moreaux,matteo sereno,serge haddad;product form and stochastic petri nets a structural approach;0F36910E;02AEB332;2005
+59;0;manuel silva;javier esparza;a polynomial time algorithm to decide liveness of bounded free choice nets;3389;05686292;1992
+60;0;manuel silva;laura recalde,enrique teruel;structure theory of multi level deterministically synchronized sequential processes;385;05686292;2001
+61;0;manuel silva;enrique teruel;structure theory of equal conflict systems;6404;05686292;1996
+62;2;manuel silva;juiyi kao,narad rampersad,jeffrey shallit;words avoiding repetitions in arithmetic progressions;04FB01B8;05686292;2008
+63;0;manuel silva;hauke jungnitz,beatriz sanchez;approximate throughput computation of stochastic marked graphs;8252;095DDDE1;1992
+64;0;manuel silva;hauke jungnitz,josemanuel colom,javier campos;approximate throughput computation of stochastic marked graphs;9161;007F6F5E;1994
+65;0;manuel silva;giovanni chiola,javier campos;ergodicity and throughput bounds of petri nets with unique consistent firing count vector;12752;007F6F5E;1991
+66;0;manuel silva;susanna donatelli,javier campos;structured solution of asynchronously communicating stochastic modules;18061;007F6F5E;1999
+67;0;manuel silva;laura recalde;petri nets and integrality relaxations a view of continuous petri net models;3843;0489FD27;2002
+68;0;manuel silva;laura recalde,jing xu;tracking control of join free timed continuous petri net systems under infinite servers semantics;0F36910E;08041391;2008
+69;0;manuel silva;laura recalde,jorge julvez;steady state performance evaluation of continuous mono t semiflow petri nets;0389C918;030FB4D6;2005
+70;0;manuel silva;laura recalde,carlos vazquez;stochastic continuous state approximation of markovian petri net systems;7648;4773F002;2008
+71;0;manuel silva;laura recalde,cristian mahulea,marius kloetzer,calin belta;formal analysis of timed continuous petri nets;0F36910E;4773F002;2008
+72;0;manuel silva;j m colom;petri nets applied to the modelling and analysis of computer architecture problems;13568;057F15AE;1993
+73;0;manuel silva;laura recalde,cristian mahulea,antonio ramireztrevino;steady state control reference and token conservation laws in continuous petri net systems;8671;02144003;2008
+74;0;manuel silva;laura recalde,jorge julvez,emilio jimenez;on observability and design of observers intimed continuous petri net systems;10030;02144003;2008
+75;0;manuel silva;laura recalde,cristian mahulea;basic server semantics and performance monotonicity of continuous petri nets;0F36910E;08041391;2009
+76;0;manuel silva;laura recalde,pasquale chiacchio,francesco basile;closed loop live marked graphs under generalized mutual exclusion constraint enforcement;5770;08041391;2009
+77;0;manuel silva;javier esparza;circuits handles bridges and nets;0F36910E;47CA3817;1989
+78;0;manuel silva;javier esparza;circuits handles bridges and nets;1949;47CA3817;1991
+79;0;manuel silva;javier esparza;on the analysis and synthesis of free choice systems;16318;47CA3817;1991
+80;0;manuel silva;javier esparza;on the analysis and synthesis of free choice systems;0F36910E;47CA3817;1989

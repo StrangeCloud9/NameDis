@@ -1,0 +1,87 @@
+0;0;yong chen;;affective computing model based on rough fuzzy sets;9956;1426999;2006
+1;2;yong chen;sang h son;a fault tolerant topology control in wireless sensor networks;0312B01D;47B7ABEF;2005
+2;3;yong chen;yinlong xu,jiulong shan,guoliang chen;implementation and evaluation of mpi openmp programming model on dawning3000;8693;46A3F844;2003
+3;3;yong chen;xianhe sun,ming wu;qos oriented resource reservation in shared environments;6459;4651456C;2006
+4;3;yong chen;xianhe sun;stas a scalability testing and analysis system;0AC9113B;43A193B2;2006
+5;3;yong chen;pei zheng,chengzhong xu,lionel m ni,jay f kusler,mingyao yang;costore a reliable and highly available storage system using clusters;0532D181;43E27A26;2002
+6;6;yong chen;jeanmarc seigneur,christian damsgaard jensen,elizabeth gray;risk probability estimating based on clustering;19033;45C7663C;2003
+7;7;yong chen;dong wang,ge chen,keqin wu;elastic algorithm a new path planning algorithm about auto navigation in 3d virtual scene;0384B5A7;455FBCE1;2006
+8;8;yong chen;xiyue huang;an optimization method based on chaotic immune evolutionary algorithm;0977BD3A;0655F58A;2005
+9;3;yong chen;lionel m ni,mingyao yang;costore a storage cluster architecture using network attached storage devices;0532D181;43C1EF66;2002
+10;3;yong chen;xianhe sun,ming wu;scalability of heterogeneous computing;0AC9113B;44E5A1B2;2005
+11;11;yong chen;wei shu,minyou wu;runtime parallel incremental scheduling of dags;14904;44E5A1B2;2000
+12;3;yong chen;xianhe sun,surendra byna,william gropp,rajeev thakur;2008 international conference on parallel processing september 8 12 2008 portland oregon exploring parallel i o concurrency with speculative prefetching;17273;44E5A1B2;2008
+13;12;yong chen;tao mei,guoqiang fu,deyi kong;wireless drive and control of a swimming microrobot;11269;455FBCE1;2002
+14;11;yong chen;wei shu,minyou wu;a runtime system for dynamic dag programming;0653F611;4708B833;2000
+15;3;yong chen;xianhe sun,surendra byna;improving data access performance with server push architecture;0AC9113B;4708B833;2007
+16;0;yong chen;tong he,kaiquan shi;weighted rough graph and its application;092F5EFF;45D416DF;2006
+17;13;yong chen;xiaofeng liao;novel exponential stability criteria for fuzzy cellular neural networks with time varying delay;0977BD3A;4539ED1E;2004
+18;14;yong chen;tianyun yan,guoyin wang,fan jin;a novel generalized congruence neural networks;00A0C1D6;4539ED1E;2005
+19;13;yong chen;xiaofeng liao,chuandong li;on robust stability of bam neural networks with constant delays;0977BD3A;4539ED1E;2004
+20;13;yong chen;bo mi,pengcheng wei;a region based image enhancement algorithm with the grossberg network;0977BD3A;4539ED1E;2006
+21;13;yong chen;bo mi,pengcheng wei;a region based image enhancement algorithm with the grossberg network;9178;4539ED1E;2006
+22;15;yong chen;junping wang,quanshi chen;rbf kernel based support vector machine with universal approximation and its application;05E79D01;4539ED1E;2004
+23;13;yong chen;xiaofeng liao,tsing zhou;a novel symmetric cryptography based on chaotic signal generator and a clipped neural network;0977BD3A;4539ED1E;2004
+24;17;yong chen;pan zhang;statistical neurodynamics for sequence processing neural networks with finite dilution;048AEF89;4539ED1E;2007
+25;8;yong chen;jun liu,xiyue huang,naishuai he;target recognition of flir images on radial basis function neural network;0977BD3A;4539ED1E;2007
+26;3;yong chen;xianhe sun,surendra byna;a taxonomy of data prefetching mechanisms;0AC9113B;43C40A80;2008
+27;19;yong chen;biao li,qi wang;exact analytical solutions to the nonlinear schrodinger equation model;068D7BC6;46FD5AEB;2005
+28;6;yong chen;jeanmarc seigneur,christian s jensen,elizabeth gray;trust propagation in small worlds;0C3C3D64;1638915;2003
+29;11;yong chen;wei shu,minyou wu;hypertool 2 a parallel incremental dag scheduling system;4745;474BD8D0;2000
+30;6;yong chen;kui dai,fang liu,zhiying wang,zhiping cai;research on risk probability estimating using fuzzy clustering for dynamic security assessment;0A254897;45302733;2005
+31;6;yong chen;kui dai,fang liu,zhiping cai,zhiying wang;research on risk probability estimating using fuzzy clustering for dynamic security assessment;14356;45302733;2005
+32;3;yong chen;xianhe sun,surendra byna;data access history cache and associated data prefetching mechanisms;0AC9113B;44BF398F;2007
+33;3;yong chen;xianhe sun,surendra byna,william gropp,rajeev thakur;parallel i o prefetching using mpi file caching and i o signatures;0AC9113B;44BF398F;2008
+34;3;yong chen;xianhe sun,surendra byna,william gropp,rajeev thakur;hiding i o latency with pre execution prefetching for parallel applications;0AC9113B;44BF398F;2008
+35;20;yong chen;kwokping chan;mining circumstance oriented association rules using singular value decomposition technique;350410CF;45C7663C;2004
+36;6;yong chen;jeanmarc seigneur,stephen farrell,christian damsgaard jensen,elizabeth gray;end to end trust starts with recognition;0C3C3D64;469324BE;2004
+37;19;yong chen;yin li,biao li;generalized cascade synchronization of discrete time henon like map;068D7BC6;46013AA1;2008
+38;22;yong chen;;an accurate sampling based method for approximating geometry;0011EAC4;0109D5ED;2007
+39;3;yong chen;yu ding,j j cho;on the co girth of a connected matroid;07874D3C;0A3C919D;2007
+40;6;yong chen;jeanmarc seigneur,stefan wolf weber,christian damsgaard jensen,paul oconnell,elizabeth gray;trust evolution policies for security in collaborative ad hoc applications;454;03009113;2006
+41;21;yong chen;david w rosen;a region based method to automated design of multi piece molds with application to rapid tooling;13607;0A527EE2;2002
+42;21;yong chen;david w rosen;a reverse glue approach to automated construction of multi piece molds;12442;0A527EE2;2003
+43;21;yong chen;david w rosen;a reverse glue approach to automated construction of multi piece molds;11104;0A527EE2;2003
+44;3;yong chen;xianhe sun,surendra byna;server based data push architecture for multi processor environments;0AC9113B;09A08B9A;2007
+45;3;yong chen;xianhe sun,ming wu;algorithm system scalability of heterogeneous computing;0AC9113B;095DDDE1;2008
+46;20;yong chen;kwokping chan;using data mining techniques and rough set theory for language modeling;350410CF;035F4706;2007
+47;3;yong chen;jionghua jin;quality oriented maintenance for multiple interactive tooling components in discrete manufacturing processes;07874D3C;053A9641;2006
+48;3;yong chen;qingyu yang;reliability of two stage weighted k out of n systems with components in common;07874D3C;053A9641;2005
+49;3;yong chen;jionghua jin;quality reliability chain modeling for system reliability analysis of complex manufacturing processes;07874D3C;053A9641;2005
+50;19;yong chen;qi wang;a new elliptic equation rational expansion method and its application to the shallow long wave approximate equations;068D7BC6;03009DEA;2006
+51;19;yong chen;zhenya yan;weierstrass semi rational expansion method and new doubly periodic solutions of the generalized hirota satsuma coupled kdv system;068D7BC6;03009DEA;2006
+52;19;yong chen;qi wang;generalized q s lag anticipated and complete synchronization in modified chua s circuit and hindmarsh rose systems;012E6F4E;03009DEA;2006
+53;19;yong chen;qi wang,hongqing zhang;generalized algebraic method and new exact traveling wave solutions for 2 1 dimensional dispersive long wave equation;012E6F4E;03009DEA;2006
+54;19;yong chen;hongli an,zhibin li;the function cascade synchronization approach with uncertain parameters or not for hyperchaotic systems;03FC4F79;03009DEA;2008
+55;19;yong chen;hongli an;numerical solutions of coupled burgers equations with time and space fractional derivatives;03FC4F79;03009DEA;2008
+56;19;yong chen;biao li,qi wang,hongqing zhang;new exact travelling wave solutions for the shallow long wave approximate equations;01A17328;03009DEA;2005
+57;19;yong chen;qi wang;a new general algebraic method with symbolic computation to construct new doubly periodic solutions of the 2 1 dimensional dispersive long wave equation;068D7BC6;03009DEA;2005
+58;19;yong chen;qi wang;a new general algebraic method with symbolic computation to construct new travelling wave solution for the 1 1 dimensional dispersive long wave equation;068D7BC6;03009DEA;2005
+59;19;yong chen;hongli an;homotopy perturbation method for a type of nonlinear coupled equations with parameters derivative;03FC4F79;03009DEA;2008
+60;19;yong chen;hongli an;numerical complexiton solutions for the complex kdv equation by the homotopy perturbation method;068D7BC6;03009DEA;2008
+61;19;yong chen;biao li,hongqing zhang;new exact solutions for modified nonlinear dispersive equations mk m n in higher dimensions spaces;01A17328;01EA05AA;2004
+62;0;yong chen;guojun li;an effective algorithm of motif finding problem;092F5EFF;0C57E3EF;2008
+63;24;yong chen;min tang,jinxiang dong,ruofeng tong;a model and algorithm of two dimensional optimum layout in blanking;0489A984;43520230;2002
+64;23;yong chen;daming zhang,zhongkui lu;study on steering control strategy of electric vehicles driven by hub motors;002C3BCE;4539ED1E;2009
+65;3;yong chen;xianhe sun,surendra byna;taxonomy of data prefetching for multicore processors;0AC9113B;09A08B9A;2009
+66;3;yong chen;xianhe sun,zhibin fang,surendra byna;core aware memory access scheduling schemes;0AC9113B;4708B833;2009
+67;5;yong chen;zhengzhi wang;a neural network architecture for perceptual grouping attention modulation and boundary surface interaction;0A254897;44C93DEC;2009
+68;19;yong chen;hengnong xuan,biao li,hongqing zhang;generalized riccati equation expansion method and its application to the 3 1 dimensional jumbo miwa equation;01A17328;03009DEA;2004
+69;19;yong chen;pei yang,zhibin li;adm pade technique for the nonlinear lattice equations;03FC4F79;03009DEA;2009
+70;19;yong chen;xiaorui hu;two dimensional symmetry reduction of 2 1 dimensional nonlinear klein gordon equation;068D7BC6;03009DEA;2009
+71;1;yong chen;xia liu,qi huang,changhua zhang;an artificial neural network based on ciea;6488;45E5BC3F;2008
+72;7;yong chen;yong han,chunyong ma,ge chen,yongyang qi;vr gis an integrated platform of vr navigation and gis analysis for city region simulation;0384B5A7;45563292;2008
+73;4;yong chen;yong zhong,jingyong liu,tingting shi;comparison of two fitness functions for ga based path oriented test data generation;059FC914;1160871;2009
+74;17;yong chen;kang jiu,ying liu,zhiyi qu;a porn video detecting method based on motion features using hmm;048AEF89;449AF10A;2009
+75;1;yong chen;shi jing,qi huang,changhua zhang;design and implementation of a power system sensor network for wide area measurement;8663;491751;2008
+76;1;yong chen;chang hua zhang,shi jing,qi huang;design and implementation of a power system sensor network for wide area measurement;560;1847647;2008
+77;3;yong chen;xianhe sun;reevaluating amdahl s law in the multicore era;0AC9113B;095DDDE1;2010
+78;19;yong chen;qi wang;a unified rational expansion method to construct a series of explicit exact solutions to nonlinear evolution equations;068D7BC6;03009DEA;2006
+79;9;yong chen;adrien plecis;improved glass pdms glass device technology for accurate measurements of electro osmotic mobilities;01C3C549;096B53DD;2008
+80;9;yong chen;jian shi,a m haghirigosnet,d decanini,edmond cambril,jing chen;gold nanohole arrays for biochemical sensing fabricated by soft uv nanoimprint lithography;01C3C549;096B53DD;2009
+81;10;yong chen;yong sik ahn,h thomas hahn;accelerated publication a resist for electric imprint lithography;099D876D;096B53DD;2009
+82;3;yong chen;h jayaram,s r wagner,lionel m ni,eric torng,paul w hodges;the impact of smart disks and spatial reuse property on raid 5 storage systems;17498;44E5A1B2;1998
+83;6;yong chen;mary anna carbone,christian damsgaard jensen,jean bacon,vinny cahill,jeanmarc seigneur,sotirios terzis,brian shand,m nielson,p nixon,karl krukow,nathan dimmock,waleed wagealla,clayton english,earle v gray,ciar n bryce,g di marzo serugendo,andrew twigg;using trust for secure collaboration in uncertain environments;0C3C3D64;0171209C;2003
+84;16;yong chen;fei yuan,gul n khan;a wide dynamic range cmos image sensor with pulse frequency modulation and in pixel amplification;00081A17;05E40B87;2009
+85;18;yong chen;leiyue yao;an optimizing strategy for massive data management system based on sqlserver 2000;5169;1560901;2009
+86;4;yong chen;yong zhong;automatic path oriented test data generation using a multi population genetic algorithm;012E6F4E;0B68DB42;2008

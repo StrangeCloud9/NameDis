@@ -1,0 +1,107 @@
+0;0;ke chen;qingxin zhu,fan yang;optimal search model for combined strategy in sequence alignment;18298;47784D0E;2008
+1;3;ke chen;kanaka durga kedarisetti,aashima kapoor,lukasz kurgan;prediction of the number of helices for the twilight zone proteins;093456D7;47796128;2006
+2;3;ke chen;jishou ruan,lukasz kurgan;optimization of the sliding window size for protein structure prediction;093456D7;47796128;2006
+3;4;ke chen;;how to play a coloring game against a color blind adversary;0966B229;442F700A;2006
+4;4;ke chen;sariel harpeled;the orienteering problem in the plane revisited;0966B229;442F700A;2006
+5;6;ke chen;gang chen,jinxiang dong,lihua yu;securely sharing data in encrypted databases;0489A984;43520230;2006
+6;6;ke chen;gang chen,jinxiang dong;a database encryption scheme for enhanced security and easy sharing;0489A984;43520230;2006
+7;6;ke chen;gang chen,jinxiang dong,t hu;resilient rights protection for product data;0489A984;43520230;2006
+8;6;ke chen;jinxiang dong,zhongdong huang,cheng zang;an architecture approach to dynamic policy in rbac;0489A984;43520230;2006
+9;6;ke chen;gang chen,jinxiang dong,cheng zang;a fractal watermark solution for product data;0489A984;43520230;2006
+10;7;ke chen;;speaker modeling with various speech representations;0617FE65;0655F58A;2004
+11;6;ke chen;beng chin ooi,gang chen,yueguo chen;efficient processing of warping time series join of motion capture data;13742;45610CDA;2009
+12;9;ke chen;xiaodong li,yunong zhang,weimu ma;matlab simulation of gradient based neural network for online matrix inversion;09676E2E;439B9AD2;2007
+13;9;ke chen;yunong zhang,shuai yue;matlab simulation and comparison of zhang neural network and gradient neural network for online solution of linear time varying matrix equation axb c 0;09676E2E;439B9AD2;2008
+14;9;ke chen;yunong zhang,chenfu yi,zhan li;zhang neural network versus gradient neural network for online time varying quadratic function minimization;09676E2E;439B9AD2;2008
+15;7;ke chen;;boosting input output hidden markov models for sequence classification;01B1760F;0655F58A;2005
+16;12;ke chen;j m henrioud;systematic generation of assembly precedence graphs;3449;455FBCE1;1994
+17;7;ke chen;sunny yeung;personalized news reading via hybrid learning;01B1760F;44788D44;2004
+18;13;ke chen;huasheng chen;a model directed image understanding system for computer vision;0C37CBAD;43DB3338;1990
+19;7;ke chen;lan wang,huisheng chi;capture inter speaker information with a neural network for speaker identification;5505;4539ED1E;2000
+20;7;ke chen;shihai wang;ensemble learning with active data selection for semi supervised pattern classification;01B1760F;4539ED1E;2007
+21;7;ke chen;yun yang;an ensemble of competitive learning networks with different representations for temporal data clustering;01B1760F;43F9E08E;2006
+22;9;ke chen;xuanjiao lv,yunong zhang,zhiguo tan,zhi yang;a simplified lvi based primal dual neural network for repetitive motion planning of pa10 robot manipulator starting from different initial states;09676E2E;4539ED1E;2008
+23;9;ke chen;zenghai chen,yunong zhang,binghuang cai;zhang neural network without using time derivative information for constant and time varying matrix inversion;09676E2E;4539ED1E;2008
+24;9;ke chen;yunong zhang,chenfu yi,shuai yue;matlab simulation and comparison of zhang neural network and gradient neural network for time varying lyapunov equation solving;09676E2E;4539ED1E;2008
+25;7;ke chen;long lu,h j zhang,t y wu;universal background models for real time speaker change detection;1436;42F91B89;2003
+26;7;ke chen;deliang l wang;perceiving without learning from spirals to inside outside relations;12143;43319DD4;1999
+27;7;ke chen;shihai wang;regularized boost for semi supervised learning;078A8AE9;43319DD4;2007
+28;4;ke chen;;on k median clustering in high dimensions;0966B229;435D23B8;2006
+29;4;ke chen;;a constant factor approximation algorithm for k median clustering with outliers;0966B229;435D23B8;2008
+30;6;ke chen;gang chen,jinxiang dong;an immunity based intrusion detection solution for database systems;0489A984;45F282AE;2005
+31;6;ke chen;gang chen,jinxiang dong,t hu;watermarking abstract tree structured data;0489A984;45F282AE;2005
+32;6;ke chen;gang chen,jinxiang dong,t hu;garwm towards a generalized and adaptive watermark scheme for relational data;0489A984;45F282AE;2005
+33;4;ke chen;shuang liang,song jiang,xiaodong zhang;cost aware caching algorithms for distributed storage servers;0966B229;4372E602;2007
+34;1;ke chen;jia wang,wei guo;an empirical study on improving the manufacturing informatization index system of china;4845;43F5AF1B;2008
+35;1;ke chen;jia wang;the data mining technology based on cims and its application on automotive remanufacturing;10541;43F5AF1B;2008
+36;9;ke chen;yunong zhang,binghuang cai,zhan li;common nature of learning exemplified by bp and hopfield neural networks for solving online a system of linear equations;15507;45686500;2008
+37;9;ke chen;weimu ma,yunong zhang,binghuang cai,xiaojiao guo;matlab simulink modeling and simulation of zhang neural network for online time varying matrix inversion;12119;45686500;2008
+38;3;ke chen;lukasz a kurgan;pfres protein fold classification by using evolutionary information and predicted secondary structure;16849;1233094;2007
+39;3;ke chen;shiyi shen,jishou ruan,tuo zhang,hua zhang,lukasz kurgan;accurate sequence based prediction of catalytic residues;13611;031F7D94;2008
+40;8;ke chen;martyn d hughes;efficient parallelization of the iterative solution of a coupled fluid structure interaction problem;08BDCA25;00A8D870;2007
+41;8;ke chen;judith m ford,d j evans;on a recursive schur preconditioner for iterative solution of a class of dense matrix problems;08BDCA25;07715374;2010
+42;8;ke chen;s c hawkins;new wavelet preconditioner for solving boundary integral equations over nonsmooth boundaries;9939;07715374;2010
+43;8;ke chen;martyn d hughes;an efficient preconditioned iterative solver for solving a coupled fluid structure interaction problem;5969;07715374;2010
+44;10;ke chen;joseph savage;an improved and accelerated non linear multigrid method for total variation denoising;08BDCA25;07715374;2005
+45;8;ke chen;raymond chan;preconditioning and convergence in the right norm;8832;07715374;2007
+46;8;ke chen;;fast iterative and preconditioning methods for linear and non linear systems;08BDCA25;07715374;2007
+47;8;ke chen;;fast iterative and preconditioning methods for linear and non linear systems;14280;07715374;2007
+48;7;ke chen;huisheng chi;a modular neural network architecture for pattern classification based on different feature sets;0134B592;0BC82328;2011
+49;7;ke chen;huisheng chi;a method of combining multiple probabilistic classifiers through soft competition on different feature sets;0134B592;02B93B6A;1998
+50;7;ke chen;huisheng chi,liping yang,xiang yu;a self generating modular neural network architecture for supervised learning;0134B592;02B93B6A;1997
+51;9;ke chen;xiaodong li,yunong zhang,hongzhou tan,weimu ma;matlab simulink modeling and simulation of lvi based primal dual neural network for solving linear and quadratic programs;09676E2E;02B93B6A;2009
+52;7;ke chen;lan wang,huisheng chi;methods of combining multiple classifiers with different features and their applications to text independent speaker identification;0134B592;02790879;1997
+53;3;ke chen;jishou ruan,lukasz kurgan;prediction of protein structural class using novel evolutionary collocation based sequence representation;093456D7;01423ABF;2008
+54;3;ke chen;l du,lukasz kurgan,yingfu jiang;prediction of integral membrane protein type by collocated hydrophobic amino acid pairs;093456D7;01423ABF;2009
+55;8;ke chen;xuecheng tai;a nonlinear multigrid method for total variation minimization from image restoration;08BDCA25;09087841;2007
+56;7;ke chen;huisheng chi,xiang yu;combining linear discriminant functions with neural networks for supervised learning;0134B592;08D0BBB4;1997
+57;7;ke chen;deliang wang;a dynamically coupled neural oscillator network for image segmentation;04BEE6D7;07552028;2002
+58;7;ke chen;huishen chi,lei xu;improved learning algorithms for mixture of experts in multiclass classification;0A97E0C1;07552028;1999
+59;7;ke chen;dahong xie,huisheng chi;text dependent speaker identification based on input output hmms an empirical study;0134B592;0866EBEE;1996
+60;8;ke chen;neville j ford,judith m ford;flexible parallelization of fast wavelet transforms;14992;055936E6;2011
+61;7;ke chen;;adaptive smoothing via contextual and local discontinuities;01B1760F;0BEAEA4E;2005
+62;8;ke chen;c h lai;parallel algorithms of the purcell method for direct solution of linear systems;08BDCA25;474677D8;2002
+63;7;ke chen;;towards better making a decision in speaker verification;3302;00065366;2003
+64;7;ke chen;;a connectionist method for pattern classification with diverse features;5628;090C990E;1998
+65;7;ke chen;tingyao wu,hongjiang zhang;on the use of nearest feature line for speaker identification;04BEE6D7;090C990E;2002
+66;4;ke chen;elchanan mossel,matous caron,meital levy,emo welzl,haim kaplan,micha sharir,shakhar smorodinsky,uli wagner,jir caron ek,amos fiat,ja nos pach;online conflict free coloring for intervals;3542;092725CB;2006
+67;4;ke chen;sariel harpeled;the euclidean orienteering problem revisited;0966B229;092725CB;2008
+68;4;ke chen;micha sharir,haim kaplan;online conflict free coloring for halfplanes congruent disks and axis parallel rectangles;0966B229;082FC597;2009
+69;8;ke chen;noor badshah;on two multigrid algorithms for modeling variational multiphase image segmentation;08BDCA25;06DF68B7;2009
+70;6;ke chen;gang chen,kai hwang;heuristic discovery of role based trust chains in peer to peer networks;0489A984;05CA192B;2009
+71;7;ke chen;;on the use of different speech representations for speaker modeling;3138;0489FD27;1989
+72;7;ke chen;;on the use of different speech representations for speaker modeling;01B1760F;45C7663C;2005
+73;8;ke chen;s c hawkins;an implicit wavelet sparse approximate inverse preconditioner;12643;09DD8582;2006
+74;8;ke chen;raymond h chan;fast multilevel algorithm for a minimization problem in impulse noise removal;16772;09DD8582;2008
+75;11;ke chen;anwar hussein,haibin wan;on adapting test function methods for fast detection of fold bifurcations in power systems;3318;04D4239C;2011
+76;7;ke chen;lipo wang;trends in neural computation;16803;1415948;2007
+77;7;ke chen;yun yang;combining competitive learning networks of various representations for sequential data clustering;01B1760F;1327417;2007
+78;3;ke chen;lukasz kurgan,shiyi shen,jishou ruan,hua zhang,tuo zhang;sequence based residue depth prediction using evolutionary information and predicted secondary structure;093456D7;012269E3;2008
+79;3;ke chen;krzysztof j cios,lukasz kurgan;scpred accurate prediction of protein structural class for sequences of twilight zone similarity with predicting sequences;093456D7;012269E3;2008
+80;7;ke chen;;erratum to adaptive smoothing via contextual and local discontinuities;01B1760F;0BEAEA4E;2008
+81;9;ke chen;xuanjiao lv,yunong zhang,zhiguo tan,zhi yang;repetitive motion of redundant robots planned by three kinds of recurrent neural networks and illustrated with a four link planar manipulator s straight line example;09676E2E;07F923B3;2009
+82;7;ke chen;lipo wang;trends in neural computation;4677;978326;2007
+83;9;ke chen;yanyan shi,yunong zhang,chaoli wang;global exponential convergence and stability of gradient based neural network for online matrix inversion;09676E2E;03009DEA;2009
+84;3;ke chen;peiyu pu,chunsheng kang,hanzhe chen,jishou ruan,lukasz kurgan;humitar a sequence based method for prediction of human microrna targets;093456D7;0C422BDB;2008
+85;7;ke chen;lipo wang;trends in neural computation;8297;361962;2007
+86;6;ke chen;gang chen,jinxiang dong,t hu;an adaptive load balancing framework for parallel database systems based on collaborative agents;0489A984;43520230;2005
+87;6;ke chen;gang chen,jinxiang dong,t hu;a logical replication based intrusion detection approach for cscw system;0489A984;43520230;2005
+88;6;ke chen;lidan shou,gang chen,jinhua jiang;efficient holistic twig join algorithm on xml documents with optimization rules and index;0489A984;46E0467E;2008
+89;6;ke chen;lidan shou,gang chen,jinhua jiang;otjfast processing ordered xml twig join fast;0489A984;459777C0;2008
+90;15;ke chen;peng yulan,lin jiangli;boundary based feature extraction and recognition of breast tumors using support vector machine;16180;883546;2009
+91;8;ke chen;;on coresets for k median and k means clustering in metric and euclidean spaces and their applications;0966B229;092725CB;2009
+92;7;ke chen;tingyao wu,hongjiang zhang,lie lu;ubm based incremental speaker adaptation;5841;432251B5;2003
+93;8;ke chen;raymond h chan;multilevel algorithm for a poisson noise removal model with total variation regularization;08BDCA25;07715374;2007
+94;8;ke chen;raymond h chan;multilevel algorithm for a poisson noise removal model with total variation regularization;7089;07715374;2007
+95;14;ke chen;ligang dong,weiming wang;application research of an lfb management and development model in forces router;0479515E;442BD7CD;2008
+96;8;ke chen;p j harris;an efficient method for evaluating the integral of a class of highly oscillatory functions;08BDCA25;09DCED85;2009
+97;8;ke chen;p j harris;on efficient preconditioners for iterative solution of a galerkin boundary element equation for the three dimensional exterior helmholtz problem;08BDCA25;09DCED85;2003
+98;5;ke chen;fanghua mei,w j meng,bin lu;bonding of cu based high aspect ratio microscale structures with sn intermediate layers;0742D5C5;0338A1A0;2009
+99;8;ke chen;;an analysis of sparse approximate inverse preconditioners for boundary integral equations;10622;0102C391;2000
+100;8;ke chen;tony f chan;on two variants of an algebraic wavelet preconditioner;1044;09DD8582;2002
+101;8;ke chen;;on a class of preconditioning methods for dense linear systems from boundary elements;11889;09DD8582;2006
+102;7;ke chen;deliang l wang;perceiving without learning from spirals to inside outside relations;14247;43319DD4;1999
+103;9;ke chen;yunong zhang,shuai yue;matlab simulation and comparison of zhang neural network and gradient neural network for online solution of linear time varying matrix equation axb c 0;09676E2E;439B9AD2;2008
+104;8;ke chen;martyn d hughes;efficient parallelization of the iterative solution of a coupled fluid structure interaction problem research articles;08BDCA25;00A8D870;2007
+105;4;ke chen;elchanan mossel,matous caron,meital levy,emo welzl,haim kaplan,micha sharir,shakhar smorodinsky,uli wagner,jir caron ek,amos fiat,ja nos pach;online conflict free coloring for intervals;9208;092725CB;2006
+106;9;ke chen;xuezhong li,hong zhu,chengfu yi,yunong zhang;simulink modeling and comparison of zhang neural networks and gradient neural networks for time varying lyapunov equation solving;09676E2E;42F0CC9A;2008

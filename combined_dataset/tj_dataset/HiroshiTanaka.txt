@@ -1,0 +1,41 @@
+0;1;hiroshi tanaka;shusaku tsumoto;induction of expert system rules from clinical databases based on rough set theory and resampling methods;8215;43383ED6;1995
+1;1;hiroshi tanaka;hiromi amano,takayuki kuroda,kimie ohyama,shusaku tsumoto;cobra integration of knowledge bases with case databases in the domain of congenital malformation;077C8BDD;43383ED6;1995
+2;1;hiroshi tanaka;shusaku tsumoto;algebraic specification of empirical inductive learning methods based on rough sets and matroid theory;077C8BDD;47C1A70D;1994
+3;1;hiroshi tanaka;shusaku tsumoto;induction of probabilistic rules based on rough set theory;077C8BDD;471D649B;1993
+4;1;hiroshi tanaka;toshitsugu okayama,fengrong ren,takashi gojobori;molecular phylogenetic trees are inferred by using minimum model based complexity;15878;943852;1997
+5;1;hiroshi tanaka;yasuhiro suzuki;symbolic chemical system based on abstract rewriting system and its halting property;18618;939434;1997
+6;1;hiroshi tanaka;yasuhiro suzuki,junji takabayashi;investigation of an ecological system by using an abstract rewriting system on multisets;12818;163376;2000
+7;1;hiroshi tanaka;yasuhiro suzuki;a new moleculer computing model artifical cell systems;14511;43F3068F;2000
+8;5;hiroshi tanaka;naoki kato,masaki nakagawa;prototyping of digital ink e mail system based on a common ink format;18065;43331058;1997
+9;1;hiroshi tanaka;fengrong ren,takashi gojobori,norio fukuda;molecular evolutionary phylogenetic trees based on minimum description length principle;7132;4569270C;1995
+10;5;hiroshi tanaka;kazushi ishigaki,kenji nakajima,masaki nakagawa,k akiyama;hybrid pen input character recognition system based on integration of online offline recognition;863C435D;448D1E7E;1999
+11;1;hiroshi tanaka;toshitsugu okayama,fengrong ren,takashi gojobori;inference of molecular phylogenetic tree based on minimum model based complexity method;077C8BDD;43FD6777;1997
+12;1;hiroshi tanaka;shusaku tsumoto;induction of expert system rules from databases based on rough set theory and resampling methods;077C8BDD;449397C9;1995
+13;1;hiroshi tanaka;shusaku tsumoto;induction of expert system rules from databases based on rough set theory and resampling methods;077C8BDD;449397C9;1996
+14;1;hiroshi tanaka;shusaku tsumoto;selection of probabilistic measure estimation method based on recursive iteration of resampling methods;077C8BDD;436976F3;1994
+15;1;hiroshi tanaka;shusaku tsumoto;automated selection of rule induction methods based on recursive iteration of resampling methods and multiple statistical testing;077C8BDD;436976F3;1995
+16;1;hiroshi tanaka;shusaku tsumoto;automated discovery of functional components of proteins from amino acid sequences based on rough sets and change of representation;077C8BDD;436976F3;1995
+17;1;hiroshi tanaka;shusaku tsumoto;automated discovery of medical expert system rules from clinical databases based on rough sets;1454;436976F3;1996
+18;1;hiroshi tanaka;fengrong ren,soichi ogishima;a new algorithm for analysis of within host hiv 1 evolution;077C8BDD;468CDFB4;2001
+19;1;hiroshi tanaka;toshitsugu okayama,fengrong ren,takashi gojobori;topology selection in unrooted molecular phylogenetic tree by minimum model based complexity method;16334;468CDFB4;1999
+20;1;hiroshi tanaka;shusaku tsumoto;primerose probabilistic rule induction method based on rough set theory;077C8BDD;116945;1993
+21;1;hiroshi tanaka;shusaku tsumoto;aq rough sets and matroid theory;077C8BDD;01AE9938;1994
+22;1;hiroshi tanaka;yoshi fujiwara,yasuhiro suzuki,junji takabayashi;artificial life applications of a class of p systems abstract rewriting systems on multisets;077C8BDD;239319;2000
+23;1;hiroshi tanaka;shusaku tsumoto;algebraic formulation of empirical learning methods based on rough sets and matroid theory;608;1946633;1995
+24;1;hiroshi tanaka;yasuhiro suzuki;modeling p53 signaling pathways by using multiset processing;077C8BDD;45258;2006
+25;1;hiroshi tanaka;yoshiro okubo,takeo shibata,kunihiko asai,michihiko koeda;care policy for patients with dementia family s decision and its impact;17957;46438945;2008
+26;4;hiroshi tanaka;yasushi mae,keiji ikeda,mamoru minami,tongxiao zhang;on line optimization of avoidance ability for redundant manipulator;06AC7928;44250E28;2006
+27;6;hiroshi tanaka;yasunobu tsubakihara,hiroki horiuchi,sadao obana,shigeo kozai;architecture of tmn based integrated management system for sdh pdh mixed large scale transport network;10850;44F1E491;1998
+28;1;hiroshi tanaka;hiroshi mizushima,hiroshi nagata;concept and prototype of protein ligand docking simulator with force feedback technology;077C8BDD;031F7D94;2002
+29;1;hiroshi tanaka;shusaku tsumoto;primerose probabilistic rule induction method based on rough sets and resampling methods;077C8BDD;42CC6E2D;1995
+30;1;hiroshi tanaka;shusaku tsumoto;a common algebraic framework of empirical learning methods based on rough sets and matroid theory;077C8BDD;02534959;1996
+31;1;hiroshi tanaka;hiromi amano,takayuki kuroda,kimie ohyama,shusaku tsumoto;cobra integration of heterogeneous knowledge bases in medical domain;4840;0105A839;2012
+32;4;hiroshi tanaka;yasushi mae,mamoru minami;avoidance ability of redundant mobile manipulators during hand trajectory tracking;19541;0044D8EF;2007
+33;5;hiroshi tanaka;naoki kato,masaki nakagawa;an e mail environment with handwriting using the handsdraw digital ink format;863C435D;03782FAF;2002
+34;1;hiroshi tanaka;gheorghe paun,yasuhiro suzuki,takashi yokomori;on the power of membrane division in p systems;077C8BDD;05686292;2004
+35;0;hiroshi tanaka;yoshiya kumagai,hisashi sugimoto,takeshi shimazu,takuya kudou,s hida,toshio ueda;telemedical support using real time ultrasonography and endoscopy images;077C8BDD;08485B5E;2001
+36;1;hiroshi tanaka;masaki suimye morioka,ryosuke ishiwata,soichi ogishima;biocichlid central dogma based 3d visualization system of time course microarray data on a hierarchical biological network;9770;031F7D94;2009
+37;3;hiroshi tanaka;;threshold correction of document image binarization for ruled line extraction;863C435D;448D1E7E;2009
+38;1;hiroshi tanaka;hiroshi mizushima,wataru ohashi;economic advantage of pharmacogenomics clinical trials with genetic information;077C8BDD;461A4BFF;2008
+39;2;hiroshi tanaka;ryo kimura,shigenori ioroi;equipment operation by motion recognition with wearable wireless acceleration sensor;17444;45CD6C58;2009
+40;1;hiroshi tanaka;yasuhiro suzuki;order parameter for a symbolic chemical system;4972;002148B6;1998

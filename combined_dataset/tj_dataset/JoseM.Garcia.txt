@@ -1,0 +1,85 @@
+0;0;jose m garcia;j gonzalez,jose duato,manuel e acacio;the use of prediction for accelerating upgrade misses in cc numa multiprocessors;10155;439F03CF;2002
+1;0;jose m garcia;oscar canovas,pedro e lopezdeteruel,manuel e acacio;an evaluation of parallel computing in pc clusters with fast ethernet;04C776C1;474677D8;1999
+2;0;jose m garcia;lorenzo fernandez;congestion control for high performance virtual cut through networks;12173;46A3F844;2003
+3;0;jose m garcia;alberto ros,manuel e acacio;scalable directory organization for tiled cmp architectures;04C776C1;46BFF4BF;2008
+4;0;jose m garcia;alberto ros,manuel e acacio;an efficient cache design for scalable glueless shared memory multiprocessors;04C776C1;44BF398F;2006
+5;0;jose m garcia;juan m cebrian,juan l aragon,stefanos kaxiras;adaptive vp decay making value predictors leakage efficient designs for high performance processors;04C776C1;43A585B4;2007
+6;0;jose m garcia;jose duato,manuel e acacio,ricardo fernandezpascual;a fault tolerant directory based cache coherence protocol for cmp architectures;13982;46C2A057;2008
+7;0;jose m garcia;antonio f gomez skarmeta,diego sevilla;design and implementation of a grid enabled component container for corba lightweight components;11118;46405877;2003
+8;0;jose m garcia;g garcia,jose duato marin,j m gonzalez;memory conscious 3d wavelet transform;13669;1608675;2002
+9;0;jose m garcia;jose duato,gregorio bernabe,jose m gonzalez;memory conscious 3d wavelet transform;7854;46F80578;2002
+10;0;jose m garcia;adriana b flores;a novel approach to improve the performance of interconnection networks with hot spots;2372;1842258;1996
+11;0;jose m garcia;lorenzo fernandez,rafael casado;on deadlock frequency during dynamic reconfiguration in nows;04C776C1;4556024C;2001
+12;0;jose m garcia;alberto ros,manuel e acacio;a novel lightweight directory architecture for scalable shared memory multiprocessors;04C776C1;4556024C;2005
+13;0;jose m garcia;antonio f gomez skarmeta,diego sevilla;corba lightweight components a model for distributed component basedheterogeneous computation;4871;4556024C;2001
+14;0;jose m garcia;antonio gonzalez,jose gonzalez,juan l aragon;confidence estimation for branch prediction reversal;04C776C1;44BF398F;2001
+15;0;jose m garcia;jose duato,j fernandez;performance evaluation of real time communication services on high speed lans under topology changes;04C776C1;44BF398F;2001
+16;0;jose m garcia;ruben titos,manuel e acacio;directory based conflict detection in hardware transactional memory;04C776C1;44BF398F;2008
+17;0;jose m garcia;alberto ros,manuel e acacio;direct coherence bringing together performance and scalability in shared memory multiprocessors;04C776C1;44BF398F;2007
+18;0;jose m garcia;jose duato,ricardo fernandezpascual,manuel e acacio;fault tolerant cache coherence protocols for cmps evaluation and trade offs;04C776C1;44BF398F;2008
+19;1;jose m garcia;fernando guerrero,sebastian lozano,kate a smith;a comparison of grasp and an exact method for solving a production and delivery scheduling problem;17135;1351671;2001
+20;0;jose m garcia;j v gonzalez,jose duato,manuel e acacio;a new scalable directory architecture for large scale multiprocessors;4922;43226B44;2001
+21;0;jose m garcia;jose duato,manuel e acacio,ricardo fernandezpascual;a low overhead fault tolerant coherence protocol for cmp architectures;7850;43226B44;2007
+22;0;jose m garcia;francisco j villa,manuel e acacio;memory subsystem characterization in a 16 core snoop based chip multiprocessor architecture;04C776C1;447B8E60;2005
+23;1;jose m garcia;ignacio eguia,fernando guerrero,sebastian lozano;a genetic algorithm for solving a production and delivery scheduling problem with time windows;11356;0655F58A;2002
+24;1;jose m garcia;jesus munuzuri,pablo cortes,jose guadix,luis onieva;viral system to solve optimization problems an immune inspired computational intelligence approach;3012;44B35AAB;2008
+25;0;jose m garcia;francisco j villa,manuel e acacio;on the evaluation of x86 web servers using simics limitations and trade offs;04C776C1;43D2A5F0;2004
+26;0;jose m garcia;j gonzalez,antonio gonzalez,juan l aragon;selective branch prediction reversal by correlating with data values and control flow;16169;46BFF4BF;2001
+27;0;jose m garcia;antonio gomez,diego sevilla;design and implementation requirements for corba lightweight components;14472;44E5A1B2;2001
+28;0;jose m garcia;a ruiz,pedro e lopezdeteruel;a parallel algorithm for tracking of segments in noisy edge images;9434;4372EE76;2000
+29;0;jose m garcia;juan piernas,toni cortes;dualfs a new journaling file system without meta data duplication;04C776C1;43C08A77;2002
+30;0;jose m garcia;alberto ruiz,gines garciamateos,pedro e lopezdeteruel,jose m garca;real time extraction of colored segments for robot visual navigation;04C776C1;453CB501;2003
+31;0;jose m garcia;j a gonzalez,jose duato,manuel e acacio;a novel approach to reduce l2 miss latency in shared memory multiprocessors;11551;4708B833;2002
+32;0;jose m garcia;j gonzalez,jose duato,manuel e acacio;a novel approach to reduce l2 miss latency in shared memory multiprocessors;5589;4708B833;2001
+33;0;jose m garcia;jose duato,j e fernandez;a new approach to provide real time services on high speed local area networks;13596;4708B833;2001
+34;0;jose m garcia;p e lopez de teruel,oscar canovas,manuel e acacio;p edr an algorithm for parallel implementation of parzen density estimation from uncertain observations;6695;474677D8;1999
+35;0;jose m garcia;francisco j alfaro,j l sanchez;reconfigurable wormhole networks a realistic approach;04C776C1;164724;1998
+36;0;jose m garcia;juan m cebrian,juan l aragon;leakage energy reduction in value predictors through static decay;4383;4708B833;2007
+37;0;jose m garcia;alberto ros,manuel e acacio;dico cmp efficient cache coherency in tiled cmp architectures;680;4708B833;2008
+38;1;jose m garcia;fernando guerrero,pablo cortes,david canca;an evolutionary algorithm for the design of hybrid fiber optic coaxial cable networks in small urban areas;04B9147D;45483BED;2001
+39;0;jose m garcia;antonio f gomez skarmeta,diego sevilla;corba lightweight compontents an early report;19733;4398864E;2001
+40;0;jose m garcia;jose antonio sanchez perez,diego sevilla,antonio f gomezskarmeta;grid aware component based development in corba lightweight components;14230;4398864E;2003
+41;0;jose m garcia;jose duato,j fernandez;improving the performance of real time communication services on high speed lans under topology changes;7689;438E31AA;2002
+42;0;jose m garcia;antonio f skarmeta gomez,diego sevilla;aspect oriented programing techniques to support distribution fault tolerance and load balancing in the corba lc component model;04C776C1;46E64AD9;2007
+43;0;jose m garcia;a flores;improving the performance of scientific parallel applications in a cluster of workstations;04C776C1;474677D8;1998
+44;0;jose m garcia;pascual gonzalez,j l sanchez;pepe a trace driven simulator to evaluate reconfigurable multicomputer architectures;04C776C1;404879;1996
+45;0;jose m garcia;joaquin del rio fernandez,j l sanchez;improving the performance of parallel triangularization of a sparse matrix using a reconfigurable multicomputer;04C776C1;474677D8;1995
+46;0;jose m garcia;antonio f skarmeta gomez,diego sevilla;using aop to automatically provide distribution fault tolerance and load balancing to the corba lc component model;10080;474677D8;2007
+47;0;jose m garcia;jose gonzalez,jose duato,manuel e acacio;reducing the latency of l2 misses in shared memory multiprocessors through on chip directory integration;17407;43B17EAF;2002
+48;0;jose m garcia;jaime ricardo valenzuela gonzalez,gregorio bernabe;reducing 3d wavelet transform execution time through the streaming simd extensions;8943;43B17EAF;2003
+49;0;jose m garcia;manuel e acacio,rafaela manuela ordonez fernandez,gregorio bernabe;optimizing a 3d fwt video encoder for smps and hyperthreading architectures;793;43B17EAF;2005
+50;0;jose m garcia;pedro e lopezdeteruel,manuel e acacio;a performance evaluation of p edr in different parallel environments;04C776C1;474BD8D0;1999
+51;0;jose m garcia;pedro e lopezdeteruel,manuel e acacio,oscar canovas reverte;the mpi delphi interface a visual programming environment for clusters of workstations;04C776C1;474BD8D0;1999
+52;0;jose m garcia;pedro e lopez de teruel,manuel e acacio;the parallel em algorithm and its applications in computer vision;16854;474BD8D0;1999
+53;0;jose m garcia;jesus d garciaconsuegra,jose a gallud;cluster computing using mpi and windows nt to solve the processing of remotely sensed imagery;04C776C1;474677D8;1999
+54;0;jose m garcia;jesus d garciaconsuegra,jose a gallud,luis orozcobarbosa;evaluating the diporsi framework distributed processing of remotely sensed imagery;04C776C1;474677D8;2001
+55;0;jose m garcia;pablo e garcia,fabrizio petrini,juan fernandez;assessing mpi performance on qsnetii;178;474677D8;2005
+56;0;jose m garcia;juan piernas,a flores;analyzing the performance of mpi in a cluster of workstations based on fast ethernet;04C776C1;474677D8;1997
+57;0;jose m garcia;francisco j villa,manuel e acacio;on the evaluation of dense chip multiprocessor architectures;18292;4523D0A5;2006
+58;0;jose m garcia;jose gonzalez,jose duato,manuel e acacio;owner prediction for accelerating cache to cache transfer misses in a cc numa architecture;18962;44BF398F;2002
+59;0;jose m garcia;antonio f skarmeta gomez,diego sevilla;automatic code generation for non funtional aspects in the corba lc component model;12361;210403;2006
+60;1;jose m garcia;j larraneta,pablo cortes,m s caraballo,luis onieva;genetic algorithm for planning cable telecommunication networks;3347;0860B8FA;2001
+61;1;jose m garcia;jesus munuzuri,pablo cortes,luis onieva;viral systems a new bio inspired optimisation approach;6393;0A53AE4E;2008
+62;0;jose m garcia;oscar canovas,manuel e acacio,pedro e lopezdeteruel;mpi delphi an mpi implementation for visual programming environments and heterogeneous computing;2522;0B1B95C6;2002
+63;0;jose m garcia;alberto ros,ricardo fernandezpascual,manuel e acacio;two proposals for the inclusion of directory information in the last level private caches of glueless shared memory multiprocessors;04C776C1;095DDDE1;2008
+64;0;jose m garcia;francisco j villa,manuel e acacio;evaluating ia 32 web servers through simics a practical experience;04C776C1;079BF13C;2005
+65;0;jose m garcia;manuel e acacio,j m gonzalez,ricardo fernandez,gregorio bernabe;an efficient implementation of a 3d wavelet transform based encoder on hyper threading technology;04C776C1;474677D8;2007
+66;0;jose m garcia;jose a gallud;the specification of a generic multicomputer using lotos;04B854A6;08D7401B;1995
+67;0;jose m garcia;juan piernas,toni cortes;the design of new journaling file systems the dualfs case;796;0965DDD6;2007
+68;0;jose m garcia;j a gonzalez,jose duato,manuel e acacio;an architecture for high performance scalable shared memory multiprocessors exploiting on chip integration;16346;05CA192B;2004
+69;0;jose m garcia;jose ignacio gonzalez gonzalez,jose duato,manuel e acacio;a two level directory architecture for highly scalable cc numa multiprocessors;4371;05CA192B;2005
+70;0;jose m garcia;jose duato,manuel e acacio,ricardo fernandezpascual;extending the tokencmp cache coherence protocol for low overhead fault tolerance in cmp architectures;14173;05CA192B;2008
+71;0;jose m garcia;jose gonzalez,gregorio bernabe;reducing 3d fast wavelet transform execution time using blocking and the streaming simd extensions;04C776C1;46F80578;2005
+72;0;jose m garcia;jose duato;an algorithm for dynamic reconfiguration of a multicomputer network;4350;4708B833;1991
+73;0;jose m garcia;gregorio bernabe,jose m gonzalez;a lossy 3d wavelet transform for high quality compression of medical video;04C776C1;0241FF68;2009
+74;0;jose m garcia;alberto ros,manuel e acacio;dealing with traffic area trade off in direct coherence protocols for many core cmps;04C776C1;476951FF;2009
+75;0;jose m garcia;d sanchez,juan l aragon;repas reliable execution for parallel applications in tiled cmps;04C776C1;4556024C;2009
+76;0;jose m garcia;pavlos petoumenos,juan l aragon,stefanos kaxiras,juan m cebrian;efficient microarchitecture policies for accurately adapting to power constraints;04C776C1;4708B833;2009
+77;0;jose m garcia;daniel sanchez,juan l aragon;extending srt for parallel applications in tiled cmp architectures;04C776C1;4708B833;2009
+78;0;jose m garcia;j l sanchez;dynamic reconfiguration of node location in wormhole networks;04C776C1;079BF13C;2000
+79;0;jose m garcia;jose duato,manuel e acacio,ricardo fernandezpascual;a low overhead fault tolerant coherence protocol for cmp architectures;8678;43226B44;2007
+80;0;jose m garcia;j a gonzalez,jose duato,manuel e acacio;an architecture for high performance scalable shared memory multiprocessors exploiting on chip integration;19985;05CA192B;2004
+81;0;jose m garcia;miguel angel martinez del amor,gines d guerrero,ignacio perez hurtado de mendoza,jose m cecilia,mario de jesus perezjimenez;implementing p systems parallelism by means of gpus;04C776C1;0655F58A;2010
+82;0;jose m garcia;alberto ros,manuel e acacio;a scalable organization for distributed directories;04C776C1;079BF13C;2010
+83;0;jose m garcia;alberto ros,ricardo fernandezpascual,manuel e acacio;two proposals for the inclusion of directory information in the last level private caches of glueless shared memory multiprocessors;04C776C1;095DDDE1;2008
+84;0;jose m garcia;alberto ruiz,gines garciamateos,pedro e lopezdeteruel,jose m garca;real time extraction of colored segments for robot visual navigation;04C776C1;453CB501;2003

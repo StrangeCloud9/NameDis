@@ -1,0 +1,72 @@
+0;0;ji zhang;soohong park,david pearce,jouni korhonen;tcp quick adjust by utilizing explicit link characteristic information;031AFA6D;46C53898;2008
+1;1;ji zhang;heather j goldsby,betty h c cheng;modular verification of dynamically adaptive systems;0532D181;472B124E;2009
+2;2;ji zhang;wei wang,hai wang;grid odf detecting outliers effectively and efficiently in large multi dimensional databases;07BE273D;45E5BC3F;2005
+3;4;ji zhang;huadong ma,zhen yang;a dynamic scalable video conference system based on sip;08548E70;43520230;2005
+4;2;ji zhang;robert m bruckner,a min tjoa,tok wang ling;building xml data warehouse based on frequent patterns in user queries;09E3EE34;433BF259;2003
+5;6;ji zhang;wynne hsu,mongli lee;an information driven framework for image mining;09E3EE34;47169EC5;2001
+6;2;ji zhang;robert m bruckner,tok wang ling,han liu;pc filter a robust filtering technique for duplicate record detection in large databases;0B0ADEB6;47169EC5;2004
+7;2;ji zhang;robert m bruckner,tok wang ling,a min tjoa,han liu;on efficient and effective association rule mining from xml data;0B0ADEB6;47169EC5;2004
+8;2;ji zhang;wei wang,sheng zhang;a color indexing scheme using two level clustering processing for effective and efficient image retrieval;8915;47784D0E;2005
+9;8;ji zhang;bingshu wang,wenliang cao,liangyu ma;fault diagnosis approach based on qualitative model of signed directed graph and reasoning rules;0925D0AE;4665AEAE;2005
+10;9;ji zhang;yanhong zhou,feng lu;a computational framework and browser for supporting automatic genome annotation;02D828C1;4554E150;2006
+11;2;ji zhang;rafal kustra,han liu;a novel dimensionality reduction technique based on independent component analysis for modeling microarray gene expression data;9025;465F7C62;2004
+12;2;ji zhang;xiaolin yang,rafal kustra,xiaobin yuan,han liu,di wu;statistical issues with labeled sample size analysis for semi supervised linear discriminant analysis;8302;465F7C62;2004
+13;2;ji zhang;yongji wang,xiaolin yang,han liu;generalized semi infinite optimization and its application in robotics path planning problem;10722;465F7C62;2004
+14;10;ji zhang;yuexian hou,wenjie li,you ouyang;a novel composite kernel approach to chinese entity relation extraction;00D956B2;42C200E4;2009
+15;10;ji zhang;maofu liu,wenjie li,xiaolong zhang;event based summarization using critical temporal event term chain;00D956B2;42C200E4;2009
+16;11;ji zhang;mireille boutin,daniel g aliaga;simplifying the reconstruction of 3d models using parameter elimination;2189;45701BF3;2007
+17;2;ji zhang;hai wang,qigang gao;spot a system for detecting projected outliers from high dimensional data streams;07BE273D;45610CDA;2008
+18;2;ji zhang;hai wang,qigang gao;a novel method for detecting outlying subspaces in high dimensional databases using genetic algorithm;07BE273D;468A7487;2006
+19;11;ji zhang;mireille boutin,daniel g aliaga;robust bundle adjustment for structure from motion;0D109F83;455477A7;2006
+20;1;ji zhang;betty h c cheng;model based development of dynamically adaptive software;0532D181;45FFFB88;2006
+21;1;ji zhang;zhenxiao yang,philip k mckinley,betty h c cheng;enabling safe dynamic component based software adaptation;0532D181;448B966A;2005
+22;1;ji zhang;zhenxiao yang,philip k mckinley,betty h c cheng;enabling safe dynamic component based software adaptation;0532D181;448B966A;2005
+23;2;ji zhang;hai wang,qigang gao;discover gene specific local co regulations using progressive genetic algorithm;07BE273D;44C0EC29;2006
+24;2;ji zhang;han liu;an effective and efficient data cleaning technique in large databases;16683;436150FA;2004
+25;0;ji zhang;sandeep sibal;on a class of banyan networks and tandem banyan switching fabrics;09E1E653;442BD7CD;1993
+26;0;ji zhang;sandeep sibal;on a class of banyan networks and tandem banyan switching fabrics;09E1E653;442BD7CD;1995
+27;0;ji zhang;khosrow sohraby;spectral decomposition approach for transient analysis of multi server discrete time queues;18251;442BD7CD;1992
+28;0;ji zhang;khosrow sohraby;spectral decomposition approach for transient analysis of multi server discrete time queues;16002;442BD7CD;1994
+29;0;ji zhang;;performance study of markov modulated fluid flow models with priority traffic;09E1E653;442BD7CD;1993
+30;0;ji zhang;edward j coyle;the transient performance analysis of voice data integrated networks;0708044B;442BD7CD;1990
+31;2;ji zhang;hai wang,qigang gao;anomaly detection in high dimensional network data streams a case study;07BE273D;42E17B30;2008
+32;14;ji zhang;simon tam,robert kim,utpal desai,stefan rusu;itanium processor clock design;500F4F9C;456CDDD6;2000
+33;6;ji zhang;wynne hsu,mong li lee;image mining issues frameworks and techniques;09E3EE34;436976F3;2001
+34;1;ji zhang;philip k mckinley,jaejin lee;optimizing the java piped i o stream library for performance;0532D181;4769FF98;2002
+35;3;ji zhang;jari porras,arto hamalainen;addressing mobility issues in mobile environment;03C9AC1F;46405877;2008
+36;1;ji zhang;heather j goldsby,betty h cheng;amoeba rt run time verification of adaptive software;0532D181;47059E35;2008
+37;1;ji zhang;heather j goldsby,betty h c cheng;amoeba rt run time verification of adaptive software;0532D181;47059E35;2007
+38;2;ji zhang;hai h wang,tok wang ling,meng lou;hos miner a system for detecting outlying subspaces of high dimensional data;15833;4390334E;2004
+39;0;ji zhang;d a j pearce;proactive care of address test for route optimization in fmipv6;031AFA6D;42F4F2CC;2005
+40;2;ji zhang;wei wang,han liu,sheng zhang;x warehouse building query pattern driven data;0B0ADEB6;43ABF249;2005
+41;2;ji zhang;wei wang,han liu,sheng zhang;xar miner efficient association rules mining for xml data;0B0ADEB6;43ABF249;2005
+42;5;ji zhang;mingguo zhao,zongying shi,naiyao zhang,hao dong;gait planning of quadruped robot based on third order spline interpolation;05E79D01;44250E28;2006
+43;7;ji zhang;xiumin shi,yanbing ju;research and practice in undergraduate embedded system course;07802943;46013AA1;2008
+44;2;ji zhang;robert m bruckner,tokwang ling,a min tjoa,han liu;a framework for efficient association rule mining in xml data;0B0ADEB6;045A441A;2006
+45;6;ji zhang;wynne hsu,mong li lee;image mining trends and developments;09E3EE34;4401AFCF;2002
+46;6;ji zhang;wynne hsu,mong lee;clustering in dynamic spatial databases;09E3EE34;4401AFCF;2005
+47;1;ji zhang;betty h c cheng;using temporal logic to specify adaptive program semantics;0532D181;0241FF68;2006
+48;2;ji zhang;hai wang;detecting outlying subspaces for high dimensional data the new task algorithms and performance;07BE273D;04DFB7BE;2006
+49;0;ji zhang;khosrow sohraby;spectral decomposition approach for transient analysis of multi server discrete time queues;2241;442BD7CD;1992
+50;0;ji zhang;khosrow sohraby;spectral decomposition approach for transient analysis of multi server discrete time queues;19365;442BD7CD;1994
+51;2;ji zhang;hai wang,qigang gao;discover gene specific local co regulations from time course gene expression data;07BE273D;09F0C7DE;2008
+52;0;ji zhang;edward j coyle;the transient solution of time dependent m m 1 queues;09E1E653;0044B422;1991
+53;1;ji zhang;betty h c cheng,philip k mckinley,zhinan zhou;specifying real time properties in autonomic systems;0532D181;0903BCEB;2007
+54;1;ji zhang;betty h c cheng;specifying adaptation semantics;0532D181;448B966A;2005
+55;2;ji zhang;han liu;d gridmst clustering large distributed spatial databases;0B0ADEB6;462C0072;2005
+56;2;ji zhang;kai xu,qing liu;gene specific co regulation discovery an improved approach;4D0FB79F;43D2A5F0;2009
+57;5;ji zhang;mingguo zhao,hao dong,xuemin su,liguo li,yu liu;humanoid robot gait generation based on limit cycle stability;05E79D01;45C742AD;2009
+58;5;ji zhang;mingguo zhao,xuemin su,liguo li,hao dong,yu liu;humanoid robot gait generation based on limit cycle stability;05E79D01;45C742AD;2008
+59;2;ji zhang;kai xu,hai wang,qing liu,qigang gao;detecting projected outliers in high dimensional data streams;4D0FB79F;47169EC5;2009
+60;12;ji zhang;yuling luo,junxiu liu,liming wu;the intelligent reconfigurable measuring node based on wireless access network;13986;45E5BC3F;2009
+61;4;ji zhang;huadong ma,zhen yang;a dynamic scalable service model for sip based video conference;0134B592;43520230;2005
+62;5;ji zhang;mingguo zhao,hao dong;effect of energy feedbacks on virtual slope walking i complementary energy feedback;05E79D01;455FBCE1;2009
+63;13;ji zhang;dezhen song;on the error analysis of vertical line pair based monocular visual odometry in urban area;056D3FC6;44250E28;2009
+64;12;ji zhang;xuemin zhang,qi wang,xin guan;effect of gaze direction and face expression on visual reflexive attention;01815C1D;1297812;2009
+65;2;ji zhang;;towards outlier detection for high dimensional data streams using projected outlier analysis strategy;07BE273D;1281706;2008
+66;2;ji zhang;hai wang,tok wang ling,meng lou;hos miner a system for detecting outlyting subspaces of high dimensional data;0B0ADEB6;4390334E;2004
+67;15;ji zhang;feng liu,hui shao,gang wang;an effective error concealment framework for h 264 decoder based on video scene change detection;348EB203;458DD1E0;2007
+68;1;ji zhang;heather j goldsby,betty h cheng;amoeba rt run time verification of adaptive software;0532D181;47059E35;2008
+69;1;ji zhang;heather j goldsby,betty h c cheng;amoeba rt run time verification of adaptive software;0532D181;47059E35;2007
+70;1;ji zhang;betty h c cheng;towards re engineering legacy systems for assured dynamic adaptation;0532D181;45FFFB88;2007
+71;1;ji zhang;betty h c cheng;towards re engineering legacy systems for assured dynamic adaptation;0532D181;45FFFB88;2007

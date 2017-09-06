@@ -1,0 +1,29 @@
+0;0;michael smith;l e larsen,j w lloyd,david nedved,melanie page,mary jean harrold,gregg rothermel,manvinder singh;aristotle a system for development of program analysis based tools;007B4591;44344A0A;1995
+1;1;michael smith;;running the table an ai for computer billiards;093456D7;46A05BB0;2006
+2;3;michael smith;;muscular effects of vdt work;5900;44C16141;1984
+3;3;michael smith;;mental and emotional issues in vdt work;17421;44C16141;1984
+4;4;michael smith;chingyue wang,wayne luk,d u lee,clayton jones;a flexible hardware encoder for low density parity check codes;02D4EDF8;45DA1F87;2004
+5;5;michael smith;debasis mitra;digital signal processing in predicting secondary structures of proteins;06601420;43DB3338;2004
+6;6;michael smith;lily huang,albert tran,james miller;e race a hardware assisted approach to lockset based data race detection for embedded products;0A0D2BAD;4503201D;2008
+7;6;michael smith;albert tran,james f miller;a hardware assisted tool for fast full code coverage analysis;0A0D2BAD;4503201D;2008
+8;7;michael smith;alice m agogino;broadening participation in computing with the k gray engineering pathway digital library;05B090CE;45B176DF;2008
+9;8;michael smith;simon king,nathan good,john canny,marc davis,rajkumar janakiraman;towards context aware face recognition;0127901A;43AA5802;2005
+10;10;michael smith;david guaspari,ben di vito,c michael holloway;formal methods fact vs fiction;4E9F4E92;45FFFB88;1994
+11;9;michael smith;matthew fairbairn,peter sewell,michael norrish,steve bishop,keith wansbrough;rigorous specification and conformance testing techniques for network protocols as applied to tcp udp and sockets;0003B055;44B13001;2005
+12;6;michael smith;raymond wong,w j curry,giancarlo succi,eric liu;empirical analysis of the correlation between amount of reuse metrics in the c programming language;0A0D2BAD;45FFFB88;1999
+13;11;michael smith;raghvinder s sangwan,matthew bass;architecture design for globally distributed projects;7634;4361BD82;2007
+14;6;michael smith;james miller;a tdd approach to introducing students to embedded programming;0A0D2BAD;458F31C4;2007
+15;12;michael smith;arlen griffey,vladimir kolovski,kendall clark,andrew schain;mother may i owl based policy management at nasa;653;43E3020F;2007
+16;12;michael smith;markus stocker;owlgres a scalable owl reasoner;969;43E3020F;2008
+17;12;michael smith;nick drummond,timothy redmond,tania tudorache;managing change an ontology version control system;8816;43E3020F;2008
+18;12;michael smith;evren sirin,evan wallace;opening closing worlds on integrity constraints;4EC16293;43E3020F;2008
+19;1;michael smith;;pickpocket a computer billiards shark;093456D7;0BB0DA67;2007
+20;13;michael smith;paul c van oorschot,michael willett;cryptographic information recovery using key recover;1855;00BF2FE3;2000
+21;14;michael smith;farshad faghih;combining spatial and scale space techniques for edge detection to provide a spatially adaptive wavelet based noise filtering algorithm;0A0D2BAD;06DF68B7;2002
+22;8;michael smith;wei li,jun wei,michael michael;performance and capacity analysis of uwb networks over 60ghz wpan channel;16964;0B0426FA;2008
+23;6;michael smith;james r miller,jiang yu,andrew f tappenden;a scalable testing framework for location based services;0A0D2BAD;09A08B9A;2009
+24;15;michael smith;ingrid hsieh yee;the corc experience survey of founding libraries part i;4235;081F6593;2001
+25;15;michael smith;ingrid hsiehyee;the corc experience survey of founding libraries part ii;0508EA45;081F6593;2013
+26;3;michael smith;;the physical mental and emotional stress effects of vdt work;0BD3B528;0647F8EB;1984
+27;11;michael smith;raghvinder sangwan,mathew bass;risk mitigation tactics for planning and monitoring global software development projects;4F076E00;474FB019;2007
+28;2;michael smith;marvin dainoff,steven l sauter;promoting health and productivity in the computerized office;1558;1198944;1991

@@ -1,0 +1,58 @@
+0;0;fan wang;andrew lim,songshan guo,ying kong;a new neighborhood based on improvement graph for robust graph coloring problem;0BF77E37;46EF45E9;2004
+1;0;fan wang;andrew lim,songshan guo,ying kong;a new hybrid genetic algorithm for the robust graph coloring problem;0BF77E37;46EF45E9;2003
+2;0;fan wang;s s guo,yuan kong,andrew lim;a new hybrid genetic algorithm for the robust graph coloring problem;4497;46EF45E9;2003
+3;0;fan wang;yi tao,yanzhi li;a compromised large scale neighborhood search heuristic for cargo loading planning;09676E2E;46EF45E9;2007
+4;2;fan wang;helen piontkivska,ruoming jin,ganesh kumar agrawal;graph and topological structure mining on scientific articles;031EE95E;44C5464F;2007
+5;2;fan wang;gagan agrawal,helen piontkivska,ruoming jin;snpminer a domain specific deep web mining tool;031EE95E;44C5464F;2007
+6;0;fan wang;brian rodrigues,andrew lim,zhou xu;k center problems with minimum coverage;0BF77E37;43C40A80;2004
+7;0;fan wang;brian rodrigues,andrew lim,zhou xu;k center problems with minimum coverage;0BF77E37;43C40A80;2005
+8;0;fan wang;andrew lim,zhou xu;on the selection and assignment with minimum quantity commitments;0BF77E37;43C40A80;2004
+9;0;fan wang;andrew lim,hong chen;flexible demand assignment problem;17341;454F686A;2004
+10;0;fan wang;andrew lim;robust graph coloring for uncertain supply chain management;6700;4569270C;2005
+11;4;fan wang;jun tan,ye geoffrey li;precoded single carrier data transmission with orthogonal frequency domain multiplexing pilots;4F799D2F;436150FA;2008
+12;5;fan wang;yong xiong,xiumei yang;an adaptive mimo system based on unified belief propagation detection;12649;436150FA;2007
+13;6;fan wang;guihua er,qionghai dai;inequivalent manifold ranking for content based image retrieval;05E79D01;455477A7;2008
+14;0;fan wang;andrew lim;a smoothed dynamic tabu search embedded grasp for m vrptw;0BF77E37;44C0EC29;2004
+15;0;fan wang;andrew lim;robust airport gate assignment;0BF77E37;44C0EC29;2005
+16;0;fan wang;andrew lim;meta heuristics for robust graph coloring problem;0BF77E37;44C0EC29;2004
+17;0;fan wang;zhiye li,andrew lim,songshan guo;improved grasp with tabu search for vehicle routing with both time window and limited number of vehicles;0BF77E37;43DB3338;2004
+18;0;fan wang;qi fei,ke fu,zhaowei miao;meta heuristic algorithm for the transshipment problem with fixed transportation schedules;09676E2E;43DB3338;2008
+19;0;fan wang;ben chen,zhaowei miao;a survey on reviewer assignment problem;09676E2E;43DB3338;2008
+20;8;fan wang;marwan krunz,shuguang cui;spectrum sharing in cognitive radio networks;0839CEE3;442BD7CD;2008
+21;0;fan wang;andrew lim,zhou xu;the capacitated traveling salesman problem with pickups and deliveries on a tree;0BF77E37;46142C30;2005
+22;6;fan wang;qionghai dai;a new multi view learning algorithm based on ica feature for image retrieval;05E79D01;42F91B89;2007
+23;0;fan wang;guo weixing li,andrew lim,songshan;the shortest route cut and fill problem in linear topological structure;0BF77E37;439F2D27;2005
+24;2;fan wang;gagan agrawal,ruoming jin;query planning for searching inter dependent deep web databases;031EE95E;44E8D4B3;2008
+25;11;fan wang;vishwani d agrawal;single event upset an embedded tutorial;04EAD036;444CACB9;2008
+26;11;fan wang;vishwani d agrawal;soft error rates with inertial and logical masking;4FD1BC2F;444CACB9;2009
+27;8;fan wang;marwan krunz,ossama younis;gmac a game theoretic mac protocol for mobile ad hoc networks;0839CEE3;45B4AB31;2006
+28;4;fan wang;weimin xiao,dennis schaeffer,tony dean;hrpd a downlink voice ip and data throughput and delay analysis;4F799D2F;44ABD1BA;2006
+29;4;fan wang;chandy sankaran,stan benes,amitava ghosh;wimax system performance with multiple transmit and multiple receive antennas;4F799D2F;462744F4;2007
+30;4;fan wang;amitava ghosh,chandy sankaran,phil fleming;wimax overview and system performance;4F799D2F;462744F4;2006
+31;5;fan wang;wei zhao,yong xiong;a bidirectional adaptive sequential gaussian approximation for mimo systems;5230;462744F4;2006
+32;4;fan wang;frank hsieh,a k ghosh;link performance of wimax pusc;4F799D2F;45563B9A;2008
+33;8;fan wang;marwan krunz,ossama younis;throughput oriented mac for mobile ad hoc networks a game theoretic approach;0839CEE3;42D65D01;2009
+34;0;fan wang;andrew lim;a stochastic beam search for the berth allocation problem;09676E2E;46789D3E;2007
+35;0;fan wang;andrew lim,yanzhi li;a genetic algorithm for machine scheduling problem under shared resource constraints;0BF77E37;07251530;2004
+36;1;fan wang;lemin li;analytical energy gradient evaluation in relativistic and nonrelativistic density functional calculations;1450A0C3;01423ABF;2002
+37;1;fan wang;lemin li;numerical examination of performance of some exchange correlation functionals for molecules containing heavy elements;1450A0C3;01423ABF;2004
+38;0;fan wang;andrew lim,zhou xu;the one commodity pickup and delivery travelling salesman problem on a path or a tree;09676E2E;0B6E9D55;2006
+39;0;fan wang;brian rodrigues,andrew lim,zhou xu;k center problems with minimum coverage;0BF77E37;43C40A80;2004
+40;0;fan wang;brian rodrigues,andrew lim,zhou xu;k center problems with minimum coverage;0BF77E37;43C40A80;2005
+41;2;fan wang;gagan agrawal,tantan liu;exploiting parallelism to accelerate keyword search on deep web sources;031EE95E;44F7486F;2009
+42;2;fan wang;gagan agrawal;seedeep a system for exploring and querying scientific deep web data sources;031EE95E;44E8D4B3;2009
+43;0;fan wang;yi tao,yanzhi li;a compromised large scale neighborhood search heuristic for capacitated air cargo loading planning;09676E2E;06289060;2009
+44;2;fan wang;gagan agrawal,hong yuan,wenbin zhang;personality based latent friendship mining;18116;47784D0E;2009
+45;3;fan wang;xiaoyu zhang;on scheduling concurrent multicast sessions over resource reserved network;09676E2E;46081467;2008
+46;0;fan wang;andrew lim,zhou xu;a transportation problem with minimum quantity commitment;0BF77E37;07C37DCA;2006
+47;0;fan wang;andrew lim;effective neighborhood operators for solving the flexible demand assignment problem;09676E2E;02144003;2008
+48;7;fan wang;jianting zhou,jianxi yang;a study on the application of ga bp neural network in the bridge reliability assessment;17825;45E5BC3F;2008
+49;5;fan wang;xiaohu yang,xiaochun zhu,lu chen;simulation of the defect removal process with queuing theory;0489A984;451D2615;2009
+50;2;fan wang;ning shi,yi tao;a survey on vehicle routing problem with loading constraints;09676E2E;44CD2E44;2009
+51;7;fan wang;jianting zhou,ying huang,jianxi yang;analysis on network model parameters of bp neural network in the assessment for bridge reliability;277;46AB47BD;2009
+52;2;fan wang;gagan agrawal;extracting output metadata from scientific deep web data sources;14019;468A7487;2009
+53;8;fan wang;marwan krunz;multi channel spectrum agile mac protocol with adaptive load control;0839CEE3;44ABD1BA;2009
+54;13;fan wang;li zhou;an object oriented product data management;06EA9474;550263;2009
+55;12;fan wang;wei feng;asymptotic periodicity and permanence in a competition diffusion system with discrete delays;092C5A58;03009DEA;1998
+56;10;fan wang;guozhen tan,huimin shi,chao deng;short term traffic flow prediction based on parallel quasi newton neural network;8977;811208;2009
+57;9;fan wang;xiangzhao wang,qiongyan yuan,mingying ma,zicheng qiu;even aberration measurement of lithographic projection system based on optimized phase shifting marks;11972;096B53DD;2009

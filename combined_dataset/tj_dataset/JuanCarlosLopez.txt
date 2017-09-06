@@ -1,0 +1,37 @@
+0;0;juan carlos lopez;felix jesus villanueva,francisco moya,maria j santofimia,david villa;an agent based approach towards automatic service composition in ambient intelligence;04B854A6;0752020E;2008
+1;0;juan carlos lopez;narei lorenzo martinez,c delgadokloos,carlos carreras,m l lopez,luis maria bonnecarrere sanchez;a co design methodology based on formal specification and high level estimation;19695;46CDFBC4;1996
+2;0;juan carlos lopez;juan m diez;influence of manufacturing variations in iddq measurements a new test criterion;15063;463BE6FF;2000
+3;0;juan carlos lopez;helvio p peixoto,ander royo,margarida f jacome;the design space layer supporting early design space exploration for core based designs;8729;463BE6FF;1999
+4;0;juan carlos lopez;jesus grajal,marisa lopezvallejo;constraint driven system partitioning;11064;463BE6FF;2000
+5;0;juan carlos lopez;jesus grajal,Marisa Luisa López-Vallejo;constraint driven system partitioning;18909;463BE6FF;2000
+6;0;juan carlos lopez;m l lopez,carlos a iglesias;a knowledge based system for hardware software partitioning;1488;463BE6FF;1998
+7;0;juan carlos lopez;francisco moya,josk manuel moya;a hardware software operating system for heterogeneous designs;15926;463BE6FF;2001
+8;0;juan carlos lopez;santiago dominguez,jose m moya,francisco moya;a flexible specification framework for hardware software codesign;19275;463BE6FF;2000
+9;0;juan carlos lopez;jesus barba,francisco moya,fernando rincon;model reuse through hardware design patterns;15842;463BE6FF;2005
+10;0;juan carlos lopez;felix jesus villanueva,f rincon,david villa,francisco de borja varona moya,jesus barba;lightweight middleware for seamless hw sw interoperability with application to wireless sensor networks;6077;463BE6FF;2007
+11;0;juan carlos lopez;ander royo,javier moran;design and implementation of a coprocessor for cryptography applications;8006;46CDFBC4;1997
+12;0;juan carlos lopez;jesus barba,felix jesus villanueva,david villa,fernando rincon,julio dondo,francisco moya;ooce object oriented communication engine for soc design;04B854A6;42E6BE19;2007
+13;0;juan carlos lopez;jose pablo alvarado moya,francisco moya;evaluation of design space exploration strategies;3434;46F80578;1999
+14;0;juan carlos lopez;margarida f jacome,pedro merino;a methodology for task based partitioning and scheduling of dynamically reconfigurable systems;2514;45DA1F87;1998
+15;0;juan carlos lopez;margarida f jacome,pedro merino;a hardwar operating system for dynamic reconfiguration of fpgas;053FB310;4704764E;1998
+16;0;juan carlos lopez;jesus barba,felix jesus villanueva,f rincon,david villa,f moya,julio dondo;dynamic reconfiguration management based on a distributed object model;12688;4704764E;2007
+17;0;juan carlos lopez;felix jesus villanueva,f rincon,david villa,francisco de borja varona moya,jesus barba;minimalist object oriented service discovery protocol for wireless sensor networks;04B854A6;44087830;2007
+18;0;juan carlos lopez;fernando rincon,jesus barba,david villa,francisco de borja varona moya,felix jesus villanueva;embedding a middleware for networked hardware and software objects;04B854A6;44087830;2006
+19;0;juan carlos lopez;fernando rincon,francisco moya,jesus barba,david villa,felix jesus villanueva;web services for deeply embedded extra low cost devices;04B854A6;44087830;2009
+20;0;juan carlos lopez;felix jesus villanueva,francisco moya,maria j santofimia,david villa;integration of intelligent agents supporting automatic service composition in ambient intelligence;04B854A6;478794CB;2008
+21;0;juan carlos lopez;carlos andres lucero,jesus hamilton ortiz;measurements quality of service and efficient load balancing algorithm in mobile ad hoc network;15853;457D1A50;2008
+22;0;juan carlos lopez;carlos andres lucero,jesus hamilton ortiz;quality of service and mobility in new generation networks;17648;457D1A50;2008
+23;0;juan carlos lopez;fernando rincon,francisco moya,jose m moya;improving embedded system design by means of hw sw compilation on reconfigurable coprocessors;18317;47765112;2002
+24;0;juan carlos lopez;felix jesus villanueva,fernando rincon,david villa,francisco de borja varona moya,jesus barba;a new model for noc based distributed heterogeneous system design;18189;474677D8;2005
+25;0;juan carlos lopez;felix jesus villanueva,f rincon,david villa,j barba,julio dondo,francisco de borja varona moya;unified inter communication architecture for systems on chip;04B854A6;46CB61B2;2007
+26;0;juan carlos lopez;fernando rincon,francisco moya,julio dondo,jesus barba;transparent dynamic reconfiguration as a service of a system level middleware;04B854A6;46DA87CC;2009
+27;0;juan carlos lopez;Marisa Luisa López-Vallejo,carlos angel iglesias;hardware software partitioning at the knowledge level;1513;04743DEB;1999
+28;0;juan carlos lopez;jesus barba,francisco moya,fernando rincon;model reuse through hardware design patterns;10435;463BE6FF;2005
+29;0;juan carlos lopez;felix jesus villanueva,francisco moya,fernando rincon,david villa,jesus barba;context aware qos provision for mobile ad hoc network based ambient intelligent environments;10345;037D9B15;2006
+30;0;juan carlos lopez;marisa lopezvallejo;on the hardware software partitioning problem system modeling and partitioning techniques;9477;0642E126;2003
+31;0;juan carlos lopez;Marisa Luisa López-Vallejo;on the hardware software partitioning problem system modeling and partitioning techniques;15237;0642E126;2003
+32;0;juan carlos lopez;felix jesus villanueva,f rincon,david villa,francisco de borja varona moya,jesus barba;embedding standard distributed object oriented middlewares in wireless sensor networks;04B854A6;436D599B;2009
+33;0;juan carlos lopez;felix jesus villanueva,francisco moya,maria j santofimia,david villa;a distributed architectural strategy towards ambient intelligence;04B854A6;45483BED;2009
+34;0;juan carlos lopez;felix jesus villanueva,fernando rincon,david villa,francisco de borja varona moya,jesus barba;automatic hw sw interface generation for seamless integration from object oriented models;1546;44C93DEC;2009
+35;0;juan carlos lopez;fernando rincon,julio dondo,francisco de borja varona moya,jesus barba;supporting operating systems for reconfigurable computing a distributed service oriented approach;04B854A6;45DA1F87;2009
+36;0;juan carlos lopez;roman hermida,walter geisselhardt;advanced techniques for embedded systems design and test;1731;752413;1998

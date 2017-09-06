@@ -1,0 +1,38 @@
+0;1;ping zhou;jim austin,john kennedy;a binary correlation matrix memory k nn classifier with hardware implementation;031AFA6D;477202E3;1998
+1;2;ping zhou;zhongjian le;a framework for web usage mining in electronic government;13985;1925565;2007
+2;3;ping zhou;shiheng xu;a fuzzy logic expert system for fault diagnosis and security assessment of power transformers;709;44C0EC29;1993
+3;5;ping zhou;tianyou chai,changxin liu,jinliang ding;hybrid intelligent system for supervisory control of mineral grinding process;008CC234;45D416DF;2006
+4;6;ping zhou;c d thompson;available bit rate abr source control and delay estimation;18514;438E31AA;2000
+5;1;ping zhou;jim austin,john kennedy;a high performance k nn classifier using a binary correlation matrix memory;031AFA6D;43319DD4;1999
+6;7;ping zhou;pengfei zou,jozef hooman;a proof theory for asynchronously communicating real time systems;04F2C66A;4306EF42;1992
+7;8;ping zhou;ramesh r rao,b s manoj;on adding link dimensional dynamism to csma ca based mac protocols;0229448F;43701CEE;2007
+8;9;ping zhou;xuan yang,zhixiong zhang;local elastic registration of multimodal medical image using robust point matching and compact support rbf;0AC5ACB1;46438945;2008
+9;10;ping zhou;jieqing tan;on the finite sum representations of the lauricella functions fd;0BC0E906;036686A3;2005
+10;8;ping zhou;ramesh r rao,b s manoj;dynamic adaptation of csma ca mac protocol for wide area wireless mesh networks;0229448F;06DAD4AA;2008
+11;7;ping zhou;ruurd kuiper,jozef hooman;compositional verification of real time systems with explicit clock temporal logic;04F2C66A;07A4F1E7;1996
+12;11;ping zhou;w z rymer,madeleine m lowery;extracting motor unit firing information by independent component analysis of surface electromyogram a preliminary study using a simulation approach;1414;0670F54F;2006
+13;12;ping zhou;loet leydesdorff;a comparison between the china scientific and technical papers and citations database and the science citation index in terms of journal hierarchies and interjournal citation relations;34DF872C;04C66E92;2007
+14;12;ping zhou;loet leydesdorff;co word analysis using the chinese character set;05EDB3A0;04C66E92;2008
+15;12;ping zhou;loet leydesdorff;co word analysis using the chinese character set;1791;0B68DB42;2009
+16;7;ping zhou;jozef hooman;formal specification and compositional verification of an atomic broadcast protocol;04F2C66A;0AF5DEFE;1995
+17;12;ping zhou;loet leydesdorff;are the contributions of china and korea upsetting the world system of science ;7024;08DADDF6;2009
+18;12;ping zhou;loet leydesdorff;nanotechnology as a field of science its delineation in terms of journals and patents;34DF872C;08DADDF6;2007
+19;12;ping zhou;loet leydesdorff;the citation impacts and citation environments of chinese journals in mathematics;34DF872C;08DADDF6;2009
+20;12;ping zhou;loet leydesdorff;the citation impacts and citation environments of chinese journals in mathematics;15184;0B68DB42;2009
+21;13;ping zhou;haifeng wang,honglin hu,hsiaohwa chen;an efficient random access scheme for ofdma systems with implicit message transmission;17149;03C85075;2008
+22;15;ping zhou;fangyan yang,qingdu li;horseshoe in the hyperchaotic mck circuit;10703;04D4239C;2011
+23;14;ping zhou;li zhao,bo zhao,yi xu,jun yang,yu du,youtao zhang;frequent value compression in packet based noc architectures;0A2510E5;43D1CF2E;2009
+24;14;ping zhou;youtao zhang,jun yang,bo zhao;a durable and energy efficient main memory using phase change memory technology;0A2510E5;436EE6FE;2009
+25;8;ping zhou;ramesh rao,xudong wang;asymptotic capacity of infrastructure wireless mesh networks;0126039E;041F05A5;2008
+26;14;ping zhou;youtao zhang,jun yang,weijia li,yu du,bruce r childers;adaptive buffer management for efficient code dissemination in multi application wireless sensor networks;0A2510E5;451FA97C;2008
+27;16;ping zhou;xing wei,lizhen tang;a speaker verification system based on emd;10645;462E0862;2009
+28;16;ping zhou;xiaochun lei,ruxiong li;analysis of welding defects in spot welding process u i curves;15626;462E0862;2009
+29;12;ping zhou;loet leydesdorff;co word analysis using the chinese character set;05EDB3A0;04C66E92;2008
+30;12;ping zhou;loet leydesdorff;co word analysis using the chinese character set;8694;0B68DB42;2009
+31;12;ping zhou;loet leydesdorff;a comparison between the china scientific and technical papers and citations database and the science citation index in terms of journal hierarchies and inter journal citation relations;2651;0B68DB42;2007
+32;12;ping zhou;loet leydesdorff;a comparison between the china scientific and technical papers and citations database and the science citation index in terms of journal hierarchies and inter journal citation relations;6540;0B68DB42;2009
+33;12;ping zhou;loet leydesdorff;the citation impacts and citation environments of chinese journals in mathematics;34DF872C;08DADDF6;2009
+34;12;ping zhou;loet leydesdorff;the citation impacts and citation environments of chinese journals in mathematics;4253;0B68DB42;2009
+35;1;ping zhou;jim austin,john kennedy;a high performance k nn classifier using a binary correlation matrix memory;031AFA6D;43319DD4;1999
+36;4;ping zhou;chuanwen liu,peng liu;an approximate controller for nonlinear networked control systems with time delay;14051;06542A1C;2008
+37;0;ping zhou;jian shu,sheng zhang;an energy reporting aggregation method based on eafm and dtrm in wsn;4197;46F3DAAB;2009

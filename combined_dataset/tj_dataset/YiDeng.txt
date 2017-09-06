@@ -1,0 +1,91 @@
+0;0;yi deng;bob blakley,john barkley,carol c burt,konstantin beznosov;a resource access decision service for corba based distributed systems;2611;47405592;1999
+1;0;yi deng;jorge c a de figueired,angelo perkusich,shikuo chang;integrating software engineering methods and petri nets for the specification and prototyping of complex information systems;012C9CDF;47CA3817;1993
+2;0;yi deng;peter j c clarke;communication model to support rapid application development;012C9CDF;457DC158;2006
+3;2;yi deng;dongdai lin;resettable zero knowledge with concurrent soundness in the bare public key model under standard assumption;012E6F4E;45D7DDA8;2007
+4;0;yi deng;jiacun wang,chun jin;performance analysis of traffic control system based on stochastic timed petri net models;13635;44233F91;1999
+5;0;yi deng;kent wreder;architecture centered enterprise system development and integration based on distributed object technology standard;5907;44233F91;1999
+6;0;yi deng;lian mo,xudong he,huiqun yu;a formal method for analyzing software architecture models in sam;08ADCF85;44233F91;2002
+7;0;yi deng;chi zhang,peter j clarke,s m sadjadi,nagarajan prabakar,vagelis hristidis,raju rangaswami;a communication virtual machine;08ADCF85;44233F91;2006
+8;0;yi deng;shikuo chang;a hypernet model for large hypertext systems;2242;469D149A;1991
+9;0;yi deng;vagelis hristidis,shuching chen,tao li,khalid saleem,steven luis;towards a business continuity information network for rapid disaster recovery;012C9CDF;4385295C;2008
+10;6;yi deng;xueyin lin;a fast line segment based dense stereo algorithm using tree dynamic programming;05E79D01;43001016;2006
+11;2;yi deng;dongdai lin;instance dependent verifiable random functions and their application to simultaneous resettability;012E6F4E;44C16141;2007
+12;0;yi deng;brian field,taieb f znati,shikuo chang;multi level specification and protocol design for distributed multimedia communication;0A2510E5;473B0162;1991
+13;0;yi deng;jiacun wang;integrated architectural modeling and analysis for high assurance command and control system design;08ADCF85;45F753AE;1998
+14;0;yi deng;jiacun wang;integrated architectural modeling and analysis for high assurance command and control system design;012C9CDF;45F753AE;1999
+15;0;yi deng;lian mo,xudong he,huiqun yu;a formal approach to designing secure software architectures;08ADCF85;45F753AE;2004
+16;0;yi deng;michael evangelist,shengkai lu;a formal approach for architectural modeling and prototyping of distributed real time systems;08ADCF85;4569270C;1997
+17;6;yi deng;xiaoou tang,xueyin lin,qiong yang;a symmetric patch based correspondence model for occlusion handling;05E79D01;45701BF3;2005
+18;0;yi deng;wei sun,mukesh singhal,naphtali rishe,guohong cao;a delay optimal quorum based mutual exclusion scheme with fault tolerance capability;12654;4789F291;1998
+19;0;yi deng;wei sun,shigang chen,paul c attie;optimal deadlock detection in distributed systems based on locally constructed wait for graphs;8563;4789F291;1996
+20;0;yi deng;jiacun wang,chun jin;performance analysis of traffic networks based on stochastic timed petri net models;17400;4673EE2C;1999
+21;0;yi deng;jiacun wang,rakesh kumar sinha;incremental architectural modeling and verification of real time concurrent systems;08ADCF85;438DC8E7;1998
+22;0;yi deng;lian mo,xudong he,huiqun yu;formal analysis of real time systems with sam;012C9CDF;438DC8E7;2002
+23;0;yi deng;wei li,wei sun,sha guo,qing liu,weiping zhang;panther an inexpensive and integrated multimedia environment;08ADCF85;47C35ECC;1994
+24;2;yi deng;xianfeng zhao,bingbing xia;strengthening qim based watermarking by non uniform discrete cosine transform;012E6F4E;46155D1D;2008
+25;0;yi deng;jeffrey j p tsai,jiacun wang;formal analysis of software security system architectures;18207;474EAFD5;2001
+26;0;yi deng;cyril u orji,naphtali rishe,ya xu;an architecture for operating system support of distributed multimedia systems;08ADCF85;985288;1995
+27;0;yi deng;xudong he,shu gao,huiqun yu;modeling and analyzing smil documents in sam;08ADCF85;46D76472;2002
+28;0;yi deng;konstantin beznosov;a framework for implementing role based access control using corba security service;012C9CDF;461DDC0A;1999
+29;0;yi deng;geoffrey smith,nathan n vuong;managing security policies in a distributed environment using extensible markup language xml ;09B0BBA7;439F2D27;2001
+30;0;yi deng;michael evangelist,wenliang du,paul c attie;a formalism for architectural modeling of distributed real time systems;9193;45F650F9;1996
+31;0;yi deng;kendra cooper,shu gao,xudong he,konstantin beznosov,huiqun yu;applying aspect orientation in designing security systems a case study;4226;45F650F9;2004
+32;0;yi deng;xudong he,junhua ding;model checking software architecture specifications in sam;012C9CDF;45F650F9;2002
+33;0;yi deng;shengkai lu;an environment for specification simulation and analysis of distributed object oriented systems;13443;45F650F9;1995
+34;0;yi deng;lian mo,xudong he,huiqun yu;integrating security administration into software architectures design;012C9CDF;45F650F9;2004
+35;0;yi deng;xudong he,shu gao,huiqun yu;formal software architecture design of secure distributed systems;012C9CDF;45F650F9;2003
+36;0;yi deng;wei sun,raimund k ege;executable specifications for the design of object oriented systems;8414;45F650F9;1993
+37;4;yi deng;;intermediate executable architectural specifications for kbsa part ii;5115;45F650F9;1993
+38;0;yi deng;wei sun,naphtali rishe,sha guo;semantic query optimization by class reference reduction in object oriented databases;16139;45F650F9;1994
+39;0;yi deng;tianjun shi,xudong he,weixiang sun,gonzalo argotegarcia;achieving a better middleware design through formal modeling and analysis;2675;45F650F9;2006
+40;0;yi deng;dianxiang xu,xudong he,junhua ding,peter j c clarke;design an interoperable mobile agent system based on predicate transition net models;14656;45F650F9;2005
+41;0;yi deng;shikuo chang;unifying multi paradigms in software system design;0A2510E5;45F650F9;1992
+42;8;yi deng;;building global ecosystem for collaborative computing research and education;19078;45F650F9;2008
+43;0;yi deng;kendra cooper,lirong dai;performance modeling and analysis of software architectures an aspect oriented uml based approach;4025;45FFFB88;2004
+44;0;yi deng;kendra cooper,lirong dai;performance modeling and analysis of software architectures an aspect oriented uml based approach;012C9CDF;45FFFB88;2005
+45;0;yi deng;kendra cooper,jing dong,lirong dai;developing a formal design analysis framework;6940;45FFFB88;2003
+46;0;yi deng;kendra cooper,jing dong,rucha khisti;a component framework for resource management systems;11009;45FFFB88;2004
+47;0;yi deng;yibei ling,wei sun,naphtali rishe;an instant and accurate estimation method for joins and selection in a retrieval intensive environment;2078;652197;1993
+48;0;yi deng;daqian zhang,kang zhang;a visual approach to xml document design and transformation;9945;43AA5802;2001
+49;0;yi deng;vagelis hristidis,redmond p burke,jeffrey a white,peter j clarke,nagarajan prabakar;a flexible approach for electronic medical records exchange;012C9CDF;472C6E2D;2006
+50;0;yi deng;nagarajan prabakar,s m sadjadi,raju rangaswami;automatic generation of user centric multimedia communication services;08ADCF85;44C78644;2007
+51;0;yi deng;jose andre morales,peter j clarke;characterizing and detecting virus replication;08ADCF85;4523D0A5;2008
+52;0;yi deng;selim kalayci,s m sadjadi;a self configuring communication virtual machine;08ADCF85;45686500;2008
+53;0;yi deng;jiacun wang;integrated architectural modeling and analysis for high assurance command and control system design;08ADCF85;45F753AE;1998
+54;0;yi deng;jiacun wang;integrated architectural modeling and analysis for high assurance command and control system design;012C9CDF;45F753AE;1999
+55;0;yi deng;daqian zhang,kang zhang;graphical transformation of multimedia xml documents;09B0BBA7;0635D618;2001
+56;0;yi deng;xudong he;a framework for developing and analyzing software architecture specifications in sam;629;02A934C1;2002
+57;2;yi deng;giovanni di crescenzo,dongdai lin;concurrently non malleable zero knowledge in the authenticated public key model;012E6F4E;0B68DB42;2006
+58;2;yi deng;dongdai lin;resettable zero knowledge in the bare public key model under standard assumption;012E6F4E;0B68DB42;2006
+59;7;yi deng;farokh b bastani;guest editors introduction special issue on embedded software engineering;6673;07D5A6F3;2002
+60;0;yi deng;jeffrey j p tsai,jiacun wang,xudong he;constraint propagation and progressive verification for component based process model;1521;07D5A6F3;2011
+61;0;yi deng;shikuo chang;a framework for the modeling and prototyping of distributed information systems;15055;07D5A6F3;2012
+62;5;yi deng;mark j gerken;guest editors introduction best papers from seke 98;682;07D5A6F3;2000
+63;0;yi deng;shikuo chang,xiaola lin;executable specification and analysis for the design of concurrent object oriented systems;3536;07D5A6F3;2011
+64;0;yi deng;jiacun wang,xudong he;introducing software architecture specification and analysis in sam through an example;012C9CDF;0C38368F;1999
+65;0;yi deng;chiarung yang;architecture driven modeling of real time concurrent systems with applications in fms;6932;0241FF68;1999
+66;0;yi deng;tianjun shi,xudong he,junhua ding,huiqun yu;formally analyzing software architectural specifications using sam ;012C9CDF;0241FF68;2004
+67;0;yi deng;yingbo wang,vagelis hristidis,s masoud sadjadi,peter j clarke,raju rangaswami;cvm a communication virtual machine;012C9CDF;0241FF68;2008
+68;6;yi deng;xiaoou tang,xueyin lin,qiong yang;stereo correspondence with occlusion handling in a symmetric patch based graph cuts model;05E79D01;0BEAEA4E;2007
+69;0;yi deng;kendra cooper,lirong dai;performance modeling and analysis of software architectures an aspect oriented uml based approach;9930;45FFFB88;2004
+70;0;yi deng;kendra cooper,lirong dai;performance modeling and analysis of software architectures an aspect oriented uml based approach;012C9CDF;45FFFB88;2005
+71;0;yi deng;david barton,naphtali rishe,carlos gustavo trujillo ordonez,mario r sanchez,wei sun,artyom shaposhnikov,leonardo loureiro,cyril u orji,michael alexopoulos;florida international university high performance database research center;012C9CDF;02D4EDCF;1995
+72;0;yi deng;shikuo chang;a g net model for knowledge representation and reasoning;0A2510E5;01D46A2B;1990
+73;0;yi deng;jeffrey j p tsai,jiacun wang,konstantin beznosov;an approach for modeling and analysis of security system architectures;08ADCF85;01D46A2B;2003
+74;0;yi deng;dianxiang xu,junhua ding,jianwen yin;a formal architectural model for logical agent mobility;14227;007F6F5E;2003
+75;0;yi deng;gang xu,jiacun wang;reachability analysis of real time systems using time petri nets;3232;0489FD27;2000
+76;0;yi deng;mengchu zhou,jiacun wang;compositional time petri nets and reduction rules;8751;45C7663C;2000
+77;0;yi deng;jose andre morales,peter j clarke,b m golam kibria;testing and evaluating virus detectors for handheld devices;012C9CDF;0B758C6D;2006
+78;0;yi deng;jose andre morales,peter j clarke,b m golam kibria;characterization of virus replication;6490;0B758C6D;2007
+79;2;yi deng;dongdai lin;novel omega protocols for np;9065;05798E5E;2008
+80;0;yi deng;dianxiang xu,junhua ding,xudong he,peter j clarke;a formal model based approach for developing an interoperable mobile agent system;012C9CDF;0C21BD8F;2006
+81;0;yi deng;tao li,dingding wang,li zheng;evolutionary document summarization for disaster management;012C9CDF;43FD776C;2009
+82;0;yi deng;yingbo wang,yali wu,andrew a allen,barbara espinoza,peter j clarke;towards the operational semantics of user centric communication models;8141;44233F91;2009
+83;2;yi deng;giovanni di crescenzo,dongdai lin,dengguo feng;concurrently non malleable black box zero knowledge in the bare public key model;012E6F4E;43940F97;2009
+84;0;yi deng;juanantonio caraballo,s graham,borko furht,steve luis,patricia fernandez martinez,s m sadjadi,nicholas s bowen,s chen;pire a global living laboratory for cyberinfrastructure application enablement;012C9CDF;4672F3B6;2009
+85;3;yi deng;amit sahai,vipul goyal;resolving the simultaneous resettability conjecture and a new non black box simulation strategy;999;448ECA1D;2009
+86;0;yi deng;jeffrey j p tsai,jiacun wang;formal analysis of software security system architectures;13618;474EAFD5;2001
+87;0;yi deng;jose andre morales;a behavior based approach to virus detection;012C9CDF;877620;2008
+88;0;yi deng;wei sun,yibei ling,naphtali rishe;an instant and accurate size estimation method for joins and selections in a retrieval intensive environment;012C9CDF;460A7036;1993
+89;0;yi deng;wei sun,shigang chen,naphtali rishe;efficient algorithms for detection and resolution of distributed deadlocks;08ADCF85;4708B833;1995
+90;0;yi deng;weixiang sun;an approach for design and analysis of user centric communication middleware;6918;1680897;2008

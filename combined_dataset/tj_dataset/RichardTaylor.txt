@@ -1,0 +1,30 @@
+0;1;richard taylor;;effective prediction and its computational complexity;4DB16F5E;460FDA1C;2007
+1;2;richard taylor;p m morgan,george bruce,barry orourke,japheth hossell;automated data cache placement for embedded vliw asips;11865;45462B39;2005
+2;4;richard taylor;;an integrity check value algorithm for stream ciphers;0BC053B7;44C16141;1993
+3;2;richard taylor;p d morgan;asip instruction encoding for energy and area reduction;16679;46CDFBC4;2007
+4;2;richard taylor;b i hounsell;co processor synthesis a new methodology for embedded software acceleration;3789;463BE6FF;2004
+5;5;richard taylor;chris tofts;taking a rasp to enterprise stakeholder dissonance;34C77BFA;43AFEC4B;2008
+6;4;richard taylor;;near optimal unconditionally secure authentication;0BC053B7;43F6459B;1994
+7;6;richard taylor;jeff magee,stephen fickas,betty h c cheng,hausi a muller,david garlan,rogerio de lemos;software engineering for adaptive and self managing systems;0C2C9DD2;45FFFB88;2006
+8;7;richard taylor;martin funcell,chris salzmann;design for test and the cost of quality;04346A8B;4579FB5B;1988
+9;8;richard taylor;eugenio zabala;maritxu generic visualization of highly parallel processing;17972;474677D8;1992
+10;9;richard taylor;;concurrency in the data warehouse;17996;4390334E;2000
+11;4;richard taylor;ronald g addie;an algorithm for calculating the availability and mean time to restore for communication through a network;11490;002F0F98;1990
+12;11;richard taylor;;reconstructing degree sequences from k vertex deleted subgraphs;16053;01206F2B;1990
+13;12;richard taylor;piergiuseppe morone;small world dynamics and the process of knowledge diffusion the case of the metropolitan area of greater santiago de chile;9040;07D3AB86;2004
+14;6;richard taylor;jeff magee,marin litoiu,holger giese,betty h c cheng,hausi a muller,david garlan,rogerio de lemos;seams 2009 software engineering for adaptive and self managing systems;0C2C9DD2;45FFFB88;2009
+15;6;richard taylor;;icse 97 program update;13153;0B24320F;1997
+16;13;richard taylor;;transputer communication link;13223;0BA997D3;1986
+17;8;richard taylor;eugenio zabala;process and processor interaction architecture independent visualisation schema;3216;1612040;1993
+18;15;richard taylor;ronald ashri,bill ray,danny ayers;professional java mobile programming;6740;575401;2001
+19;6;richard taylor;david f redmiles;webdav;14554;0B24320F;2000
+20;6;richard taylor;david f redmiles;knowledge depot;16174;0B24320F;2000
+21;6;richard taylor;david f redmiles;chimera;10074;0B24320F;2000
+22;6;richard taylor;david f redmiles;expectation driven event monitoring;0C2C9DD2;0B24320F;2000
+23;6;richard taylor;david f redmiles;archstudio;16444;0B24320F;2000
+24;6;richard taylor;david f redmiles;argo uml;1715;0B24320F;2000
+25;6;richard taylor;david f redmiles;endeavors;10240;0B24320F;2000
+26;6;richard taylor;david f redmiles;arabica;14939;0B24320F;2000
+27;3;richard taylor;d m goodeve;communications coprocessor for the acorn risc machine;031AFA6D;0BA997D3;1990
+28;6;richard taylor;izhar shy,leon j osterweil;a metaphor and conceptual architecture for software development environments;0349EE07;996447;1990
+29;0;richard taylor;;concurrent programming in occam;10966;0BA997D3;1989

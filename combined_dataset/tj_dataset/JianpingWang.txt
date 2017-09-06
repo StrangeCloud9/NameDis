@@ -1,0 +1,37 @@
+0;1;jianping wang;biao chen;optimal wavelength assignment for multicast in wdm networks;17529;44BF398F;2001
+1;1;jianping wang;jason p jue,vinod m vokkarane;coordinated survivability in ip over optical networks with ip layer dual homing and optical layer protection;8599;47650C33;2005
+2;1;jianping wang;ashwin gumaste,s q zheng,hui yu,jing chen;1 persistent collision free csma protocols for opportunistic optical hyperchannels;0A0E755C;42CD4D27;2008
+3;1;jianping wang;h c so,ke shen,qingfeng huang,xiaohua jia,guoliang xing;mobility assisted spatiotemporal detection in wireless sensor networks;0A0E755C;4789F291;2008
+4;1;jianping wang;limin sun,hingcheung so,guolian xing,qingfeng huang,xiaohua jia,zhaohui yuan,rui tan;mobility assisted spatiotemporal detection in wireless sensor networks;11944;4789F291;2010
+5;3;jianping wang;shaobin cai,nianmin yao,wenbin yao,guochang gu;performance analysis group based key management;090B2C79;462C0072;2007
+6;1;jianping wang;bing yang,mei yang,s q zheng;finding minimum cost paths with minimum sharability;18190;442BD7CD;2007
+7;1;jianping wang;jason p jue,vinod m vokkarane,xiaodong huang;fault tolerant wireless access network design for dual homed users;12921;442BD7CD;2006
+8;1;jianping wang;biao chen,mei yang,xiangtong qi;exploring core based tree cbt in wdm networks;025F87C9;43C40A80;2004
+9;1;jianping wang;bing yang,mei yang,s q zheng;minimum cost paths subject to minimum vulnerability for reliable communications;10305;43C40A80;2005
+10;1;jianping wang;mei yang,yoohwan kim,yingtao jiang,zhenguo gao;coordinated robust routing by dual cluster heads in layered wireless sensor networks;19696;43C40A80;2005
+11;4;jianping wang;jorg liebeherr,guimin zhang;programming overlay networks with overlay sockets;0312B01D;42D65D01;2003
+12;4;jianping wang;jorg liebeherr,haiyong wang,stephen d patek;traffic engineering with aimd in mpls networks;0312B01D;03C7498F;2002
+13;1;jianping wang;yingtao jiang,mei yang,xiaochun yun,shupeng wang;handover cost optimization in traffic management for multi homed mobile networks;07FCAA8D;44D4200D;2007
+14;1;jianping wang;mei yang,ling wang,zhenguo gao;a meta service description assisted service discovery protocol for manets;0A0E755C;44D4200D;2007
+15;1;jianping wang;s q zheng,hui yu,jing chen;pipelined implementation of tcam based search engines in high performance ip routers;0A0E755C;43701CEE;2008
+16;1;jianping wang;bing yang,naijie gu;fault tolerant service composition in service overlay networks;0A0E755C;43701CEE;2008
+17;1;jianping wang;yan li,ashwin gumaste,yun xu;multicast routing in light trail wdm networks;0A0E755C;43701CEE;2008
+18;1;jianping wang;s q zheng,hui yu,jing chen;maximizing throughput of an optical opportunistic hyperchannel subject to qos constraint;0A0E755C;43701CEE;2008
+19;1;jianping wang;;traffic regulation under the percentile based pricing policy;025F87C9;44B337CB;2006
+20;2;jianping wang;parimala thulasiraman,eseosa osagie,ruppa k thulasiram;hopnet a hybrid ant colony optimization routing algorithm for mobile ad hoc network;02C1AEE3;42D65D01;2009
+21;1;jianping wang;mei yang,xiangtong qi;routing and wavelength assignment for core based tree in wdm networks;025F87C9;06DAD4AA;2006
+22;1;jianping wang;mei yang,s q zheng,jing chen;traffic regulation with single and dual homed isps under a percentile based pricing policy;0A0E755C;066ED013;2007
+23;1;jianping wang;mei yang,s q zheng,bin yang;dual homing based scalable partia multicast protection;19334;0965DDD6;2006
+24;1;jianping wang;biao chen,xiangtong qi;wavelength assignment for multicast in all optical wdm networks with splitting constraints;025F87C9;03B5AFB2;2006
+25;1;jianping wang;h c so,rui tan,guoliang xing;collaborative target detection in wireless sensor networks with reactive mobility;0A0E755C;43A8F3E1;2008
+26;1;jianping wang;chihwei yi,guoliang xing,xiaohua jia,rui tan,benyuan liu;data fusion improves the coverage of wireless sensor networks;0A0E755C;42F4F2CC;2009
+27;1;jianping wang;yu hua,bin xiao;br tree a scalable prototype for supporting multiple queries of multidimensional data;0A0E755C;0965DDD6;2009
+28;1;jianping wang;siqing zheng,hui yu,jing chen;opportunistic optical hyperchannel and its distributed qos assuring access control;0A0E755C;05CA192B;2009
+29;1;jianping wang;benyuan liu,rui tan,guoliang xing;impact of data fusion on real time detection in sensor networks;0A0E755C;4306EF42;2009
+30;1;jianping wang;guoliang xing,chenyang lu,zhaohui yuan,rui tan,yixin chen;fast sensor placement algorithms for fusion based target detection;0A0E755C;4306EF42;2008
+31;1;jianping wang;zeyu zheng;a study of network throughput gain in optical wireless fiwi networks subject to peer to peer communications;0A0E755C;436150FA;2009
+32;1;jianping wang;abhay karandikar,ashwin gumaste,nasir ghani;multihop light trails mlt a solution to extended metro networks;0A0E755C;436150FA;2009
+33;1;jianping wang;mei yang,s q zheng,bin yang;dual homing based scalable partia multicast protection;10885;0965DDD6;2006
+34;1;jianping wang;zeyu zheng;interference aware and delay bounded routing in hybrid wireless optical access network;3922;436D599B;2009
+35;0;jianping wang;lin lin,xianwei zhou,xuesong zhang;cross layer routing design in cognitive radio networks by colored multigraph model;0581F5D5;02FA7055;2009
+36;1;jianping wang;xiumin wang,yinlong xu,mei yang,zeyu zheng;service composition in service oriented wireless sensor networks with persistent queries;078A8AE9;43B6A1AD;2009

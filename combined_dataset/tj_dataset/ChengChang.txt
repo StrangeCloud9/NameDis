@@ -1,0 +1,35 @@
+0;0;cheng chang;rashid ansari;real time tracking with multiple cues by set theoretic random search;0966B229;45083D2F;2005
+1;0;cheng chang;rashid ansari,ashfaq khokhar;cyclic articulated human motion tracking by sequential ancestral simulation;0966B229;45083D2F;2004
+2;0;cheng chang;rashid ansari,ashfaq khokhar;multiple object tracking with kernel particle filter;0966B229;45083D2F;2005
+3;1;cheng chang;taijun li,qiuli wu,jiafu yi;color sectors and edge features for content based image retrieval;013F8D7B;4665AEAE;2007
+4;0;cheng chang;rashid ansari;kernel particle filter iterative sampling for efficient visual tracking;0966B229;455477A7;2003
+5;0;cheng chang;rashid ansari,ashfaq khokhar;robust tracking of cyclic nonrigid motion;0966B229;455477A7;2003
+6;2;cheng chang;teiwei kuo,phone lin,yashu chen,chinfu kuo;probabilistic real time guarantees for component oriented phased array radars;15482;44E5A1B2;2004
+7;2;cheng chang;taichung wang;component oriented digital signal processors;11964;474BD8D0;1999
+8;2;cheng chang;fushin huang,yaoliang chen,chienchung chen;real time scheduling in a programmable radar signal processor;11265;44AB61E1;1997
+9;4;cheng chang;anant sahai;universal quadratic lower bounds on source coding error exponents;05B090CE;460D43CF;2007
+10;4;cheng chang;anant sahai,harikrishna r palaiyanur;the source coding game with a cheating switcher;05B090CE;4762CAF8;2007
+11;4;cheng chang;anant sahai,hari palaiyanur;the source coding game with a cheating switcher;05B090CE;4762CAF8;2011
+12;4;cheng chang;anant sahai,hari palaiyanur;the source coding game with a cheating switcher;15912;4762CAF8;2007
+13;4;cheng chang;anant sahai,stark c draper;lossless coding for distributed streaming sources;05B090CE;0044B422;2014
+14;4;cheng chang;anant sahai,stark c draper;lossless coding for distributed streaming sources;12;0B68DB42;2006
+15;4;cheng chang;anant sahai;the price of ignorance the impact of side information on delay for lossless source coding;4410;0B68DB42;2007
+16;4;cheng chang;anant sahai,harikrishna r palaiyanur;the source coding game with a cheating switcher;05B090CE;4762CAF8;2007
+17;4;cheng chang;anant sahai,hari palaiyanur;the source coding game with a cheating switcher;05B090CE;4762CAF8;2011
+18;4;cheng chang;anant sahai,hari palaiyanur;the source coding game with a cheating switcher;10055;4762CAF8;2007
+19;4;cheng chang;;joint source channel with side information coding error exponents;03E65D1D;4762CAF8;2009
+20;4;cheng chang;;joint source channel with side information coding error exponents;14765;4762CAF8;2009
+21;4;cheng chang;;interference channel capacity region for randomized fixed composition codes;03E65D1D;4762CAF8;2009
+22;4;cheng chang;david elliot shaw;interference channel capacity region for randomized fixed composition codes;6255;4762CAF8;2009
+23;4;cheng chang;;on the rate distortion function of bernoulli gaussian sequences;03E65D1D;4762CAF8;2010
+24;4;cheng chang;;on the rate distortion function of bernoulli gaussian sequences;18906;4762CAF8;2009
+25;4;cheng chang;lihua zhang,wenli xu;genetic algorithm for affine point pattern matching;05E79D01;090C990E;2003
+26;2;cheng chang;y chao,yulin su,teiwei kuo,chinfu kuo;real time dwell scheduling of component oriented phased array radars;18289;0965DDD6;2002
+27;2;cheng chang;y chao,teiwei kuo,chinfu kuo;real time dwell scheduling of component oriented phased array radars;4485;0965DDD6;2005
+28;2;cheng chang;teiwei kuo,phone lin,yashu chen,chinfu kuo;component oriented radars with probabilistic timing guarantees;13655;05CA192B;2006
+29;2;cheng chang;teiwei kuo,chinfu kuo;real time digital signal processing of phased array radars;1946;05CA192B;2003
+30;3;cheng chang;weihong wang,tao yu,qinghu li,baoyao zhou,rui liu;the design of distributed real time video analytic system;34C77BFA;472C6E2D;2009
+31;3;cheng chang;weihong wang,tao yu,qinghu li,baoyao zhou,rui liu;the design of distributed real time video analytic system;34C77BFA;472C6E2D;2009
+32;3;cheng chang;baoyao zhou;multi granularity visualization of trajectory clusters using sub trajectory clustering;8358;468A7487;2009
+33;2;cheng chang;teiwei kuo,chinfu kuo;real time digital signal processing of component oriented phased array radars;16119;4306EF42;2000
+34;1;cheng chang;tiebin tang,taijun li;a new backoff algorithm for ieee 802 11 distributed coordination function;013F8D7B;4665AEAE;2009

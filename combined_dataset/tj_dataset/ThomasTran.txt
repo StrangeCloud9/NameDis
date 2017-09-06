@@ -1,0 +1,15 @@
+0;0;thomas tran;;designing recommender systems for e commerce an integration approach;09299093;4565F956;2006
+1;0;thomas tran;alireza pourshahid;modeling trust in e commerce an approach based on user requirements;09299093;4565F956;2007
+2;0;thomas tran;;a reputation oriented reinforcement learning approach for agents in electronic marketplaces;3653;46A05BB0;2002
+3;0;thomas tran;robin cohen;a learning algorithm for buying and selling agents in electronic marketplaces;090B77B3;46A3F844;2002
+4;0;thomas tran;robin cohen;a learning algorithm for buying and selling agents in electronic marketplaces;090B77B3;46A3F844;2002
+5;0;thomas tran;robin cohen;a strategy for improved satisfaction of selling software agents in e commerce;090B77B3;46A3F844;2003
+6;0;thomas tran;robin cohen;improving user satisfaction in agent based electronic marketplaces by reputation modelling and adjustable product quality;090B77B3;45A88363;2004
+7;0;thomas tran;zhiyong weng;an intelligent agent based framework for mobile business;09299093;00B6179A;2007
+8;0;thomas tran;robin cohen;learning algorithms for software agents in uncertain and untrusted market environments;17069;47C39427;2003
+9;0;thomas tran;robin cohen;modelling reputation in agent based marketplaces to improve the performance of buying agents;090B77B3;474799EB;2003
+10;0;thomas tran;robin cohen;a reputation oriented reinforcement learning strategy for agents in electronic marketplaces;090B77B3;42CC6E2D;2002
+11;0;thomas tran;robin cohen;equilibrium of e markets populated with reputation oriented learning agents;090B77B3;09DB4213;2005
+12;1;thomas tran;kelcey chan,s felix wu,shaozhi ye,ankush garg,prantik bhattacharyya,xiaoming lu;design and implementation of davis social links osn kernel;0349EE07;4401057D;2009
+13;0;thomas tran;robin cohen;the advantages of designing adaptive business agents using reputation modeling compared to the approach of recursive modeling;090B77B3;42CC6E2D;2004
+14;0;thomas tran;;protecting buying agents in e marketplaces by direct experience trust modelling;09299093;04DFB7BE;2009

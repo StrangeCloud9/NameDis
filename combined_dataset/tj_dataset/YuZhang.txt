@@ -1,0 +1,245 @@
+0;0;yu zhang;terence sim,chew lim tan;from range data to animated anatomy based faces a model adaptation method;09E3EE34;4482B3A4;2005
+1;1;yu zhang;haohan liu,huaiqing he;a method used to dynamic scene management based on octree;4490;455477A7;2007
+2;2;yu zhang;xiaohong jiang,zhaohui wu,huajun chen,aining yin,yuxin mao,tong yu,chunying zhou,yi feng,meng cui;semantic web development for traditional chinese medicine;0489A984;46A05BB0;2008
+3;3;yu zhang;xiaofang zhou,jizhou luo,heng tao shen,jianzhong li;selectivity estimation by batch query based histogram and parametric method;09D7E4FA;46B8FFD4;2007
+4;4;yu zhang;jia sun,tao li,renchao qin;a novel immune based approach for detection of windows pe virus;01710C78;469407EC;2008
+5;5;yu zhang;;modeling role based agent team;03947360;46A3F844;2007
+6;2;yu zhang;huajun chen,zhaohui wu,xiaoqing zheng;a reputation chain trust model for the semantic web;0489A984;46C53898;2006
+7;7;yu zhang;dan feng;an active storage system for high performance computing;02D828C1;46C53898;2008
+8;8;yu zhang;liqi gao,guiping liu,ting liu;word sense language model for information retrieval;0C37CBAD;467F57A2;2006
+9;8;yu zhang;shiqi zhao,xincheng yuan,sheng li,ting liu;web mining for lexical context specific paraphrasing;0C37CBAD;467F57A2;2006
+10;8;yu zhang;jili fan,wei zheng,yu hong,ting liu;topic tracking based on keywords dependency profile;0C37CBAD;467F57A2;2008
+11;3;yu zhang;arnon accad,lachlan hurse,steve jones;web services based state of the environment reporting;09D7E4FA;43F44683;2006
+12;3;yu zhang;xiangmin zhou,gao yiyue;optimizing the data intensive mediator based web services composition;09D7E4FA;43F44683;2006
+13;2;yu zhang;huajun chen,zhaohui wu,xiaoqing zheng;a computational trust model for semantic web based on bayesian decision theory;0489A984;43F44683;2006
+14;11;yu zhang;xunhao li,yihua cao;a decision procedure for xpath satisfiability in the presence of dtd containing choice;078A8AE9;43F44683;2008
+15;13;yu zhang;slawomir lasota,david nowak;on completeness of logical relations for monadic types;4F10C1EB;46405877;2006
+16;13;yu zhang;slawomir lasota,david nowak;on completeness of logical relations for monadic types;4F10C1EB;46405877;2006
+17;5;yu zhang;richard a volz,thomas r ioerger;observation based proactive communication in team cooperation;03947360;45A88363;2005
+18;2;yu zhang;huajun chen,zhaohui wu;a social network based trust model for the semantic web;0489A984;442BF739;2006
+19;14;yu zhang;peifa jia,hongshan jiang,zhingdong deng;dynamic bayesian network dbn with structure expectation maximization sem for modeling of gene network from time series gene expression data;2526;47784D0E;2006
+20;16;yu zhang;;an open framework for remote electronic elections;06AC3B7D;45D96940;2008
+21;15;yu zhang;jinpeng huai,li lin;sustaining incentive in grid resource allocation a reinforcement learning approach;04F0A8A0;4651456C;2007
+22;0;yu zhang;eric sung,edmond c prakash;real time physically based facial expression animation using mass spring system;0A4ACFBD;44AE44DD;2001
+23;0;yu zhang;terence sim,chew lim tan;adaptation based individualized face modeling for animation using displacement map;09E3EE34;44AE44DD;2004
+24;18;yu zhang;michael s waterman;eulerian path methods for multiple sequence alignment;18923;45BD7739;2003
+25;13;yu zhang;slawomir lasota,jean goubaultlarrecq,david nowak;complete lax logical relations for cryptographic lambda calculi;4D2B1EE6;457F1F48;2004
+26;13;yu zhang;david nowak;logical relations for dynamic name creation;4D2B1EE6;457F1F48;2003
+27;19;yu zhang;dityan yeung;semi supervised discriminant analysis using robust path based similarity;0BF77E37;45083D2F;2008
+28;15;yu zhang;seda ogrenci memik,gokhan memik,song liu;a power and temperature aware dram architecture;06ACAD91;46CDFBC4;2008
+29;14;yu zhang;peifa jia,hongshan jiang,zhidong deng;inferring gene regulatory networks from multiple data sources via a dynamic bayesian network with structural em;05E79D01;44F7486F;2007
+30;0;yu zhang;;data driven facial feature morphing for 3d face synthesis;10262;4566232D;2006
+31;11;yu zhang;xiong fu,yiyun chen;data layout optimization using reuse distance distribution;078A8AE9;451FA97C;2006
+32;25;yu zhang;min tang,guanghuan hou,yinglan gong,ling xia,ligang chen;parallel solution in simulation of cardiac excitation anisotropic propagation;0489A984;06F2BC9F;2007
+33;26;yu zhang;fanzhang li;a model of context awareness agent system based on dynamic fuzzy logic;003BDEE2;4665AEAE;2007
+34;0;yu zhang;terence sim,chew lim tan;rapid modeling of 3d faces for animation using an efficient adaptation algorithm;09E3EE34;4566232D;2004
+35;24;yu zhang;jichuan zhang,dewen jin,zhixiu hao;a finite element 3d model of in vivo human knee joint based on mri for the tibiofemoral joint contact analysis;05E79D01;43331058;2007
+36;5;yu zhang;;observant and proactive communication in multi agent teamwork;03947360;478794CB;2006
+37;5;yu zhang;richard a volz,sen cao,thomas r ioerger;role based and agent oriental teamwork modeling;19908;465F7C62;2002
+38;5;yu zhang;richard a volz;proactive communication in observation based agent team corporation;4787;465F7C62;2005
+39;5;yu zhang;john yen,richard a volz,sen cao,thomas r ioerger;proactive information exchange during team cooperation;19688;465F7C62;2002
+40;5;yu zhang;michael pellon,philip l coleman;towards human decision making in multi agent systems;528;465F7C62;2007
+41;5;yu zhang;michael pellon,philip l coleman;a new load balancing scheme for distributed multi agent simulations;6187;465F7C62;2008
+42;0;yu zhang;jianfei cai,tiantian guo,chuan heng foh;improving videophone transmission over multi rate ieee 802 11e networks;0A4ACFBD;436150FA;2008
+43;14;yu zhang;xiuming shan,lin zhang;robust distributed localization with data inference for wireless sensor networks;05E79D01;436150FA;2008
+44;0;yu zhang;jianfei cai,chuan heng foh;an on off queue control mechanism for scalable video streaming over the ieee 802 11e wlan;0A4ACFBD;436150FA;2008
+45;0;yu zhang;jianfei cai,zefeng ni,chuan heng foh;scalable video transmission over the ieee 802 11e networks using cross layer rate control;0A4ACFBD;436150FA;2007
+46;0;yu zhang;terence sim,chew lim tan;simulating wrinkles in facial expressions on an anatomy based face;09E3EE34;43D2A5F0;2005
+47;29;yu zhang;wei wang,chen wang,sujian li;using proximity in query focused multi document extractive summarization;0134B592;42C200E4;2009
+48;0;yu zhang;terence sim,chew lim tan;faces alive reconstruction of animated 3d human faces;09E3EE34;470B05DE;2005
+49;0;yu zhang;;data driven feature control models for creating virtual faces;16785;470B05DE;2007
+50;0;yu zhang;li zhang,k b chua,chew lim tan;a fast and stable approach for restoration of warped document images;09E3EE34;448D1E7E;2005
+51;15;yu zhang;yunhao liu,jinpeng huai,xianxian li;access control in peer to peer collaborative systems;04F0A8A0;4789F291;2005
+52;2;yu zhang;huajun chen,zhaohui wu,xiaoqing zheng;develop a computational trust prototype for the semantic web;0489A984;45610CDA;2006
+53;25;yu zhang;guanghuan hou,ling xia;efficient solution of bidomain equations in simulation of cardiac excitation anisotropic propagation;0489A984;439B9AD2;2006
+54;4;yu zhang;tao li,renchao qin;computer virus evolution model inspired by biological dna;01710C78;439B9AD2;2008
+55;31;yu zhang;changzheng chen,yi gou,bo zhou;application of the stress waves to extract multi fault features of the low speed machinery based on blind source separation;0963600E;439B9AD2;2007
+56;25;yu zhang;yinglan gong,ling xia;application of efficient numerical methods in solution of ordinary differential equations for modeling electrical activity in cardiac cells;0489A984;439B9AD2;2007
+57;4;yu zhang;jia sun,tao li,renchao qin;an fsm based approach for malicious code detection using the self relocation gene;01710C78;439B9AD2;2008
+58;33;yu zhang;shengbo guo,jun hu,ann hodgkinson;choosing business collaborators using computing intelligence methods;0C355FDC;439B9AD2;2008
+59;0;yu zhang;eric sung,edmond c prakash;adaptive simulation of facial expressions;0A4ACFBD;432251B5;2001
+60;0;yu zhang;terence sim,chew lim tan;reanimating real humans automatic reconstruction of animated faces from range data;09E3EE34;432251B5;2004
+61;0;yu zhang;meng luo,shuhong xu;an efficient markerless method for resynthesizing facial animation on an anatomy based model;13783;432251B5;2007
+62;35;yu zhang;c j duanmu,shuihong zhou,xing chen;multi octagon grid search algorithm for fast motion estimation;10599;432251B5;2008
+63;35;yu zhang;c j duanmu,shuihong zhou,xing chen;multi octagon grid search algorithm for fast motion estimation;080F904E;432251B5;2008
+64;0;yu zhang;edmond c prakash;an example based anthropometric model for face shape synthesis;1017;432251B5;2008
+65;0;yu zhang;;muscle driven modeling of wrinkles for 3d facial expressions;968;432251B5;2008
+66;35;yu zhang;c j duanmu,shuihong zhou,xing chen;mixed diamond hexagon and cross search fast motion estimation algorithm for h 264;080F904E;432251B5;2008
+67;41;yu zhang;zhaolin wang,wilson roa,raimar lobenberg,j o h sham,warren h finlay,leticia ely;development of inhalable nanoparticles;7240;4509AF66;2004
+68;43;yu zhang;hongli zhang,binxing fang;on destination set in ip level topology measurement;0C37CBAD;446AF0D7;2008
+69;15;yu zhang;yunhao liu,jinpeng huai,xianxian li;distributed access control in crown groups;04F0A8A0;44E5A1B2;2005
+70;37;yu zhang;ke liu,zhichun mu,li yuan;ear recognition using improved non negative matrix factorization;19596;4372EE76;2006
+71;14;yu zhang;yanming zou,xiaoqing ding,changsong liu;arbitrary warped document image restoration based on segmentation and thin plate splines;05E79D01;4372EE76;2008
+72;15;yu zhang;seda ogrenci memik,gokhan memik,song liu;an approach for adaptive dram temperature and power management;06ACAD91;43C08A77;2010
+73;15;yu zhang;seda ogrenci memik,gokhan memik,song liu;an approach for adaptive dram temperature and power management;06ACAD91;43C08A77;2008
+74;46;yu zhang;xiangyu zhang,chao liu,jiawei han,bharat bhargava;indexing noncrashing failures a dynamic program slicing based approach;3153;4532399F;2007
+75;47;yu zhang;yohsuke kinouchi,q y zhang,hirofumi nagashino,z m li,fumio shichijo,masatake akutagawa;eeg source localization for two dipoles in the brain using a combined method;36FBD70F;44788D44;2005
+76;48;yu zhang;paul benninghoff,david maier,hsiaomin wu,keith billings,quan wang,kavita hatwal,bennet vance,leonard shapiro,yubo fan;exploiting upper and lower bounds in top down query optimization;17308;457D0954;2001
+77;2;yu zhang;huajun chen,zhaohui wu,hao sheng;applying hypothetical queries to e commerce systems to support reservation and personal preferences;0489A984;457D0954;2007
+78;8;yu zhang;shiqi zhao,xincheng yuan,sheng li,ting liu;automatic acquisition of context specific lexical paraphrases;0C37CBAD;47C39427;2007
+79;44;yu zhang;rami melhem,shuyi shao,alex k jones;symbolic expression analysis for compiled communication;3218;4708B833;2008
+80;44;yu zhang;rami melhem,shuyi shao,alex k jones;symbolic expression analysis for compiled communication;12147;011826DA;2011
+81;45;yu zhang;hichem besbes,celite milbrandt,b webb,alex w paek,ted burk,saf asghar;burst receiver for upstream communications over twisted pair lines;831;471752F4;2004
+82;8;yu zhang;ling wang,yingtao jiang,ru chen;a synthesis scheme for simultaneous scheduling binding partitioning and placement with resources operating at multiple voltages;1800;471752F4;2005
+83;14;yu zhang;hanyong hao,zengqi sun;fault diagnosis on satellite attitude control with dynamic neural network;05E79D01;4539ED1E;2004
+84;51;yu zhang;jie chen,fenwen cao,li shang,zhiqiang zhao;palmprint recognition using a novel sparse coding technique;859;4539ED1E;2007
+85;5;yu zhang;richard a volz;forming proactive team cooperation by observations;03947360;453637D6;2005
+86;14;yu zhang;jiaxin wang,jiahai yang,hongbo liu;a link based rank of postings in newsgroup;05E79D01;462FCD74;2007
+87;19;yu zhang;gang li,xin geng,zhihua zhou,honghua dai;learning from facial aging patterns for automatic age estimation;348EB203;43AA5802;2006
+88;49;yu zhang;youxian sun,jiming chen,jialu fan,jialiang lu;the implementation of a fully integrated scheme of self configuration and self organization fisco on imote2;0127901A;4775BF7A;2007
+89;50;yu zhang;xiaobing zheng,xingwei wang,lei guo;a new recovery escalation algorithm with load balancing and backup resources sharing in path protected wdm optical networks;00C50601;46E64AD9;2008
+90;7;yu zhang;lanxiang chen,lingfang zeng,dan feng;a direction to avoid re encryption in cryptographic file sharing;02D828C1;45827814;2007
+91;2;yu zhang;huajun chen,zhaohui wu,wenfei fan,hao sheng;extending online travel agency with adaptive reservations;0489A984;1938902;2007
+92;2;yu zhang;huajun chen,zhaohui wu,wenfei fan,hao sheng;extending online travel agency with adaptive reservations;17174;519118;2007
+93;7;yu zhang;jianhua song,fan hong;effective filtering scheme against rreq flooding attack in mobile ad hoc networks;02D828C1;45BA2C87;2006
+94;46;yu zhang;sunil prabhakar,elisa bertino,reynold cheng;preserving user location privacy in mobile data management infrastructures;0D109F83;45F841A1;2006
+95;19;yu zhang;dityan yeung;semi supervised discriminant analysis via cccp;0BF77E37;440E04A9;2008
+96;57;yu zhang;hajrudin pasic;parallel solutions of bvp s in odes based on local matching;7870;474677D8;1997
+97;55;yu zhang;houfeng wang,xu sun;chinese abbreviation definition identification a svm approach using context information;0134B592;45FD9DD4;2006
+98;18;yu zhang;michael s waterman,yi yang,lei li,anton valouev,david c schwartz,yuchi liu;alignment of optical maps;081E3F30;46DE2D44;2005
+99;18;yu zhang;michael s waterman,yi yang,lei li,anton valouev,david c schwartz,yuchi liu;alignment of optical maps;394;46DE2D44;2006
+100;18;yu zhang;adam siepel,tomas vinar,giltae song,webb miller,ericd green;reconstructing the evolutionary history of complex human gene clusters;07CB626B;46DE2D44;2008
+101;62;yu zhang;alan k mackworth;using reactive deliberation for real time control of soccer playing robots;0875EA92;45C742AD;1998
+102;62;yu zhang;alan k mackworth;a multi level constraint based controller for the dynamo98 robot soccer team;0875EA92;45C742AD;1998
+103;14;yu zhang;peifa jia,hongshan jiang,zhidong deng;gene regulatory network construction using dynamic bayesian network dbn with structure expectation maximization sem ;05E79D01;43819A5A;2006
+104;5;yu zhang;thomas r loerger,john yen,richard a volz;a decision theoretic approach for designing proactive communication in multi agent teamwork;056D3FC6;439F2D27;2004
+105;5;yu zhang;jason leezer;simulating human intuitive decisions by q learning;03947360;439F2D27;2009
+106;60;yu zhang;wade trappe,shu chen;inverting sensor networks and actuating the environment for spatio temporal access control;14392;43498F7E;2006
+107;14;yu zhang;shude zhou,zengqi sun,tangwen yang;optimal motion generation of flexible macro micro manipulator systems using estimation of distribution algorithm;05E79D01;42C0465A;2006
+108;0;yu zhang;eric sungt,edmond c prakash;hierarchical face modeling and fast 3d facial expression synthesis;0A4ACFBD;442F700A;2002
+109;5;yu zhang;;achieving flexible task delegation in role based agent teams;2587;45C7663C;2007
+110;68;yu zhang;keliang jia,xiaozhong fan,kang chen;chinese question classification based on ensemble learning;4893;46950273;2007
+111;2;yu zhang;rui wang,kangsheng chen,wenyu cai,xinyu jin;aco based qos routing algorithm for wireless sensor networks;0489A984;44D4200D;2006
+112;0;yu zhang;eric sung,edmond c prakash;instant facial modeling and animation of living humans;618;4409EED4;2002
+113;11;yu zhang;ming fu;homomorphism resolving of xpath trees based on automata;18891;45F282AE;2007
+114;65;yu zhang;shan wang,yanqin xiao,hong chen;the tradeoff of delta table merging and re writing algorithms in what if analysis application;4CD00850;45F282AE;2009
+115;0;yu zhang;;an efficient texture generation technique for human head cloning and morphing;3081;43B93A74;2006
+116;43;yu zhang;jianhua zhang,xinying gao;eigenvalue statistics and spatial characteristics in hotspot areas based on wideband mimo channel measurements;0134B592;462744F4;2008
+117;43;yu zhang;jianhua zhang,lei guan,jianing li;a comparison of broadcast strategy in mimo relay networks;8538;462744F4;2008
+118;69;yu zhang;khalil fakih,jeanfrancois diouris,yang su;modeling and throughput analysis for wireless ad hoc networks;8685;462744F4;2008
+119;43;yu zhang;ping zhang,jianhua zhang,xinying gao,guangyi liu;a generic validation framework for wideband mimo channel models;0134B592;462744F4;2008
+120;15;yu zhang;arindam mallik,gokhan memik;automated task distribution in multicore network processors using statistical analysis;06ACAD91;43D1DCC1;2007
+121;4;yu zhang;tao li,renchao qin;a novel biology inspired virus detection model with rvns;01710C78;44C93DEC;2008
+122;60;yu zhang;wade trappe,zang li;power modulated challenge response schemes for verifying location claims;06194FDE;43701CEE;2007
+123;49;yu zhang;ji chen,gaogang xie,hongxia zheng,jianhua yang;handover latency of mipv6 implementation in linux;8281;43701CEE;2007
+124;43;yu zhang;ping zhang,xin nie,jianhua zhang,di dong,guangyi liu;a novel spatial autocorrelation model of shadow fading in urban macro environments;0134B592;43701CEE;2008
+125;43;yu zhang;xin nie,jianhua zhang,zemin liu,guangyi liu;an experimental investigation of wideband mimo channel based on indoor hotspot nlos measurements at 2 35ghz;221;43701CEE;2008
+126;4;yu zhang;tao li,renchao qin;a dynamic immunity based model for computer virus detection;01710C78;519930;2008
+127;7;yu zhang;jingning liu,wei tong,dan feng;implementation of fc 1 and fc 2 layer for multi gigabit fibre channel transport;11426;03C85075;2007
+128;5;yu zhang;phillip coleman,michael pellon,jason leezer;a multi agent simulation for social agents;03947360;443CF3D6;2008
+129;71;yu zhang;shijie wang,jiaping tian,donghai su;research on the hierarchical supervisory control of underwater glider;0963600E;44250E28;2006
+130;60;yu zhang;wade trappe,r e howard,gautam bhanage;facilitating an active transmit only rfid system through receiver based processing;06194FDE;43A23F32;2007
+131;2;yu zhang;zhang jiafan,canjun yang,ying chen,jianhua li,yiming dong,tao wu;a novel 3 dof hip exoskeleton for kinematically establishing animal model of avascular necrosis of the femoral head;14383;4351B9E8;2008
+132;70;yu zhang;sheng liu,xiaoming you;real coded quantum evolutionary algorithm based on immune theory for multi modal optimization problems;08762EE7;449CDF39;2008
+133;9;yu zhang;hailing huang,weiqiang guo;a novel method for image spam filtering;05669A68;46013AA1;2008
+134;46;yu zhang;philipp hurni,torsten braun,bharat bhargava;multi hop cross layer design in wireless sensor networks a case study;0D109F83;453E289B;2008
+135;9;yu zhang;chunyi lin,shengmin jiang,lihong ma,hanqing lu;craniofacial landmark detection by layered diffusion and dilated skeleton maps;05669A68;45A0DDC1;2006
+136;0;yu zhang;eric sung,edmond c prakash;synthesis of facial expressions using a 3d anatomical model;0A4ACFBD;45A0DDC1;2002
+137;14;yu zhang;xiuming shan,lin zhang;ranking based statistical localization for wireless sensor networks;05E79D01;45563B9A;2008
+138;10;yu zhang;jitao sun;stability of impulsive infinite delay differential equations;3660;00738719;2006
+139;12;yu zhang;amitabha bose,farzan nadim;predicting the activity phase of a follower neuron with a current in an inhibitory network;070A58AF;0534F6C5;2008
+140;18;yu zhang;david c schwartz,michael s waterman,anton valouev;refinement of optical map assemblies;0810AAFA;031F7D94;2006
+141;18;yu zhang;;tree guided bayesian inference of population structures;07CB626B;031F7D94;2008
+142;0;yu zhang;eric sung,edmond c prakash;efficient modeling of an anatomy based face and fast 3d facial expression synthesis;015BDFDA;040B05A4;2003
+143;50;yu zhang;xingwei wang,xin liu,lei guo,ting yang,wei ji,ying li;new routing algorithms in trustworthy internet;00C50601;06DAD4AA;2008
+144;50;yu zhang;xiaobing zheng,xingwei wang,weigang hou,lei guo,hongpeng wang,hongming li;a new algorithm based on auxiliary virtual topology for sub path protection in wdm optical networks;11549;06DAD4AA;2009
+145;62;yu zhang;alan k mackworth;a constraint based robotic soccer team;0875EA92;048090B2;2002
+146;13;yu zhang;slawomir lasota,david nowak;on completeness of logical relations for monadic types;4F10C1EB;46405877;2006
+147;13;yu zhang;slawomir lasota,david nowak;on completeness of logical relations for monadic types;4F10C1EB;46405877;2006
+148;0;yu zhang;eric sung,edmond c prakash;hfsm hierarchical facial shape modeling algorithm for realistic facial expression animation;964;0412CB3A;2011
+149;18;yu zhang;michael s waterman;an eulerian path approach to global multiple alignment for dna sequences;1884;1755829;2004
+150;18;yu zhang;michael s waterman;an eulerian path approach to global multiple alignment for dna sequences;15506;04AEE84F;2003
+151;18;yu zhang;michael s waterman,yi yang,lei li,anton valouev,david c schwartz,yuchi liu;alignment of optical maps;081E3F30;46DE2D44;2005
+152;18;yu zhang;michael s waterman,yi yang,lei li,anton valouev,david c schwartz,yuchi liu;alignment of optical maps;1656;46DE2D44;2006
+153;20;yu zhang;norman i badler;synthesis of 3d faces using region based morphing under intuitive control;04BE3F72;05F6D6FF;2006
+154;21;yu zhang;xinyu zhang,dianqi xin,lloyd j old,q xu,yanqun na,haitao zhao,weibo jin,xiaosong wang,andrew j g simpson,changning liu,huagang zhang,weifeng chen,yi zhao,zhibin huang;hptaa database potential target genes for clinical diagnosis and immunotherapy of human carcinoma;3309;0806DF69;2006
+155;0;yu zhang;li zhang,chew lim tan;an improved physically based method for geometric restoration of distorted document images;530;0BEAEA4E;2008
+156;22;yu zhang;;a power law for connectedness of some random graphs at the critical point;0C4400FF;038E7588;1991
+157;48;yu zhang;huayong wang,kun wang,xiaowei shen;parallelization of ibm mambo system simulator in functional modes;4FF45383;02FC069B;2008
+158;23;yu zhang;huaping liu;impact of time selective fading on the performance of quasi orthogonal space time coded ofdm systems;07D2B6B9;0BB89C05;2006
+159;13;yu zhang;;cryptographic logical relations;4F10C1EB;05686292;2008
+160;0;yu zhang;jianfei cai,zefeng ni,chuan heng foh,king n ngan;optimized cross layer design for scalable video transmission over the ieee 802 11e networks;0A4ACFBD;06DD66F4;2007
+161;46;yu zhang;bharat bhargava;self learning disk scheduling;0D109F83;01D46A2B;2009
+162;0;yu zhang;eric sung,edmond c prakash;a new physical model with multilayer architecture for facial expression animation using dynamic adaptive mesh;0A4ACFBD;050D92AB;2004
+163;0;yu zhang;eric sung,edmond c prakash;face alive;11840;0C557BAC;2004
+164;0;yu zhang;eric sung,terence sim,chew lim tan;anatomy based face reconstruction for animation using multi layer deformation;09E3EE34;0C557BAC;2006
+165;6;yu zhang;jian song,feng yang,z yang,changyong pan;sage based estimation of doubly selective channel with an orthogonal polynomial model;11336;09379623;2008
+166;23;yu zhang;huaping liu;decision feedback receiver for quasi orthogonal space time coded ofdm using correlative coding over fast fading channels;07D2B6B9;03C85075;2006
+167;5;yu zhang;;a role based approach in dynamic task delegation in agent teamwork;03947360;06CDAA12;2008
+168;60;yu zhang;wade trappe,zang li;evaluation of localization attacks on power modulated challenge response systems;06194FDE;03A78696;2008
+169;27;yu zhang;song guoning,chengbin chu,chaowan yin,chengen wang;an integration architecture for process manufacturing systems;8144;0366B3F8;2002
+170;30;yu zhang;gonghuan du,chao tao;decoding digital information from the cascaded heterogeneous chaotic systems;17635;04D4239C;2011
+171;4;yu zhang;chunguang zhou,yan wang,wei du,juexin wang,chen zhang;parameters optimization of support vector regression based on immune particle swarm optimization algorithm;0B97151C;43F3068F;2009
+172;15;yu zhang;john kim,prabhat kumar,yan pan,alok choudhary,gokhan memik;firefly illuminating future network on chip with nanophotonics;06ACAD91;436EE6FE;2009
+173;28;yu zhang;jiepeng song,zaixu zhang,shuiqing fan;fuzzy chance constrained goal programming model and algorithm of oilfield measures;13062;4539ED1E;2009
+174;15;yu zhang;alok choudhary,berkin ozisikyilmaz,gokhan memik,john kim;analyzing the impact of on chip network traffic on program phases for cmps;06ACAD91;461B085B;2009
+175;16;yu zhang;;the computational slr a logic for reasoning about computational indistinguishability;06AC3B7D;47241879;2009
+176;16;yu zhang;;the computational slr a logic for reasoning about computational indistinguishability;012E6F4E;47241879;2010
+177;43;yu zhang;jianhua zhang,di dong,guangyi liu,xin nie,chen huang,yanping liang,xinying gao;propagation characteristics of wideband mimo channel in urban micro and macrocells;0134B592;44D951AC;2008
+178;5;yu zhang;duoyong sun,bin hu,jiang wu;organizational adaptative behavior the complex perspective of individuals tasks interaction;03947360;1406563;2009
+179;18;yu zhang;;poisson approximation for significance in genome wide chip chip tiling arrays;3074;031F7D94;2008
+180;6;yu zhang;feng yang,jian song,z yang,changyong pan;an em based time domain channel estimation algorithm using a priori information;1586;09F41384;2008
+181;43;yu zhang;ping zhang,jianhua zhang,guangyi liu;impact of randomized cross polarization discrimination on channel correlation property of the 3gpp spatial channel model;3563;09F41384;2009
+182;6;yu zhang;chen chi,zhixing yang;a new robust bandpass sampling scheme for multiple rf signals in sdr system;9584;09F41384;2009
+183;11;yu zhang;yong li,long li,yiyun chen;certifying concurrent programs using transactional memory;078A8AE9;09A08B9A;2009
+184;4;yu zhang;hong shen;improved approximate detection of duplicates for data streams over sliding windows;078A8AE9;09A08B9A;2008
+185;44;yu zhang;rami melhem,shuyi shao,alex k jones;symbolic expression analysis for compiled communication;19736;4708B833;2008
+186;44;yu zhang;rami melhem,shuyi shao,alex k jones;symbolic expression analysis for compiled communication;1014;011826DA;2011
+187;16;yu zhang;xiangxi li,yuxin deng;verifying anonymous credential systems in applied pi calculus;012E6F4E;45D96940;2009
+188;4;yu zhang;xianchao zhang,hui tian,hong shen;dynamically maintaining duplicate insensitive and time decayed sum using time decaying bloom filter;0056B275;42CD4D27;2009
+189;4;yu zhang;yuanda cao,baodong cheng;cnp a protocol for reducing maintenance cost of structured p2p;07802943;470B05DE;2009
+190;46;yu zhang;nwokedi idika,ruy de oliveira,bharat bhargava;addressing collaborative attacks and defense in ad hoc wireless networks;4008;4789F291;2009
+191;34;yu zhang;meixing qi,caidong gu;analysis of mixed inflammable gases based on single sensor and rbf neural network;9886;439B9AD2;2009
+192;48;yu zhang;sachiko yoshihama,frederik de keukelaere,mary ellen zurko,lin luo,scott trent;adaptive security dialogs for improved security behavior of users;4FF45383;43331058;2009
+193;44;yu zhang;alex k jones;non uniform fat meshes for chip multiprocessors;0A2510E5;4708B833;2009
+194;44;yu zhang;alex k jones;non uniform fat meshes for chip multiprocessors;0A2510E5;4708B833;2011
+195;19;yu zhang;dityan yeung;semi supervised multi task regression;0BF77E37;440E04A9;2009
+196;19;yu zhang;dityan yeung;heteroscedastic probabilistic linear discriminant analysis with semi supervised extension;0BF77E37;440E04A9;2009
+197;18;yu zhang;chihhao hsu,ross c hardison,webb c miller;whole genome analysis of gene conversion events;07CB626B;46DE2D44;2009
+198;11;yu zhang;yong li,ming fu;formal reasoning about concurrent assembly code with reentrant locks;9973;467A131E;2009
+199;14;yu zhang;xiaoqing ding,changsong liu,kongqiao wang;restoring warped document image through segmentation and full page interpolation;05E79D01;47797088;2009
+200;32;yu zhang;xing she zhou,marimuthu palaniswami;insider dos attacks on epidemic propagation strategies of network reprogramming in wireless sensor networks;4129;45E5BC3F;2009
+201;5;yu zhang;walter m potter,stephen r foster,bin hu,jiang wu;a history sensitive cascade model in diffusion networks;03947360;443CF3D6;2009
+202;5;yu zhang;jason leezer;emergence of social norms in complex networks;03947360;462C0072;2009
+203;50;yu zhang;jiannong cao,xuekui wang,weigang hou,lei guo,xiaobing zheng;a survivable routing algorithm with differentiated domain protection based on a virtual topology graph in multi domain optical networks;00C50601;0B7B9B75;2009
+204;5;yu zhang;bin hu,jiang wu,steven b hall,kathleen m carley,catherine spence;an agent based simulation study for exploring organizational adaptation;03947360;01F107E4;2009
+205;10;yu zhang;jitao sun;boundedness of the solutions of impulsive differential systems with time varying delay;06F892B4;03009DEA;2004
+206;46;yu zhang;nwokedi idika,mehdi azarmi,leszek lilien,bharat bhargava;collaborative attacks in wimax networks;0D109F83;07317C5E;2009
+207;15;yu zhang;jinpeng huai,li lin;balancing trust and incentive in peer to peer collaborative system;04F0A8A0;0B4CB45D;2007
+208;0;yu zhang;shuhong xu;data driven feature based 3d face synthesis;163;4482B3A4;2007
+209;39;yu zhang;dongdong chen,seokbum ko,younhee choi,moon ho lee;a 32 bit decimal floating point logarithmic converter;18441;475A7738;2009
+210;48;yu zhang;shun xiang yang,vugranam c sreedhar,lin luo;adaptive rule loading and session control for securing web delivered services;4FF45383;06D6C9D4;2009
+211;42;yu zhang;chunjie qi,yu zhao;the interaction between chinese export price and world import price of tangerines;3668;43E4D7A4;2009
+212;40;yu zhang;dechang pi;a trajectory clustering algorithm based on symmetric neighborhood;348EB203;46AB47BD;2009
+213;42;yu zhang;chunjie qi,yu zhao;cost comparison and control based on glm and panel data model evidence from major citrus producing areas in china;023B9EF3;454CA326;2009
+214;36;yu zhang;zhenhong yuan,jingliang xu;modeling and prediction in the enzymatic hydrolysis of cellulose using artificial neural networks;3999;943228;2009
+215;2;yu zhang;huajun chen,xiaohong jiang,tong yu,linhua zhou,hao sheng;content based trust mechanism for e commerce systems;0489A984;459777C0;2008
+216;38;yu zhang;xie fang,wang gang,liu xiaoguang,li ang;the performance of erasure codes used in ft mpi;9483;1263528;2009
+217;58;yu zhang;nannan zhao;localized and integrated topology maintenance for wireless sensor networks;0134B592;46BF2DF2;2009
+218;59;yu zhang;hanwen luo,wen chen;efficient relay beamforming design with sic detection for dual hop mimo relay networks;0AE9651A;00A6DF1F;2010
+219;59;yu zhang;hanwen luo,wen chen;efficient relay beamforming design with sic detection for dual hop mimo relay networks;5392;0B68DB42;2009
+220;2;yu zhang;huajun chen,xiaohong jiang,zhaohui wu,hao sheng;rcctrust a combined trust model for electronic community;0489A984;09A08B9A;2009
+221;0;yu zhang;eric sung;edfces a new example driven 3d face construction and editing system;04BE3F72;1638749;2008
+222;50;yu zhang;xuekui wang,lei guo,xiaobing zheng;differentiated domain protection algorithm based on virtual topology graph in multi domain optical networks;00C50601;436D599B;2009
+223;56;yu zhang;qiongli liu,youyun xu,yueming cai,weiwei yang;a novel trust based cooperative node selection scheme in wireless sensor networks;2883;436D599B;2009
+224;43;yu zhang;hongli zhang,ying liu;modeling internet link delay based on measurement;0C37CBAD;560961;2009
+225;10;yu zhang;jitao sun;eventual practical stability of impulsive differential equations with time delay in terms of two measurements;06F892B4;09DCED85;2005
+226;60;yu zhang;zhiyuan chen,jia wang;image disorientation auto recovery;13459;985739;1999
+227;52;yu zhang;musheng yang;a coordinate spc model for assuring designated fit quality via quality oriented statistical tolerancing;071AE4C7;0BBB40EA;2009
+228;53;yu zhang;d blain,m mcgovern,wang jixin,sylvain g leblanc,r s s fraser,ian olthof,chen wenjun,li junhua,k keohler;biomass measurements and relationships with landsat 7 etm and jers 1 sar data over canada s western sub arctic and low arctic;4DE7174B;06FF8E18;2009
+229;54;yu zhang;guanquan zhang;an iterative method for the inversion of the two dimensional wave equation with a potential;13643;08DD21F7;1998
+230;5;yu zhang;thomas r loerger,john yen,richard a volz;a decision theoretic approach for designing proactive communication in multi agent teamwork;056D3FC6;439F2D27;2004
+231;11;yu zhang;lei zhao;implementing atomic section by using hybrid concurrent control;078A8AE9;45827814;2007
+232;14;yu zhang;peifa jia,zhidong deng;a new dynamic bayesian network for integrating multiple data in estimating gene networks;05E79D01;4539ED1E;2007
+233;62;yu zhang;alan k mackworth;using reactive deliberation for real time control of soccer playing robots;0875EA92;45C742AD;1998
+234;62;yu zhang;alan k mackworth;a multi level constraint based controller for the dynamo98 robot soccer team;0875EA92;45C742AD;1998
+235;67;yu zhang;s burintramart,michael c wicks,t k sarkar;performance comparison between statistical based and direct data domain staps;043B1E1B;03D25C92;2007
+236;66;yu zhang;shuhua liu,chenmu yu,jie liu;research on ai planning based modeling method for area traffic signal control;6479;1245274;2009
+237;42;yu zhang;chunjie qi,yu zhao;transaction behavior and volatility of price signals in futures market;7571;46F3DAAB;2009
+238;64;yu zhang;wei ni;inverse system decoupling control for induction motor based on neural network on line learning;13072;1545276;2009
+239;66;yu zhang;shuhua liu,hongyan wu,jie liu;a pursuit evasion algorithm based on hierarchical reinforcement learning;12235;42CC6E2D;2009
+240;8;yu zhang;shiqi zhao,lin zhao,sheng li,ting liu;hit web based scoring method for english lexical substitution;0C37CBAD;46DAB993;2007
+241;0;yu zhang;eric sung,edmond c prakash;anatomy based 3d facial modeling for expression animation;015BDFDA;0B68DB42;2002
+242;63;yu zhang;jingqiao zhang,qidan zhu;design of fuzzy neural network controller for marine steam turbine system;090B2C79;1507502;2008
+243;61;yu zhang;yongxiu he,shuo liu,yan li,lifang yang;comparative research on power input and efficiency of china s typical cities based on extension model of dea;0925D0AE;761077;2008
+244;50;yu zhang;xuekui wang,lei guo,xiaobing zheng;a new sub path protection algorithm based on auxiliary virtual topology in wdm optical networks;00C50601;45BA0A3D;2008

@@ -1,0 +1,90 @@
+0;0;shu lin;ivana djurdjevic,khaled a s abdelghaffar,jun xu;a class of low density parity check codes constructed based on reed solomon codes with two information symbols;050513B0;4762CAF8;2003
+1;0;shu lin;ivana djurdjevic,khaled a s abdelghaffar,jun xu;a class of low density parity check codes constructed based on reed solomon codes with two information symbols;050513B0;4762CAF8;2003
+2;0;shu lin;behshad memari,ying yu tai,lan lan,bahram honary;new constructions of quasi cyclic ldpc codes based on two classes of balanced incomplete block designs for awgn and binary erasure channels;0349EE07;4762CAF8;2006
+3;0;shu lin;ying yu tai,lan lan,lei chen,lingqi zeng,khaled a s abdelghaffar;algebraic constructions of quasi cyclic ldpc codes part i for awgn and binary random erasure channels;050513B0;4762CAF8;2006
+4;0;shu lin;robert h moreloszaragoza;some results on linear unequal error protection codes specified by their generator matrix;0708044B;02A790AB;1991
+5;0;shu lin;shumei song,lan lan,ying yu tai,lingqi zeng,khaled a s abdelghaffar;algebraic construction of quasi cyclic ldpc codes part ii for awgn and binary random and burst erasure channels;0349EE07;4762CAF8;2006
+6;1;shu lin;rajiv d banker,indranil bardhan,hsihui chang;impact of manufacturing practices on adoption of plant information systems;412;43F65246;2003
+7;0;shu lin;sandeep rajpal,do jun rhee;low complexity and high performance multilevel coded modulation for the awgn and rayleigh fading channels;0708044B;434C5E01;1993
+8;0;shu lin;m tamer ozsu,vincent oria,paul j iglinski;similarity queries in the disima image dbms;4FF45383;43AA5802;2001
+9;0;shu lin;m tamer ozsu,vincent oria,bin yao,paul j iglinski;disima a distributed and interoperable image database system;093456D7;460A7036;2000
+10;0;shu lin;m tamer ozsu,vincent oria,raymond t ng;an extendible hash for multi precision similarity querying of image databases;8081;4390334E;2001
+11;0;shu lin;shumei song,lan lan,ying yu tai,lingqi zeng,bo zhou;construction of high performance and efficiently encodable nonbinary quasi cyclic ldpc codes;8271;43701CEE;2006
+12;0;shu lin;shumei song,zhi ding,Khaled A. S. Abdel-Ghaffar,marc p c fossorier;cyclic codes for correcting bursts of errors or erasures with iterative decoding;17858;43701CEE;2006
+13;0;shu lin;zhi ding,jingyu kang,li zhang;a two stage iterative decoding of ldpc codes for lowering error floors;050513B0;43701CEE;2008
+14;0;shu lin;branka vucetic;block coded modulation and concatenated coding schemes for error control on fading channels;14073;0A3C919D;1991
+15;0;shu lin;maochao lin;codes with multi level error correcting capabilities;4F5B50D5;01206F2B;1990
+16;0;shu lin;e j weldon;long bch codes are bad;1804;03928357;1967
+17;0;shu lin;kaiping yiu;an improvement to multifold euclidean geometry codes;7449;03928357;1975
+18;0;shu lin;george markowsky;on a class of one step majority logic decodable cyclic codes;9518;06576259;2008
+19;0;shu lin;lei chen,ivana djurdjevic,jun xu;near shannon limit quasi cyclic low density parity check codes;050513B0;43701CEE;2003
+20;0;shu lin;lei chen,ivana djurdjevic,jun xu;near shannon limit quasi cyclic low density parity check codes;050513B0;0BB89C05;2004
+21;0;shu lin;lei chen,lingqi zeng,zongwang li,w fong;efficient encoding of quasi cyclic low density parity check codes;10213;43701CEE;2005
+22;0;shu lin;wai h fong,lei chen,lingqi zeng,zongwang li;efficient encoding of quasi cyclic low density parity check codes;12806;43701CEE;2005
+23;0;shu lin;lei chen,lingqi zeng,zongwang li,w fong;efficient encoding of quasi cyclic low density parity check codes;9475;43701CEE;2005
+24;0;shu lin;wai h fong,lei chen,lingqi zeng,zongwang li;efficient encoding of quasi cyclic low density parity check codes;5135;43701CEE;2005
+25;0;shu lin;cathy ye liu;turbo encoding and decoding of reed solomon codes through binary decomposition and self concatenation;1997;0BB89C05;2004
+26;0;shu lin;lei chen,lan lan,lingqi zeng,jun xu;construction of low density parity check codes by superposition;050513B0;0BB89C05;2005
+27;0;shu lin;behshad memari,ying yu tai,lan lan,bahram honary;new constructions of quasi cyclic ldpc codes based on special classes of bibds for the awgn and binary erasure channels;7211;0BB89C05;2007
+28;0;shu lin;lan lan,ying yu tai,lingqi zeng,khaled a s abdelghaffar;algebraic construction of quasi cyclic ldpc codes for the awgn and erasure channels;0349EE07;0BB89C05;2006
+29;0;shu lin;behshad memari,ying yu tai,lan lan,bahram honary;new constructions of quasi cyclic ldpc codes based on special classes of bidbs for the awgn and binary erasure channels;2022;0BB89C05;2008
+30;0;shu lin;shumei song,lan lan,ying yu tai,lingqi zeng,khaled a s abdelghaffar;transactions papers constructions of nonbinary quasi cyclic ldpc codes a finite field approach;508;0BB89C05;2008
+31;0;shu lin;lan lan,ying yu tai,lingqi zeng,khaled a s abdelghaffar,bo zhou;construction of nonbinary cyclic quasi cyclic and regular ldpc codes a finite geometry approach;0349EE07;0BB89C05;2008
+32;0;shu lin;yu kou,bassem ammar,jun xu,bahram honary;construction of low density parity check codes based on balanced incomplete block designs;5632;0044B422;2004
+33;0;shu lin;h c ferreira;error and erasure control d k block codes;13110;0044B422;1991
+34;0;shu lin;marc p c fossorier;differential trellis decoding of convolutional codes;7112;0044B422;2000
+35;0;shu lin;marc p c fossorier;error performance analysis for reliability based decoding algorithms;15516;4762CAF8;2002
+36;0;shu lin;marc p c fossorier;soft decision decoding of linear block codes based on ordered statistics;4F5B50D5;4762CAF8;1994
+37;0;shu lin;marc p c fossorier;soft decision decoding of linear block codes based on ordered statistics;4F5B50D5;0044B422;1995
+38;0;shu lin;marc p c fossorier;correction to soft decision decoding of linear block codes based on ordered statistics sep 95 1379 1396 ;13093;0044B422;1996
+39;0;shu lin;marc p c fossorier;computationally efficient soft decision decoding of linear block codes based on ordered statistics;4F5B50D5;0044B422;1996
+40;0;shu lin;marc p c fossorier;first order approximation of the ordered binary symmetric channel;12392;4762CAF8;1995
+41;0;shu lin;marc p c fossorier;first order approximation of the ordered binary symmetric channel;4F5B50D5;0044B422;1996
+42;0;shu lin;marc p c fossorier;weight distribution for closest coset decoding of u u v constructed codes;10270;0044B422;1997
+43;0;shu lin;marc p c fossorier;complementary reliability based decodings of binary linear block codes;17347;0044B422;1997
+44;0;shu lin;marc p c fossorier;some decomposable codes the a x b x a b x construction;9190;0044B422;1997
+45;0;shu lin;marc p c fossorier;a unified method for evaluating the error correction radius of reliability based soft decision algorithms for linear block codes;1528;0044B422;1998
+46;0;shu lin;d j costello,marc p c fossorier;on the weight distribution of terminated convolutional codes;8497;0044B422;1999
+47;0;shu lin;dojun rhee,marc p c fossorier;bit error probability for maximum likelihood decoding of linear block codes and related soft decision decoding methods;15236;0044B422;1998
+48;0;shu lin;jakov snyders,marc p c fossorier;reliability based syndrome decoding of linear block codes;10873;0044B422;1998
+49;0;shu lin;tadao kasami,hiroshi yamamoto,toru fujiwara;a trellis based recursive maximum likelihood decoding algorithm for binary linear block codes;17162;0044B422;1998
+50;0;shu lin;victor k wei,saburo yamamura,tadao kasami;coding for the binary symmetric broadcast channel with two receivers;6402;0044B422;1985
+51;0;shu lin;tadao kasami,toru fujiwara,toyoo takata;on linear structure and phase rotation invariant properties of block m psk modulation codes;10398;0044B422;1991
+52;0;shu lin;tadao kasami,toru fujiwara,toyoo takata;on multilevel block modulation codes;11338;0044B422;1991
+53;0;shu lin;tadao kasami,toru fujiwara,toyoo takata;on the optimum bit orders with respect to the state complexity of trellis diagrams for binary linear codes;11119;0044B422;1993
+54;0;shu lin;tadao kasami,torleiv klove;linear block codes for error detection;11366;0044B422;1983
+55;0;shu lin;tadao kasami,toru fujiwara,toyoo takata;on complexity of trellis structure of linear block codes;3578;4762CAF8;1993
+56;0;shu lin;victor k wei,tadao kasami,saburo yamamura;graph theoretic approaches to the code construction for the two user multiple access binary adder channel;2887;0044B422;1983
+57;0;shu lin;tadao kasami,tohru fujiwara;an approximation to the weight distribution of binary linear codes;18475;0044B422;1985
+58;0;shu lin;tadao kasami,toru fujiwara,toyoo takata;a cascaded coding scheme for error control and its performance analysis;12123;0044B422;1988
+59;0;shu lin;yu kou,marc p c fossorier;low density parity check codes based on finite geometries a rediscovery and new results;10101;0044B422;2001
+60;0;shu lin;takuya koumoto,tadao kasami,toyoo takata;a low weight trellis based iterative soft decision decoding algorithm for binary linear block codes;4372;0044B422;1999
+61;0;shu lin;mingchieh lin;cyclic unequal error protection codes constructed from cyclic codes of composite length;19493;0044B422;1988
+62;0;shu lin;chichang lin,maochao lin;computer search for binary cyclic uep codes of odd length up to 65;18019;0044B422;1990
+63;0;shu lin;victor k wei;nonhomogeneous trellis codes for the quasi synchronous multiple access binary adder channel with two users;9902;0044B422;1986
+64;0;shu lin;tadao kasami,hari t moorthy;soft decision decoding of binary linear block codes based on an iterative search algorithm;2745;4762CAF8;1995
+65;0;shu lin;tadao kasami,hari t moorthy;soft decision decoding of binary linear block codes based on an iterative search algorithm;6743;0044B422;1997
+66;0;shu lin;tadao kasami,toru fujiwara,robert h moreloszaragoza;constructions of generalized concatenated codes and their trellis based decoding complexity;8425;0044B422;1999
+67;0;shu lin;tadao kasami,toru fujiwara,robert h moreloszaragoza;constructions of generalized concatenated codes and their trellis based decoding complexity;19123;1221037;1999
+68;0;shu lin;tadao kasami,toru fujiwara,robert morelos zaragoza;constructions of generalized concatenated codes and their trellis based decoding complexity;14250;0044B422;1999
+69;0;shu lin;robert h moreloszaragoza;on a class of optimal nonbinary linear unequal error protection codes for two sets of messages;4F5B50D5;0044B422;1994
+70;0;shu lin;robert h moreloszaragoza;on a class of optimal nonbinary linear unequal error protection codes for two sets of messages;11240;1957470;1994
+71;0;shu lin;robert morelos zaragoza;on a class of optimal nonbinary linear unequal error protection codes for two sets of messages;3418;0044B422;1994
+72;0;shu lin;robert h moreloszaragoza;qpsk block modulation codes for unequal error protection;13309;0044B422;1995
+73;0;shu lin;robert h moreloszaragoza;qpsk block modulation codes for unequal error protection;4182;1612706;1995
+74;0;shu lin;robert morelos zaragoza;qpsk block modulation codes for unequal error protection;16169;0044B422;1995
+75;0;shu lin;robert h moreloszaragoza;on primitive bch codes with unequal error protection capabilities;3685;0044B422;1995
+76;0;shu lin;robert h moreloszaragoza;on primitive bch codes with unequal error protection capabilities;18269;558370;1995
+77;0;shu lin;robert morelos zaragoza;on primitive bch codes with unequal error protection capabilities;19989;0044B422;1995
+78;0;shu lin;satoshi ujita,tadao kasami,toyoo takata;multistage decoding of multilevel block m psk modulation codes and its performance analysis;4287;0044B422;1993
+79;0;shu lin;yuji yamashita,tadao kasami,toyoo takata,toru fujiwara;suboptimum decoding of decomposable block codes;1813;0044B422;1994
+80;0;shu lin;heng tang,yu kou,khaled a s abdelghaffar,jun xu;on algebraic construction of gallager and circulant low density parity check codes;3790;0044B422;2004
+81;0;shu lin;heng tang,khaled a s abdelghaffar,jun xu;codes on finite geometries;3610;0044B422;2005
+82;0;shu lin;lei chen,ivana djurdjevic,khaled a s abdelghaffar,jun xu;construction of regular and irregular ldpc codes geometry decomposition and masking;3960;0044B422;2007
+83;0;shu lin;lan lan,ying yu tai,lingqi zeng,lei chen,khaled a s abdelghaffar;construction of quasi cyclic ldpc codes for awgn and binary erasure channels a finite field approach;3121;0044B422;2007
+84;0;shu lin;jingyu kang,xiaoheng chen,venkatesh akella;accelerating fpga based emulation of quasi cyclic ldpc codes with vector processing;050513B0;463BE6FF;2009
+85;0;shu lin;shumei song,khaled a s abdelghaffar,bo zhou;a unified approach to the construction of binary and nonbinary quasi cyclic ldpc codes based on finite fields;050513B0;0BB89C05;2009
+86;0;shu lin;zhi ding,ying yu tai,jingyu kang,bo zhou;high performance non binary quasi cyclic ldpc codes on euclidean geometries;050513B0;0BB89C05;2009
+87;0;shu lin;tadao kasami,marc p c fossorier;trellises and trellis based decoding algorithms for linear block codes;14351;1988734;1998
+88;0;shu lin;m tamer ozsu,vincent oria,bin yao,paul j iglinski;disima a distributed and interoperable image database system;093456D7;460A7036;2000
+89;0;shu lin;d j costello;error control coding second edition;1102;1518943;2004

@@ -1,0 +1,46 @@
+0;0;yoshio tanaka;epifanio bagarinao;baxsql a functional mri data management tool for the medical grid using ninf g;04634070;42C62517;2006
+1;0;yoshio tanaka;naotaka yamamoto,hirokazu yamamoto,satoshi tsuchida,ryosuke nakamura,isao kojima,satoshi sekiguchi;geo grid grid infrastructure for integration of huge satellite imagery and geoscience data setsets;04634070;42C62517;2006
+2;0;yoshio tanaka;hidemoto nakada,yusuke tanimura,satoshi sekiguchi;design and implementation of distributed task sequencing on gridrpc;04634070;42C62517;2006
+3;0;yoshio tanaka;satoshi sekiguchi,yingwen song,hiroshi takemiya;dynamic resource allocation based on on the fly reservation;04634070;42C62517;2006
+4;0;yoshio tanaka;satoshi sekiguchi,yingwen song,hiroshi takemiya;web service based dynamic resource and job managements for large scale and long time grid computations;9540;42C62517;2007
+5;0;yoshio tanaka;hidemoto nakada,tomohiro kudoh,makoto kishimoto,atsuko takefusa,katsuhiko ookubo,satoshi sekiguchi;design and implementation of a local scheduling system with advance reservation for co allocation on the grid;04634070;42C62517;2006
+6;0;yoshio tanaka;satoshi sekiguchi,kazuyuki shudo;p3 p2p based middleware enabling transfer and aggregation of computational resources;2338;4651456C;2005
+7;0;yoshio tanaka;shahaan ayyub,mason j katz,colin enticott,bu sung lee,osamu tatebe,david m abramson,phil papadopoulos,sugree phatanapherom,putchong uthayopas,s sriprayoonsakul,slavisa garic,jaehyuck kwak,yusuke tanimura,cindy zheng,peter arzberger;the pragma testbed building a multi application international grid;17801;4651456C;2006
+8;0;yoshio tanaka;atsushi maeda,masakazu nakanishi,shogo matsui;partial marking gc;0C280BFF;44E5A1B2;1994
+9;0;yoshio tanaka;naoyuki nakada,shigeaki sekiguchi,hiroshi takemiya;design implementation and performance evaluation of gridrpc programming middleware for a large scale computational grid;04634070;46405877;2004
+10;0;yoshio tanaka;jun maki,toshiya takami,mika aoyagi,takeshi ikegami,masatoshi yokokawa,satoshi sekiguchi;gridfmo quantum chemistry of proteins on the grid;16510;46405877;2007
+11;0;yoshio tanaka;motohiko matsuda,mitsuhisa sato,kazuto kubota;network interface active messages for low overhead communication on smp pc clusters;18053;44BF398F;1999
+12;0;yoshio tanaka;motohiko matsuda,mitsuhisa sato,kazuto kubota;network interface active messages for low overhead communication on smp pc clusters;19704;44BF398F;2000
+13;0;yoshio tanaka;shigehisa satoh,kazuhiro kusano,mitsuhisa sato,motohiko matsuda;parallelization of saprse cholesky factorization on an smp cluster;7575;44BF398F;1999
+14;0;yoshio tanaka;hidemoto nakada,mitsuhisa sato,satoshi sekiguchi,motonori hirano;performance evaluation of a firewall compliant globus based wide area cluster system;18046;440F51B1;2000
+15;1;yoshio tanaka;masaru shikano,toshio fukuda,fumihito arai,yasunori abe;vision based navigation system by variable template matching for autonomous mobile robots;15205;455FBCE1;1998
+16;1;yoshio tanaka;masaru shikano,toshio fukuda,fumihito arai,yasunori abe;vision based navigation system for autonomous mobile robot with global matching;18759;455FBCE1;1999
+17;1;yoshio tanaka;koetsu tanaka,hidemi hosokai,fumio hara,yasunori abe,yasuyuki uchida;mechanism and control of mobile pipeline maintenance robot with lazy tongs mechanism;14384;455FBCE1;1995
+18;0;yoshio tanaka;motohiko matsuda,mitsuhisa sato i,makoto ando,kazuto kubota;compas a pentium pro pc based smp cluster and its experience;18218;45B9D64F;1998
+19;0;yoshio tanaka;mitsuhisa sato,motonori hirano;opengr a directive based grid programming environment;04634070;44BF398F;2003
+20;0;yoshio tanaka;mitsuhisa sato,motonori hirano;opengr a directive based grid programming environment;04634070;44BF398F;2005
+21;0;yoshio tanaka;hidemoto nakada,satoshi sekiguchi,yingwen song,hiroshi takemiya;grplib a web service based framework supporting sustainable execution of large scale and long time grid applications;13523;4737FD14;2008
+22;0;yoshio tanaka;hidemoto nakada,mitsuhisa sato,satoshi sekiguchi,motonori hirano;resource manager for globus based wide area cluster computing;12350;1462339;1999
+23;0;yoshio tanaka;atsushi maeda,masakazu nakanishi,shogo matsui;complementary garbage collector;0C280BFF;4527A09C;1995
+24;0;yoshio tanaka;hidemoto nakada,satoshi sekiguchi,toyotaro suzumura,m saito,satoshi matsuoka;the ninf portal an automatic generation tool for grid portals;06D39D72;1207875;2002
+25;0;yoshio tanaka;hidemoto nakada,satoshi sekiguchi,atsuko takefusa,tomohiro kudoh;gridars an advance reservation based grid co allocation framework for distributed computing and network resources;04634070;42ECFC7D;2007
+26;0;yoshio tanaka;mitsuhisa sato,hiroshi tezuka,motohiko matsuda,kazuto kubota,atsushi hori,yutaka ishikawa;communication performance of gigabit lan workstation cluster rwc wsc;6996;474677D8;1998
+27;0;yoshio tanaka;shuji ogata,aiichiro nakano,rajiv k kalia,satoshi sekiguchi,priya vashishta,hiroshi takemiya;grid applications sustainable adaptive grid supercomputing multiscale simulation of semiconductor processing across the pacific;15850;44BF398F;2006
+28;0;yoshio tanaka;tadashi ebara,hidetomo nakada,satoshi sekiguchi,hirotaka ogawa,takeshi yokoi,yusuke tanimura,takahiro hirofuchi;a multi site virtual cluster system for wide area networks;04634070;521785;2008
+29;0;yoshio tanaka;mitsuhisa sato,satoshi sekiguchi,motonari hirano;omnirpc a grid rpc facility for cluster and global computing in openmp;10459;46528AF2;2001
+30;0;yoshio tanaka;satoshi sekiguchi,kazuyuki shudo;overlay weaver an overlay construction toolkit;04634070;06DAD4AA;2008
+31;0;yoshio tanaka;motohiko matsuda,mitsuhisa sato,kazuto kubota;network interface active messages for low overhead communication on smp pc clusters;1720;44BF398F;1999
+32;0;yoshio tanaka;motohiko matsuda,mitsuhisa sato,kazuto kubota;network interface active messages for low overhead communication on smp pc clusters;11447;44BF398F;2000
+33;0;yoshio tanaka;hidemoto nakada,tsutomu ikegami,yusuke tanimura,satoshi sekiguchi;implementation of fault tolerant gridrpc applications;04634070;085B8F4B;2006
+34;0;yoshio tanaka;satoshi sekiguchi,kazuyuki shudo,hiroshi takemiya;constructing grid applications using standard grid middleware;17835;085B8F4B;2003
+35;0;yoshio tanaka;hidemoto nakada,satoshi sekiguchi,toyotaro suzumura,satoshi matsuoka;ninf g a reference implementation of rpc based programming middleware for grid computing;04634070;085B8F4B;2003
+36;0;yoshio tanaka;mitsuhisa sato,motonori hirano;opengr a directive based grid programming environment;04634070;44BF398F;2003
+37;0;yoshio tanaka;mitsuhisa sato,motonori hirano;opengr a directive based grid programming environment;04634070;44BF398F;2005
+38;0;yoshio tanaka;eiko takaoka,masakazu nakanishi;implementation and evaluation of adaptive garbage collection;5185;03782FAF;2000
+39;0;yoshio tanaka;shahaan ayyub,colin enticott,c zheng,bu sung lee,putchong uthayopas,david m abramson,yusuke tanimur,sugree phatanapherom,s sriprayoonsakul,mason j katz,p papadopoulos,wojtek goscinski,slavisa garic,peter arzberger;lessons learned through driving science applications in the pragma grid;04634070;0BEC7B57;2007
+40;0;yoshio tanaka;shuji ogata,aiichiro nakano,satoshi sekiguchi,yingwen song,hiroshi takemiya;the grid enablement and sustainable simulation of multiscale physics applications;7619;4651456C;2009
+41;0;yoshio tanaka;hidemoto nakada,shuichi okamoto,tomohiro kudoh,yasunori sameshima,masahiko jinno,wataru imajuku,michiaki hayashi,naohide nagatsu,atsuko takefusa,hideaki tanaka,takahiro miyamoto,tomohiro otani,masatoshi suzuki,satoshi sekiguchi,yoshihiro takigawa;g lambda coordination of a grid scheduler and lambda path service over gmpls;04634070;0B1B95C6;2006
+42;0;yoshio tanaka;jun maki,toshiya takami,mika aoyagi,takeshi ikegami,masatoshi yokokawa,satoshi sekiguchi;gridfmo quantum chemistry of proteins on the grid;16844;46405877;2007
+43;0;yoshio tanaka;hidemoto nakada,satoshi matsuoka,satoshi sekiguchi;the design and implementation of a fault tolerant rpc system ninf c;9401;44BF398F;2004
+44;0;yoshio tanaka;toshitsugu yuba,hiromasa watanabe,mitsuhisa sato,hiroki honda,shigeru tanaka;relis g remote library install system for computational grids;12822;44BF398F;2004
+45;0;yoshio tanaka;naotaka yamamoto,satoshi itoh,satoshi sekiguchi,hiroshi takemiya,motonori hirano;grid pse builder a framework for building web based distributed pse on grid;10595;44BF398F;2004

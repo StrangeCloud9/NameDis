@@ -1,0 +1,188 @@
+0;0;bing liu;;web data mining exploring hyperlinks contents and usage data;14047;1762557;2007
+1;0;bing liu;yang genxing,shi baile,yan heping,wang wei,yang xiaoming;controlling fd and mvd inferences in mls;017C99DB;42C62517;2005
+2;0;bing liu;haofeng zhou,wei wang,yongsheng xue,jiangjiao duan,baile shi;incorporating with recursive model training in time series clustering;16414;42C62517;2005
+3;0;bing liu;lili lin,baile shi,yuliang shi,fangfang liu,liang zhang;a formal specification for web services composition and verification;017C99DB;42C62517;2005
+4;0;bing liu;xiaoming yang,wei wang,zhibin wang,bole shi,shouzhi zhang;non almost derivable frequent itemsets mining;017C99DB;42C62517;2005
+5;0;bing liu;minqing hu;mining opinion features in customer reviews;0259891E;46A05BB0;2004
+6;0;bing liu;minqing hu;opinion extraction and summarization on the web;0259891E;46A05BB0;2006
+7;0;bing liu;nitin jindal;mining comparative sentences and relations;0259891E;46A05BB0;2006
+8;0;bing liu;wynne hsu;post analysis of learned rules;09E3EE34;46A05BB0;1996
+9;0;bing liu;wynne hsu,minqing hu;intuitive representation of decision trees using general rules and exceptions;09E3EE34;46A05BB0;2000
+10;0;bing liu;joxan jaffar;using constraints to model disjunctions in rule based reasoning;09E3EE34;46A05BB0;1996
+11;0;bing liu;xiaoli li,philip s yu,wee sun lee;text classification by labeling words;16884;46A05BB0;2005
+12;0;bing liu;yanhong zhai;automatic wrapper generation using tree matching and partial tree alignment;17383;46A05BB0;2006
+13;7;bing liu;ivan blecic,giuseppe a trunfio,arnaldo cecchini,wei zang,jian zhou;towards a multi agent model for planning and design of exposition spaces;06F892B4;46CC45CE;2008
+14;8;bing liu;guoyi zhang,huaping chen,shijin xu;a grid based system for the multi reservoir optimal scheduling in huaihe river basin;078A8AE9;43F44683;2006
+15;0;bing liu;yiyuan xia,philip s yu;clustering through decision tree construction;09E3EE34;472C6E2D;2000
+16;0;bing liu;xin li;mining community structure of named entities from free text;0259891E;472C6E2D;2005
+17;0;bing liu;xiaoli li,tongheng phang,minqing hu;using micro information units for internet search;0259891E;472C6E2D;2002
+18;0;bing liu;chu xu,ke wang;clustering transactions using large items;09E3EE34;472C6E2D;1999
+19;0;bing liu;kaidi zhao,weimin xiao,thomas m tirpak;opportunity map a visualization framework for fast identification of actionable knowledge;0259891E;472C6E2D;2005
+20;10;bing liu;rosie jones,kristina lisa klinkner;measuring the meaning in time series clustering of text search queries;3333E44B;472C6E2D;2006
+21;9;bing liu;lipo wang,chunru wan;a novel rbf neural network with fast training and accurate generalization;015BDFDA;45E5BC3F;2004
+22;0;bing liu;yiming ma,ching kian wong;web for data mining applications;09E3EE34;44233F91;2000
+23;0;bing liu;robert grossman,pavan kasturi,donald hamelberg;experimental studies of the universal chemical key uck algorithm on the nci database of chemical compounds;2657;45BD7739;2003
+24;0;bing liu;haoran wu,gao cong,wee sun lee;semi supervised text classification using partitioned em;0259891E;469D149A;2004
+25;0;bing liu;wynne hsu,yiyuan xia,hengsiew han;mining changes for real life applications;09E3EE34;433BF259;2000
+26;0;bing liu;greeshma neglur,robert grossman;assigning unique keys to chemical compounds for data integration some interesting counter examples;0259891E;44F7486F;2005
+27;0;bing liu;baohua gu,huan liu,feifang hu;efficiently determine the starting sample size for progressive sampling;09E3EE34;460A7036;2001
+28;0;bing liu;;a reinforcement approach to schelduling;3895;454F686A;1988
+29;0;bing liu;;intelligent route finding combining knowledge and cases and an efficient search algorithm;173;1904332;1996
+30;0;bing liu;xiaoli li;learning from positive and unlabeled examples with different data distributions;0259891E;1686218;2005
+31;0;bing liu;baohua gu,huan liu,feifang hu;efficiently determining the starting sample size for progressive sampling;11435;440E04A9;2001
+32;0;bing liu;xiaoli li,seekiong ng;learning to classify documents with only a small positive training set;0259891E;0655F58A;2007
+33;2;bing liu;hong zhao,yaodong he,zao jiang;content based index and retrieval method of chinese document images;13718;448D1E7E;1999
+34;0;bing liu;jing liu;multivariate time series prediction via temporal classification;09E3EE34;45610CDA;2002
+35;0;bing liu;chi zhou,lei zhang,jeffrey benkler;finding actionable knowledge via automated comparison;16307;45610CDA;2009
+36;0;bing liu;gao cong;speed up iterative frequent itemset mining with constraint changes;09E3EE34;468A7487;2002
+37;0;bing liu;xiaoli li,yang dai,philip s yu,wee sun lee;building text classifiers using positive and unlabeled examples;0259891E;468A7487;2003
+38;0;bing liu;yiming ma,r lee;analyzing the interestingness of association rules from the temporal dimension;09E3EE34;468A7487;2001
+39;0;bing liu;kaidi zhao,andreas schaller,thomas m tirpak;detecting patterns of change using enhanced parallel coordinates visualization;0966B229;468A7487;2003
+40;0;bing liu;kaidi zhao,weimin xiao,thomas m tirpak;a visual data mining framework for convenient identification of useful knowledge;0259891E;468A7487;2005
+41;0;bing liu;hang li,shenghua bao,yong yu,yunbo cao;mining latent associations of objects using a typed mixture model a case study on expert expertise mining;10529;468A7487;2006
+42;0;bing liu;nitin jindal;analyzing and detecting review spam;0259891E;468A7487;2007
+43;0;bing liu;xin li,philip s yu;time sensitive ranking with application to publication search;0259891E;468A7487;2008
+44;0;bing liu;wee sun lee;learning with positive and unlabeled examples using weighted logistic regression;4725;465F7C62;2003
+45;0;bing liu;xiaoli li,philip s yu,wee sun lee;partially supervised classification of text documents;7852;465F7C62;2002
+46;6;bing liu;huimin zhang,lin zhang;an adaptive schedule medium access control for wireless sensor networks;08548E70;446AF0D7;2007
+47;0;bing liu;;integrating rules and constraints;09E3EE34;44C0EC29;1994
+48;10;bing liu;sushil k prasad,erdogan dogdu;a small listener for heterogeneous mobile devices a service enabler with a uniform web object view;8392;47A823DD;2005
+49;0;bing liu;;a refinement approach to search and constraint satisfaction problem;7658;43DB3338;1995
+50;0;bing liu;;intelligent air travel and tourist information systems;14957;43DB3338;1995
+51;0;bing liu;;using knowledge to isolate search in route finding;09E3EE34;47C39427;1995
+52;0;bing liu;xiaoli li;learning to classify texts using positive and unlabeled data;0259891E;47C39427;2003
+53;0;bing liu;;increasing functional constraints need to be checked only once;09E3EE34;47C39427;1995
+54;0;bing liu;wynne hsu,liangping ku;discovering interesting holes in data;09E3EE34;47C39427;1997
+55;0;bing liu;lan yi;web page cleaning for web mining through feature weighting;0259891E;47C39427;2003
+56;0;bing liu;xiaoli li,seekiong ng;learning to identify unexpected instances in the test set;0259891E;47C39427;2007
+57;14;bing liu;mary hall,robert f lucas,jacqueline chame,nastaran baradaran,yoonju lee,pedro c diniz,chun chen;eco an empirical based compilation and optimization system;0011EAC4;4708B833;2003
+58;9;bing liu;lipo wang,chunru wan;a novel fuzzy neural network with fast training and accurate generalization;0A4ACFBD;4539ED1E;2004
+59;9;bing liu;lipo wang,chunru wan;on the universal approximation theorem of fuzzy neural networks with random membership function parameters;0A4ACFBD;4539ED1E;2005
+60;0;bing liu;minqing hu;mining and summarizing customer reviews;0259891E;436976F3;2004
+61;0;bing liu;wynne hsu,mong li lee,tok wang ling;exploration mining in diabetic patients databases findings and conclusions;09E3EE34;436976F3;2000
+62;0;bing liu;yanhong zhai,robert grossman;mining data records in web pages;0259891E;436976F3;2003
+63;0;bing liu;wynne hsu,shu chen;using general impressions to analyze discovered classification rules;09E3EE34;436976F3;1997
+64;0;bing liu;wynne hsu,minqing hu;multi level organization and summarization of the discovered rules;09E3EE34;436976F3;2000
+65;0;bing liu;wynne hsu,yiming ma;identifying non actionable association rules;09E3EE34;436976F3;2001
+66;0;bing liu;wynne hsu,yiming ma;discovering the set of fundamental rule changes;09E3EE34;436976F3;2001
+67;0;bing liu;wynne hsu,yiming ma;integrating classification and association rule mining;09E3EE34;436976F3;1998
+68;0;bing liu;wynne hsu,yiming ma;pruning and summarizing the discovered associations;09E3EE34;436976F3;1999
+69;0;bing liu;wynne hsu,yiming ma;mining association rules with multiple minimum supports;09E3EE34;436976F3;1999
+70;0;bing liu;wynne hsu,yiming ma,shu chen;mining interesting knowledge using dm ii;09E3EE34;436976F3;1999
+71;0;bing liu;yiming ma,philip s yu;discovering unexpected information from your competitors web sites;09E3EE34;436976F3;2001
+72;0;bing liu;kaidi zhao,weimin xiao,jeffrey benkler;rule interestingness analysis using olap operations;0259891E;436976F3;2006
+73;0;bing liu;yiming ma,ching kian wong,philip s yu,shuik ming lee;targeting the right students using data mining;09E3EE34;436976F3;2000
+74;0;bing liu;alexander tuzhilin;querying multiple sets of discovered rules;09E3EE34;436976F3;2002
+75;0;bing liu;william tay,ke wang,soon hock william tay,soon hock;interestingness based interval merger for numeric association rules;09E3EE34;436976F3;1998
+76;0;bing liu;xiaoli li,haoran wu,tong heng phang;a refinement approach to handling model misfit in text categorization;09E3EE34;436976F3;2002
+77;0;bing liu;kaidi zhao,weimin xiao,jeffrey benkler;opportunity map identifying causes of failure a deployed data mining system;0259891E;436976F3;2006
+78;0;bing liu;kaidi zhao,andreas schaller,thomas m tirpak;v miner using enhanced parallel coordinates to mine product design and test data;0259891E;436976F3;2004
+79;0;bing liu;xiaoli li,lan yi;eliminating noisy information in web pages for data mining;0259891E;436976F3;2003
+80;11;bing liu;reinhard manner,maoyuan yu,dennis maier;accelerated bundle adjustment in multiple view reconstruction;0A990BE9;537688;2003
+81;14;bing liu;pedro c diniz;selector a language construct for developing dynamic applications;0B0338EC;4769FF98;2002
+82;0;bing liu;joxan jaffar,roland h c yap;forward and backward chaining in constraint programming abstract ;17609;47977D8C;1997
+83;10;bing liu;srilaxmi malladi,praveen madiraju,erdogan dogdu,arthi hariharan,raj sunderraman,yanqing zhang,sushil k prasad,y pan,shamkant b navathe,alexander zelikovsky,wanxia xie,raghupathy sivakumar,vijay k madisetti,anu g bourgeois,janaka balasooriya,michael weeks,saied belkasim;syd a middleware testbed for collaborative applications over small heterogeneous devices and data stores;0AD27695;46405877;2004
+84;0;bing liu;wynne hsu,ke wang,shu chen;visually aided exploration of interesting association rules;09E3EE34;436976F3;1999
+85;0;bing liu;xin li,philip s yu;discovering overlapping communities of named entities;0259891E;440E04A9;2006
+86;0;bing liu;yiming ma,ching kian wong;improving an association rule based classifier;09E3EE34;440E04A9;2000
+87;0;bing liu;yi zhang;semantic text classification of emergent disease reports;0259891E;440E04A9;2007
+88;0;bing liu;;an improved generic arc consistency algorithm and its specializations;09E3EE34;45FD9DD4;1996
+89;0;bing liu;ke wang,laifun mun,xinzhi qi;using decision tree induction for discovering holes in data;09E3EE34;45FD9DD4;1998
+90;0;bing liu;ke wang;concurrent discretization of multiple attributes;09E3EE34;45FD9DD4;1998
+91;0;bing liu;xiaoming yang,wei wang,baile shi,zhihui wang;a bottom up distance based index tree for metric space;017C99DB;43819A5A;2006
+92;0;bing liu;;a bottom up distance based index tree for metric space;6479;43819A5A;2006
+93;0;bing liu;jianjun xu,wei wang,baile shi,heping yan;a bottom up distance based index tree for metric space;017C99DB;43819A5A;2006
+94;0;bing liu;jianjun xu,wei wang,baile shi,zhihui wang;subsequence similarity search under time shifting;017C99DB;43819A5A;2006
+95;0;bing liu;wei wang,jiangjiao duan,baile shi,zhihui wang;subsequence similarity search under time shifting;017C99DB;43819A5A;2006
+96;0;bing liu;ke wang,gao cong,lan yi;discovering frequent substructures from hierarchical semi structured data;10244;441CE122;2002
+97;0;bing liu;nitin jindal;identifying comparative sentences in text documents;0259891E;43FD776C;2006
+98;0;bing liu;yi zhang;semantic text classification of disease reporting;0259891E;43FD776C;2007
+99;0;bing liu;xiaowen ding;the utility of linguistic rules in opinion mining;0259891E;43FD776C;2007
+100;6;bing liu;huimin zhang,lin zhang,ke yu;mac performance and improvement in mobile wireless sensor networks;0134B592;46950273;2007
+101;3;bing liu;pu wang;recognition of 3d objects from 2d images some issues;00C50601;1470104;1996
+102;0;bing liu;gendu zhang,xueping wang,qian wang,jingtao li;a reputation management scheme based on global trust model for peer to peer virtual communities;017C99DB;45F282AE;2006
+103;0;bing liu;wei wang,yuliang shi,baile shi,zhihui wang;dynamic incremental data summarization for hierarchical clustering;017C99DB;45F282AE;2006
+104;0;bing liu;wei wang,jingtao li,baile shi,zhihui wang;tight bounds on the estimation distance using wavelet;017C99DB;45F282AE;2006
+105;0;bing liu;wei wang,haofeng zhou,baile shi,zhihui wang;an effective approach for hiding sensitive knowledge in data publishing;017C99DB;45F282AE;2006
+106;0;bing liu;leonardo rigutini,marco maggini;an em based training algorithm for cross language text categorization;8141;478794CB;2005
+107;0;bing liu;xin li,philip s yu;adding the temporal dimension to search a case study in publication search;15659;478794CB;2005
+108;0;bing liu;;wise 2005 tutorial web content mining;0259891E;433F0094;2005
+109;0;bing liu;yanhong zhai;net a system for extracting web data from flat and nested data records;0259891E;433F0094;2005
+110;0;bing liu;yanhong zhai;extracting web data using instance based learning;0259891E;433F0094;2007
+111;0;bing liu;yanhong zhai;extracting web data using instance based learning;0259891E;433F0094;2005
+112;0;bing liu;xiaoli li;dealing with different distributions in learning from;0259891E;43ABF249;2004
+113;0;bing liu;hwee tou ng,chee wee chin;mining topic specific concepts and definitions on the web;0259891E;43ABF249;2003
+114;0;bing liu;minqing hu,junsheng cheng;opinion observer analyzing and comparing opinions on the web;0259891E;43ABF249;2005
+115;0;bing liu;kaidi zhao,lan yi;visualizing web site comparisons;09E3EE34;43ABF249;2002
+116;0;bing liu;xin li,philip s yu;on the temporal dimension of search;0259891E;43ABF249;2004
+117;0;bing liu;yanhong zhai;web data extraction based on partial tree alignment;0259891E;43ABF249;2005
+118;0;bing liu;nitin jindal;review spam detection;0259891E;43ABF249;2007
+119;0;bing liu;yanhong zhai;extracting web data using instance based learning;0259891E;433F0094;2007
+120;0;bing liu;yanhong zhai;extracting web data using instance based learning;0259891E;433F0094;2005
+121;9;bing liu;lipo wang,chunru wan;classification using support vector machines with graded resolution;16008;45302733;2005
+122;0;bing liu;xiaowen ding,philip s yu;a holistic lexicon based approach to opinion mining;0259891E;42C7B402;2008
+123;0;bing liu;nitin jindal;opinion spam and analysis;0259891E;42C7B402;2008
+124;0;bing liu;;scheduling via reinforcement;7873;080694E6;1988
+125;0;bing liu;yiming ma,ching kian wong,philip s yu;scoring the data using association rules;09E3EE34;04743DEB;2003
+126;17;bing liu;;positive solutions of three point boundary value problems for the one dimensional p laplacian with infinitely many singularities;6721;00738719;2004
+127;17;bing liu;;existence and uniqueness of solutionsto first order multipoint boundary value problems;19181;00738719;2004
+128;17;bing liu;jian she yu;note on third order boundary value problem for differential equations with deviating arguments;9879;00738719;2002
+129;15;bing liu;qinghua cui,tianzi jiang,songde ma;characterizing the dynamic connectivity between genes by variable parameter regression and kalman filtering based on temporal gene expression data;012E6F4E;031F7D94;2005
+130;15;bing liu;qinghua cui,tianzi jiang,songde ma;esub8 a novel tool to predict protein subcellular localizations in eukaryotic organisms;012E6F4E;012269E3;2004
+131;15;bing liu;qinghua cui,tianzi jiang,songde ma;a combinational feature selection and ensemble neural network method for classification of gene expression data;012E6F4E;012269E3;2004
+132;0;bing liu;padhraic smyth,chidanand apte,edwin p d pednault;business applications of data mining;0259891E;062B05D6;2002
+133;0;bing liu;alexander tuzhilin;managing large collections of data mining models;0259891E;062B05D6;2008
+134;0;bing liu;wynne hsu;conceptual design issues and challenges;10740;0109D5ED;2000
+135;0;bing liu;singmeng leong,soochee lee,siewhwee choo,h tan,foongping poon,sheeling lok;finding the shortest route using cases knowledge and djikstra s algorithm;09E3EE34;06CF2E55;1994
+136;0;bing liu;yanhong zhai,robert grossman;mining web pages for data records;0966B229;06CF2E55;2004
+137;0;bing liu;yiming ma,wynne hsu,shu chen;analyzing the subjective interestingness of association rules;09E3EE34;020020CB;2000
+138;15;bing liu;tianzi jiang,d j evans,yingli lu;a neural network approach to shape from shading;012E6F4E;07715374;2010
+139;15;bing liu;tianzi jiang,d j evans,yingli lu;a neural network approach to shape from shading;8807;07715374;2010
+140;15;bing liu;huizhi zhao,xingpeng jiang,tianzi jiang,jing zhang;systematic benchmarking of microarray data feature extraction and classification;012E6F4E;07715374;2008
+141;11;bing liu;reinhard manner,maoyuan yu,dennis maier;an efficient and accurate method for 3d point reconstruction from multiple views;0A990BE9;0185ADDC;2005
+142;0;bing liu;robert b grossman,pavan kasturi,donald hamelberg;an empirical study of the universal chemical key algorithm for assigning unique keys to chemical compounds;9144;09427249;2011
+143;1;bing liu;jiaju zhou;sars cov protease inhibitors design using virtual screening method from natural products libraries;012E6F4E;01423ABF;2005
+144;0;bing liu;j ross quinlan,philip s yu,hiroshi motoda,g j mclachlan,xindong wu,angus ng,vipin kumar,michael steinbach,david j hand,joydeep ghosh,qiang yang,zhihua zhou,daniel h steinberg;top 10 algorithms in data mining;0259891E;04DFB7BE;2007
+145;0;bing liu;kevin chenchuanchang;editorial special issue on web content mining;0259891E;057D97D4;2004
+146;0;bing liu;yiming ma,ching kian wong;web for data mining organizing and interpreting the discovered rules using the web;09E3EE34;057D97D4;2000
+147;0;bing liu;philip s yu,olfa nasraoui,brij masand,bamshad mobasher,myra spiliopoulou,osmar r zaiane;webkdd 2004 web mining and web usage analysis post workshop report;070DED1B;057D97D4;2004
+148;0;bing liu;padhraic smyth,charles elkan,james bennett,domonkos tikk;kdd cup and workshop 2007;0259891E;436976F3;2007
+149;0;bing liu;padhraic smyth,charles elkan,james bennett,domonkos tikk;kdd cup and workshop 2007;0259891E;436976F3;2007
+150;0;bing liu;isabel f cruz,ouri wolfson,clement t yu,a prasad sistla,ashfaq a khokhar;research activities in database management and information retrieval at the university of illinois at chicago;2637;02D4EDCF;2002
+151;0;bing liu;yuenwah ku;constraintlisp an object oriented constraint programming language;066A0DAD;08D7401B;1992
+152;0;bing liu;soumen chakrabarti;guest editors introduction special section on mining and searching the web;0259891E;01D46A2B;2004
+153;0;bing liu;wynne hsu,laifun mun,hingyan lee;finding interesting patterns using user expectations;09E3EE34;01D46A2B;1999
+154;0;bing liu;yanhong zhai;structured data extraction from the web based on partial tree alignment;0966B229;01D46A2B;2006
+155;0;bing liu;chengqi zhang,qiang yang;guest editors introduction special section on intelligent data preparation;17465;01D46A2B;2005
+156;16;bing liu;lansun chen,yujuan zhang;the dynamics of a prey dependent consumption model concerning impulsive control strategy;05C6B39D;03009DEA;2005
+157;16;bing liu;lansun chen,yujuan zhang;dynamic complexities in a lotka volterra predator prey model concerning impulsive control strategy;11501;04D4239C;2011
+158;0;bing liu;;web data mining exploring hyperlinks contents and usage data;17294;1732266;2007
+159;0;bing liu;l zhang,xiaowen ding;entity discovery and assignment for opinion mining applications;0259891E;436976F3;2009
+160;0;bing liu;xiaoli li,seekiong ng,philip s yu;positive unlabeled learning for data stream classification;2290;441CE122;2009
+161;17;bing liu;;positive solutions of a nonlinear four point boundary value problems;8144;03009DEA;2004
+162;0;bing liu;;web data mining exploring hyperlinks contents and usage data;16521;1626060;2007
+163;0;bing liu;hui xiong,phillip c y sheu,jaideep srivastava,tieyun qian,qing li;what s behind topic formation and development a perspective of community core groups;0259891E;472C6E2D;2009
+164;0;bing liu;david hsu,p s thiagarajan;probabilistic approximations of signaling pathway dynamics;09E3EE34;4304526C;2009
+165;0;bing liu;carlo ratti,francesco calabrese,andrea vaccari;towards the socioscope an information system for the study of social dynamics through digital traces;0259891E;43F8572D;2009
+166;0;bing liu;chun chen,guang qiu,jiajun bu;expanding domain sentiment lexicon through double propagation;0259891E;47C39427;2009
+167;0;bing liu;chun chen,guang qiu,jiajun bu;expanding domain sentiment lexicon through double propagation;0259891E;47C39427;2009
+168;17;bing liu;shusen ding;a singular integral of the composite operator;01AA08B6;00738719;2009
+169;4;bing liu;jiuyong li,anna tsykin;discovery of functional mirna mrna regulatory modules with computational methods;0A25A483;00B1583F;2009
+170;17;bing liu;;a note on a nonlocal boundary value problems;12544;03009DEA;2004
+171;0;bing liu;lei zhang;dynamics of a two species lotka volterra competition system in a polluted environment with pulse toxicant input;0273DC36;03009DEA;2009
+172;0;bing liu;srinivasan parthasarathy;guest editorial;18286;026E617C;2008
+173;0;bing liu;;classification by association rule analysis;0259891E;821659;2009
+174;5;bing liu;lingxian zhang,naixia mou,liu wenbao,xiushan lu;semantic based remote sensing images intelligent service on grid environment;04C6E630;46C53EEB;2009
+175;6;bing liu;bingxiang gui,hongcai feng,hongwu zhang,hongyuan wang;a heuristic greedy optimum algorithm for target coverage in wireless sensor networks;3030;475B8292;2009
+176;6;bing liu;bingxiang gui;an new global dynamic scheduling algorithm with multi hop path splitting and multi pathing using gridftp;16146;475B8292;2009
+177;6;bing liu;;an ontology based approach to knowledge management;00D766D6;4665AEAE;2009
+178;0;bing liu;david b skillicorn,joydeep ghosh,applied mathematics,jaideep srivastava,diane lambert;proceedings of the seventh siam international conference on data mining;4136;1898792;2007
+179;17;bing liu;;solvability of multi point boundary value problem at resonance part iv;02D828C1;03009DEA;2003
+180;0;bing liu;yi zhang;automatic extraction of outbreak information from news;5626;1372511;2008
+181;17;bing liu;jian she yu;solvability of multi point boundary value problem at resonance iii ;16168;03009DEA;2002
+182;0;bing liu;ouri wolfson,prasad sistla,isabel f cruz,clement yu,ashfaq khokhar;research activities in database management and information retrieval at university of illinois at chicago;0259891E;02D4EDCF;2002
+183;12;bing liu;alan w ptak,jeffrey a dickson,r d mcleod;reprogrammable gate arrays for hardware accelerated ic design verification;17647;0BA997D3;1990
+184;13;bing liu;kaixiang peng,jie dong,yixin yin;robot obstacle avoidance based on an improved ant colony algorithm;1692;1001451;2009
+185;2;bing liu;hong zhao,yaodong he,zao jiang;content based indexing and retrieval method of chinese document images;1547;448D1E7E;1999
+186;17;bing liu;;positive solutions of a nonlinear three point boundary value problem;02D828C1;03009DEA;2002
+187;17;bing liu;;positive solutions of a nonlinear three point boundary value problem;02AA1FA9;03009DEA;2002

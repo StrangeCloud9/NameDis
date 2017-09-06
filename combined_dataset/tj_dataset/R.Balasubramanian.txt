@@ -1,0 +1,19 @@
+0;0;r balasubramanian;venkatesh raman;path balance heuristic for self adjusting binary search trees;038D97B3;42F73407;1995
+1;2;r balasubramanian;;colorimetric modeling of binary color printers;02066FCD;455477A7;1995
+2;0;r balasubramanian;sumeeth nagaraj;the least witness of a composite number;038D97B3;08D19590;1997
+3;0;r balasubramanian;venkatesh raman,g srinivasaraghavan;tight bounds for finding degrees from the adjacency matrix;038D97B3;438FF714;1995
+4;4;r balasubramanian;s nalin pradeep,mayur d jain,rama bhargava;local and global tree graph structures for fingerprint verification;093AD6C0;864205;2006
+5;0;r balasubramanian;venkatesh raman,g srinivasaraghavan;the complexity of finding certain trees in tournaments;038D97B3;448B966A;1993
+6;0;r balasubramanian;kannan soundararajan;maximal sets of integers with distinct divisors;01328BF3;024AAE63;1995
+7;4;r balasubramanian;gaurav bhatnagar;a new contrast based image fusion using wavelet packets;093AD6C0;0B68DB42;2008
+8;0;r balasubramanian;c r subramanian;on sampling colorings of bipartite graphs;038D97B3;0BF0DE1F;2006
+9;0;r balasubramanian;venkatesh raman,v yegnanarayanan;on the pseudoachromatic number of join of graphs;038D97B3;07715374;2010
+10;0;r balasubramanian;venkatesh raman,michael r fellows;an improved fixed parameter algorithm for vertex cover;038D97B3;08D19590;1998
+11;0;r balasubramanian;sumeeth nagaraj;perfect power testing;18100;08D19590;1996
+12;0;r balasubramanian;venkatesh raman,g srinivasaragavan;finding scores in tournaments;7725;0696670D;1997
+13;0;r balasubramanian;neal koblitz;the improbability that an elliptic curve has subexponential discrete log problem under the menezes okamoto vanstone algorithm;038D97B3;0B6176D5;1998
+14;5;r balasubramanian;michael p fitz;soft output detection of cpm signals in frequency flat rayleigh fading channels;14820;0563BD02;2000
+15;0;r balasubramanian;sumeeth nagaraj;density of carmichael numbers with three prime factors;038D97B3;061B1A77;1997
+16;1;r balasubramanian;r murugan;blended learning a trend in e learning;19008;45616195;2009
+17;4;r balasubramanian;n sukavanam,sanjeev kumar;error estimation in reconstruction of quadratic curves in 3d space;093AD6C0;07715374;2007
+18;3;r balasubramanian;s p tobin,c k ard,t steiner,d k bowen,b k tanner,n c giles,a b bollong,m l w thewalt,d chandlerhorowitz,j tower,v hugo c lopes,w m duncan,jaesun lee,p w norton,a j syllaios,p m amirtharaj;a comparison of techniques for nondestructive composition measurements in cdznte substrates;0BF6F847;07A0E867;1995

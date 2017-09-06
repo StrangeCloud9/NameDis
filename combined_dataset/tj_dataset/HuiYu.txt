@@ -1,0 +1,32 @@
+0;0;hui yu;caihong sun,jian chen;n person noncooperative game with infinite strategic space;05E79D01;45CE5B32;2005
+1;1;hui yu;zongsheng lai,wei jin,yonggang tao,yongsheng xu;a bipolar if amplifier rssi for ask receiver;9075;43D1CF2E;2005
+2;2;hui yu;xiangyang xue,yingbin zheng,yuanzheng song,zichen sun,cheng jin,hong lu;fudan university hierarchical video retrieval with adaptive multi modal fusion;017C99DB;448AC690;2008
+3;3;hui yu;ping yu;lesions learned from the practice of mobile health application development;14626;0C38368F;2004
+4;4;hui yu;yu xiao,hongcheng deng,zhenxiang zhao;transformation of landscape planning and design in computer supported cooperative work era;00493E54;43520230;2008
+5;5;hui yu;xin zhou;a clustering based approach for tracing object oriented design to requirement;0134B592;46C99331;2007
+6;6;hui yu;ashwin gumaste,s q zheng,jianping wang,jing chen;1 persistent collision free csma protocols for opportunistic optical hyperchannels;09B0BBA7;42CD4D27;2008
+7;7;hui yu;mingjing li,hongjiang zhang,jufu feng;color texture moments for content based image retrieval;0134B592;455477A7;2002
+8;8;hui yu;jigui jian,yanjun shen;reliable robust controller design for nonlinear state delayed systems based on neural networks;19453;45E2ADDB;2006
+9;9;hui yu;bin shen,wenying wang,zhonghua lu,xuebin chi;parallel implementation of the global optimization algorithm based on uniform distributional design and powell method;4005;44E5A1B2;2006
+10;10;hui yu;chi liu;modified asdps for geochemical data processing;14066;468C0299;2004
+11;11;hui yu;a ali,c virendra,stephen marsh;keyphrase based information sharing in the acorn multi agent architecture;9375;0655F58A;2000
+12;12;hui yu;qi wang,tianwen zhang,zheng guo,xia li,shaoqi rao;classification of cancer types based on decision tree analysis of gene function expression profiles;5037;46950273;2004
+13;13;hui yu;jian pei,shiwei tang,dongqing yang;mining most general multidimensional summarization of probably groups in data warehouses;16811;44E8D4B3;2005
+14;2;hui yu;xiangyang xue,hong lu,bolan su;news video retrieval by learning multimodal semantic information;017C99DB;45F650F9;2007
+15;14;hui yu;chisheng li,hanwen luo,jia guo,hongxing li;dynamic subchannel and power allocation in ofdma based df cooperative relay networks;0AE9651A;43701CEE;2008
+16;6;hui yu;s q zheng,jianping wang,jing chen;pipelined implementation of tcam based search engines in high performance ip routers;09B0BBA7;43701CEE;2008
+17;6;hui yu;s q zheng,jianping wang,jing chen;maximizing throughput of an optical opportunistic hyperchannel subject to qos constraint;09B0BBA7;43701CEE;2008
+18;8;hui yu;jigui jian,yongji wang;flocking motion of mobile agents with a leader based on distance dependent adjacency matrix;099E038E;45737C92;2008
+19;8;hui yu;jigui jian;global exponential synchronization for a class of delayed chaotic networks using partial system states;099E038E;449CDF39;2008
+20;8;hui yu;jigui jian,yanjun shen;synchronization of rikitake chaotic attractor via partial system states;099E038E;46013AA1;2008
+21;12;hui yu;qi wang,jianzhen xu,eric j topol,haiyun wang,zheng guo,xia li,shaoqi rao,jing zhu,chenguang wang,tianwen zhang;towards precise classification of cancers based on robust gene functional expression profiles;094E946B;012269E3;2005
+22;8;hui yu;yongji wang;coordinated collective motion of groups of autonomous mobile robots with directed interconnected topology;099E038E;05719500;2008
+23;15;hui yu;kang tu,lu xie,feng wang,yixue li;transcript level annotation of affymetrix probesets improves the interpretation of gene expression data;3953;012269E3;2007
+24;16;hui yu;g h huang,qianguo lin,xiaodong zhang;petroleum contaminated groundwater remediation systems design a data envelopment analysis based approach;0B90A353;00C89093;2009
+25;6;hui yu;siqing zheng,jianping wang,jing chen;opportunistic optical hyperchannel and its distributed qos assuring access control;09B0BBA7;05CA192B;2009
+26;18;hui yu;ping wang,qingjun liu,hua cai,ying xu;a novel integrated cell based biosensor for extracellular electrophysiological monitoring;11201;0B1950BF;2011
+27;17;hui yu;;news summarization based on semantic similarity measure;7762;1312017;2009
+28;19;hui yu;xinbing wang,hsiaohwa chen,dongyue xue;adoption of cognitive radio scheme to class based call admission control;0AE9651A;436150FA;2009
+29;19;hui yu;hua li,lianming zeng,yangqing zhu;design of pork traceability information system;16837;4429872D;2008
+30;20;hui yu;xingjian shi;a log analysis audit model based on optimized clustering algorithm;06ACAD91;45827814;2007
+31;17;hui yu;;summarization for internet news based on clustering algorithm;3936;42CC6E2D;2009

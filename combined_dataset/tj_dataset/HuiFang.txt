@@ -1,0 +1,45 @@
+0;1;hui fang;puteri norhashimah,jianmin jiang;video extraction in compressed domain;08569CF9;43137C5C;2003
+1;2;hui fang;john c hart;randomly accessible procedural animation of physically approximate turbulent motion;0966B229;159770;2002
+2;2;hui fang;chengxiang zhai,xuanhui wang;improve retrieval accuracy for difficult queries using negative feedback;031EE95E;472C6E2D;2007
+3;2;hui fang;jiong yang,chengxiang zhai,lei liu;subspace clustering for microarray data analysis multiple criteria and significance assessment;0966B229;45BD7739;2004
+4;1;hui fang;yong yin,jianmin jiang,puteri norhashimah;a hybrid scheme for temporal video segmentation;08569CF9;465670BF;2006
+5;2;hui fang;chengxiang zhai;probabilistic models for expert finding;0966B229;465D33C1;2007
+6;5;hui fang;d cristinacce,nick costen,j darby;3d facial geometry recovery via group wise optical flow;00B6DA1D;432251B5;2008
+7;2;hui fang;andrew kirmse,steve zelinka,xiaqing wu,rodrigo l carceroni;automatic alignment of large scale aerial rasters to road maps;4CF99586;43F8572D;2007
+8;2;hui fang;john c hart,michael garland,steve zelinka;interactive material replacement in photographs;0966B229;4566232D;2005
+9;1;hui fang;yue feng,jianmin jiang;region growing with automatic seeding for semantic video object segmentation;08569CF9;4372EE76;2005
+10;1;hui fang;rami qahwaji,jianmin jiang;video indexing and retrieval in compressed domain using fuzzy categorization;08569CF9;4613D662;2006
+11;5;hui fang;nicholas costen;3d face reconstruction under imperfect tracking circumstances using shape model constraints;00B6DA1D;4613D662;2007
+12;2;hui fang;chengxiang zhai,tao tao;a formal study of information retrieval heuristics;0966B229;43FD776C;2004
+13;2;hui fang;chengxiang zhai;an exploration of axiomatic approaches to information retrieval;0966B229;43FD776C;2005
+14;2;hui fang;chengxiang zhai;semantic term matching in axiomatic approaches to information retrieval;0966B229;43FD776C;2006
+15;2;hui fang;chengxiang zhai,qiaozhu mei;a study of poisson query generation model for information retrieval;0966B229;43FD776C;2007
+16;2;hui fang;chengxiang zhai,atulya velivelli,bin tan;term feedback for information retrieval with language models;0966B229;43FD776C;2007
+17;2;hui fang;chengxiang zhai,xuanhui wang;a study of methods for negative relevance feedback;031EE95E;43FD776C;2008
+18;2;hui fang;chengxiang zhai,zhidi shang,tao tao;improving the robustness of language models uiuc trec 2003 robust and genomics experiments;2651;462F772C;2003
+19;2;hui fang;chengxiang zhai,lixin zhou;language models for expert finding uiuc trec 2006 enterprise track experiments;007B93A0;360888;2006
+20;3;hui fang;wenjing hsu,larry rudolph;controlling uncertainty in personal positioning at minimal measurement cost;04113595;44D4200D;2008
+21;2;hui fang;chengxiang zhai,yue lu;an empirical study of gene synonym query expansion in biomedical information retrieval;0527EA39;04BC7A00;2009
+22;7;hui fang;yong zhang,zhonghua wang;neural adaptive control for a class of nonlinear systems with unknown deadzone;02154B53;08D0BBB4;2008
+23;1;hui fang;yue feng,jianmin jiang;a fuzzy logic approach for detection of video shot boundaries;08569CF9;00065366;2006
+24;2;hui fang;john c hart;textureshop texture synthesis as a photograph editing tool;0966B229;4566232D;2004
+25;2;hui fang;john c hart;detail preserving shape deformation in image editing;4CF99586;4566232D;2007
+26;2;hui fang;john c hart;rototexture automated tools for texturing raw video;4CF99586;050D92AB;2006
+27;5;hui fang;nicholas costen;behavioral consistency extraction for face verification;00B6DA1D;06F8EF22;2008
+28;5;hui fang;nicholas costen;behavioral consistency extraction for face verification;00B6DA1D;06F8EF22;2009
+29;5;hui fang;chi ho chan,josef kittler,jose luis castro,christopher mc cool,norman poh,roberto uribe paredes,sebastien marcel,enrique argones rua,vitomir struc,nikola pavesic,nicholas costen,mauricio villegas,albert ali salah;face video competition;00B6DA1D;45E3CA1B;2009
+30;2;hui fang;xinghua lu,xu ling,atulya velivelli,xuanhui wang,chengxiang zhai,xin he,azadeh shakery;uiuc musc at trec 2005 genomics track;007B93A0;462F772C;2008
+31;2;hui fang;chengxiang zhai;an axiomatic approach to ir uiuc trec 2005 robust track experiments;007B93A0;1482617;2005
+32;2;hui fang;chengxiang zhai,atulya velivelli,bin tan;interactive construction of query language models uiuc trec 2005 hard track experiments;007B93A0;462F772C;2005
+33;3;hui fang;wenjing hsu,larry rudolph;mining user position log for construction of personalized activity map;04113595;469407EC;2009
+34;3;hui fang;wenjing hsu,larry rudolph;cognitive personal positioning based on activity map and adaptive particle filter;0A4ACFBD;47175205;2009
+35;3;hui fang;wenjing hsu,larry rudolph;cognitive personal positioning based on activity map and adaptive particle filter;8407;47175205;2009
+36;0;hui fang;dapeng zhao;existence of nontrivial homoclinic orbits for fourth order difference equations;00A2AA5E;03009DEA;2009
+37;2;hui fang;chengxiang zhai;web search relevance feedback;0527EA39;1876168;2009
+38;4;hui fang;fan zhang,yong he,weijun zhou,fei liu;determination of total amino acids in oilseed rape leaves using near infrared spectroscopy and chemometrics;0489A984;46AB47BD;2009
+39;6;hui fang;ru xu,xiaoyi hu;an implementation of time and frequency synchronization for carrier interferometry of ofdm in an underwater acoustic channel;6230;475B8292;2009
+40;7;hui fang;bai xiaoli,yang xueyan,fang min;the design of an observer based neural adaptive controller for a class of nonlinear systems with input constrained;13266;878059;2009
+41;5;hui fang;chi ho chan,josef kittler,jose luis castro,christopher mc cool,norman poh,roberto uribe paredes,sebastien marcel,enrique argones rua,vitomir struc,nikola pavesic,nicholas costen,mauricio villegas,albert ali salah;face video competition;00B6DA1D;45E3CA1B;2009
+42;5;hui fang;nicholas costen;behavioral consistency extraction for face verification;00B6DA1D;06F8EF22;2008
+43;5;hui fang;nicholas costen;behavioral consistency extraction for face verification;00B6DA1D;06F8EF22;2009
+44;4;hui fang;fan zhang,yong he,zonglai jin,weijun zhou,fei liu;detection of protein content of oilseed rape leaves using visible near infrared spectroscopy and multivariate calibrations;0489A984;42F0CC9A;2008

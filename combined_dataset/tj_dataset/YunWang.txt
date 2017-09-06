@@ -1,0 +1,44 @@
+0;0;yun wang;brian thinhvinh tran,michelle jou,nelson mendonca mattos,stefan dessloch,jyhherng chow,jean grandbois,raiko nitzsche,weidong chen,youchin fuh;extensible indexing support in db2 universal database;12213;747552;2001
+1;1;yun wang;;facets a new algorithm for extracting 3 d surface from volume data;01EE3848;44344A0A;1995
+2;2;yun wang;fabiola greve,emmanuelle anceaume,francisco v brasileiro,michel hurfin;avoiding priority inversion on the processing of requests by active replicated servers;04905D15;46C2A057;2001
+3;0;yun wang;josephine cheng,donald j haderle,c mohan;single table access using multiple indexes optimization execution and concurrency control techniques;4FF45383;43820346;1990
+4;4;yun wang;hongkai wang,yanyong guan,kaiquan shi;an improved intermediate value theorem and rough fix point theorem of roughly continuous discrete functions;02154B53;4665AEAE;2008
+5;4;yun wang;jinmei wang,yanyong guan;the theory and application of rough integration in rough function model;02154B53;4665AEAE;2007
+6;4;yun wang;hongkai wang,yanyong guan;rough derivatives in rough function model and their application;02154B53;4665AEAE;2007
+7;2;yun wang;han su;a novel secure routing system in overlay environment;04905D15;4554E150;2005
+8;7;yun wang;demin wang,anadi mishra,dharma p agrawal,xiaodong wang;on data fusion and lifetime constraints in wireless sensor networks;03C3607B;436150FA;2007
+9;8;yun wang;yanjiang qiao,rao zheng;modeling learning and simulating biological cells with entity grammar;010ECF1A;43D2A5F0;2007
+10;2;yun wang;jie wu;a nonblocking approach for reaching an agreement on request total orders;04905D15;4789F291;2008
+11;0;yun wang;richard hedges,c mohan,ted g messinger,bala iyer,donald j haderle,josephine cheng;an efficient hybrid join algorithm a db2 prototype;5393;45610CDA;1991
+12;10;yun wang;songxia hao,xichang zhong;efsm based testing strategy for apis test of embedded os;5448;4385AB9B;2004
+13;11;yun wang;;a comprehensive approach to teaching cs238 visual basic programming ;15316;447A7E77;2000
+14;13;yun wang;panagiota karvelas,manas saksena;automatic synthesis of multi tasking implementations from real time object oriented models;11504;460452E7;2000
+15;16;yun wang;canqiang li,qing li;enterprise modelling based services orchestration;05E79D01;46405877;2008
+16;2;yun wang;kai li;a method to organize a small world based publish subscribe network in large scale environment;04905D15;474BD8D0;2006
+17;13;yun wang;manas saksena;scheduling fixed priority tasks with preemption threshold;0395F208;44AB61E1;1999
+18;17;yun wang;;experience from a real life query optimizer;4FF45383;460A7036;1992
+19;17;yun wang;;recent database challenges in china on data consolidation and integration;4FF45383;460A7036;2007
+20;0;yun wang;brian thinhvinh tran,michelle jou,nelson mendonca mattos,jyhherng chow,jean grandbois,weidong chen,youchin fuh;high level indexing of user defined types;19393;4390334E;1999
+21;0;yun wang;;db2 query parallelism staging and implementation;18645;4390334E;1995
+22;15;yun wang;bo huang,jianhui li,chaohao xu,tao bao;metadata driven memory optimizations in dynamic binary translator;500F4F9C;470EFF91;2007
+23;2;yun wang;junling wang;a robust load balancing pattern for grid computing;04905D15;43B11EF5;2005
+24;18;yun wang;shihyieh ho,gaston mbateng,inyoung kim;a latent class modeling approach to detect network intrusion;01F71AD0;06DAD4AA;2006
+25;18;yun wang;;a multinomial logistic regression modeling approach for anomaly intrusion detection;6008;00BF2FE3;2005
+26;0;yun wang;k bernhard schiefer,peter gassner,guy m lohman;query optimization in the ibm db2 family;13798;03B217F8;1993
+27;0;yun wang;hamid pirahesh,chilukuri k mohan,w g tang;parallelism in relational database management systems;15477;06B74EC7;1994
+28;2;yun wang;fabiola greve,emmanuelle anceaume,michel hurfin,francisco brasileiro;solving the group priority inversion problem in a timed asynchronous system;04905D15;0965DDD6;2002
+29;7;yun wang;bin xie,demin wang,xiaodong wang,dharma p agrawal;intrusion detection in homogeneous and heterogeneous wireless sensor networks;03C3607B;041F05A5;2008
+30;2;yun wang;junling,wang,yun;non blocking message total ordering protocol;19231;05798E5E;2008
+31;7;yun wang;demin wang,y l cheng,dharma p agrawal;nonuniform deployment prolongs lifetime of wireless sensor networks;514;06C3B9AB;2008
+32;3;yun wang;nobuyoshi asai,shigenori mochiuki,dongsheng cai,asako fukumoto;visual zen art aesthetic cognitive dissonance in japanese dry stone garden measured in visual pagerank;19958;4566232D;2009
+33;4;yun wang;hongkai wang,fang yang,yanyong guan;attribute reduction and optimal decision rules acquisition for continuous valued information systems;02154B53;0B7B9B75;2009
+34;7;yun wang;demin wang,xiaodong wang,dharma p agrawal;range free localization using expected hop progress in wireless sensor networks;0537DD0E;05CA192B;2009
+35;5;yun wang;hongbing ouyang,zongcheng zhang;the determinants of passenger load factor for chinese airline industry;02D828C1;756539;2009
+36;6;yun wang;hongyou hu,jing lin,canrong qiu,minggang cai,anxiang qi,qingquan hong;contamination level and speciation of heavy metals in sediments from yundang lake xiamen;0B659C39;471752F4;2009
+37;4;yun wang;lei du,yanyong guan;order based decision rules acquisition in continuous valued decision information systems;02154B53;4665AEAE;2009
+38;13;yun wang;manas saksena;scalable real time system design using preemption thresholds;18052;4306EF42;2000
+39;9;yun wang;;the evil twin;15613;4566232D;2008
+40;1;yun wang;;hierarchical methods for three dimensional surface reconstruction;7809;1426825;1996
+41;8;yun wang;yanjiang qiao,jinling hao;systems biology platform for mechanism clarification of tcm;010ECF1A;1936706;2009
+42;12;yun wang;h t banks,ralph c smith;the modeling of piezoceramic patch interactions with shells plates and beams;13367;06F0D4E4;1992
+43;14;yun wang;weiguo yang,huiling jiang,hairong wang;application of distributed ga based rbf neural network in fire detection;00E520DD;42F0CC9A;2008

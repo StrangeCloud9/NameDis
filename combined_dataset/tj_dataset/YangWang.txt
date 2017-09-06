@@ -1,0 +1,200 @@
+0;0;yang wang;junhong liu;a unified framework for segmentation assisted image registration;015B46C7;4603A79F;2006
+1;0;yang wang;jundong liu;a unified framework for segmentation assisted image registration;17831;712862;2008
+2;0;yang wang;junhong liu,jundong liu;a unified framework for segmentation assisted image registration;17472;4603A79F;2006
+3;2;yang wang;dong li,yalou huang,weijian ni;boosting over groups and its application to acronym expansion extraction;0C3BAC1F;469407EC;2008
+4;3;yang wang;baohua gu,mehdi m kashani,fred popowich,anoop sarkar,yudong liu,zhongmin shi,gabor melli;question answering summarization of multiple biomedical documents;0112E226;46A3F844;2007
+5;2;yang wang;nan zheng,yalou huang,maoqiang xie,dong li,jinli liu;semi supervised graph ranking for text retrieval;0C3BAC1F;467F57A2;2008
+6;4;yang wang;david mulvaney,erick swere,zhenhuan zhu,i p w sillitoe;real time machine learning in embedded software and hardware platforms;4641;088498F7;2005
+7;4;yang wang;david mulvaney,i p w sillitoe,zhenhuan zhu,erick swere;real time machine learning in embedded software and hardware platforms;089249D9;088498F7;2007
+8;5;yang wang;biqing huang,zhiyuan chen,hongbo sun;resource integration framework of logistics resource grid;05E79D01;46405877;2005
+9;6;yang wang;masahito hirakawa;video editing based on object movement and camera motion;01E373B0;43987AC1;2006
+10;7;yang wang;thomas hornung;deep web navigation by example;6951;447A7E77;2008
+11;7;yang wang;thomas hornung;deep web navigation by example;3340;462547;2001
+12;8;yang wang;;foreground and shadow detection based on conditional random field;2095;44359895;2007
+13;9;yang wang;zhuang guo,jose nelson amaral,duane szafron;utilizing field usage patterns for java heap space optimization;093456D7;46926BFF;2006
+14;10;yang wang;jerzy w jaromczyk;local optimization of triangular surface meshes for general quadrics in lp norm;088AA042;479D1E74;2001
+15;11;yang wang;nalini venkatasubramanian,yun huang;mapgrid a new architecture for empowering mobile data placement in grid environments;0C2C9DD2;4651456C;2007
+16;13;yang wang;aurelian rusanu,markus eisenbach,d m nicholson,j s faulkner,g m stocks;teraflop computing for nanoscience;0221BC42;1561277;2006
+17;11;yang wang;scott mainwaring;human currency interaction learning from virtual currency use in china;0C2C9DD2;4558D729;2008
+18;14;yang wang;weiping wang,huaiming song,mingyuan an;a microscopic view on community detection in complex networks;012E6F4E;472C6E2D;2008
+19;9;yang wang;yong gao,robert niewiadomski,guohui lin,junfeng wu,zhizhong chen;a space efficient algorithm for sequence alignment with inversions;093456D7;43C40A80;2003
+20;9;yang wang;anh le,hung q ngo;a linear programming duality approach to analyzing strictly nonblocking d ary multilog networks under general crosstalk constraints;03C436D1;43C40A80;2008
+21;9;yang wang;anh le,hung q ngo;a linear programming duality approach to analyzing strictly nonblocking d ary multilog networks under general crosstalk constraints;03C436D1;066ED013;2011
+22;11;yang wang;scott mainwaring,bonnie nardi,wenjing liang,he jing,silvia lindtner;a hybrid cultural ecology world of warcraft in china;0C2C9DD2;473B0162;2008
+23;9;yang wang;lei zhang,sen wang,mohit gupta,dimitris samaras;face modeling and analysis in stony brook university;038CB6F6;45083D2F;2005
+24;9;yang wang;qiang ji;a dynamic conditional random field model for object segmentation in image sequences;09E1E653;45083D2F;2005
+25;3;yang wang;mark s drew,greg mori,hao jiang,zenian li;unsupervised discovery of action classes;0112E226;45083D2F;2006
+26;16;yang wang;kiafock loe,tele tan;video segmentation based on graphical models;06DE3FEB;45083D2F;2003
+27;9;yang wang;dimitris samaras,sen wang,xianfeng gu,miao jin;3d surface matching and recognition using conformal geometry;2083;45083D2F;2006
+28;9;yang wang;gang hua,dimitris samaras,zicheng liu,zhen wen,zhengyou zhang;face re lighting from a single image under harsh lighting conditions;0477FFD3;45083D2F;2007
+29;9;yang wang;simon lucey,jeffrey f cohn;enforcing convexity for improved alignment with constrained local models;0477FFD3;45083D2F;2008
+30;9;yang wang;jennafer l southron,randy goebel,gregory j taylor,urmila basu,randy m whittal,osmar r zaiane,julie l stephens;developing a database for proteomic analysis of extracytosolic plant proteins;10757;47169EC5;2004
+31;19;yang wang;yanmin sun,andrew k c wong;an overview of associative classifiers;18583;47784D0E;2006
+32;9;yang wang;dimitris samaras;estimation of multiple illuminants from a single image of arbitrary known geometry;038CB6F6;43001016;2002
+33;9;yang wang;dimitris samaras,xiaotian yin,xianfeng gu,yun zeng,wei zeng;3d non rigid surface matching and registration based on holomorphic differentials;0477FFD3;43001016;2008
+34;3;yang wang;greg mori;multiple tree models for occlusion and spatial constraints in human pose estimation;0112E226;43001016;2008
+35;22;yang wang;pradeep ray;evaluation methodology for the security of e finance systems;01E46A0B;45A68B5F;2005
+36;21;yang wang;jerome p lynch;wireless sensing actuation and control with applications to civil structures;05C86094;1581952;2006
+37;2;yang wang;weijian ni,yalou huang,maoqiang xie,dong li;an ensemble approach to learning to rank;36742C07;4665AEAE;2008
+38;24;yang wang;hanming lv;partition triangle meshes into coarsely quadrangular segmentation;14879;4665AEAE;2008
+39;9;yang wang;thomas kunz;a dynamic assignment problem in a mobile system with limited bandwidth;19290;4569270C;2003
+40;9;yang wang;michael closson,paul lu,danny ngo,edmund sumbar,nolan bard,mark goldenberg,morgan kan,mark lee,meng ding,nicholas lamb,ron senda;the trellis security infrastructure a layered approach to overlay metacomputers ;18759;44BF398F;2004
+41;27;yang wang;greg mori;boosted multiple deformable trees for parsing human poses;0112E226;0655F58A;2007
+42;3;yang wang;greg mori,payam sabzmeydani;semi latent dirichlet allocation a hierarchical model for human action recognition;0112E226;348447;2007
+43;9;yang wang;xiaohong jiang,hung q ngo;strictly nonblocking function cast d ary multi log networks under fanout and crosstalk constraints;4F1AE805;436150FA;2008
+44;26;yang wang;wei xue,guangyan zhang,jiwu shu;design and implementation of an out of band virtualization system on solaris 10;05E79D01;43D2A5F0;2006
+45;9;yang wang;dimitris samaras,xianfeng gu,song zhang,sen wang,mohit gupta,peisen huang;high resolution tracking of non rigid 3d motion of densely sampled data using harmonic maps;038CB6F6;45701BF3;2005
+46;16;yang wang;tan,loe;joint region tracking with switching hypothesized measurements;06DE3FEB;45701BF3;2003
+47;9;yang wang;simon lucey,jeffrey f cohn;non rigid object alignment with a mismatch template based on exhaustive local search;0477FFD3;45701BF3;2007
+48;9;yang wang;dimitris samaras,xianfeng gu,yun zeng,sen wang,hong qin,junho kim;ricci flow for 3d shape analysis;3854;45701BF3;2007
+49;19;yang wang;yanmin sun,mohamed s kamel;boosting for learning multiple classes with imbalanced class distribution;17199;468A7487;2006
+50;2;yang wang;dong li,yalou huang,maoqiang xie,weijian ni;multiple ranker method in document retrieval;0C3BAC1F;439B9AD2;2008
+51;29;yang wang;prabir bhattacharya;hierarchical stereo correspondence using features of gray connected components;16869;455477A7;1997
+52;29;yang wang;prabir bhattacharya;hierarchical stereo correspondence using features of gray connected components;06D18AFD;455477A7;1997
+53;16;yang wang;kiafock loe,tele tan;a probabilistic method for foreground and shadow segmentation;06DE3FEB;455477A7;2003
+54;3;yang wang;shaojun wang,greg mori,feng jiao,gholamreza haffari;boosting with incomplete information;0112E226;465F7C62;2008
+55;9;yang wang;zhiwei zhu,yan tong,qiang ji;facial feature tracking using a multi state hierarchical shape model under varying face pose and facial expression;09E1E653;4372EE76;2006
+56;32;yang wang;;a new method to obtain the shift table in boyer moore s string matching algorithm;07262C8C;4372EE76;2008
+57;4;yang wang;david mulvaney,i p w sillitoe;mobile robot path planning in dynamic environments;089249D9;455FBCE1;2007
+58;36;yang wang;jinwen ma,qiansheng cheng,bin gao;two further gradient byy learning rules for gaussian mixture with automated model selection;0134B592;44788D44;2004
+59;16;yang wang;tele tan;switching hypothesized measurements a dynamic model with applications to occlusion adaptive joint tracking;4122;47C39427;2003
+60;13;yang wang;w a shelton,andrew canning,x g zhang,d m c nicholson,balazs ujfalussy,thomas c schulthess,g m stocks,travis dirks;parallel multi teraflops studies of the magnetic structure of femn alloys;6454;4708B833;2003
+61;26;yang wang;yici cai,xianlong hong,qiang zhou;algorithm for yield driven correction of layout;17234;471752F4;2004
+62;39;yang wang;xianfeng shen,jin yao,jialin yang;density prediction of selective laser sintering parts based on artificial neural network;027EBF4F;4539ED1E;2004
+63;38;yang wang;roberto garigliano;an intelligent language tutoring system for handling errors caused by transfer;0B546E88;45E116C3;1992
+64;37;yang wang;jenrrm wang;a vrml interface for a knowledge based structural design system;13175;4472F8CF;2001
+65;19;yang wang;andrew k c wong;representing discovered patterns using attributed hypergraph;941;436976F3;1996
+66;19;yang wang;yanmin sun,andrew k c wong;parameter inference of cost sensitive boosting algorithms;090B77B3;462FCD74;2005
+67;42;yang wang;liusheng huang,jichun wang,hongli xu,ben xu;an efficient data exchange protocol using improved star trees in wireless sensor networks;078A8AE9;4775BF7A;2007
+68;42;yang wang;liusheng huang,xu wang,junmin wu,jichun wang,hongli xu;self organization data gathering for wireless sensor networks;6259;4775BF7A;2006
+69;40;yang wang;fritz mccall,joesph jaja,mike smorul;scalable reliable marshalling and organization of distributed large scale data onto enterprise storage environments;03FD8454;1346083;2005
+70;9;yang wang;ming zhu,constantine katsinis,meng ding;dynamic key messaging for cluster computing;11861;46E64AD9;2004
+71;43;yang wang;dustin lang,nando de freitas,maryam mahdaviani;fast krylov methods for n body learning;3007;43319DD4;2005
+72;3;yang wang;greg mori;learning a discriminative hidden part model for human action recognition;9144;43319DD4;2008
+73;44;yang wang;yong yu,haofen wang,haiping zhu;exploit semantic information for category annotation recommendation in wikipedia;0AE9651A;4341ED82;2007
+74;9;yang wang;gregory j taylor,randy goebel,osmar r zaiane;frequent subsequence based protein localization;093456D7;468A7487;2006
+75;3;yang wang;yi sun;recognizing human action from videos using histograms of visual words;0112E226;4459102E;2008
+76;9;yang wang;paul lu;using dataflow information to improve inter workflow instance concurrency;093456D7;45BA2C87;2005
+77;9;yang wang;dimitris samaras;estimation of multiple directional light sources for synthesis of mixed reality images;4F1AE805;43F3EBCF;2002
+78;29;yang wang;;color image segmentation based on parameter dependent connected components;10213;444444;2000
+79;29;yang wang;prabir c bhattacharya;an algorithm for finding parameter dependent connected components of gray images;7917;1247337;1998
+80;29;yang wang;prabir c bhattacharya;image understanding with connected component histograms;11892;787555;1999
+81;13;yang wang;w a shelton,d m c nicholson,noel m nachtigal,g m stocks;integrating the qmr method with first principles material science application code;10691;474677D8;1995
+82;45;yang wang;li su,dawei fu;the application of least square in precision cylindrical grinding;7366;524605;2006
+83;13;yang wang;w a shelton,travis dirks,andrew canning,x g zhang,d m c nicholson,balazs ujfalussy,thomas c schulthess,g m stocks;multi teraflops spin dynamics studies of the magnetic structure of femn co interfaces;15359;44BF398F;2002
+84;13;yang wang;w a shelton,andrew canning,x g zhang,d m c nicholson,balazs ujfalussy,thomas c schulthess,g m stocks,travis dirks;multi teraflops spin dynamics studies of the magnetic structure of femn co interfaces;17530;44BF398F;2001
+85;44;yang wang;huajie zhang,yong yu,haofen wang,haiping zhu,linyun fu;making more wikipedians facilitating semantics reuse for wikipedia authoring;0AE9651A;44E12FD1;2007
+86;44;yang wang;huajie zhang,yong yu,haofen wang,haiping zhu,linyun fu;eachwiki suggest to be an easy to edit wiki interface for everyone;0AE9651A;44E12FD1;2007
+87;42;yang wang;liusheng huang,hongli xu,jumin wu;coverage preserving data gathering in wireless sensor networks;12807;46950273;2007
+88;11;yang wang;a van der hoek,alfred kobsa,james a white;pla based runtime dynamism in support of privacy enhanced web personalization;0349EE07;46F7C53A;2006
+89;9;yang wang;deepayan chakrabarti,chenxi wang,christos faloutsos;epidemic spreading in real networks an eigenvalue viewpoint;0477FFD3;43B0793E;2003
+90;47;yang wang;vijay varadharajan;dynamictrust the trust development in peer to peer environments;05E74909;4339904B;2006
+91;16;yang wang;tele tan;adaptive foreground and shadow detection in image sequences;622;47CCD465;2002
+92;11;yang wang;alfred kobsa;respecting users individual privacy constraints in web personalization;0C2C9DD2;1832206;2007
+93;11;yang wang;;constraint sensitive privacy management for personalized web based systems;0349EE07;0BEAEA4E;2005
+94;16;yang wang;tele tan,jiankang wu,kiafock loe;a dynamic hidden markov random field model for foreground and shadow segmentation;09E3EE34;44865A7C;2005
+95;50;yang wang;liang lu,chunhua li,yongguang ji,dan feng,ke zhou;a distributed object tracing system;02D828C1;4373D98F;2006
+96;9;yang wang;chenxi wang;modeling the effects of timing parameters on virus propagation;0477FFD3;476F3906;2003
+97;51;yang wang;s v borodachov;asymptotic white noise hypothesis for pcm quantization;16334;460D43CF;2008
+98;9;yang wang;t n nguyen,hien quoc ngo;strictly nonblocking f cast photonic switching networks under general crosstalk constraints;03C436D1;43701CEE;2008
+99;42;yang wang;junmin wu,hongli xu,ben xu,liusheng huang,jichun wang,dashan wang;wireless fire monitoring system for ancient buildings;078A8AE9;44B337CB;2007
+100;48;yang wang;david brown,patrick beullens,honghai liu;travel speed prediction using fuzzy reasoning;03C2675E;45737C92;2008
+101;49;yang wang;ping liang,shuangcheng deng,tong lu,yingyu cao,he ren,lipei jiang;a needle holding robot for ultrasound guided percutaneous hepatic microwave ablation and initial experiments;17862;45737C92;2008
+102;22;yang wang;gunawan herman,jie xu,getian ye,bang zhang;a practical approach to multiple super resolution sprite generation;9540;47A1D52F;2008
+103;53;yang wang;yuefei zhu,jie ren,xiaoyan sun,shengli liu;collecting internet malware based on client side honeypot;19150;46013AA1;2008
+104;49;yang wang;ping liang,shuangcheng deng,tong lu,yingyu cao,lipei jiang,ren he;initial experiments of a needle holding robot for microwave ablation therapy;17784;45A0DDC1;2008
+105;24;yang wang;yuaxi xu,jie zhang,shuai zhu;the study and analysis of joint adaptive clock recovery mechanism for tdmoip;0489A984;45686500;2008
+106;52;yang wang;dejun feng,long wang;generation of finite tight frames by householder transformations;07CA5884;036686A3;2006
+107;52;yang wang;;sigma delta quantization errors and the traveling salesman problem;07CA5884;036686A3;2007
+108;52;yang wang;youming liu;the uniformity of non uniform gabor bases;731;036686A3;2003
+109;26;yang wang;yuguang fang,chuang lin,quanlin li;a queueing analysis for the denial of service dos attacks in computer networks;05E79D01;03C7498F;2007
+110;9;yang wang;dimitris samaras;estimation of multiple directional light sources for synthesis of augmented reality images;038CB6F6;08311E31;2003
+111;29;yang wang;prabir bhattacharya;digital connectivity and extended well composed sets for gray images;2888;0B07014C;1997
+112;52;yang wang;jeffrey c lagarias;substitution delone sets;07CA5884;062DE6AD;2003
+113;19;yang wang;lili liu,andrew k c wong;a global optimal algorithm for class dependent discretization of continuous data;090B77B3;4799A10B;2004
+114;9;yang wang;dimitris samaras,xianfeng gu,song zhang,sen wang,mohit gupta,peisen huang;high resolution tracking of non rigid motion of densely sampled 3d data using harmonic maps;04F353DF;0185ADDC;2008
+115;36;yang wang;jinwen ma,qiansheng cheng,bin gao;conjugate and natural gradient rules for byy harmony learning on gaussian mixture with automated model selection;0134B592;02790879;2011
+116;9;yang wang;dimitris samaras;estimation of multiple directional illuminants from a single image;038CB6F6;0A9361D2;2008
+117;52;yang wang;;subdivision schemes and refinement equations with nonnegative masks;07CA5884;02177D6E;2001
+118;42;yang wang;liusheng huang,hong li,junmin wu,hongli xu;coverage and exposure paths in wireless sensor networks;078A8AE9;09A08B9A;2006
+119;54;yang wang;josyf c mychaleckyj,john a todd,daisy flamez,christopher c cavnor,d burdick,gustavo glusman,luc j smink,alex c lam,decio l eizirik,e helton,neil m walker,linda s wicker,oliver s burren,barry healy,helen schuilenburg,vincent h everett,lee rowen,n c goodman,davide laneri,geoffrey e dolman;t1dbase a community web based resource for type 1 diabetes research;5137;0806DF69;2005
+120;0;yang wang;mehmet celenk;distributed computation in local area networks of workstations;4FF45383;0516B927;1995
+121;16;yang wang;kiafock loe,jiankang wu;a dynamic conditional random field model for foreground and shadow segmentation;0A4ACFBD;0BEAEA4E;2006
+122;9;yang wang;dimitris samaras,sen wang,xianfeng david gu,miao jin;conformal geometry and its applications on 3d shape matching recognition and stitching;4F1AE805;0BEAEA4E;2007
+123;29;yang wang;prabir bhattacharya;on parameter dependent connected components of gray images;17461;00065366;1996
+124;16;yang wang;tele tan,jiankang wu,kiafock loe;a probabilistic approach for foreground and shadow segmentation in monocular image sequences;06DE3FEB;00065366;2005
+125;9;yang wang;zhiwei zhu,yan tong,qiang ji;robust facial feature tracking under varying face pose and facial expression;18543;00065366;2007
+126;19;yang wang;yanmin sun,andrew k c wong,mohamed s kamel;cost sensitive boosting for classification of imbalanced data;090B77B3;00065366;2007
+127;9;yang wang;yong he,Frank Kwang-Ming Hwang;strictly nonblocking multirate logd n m p networks;17880;092725CB;2005
+128;19;yang wang;keith c c chan,waiho au,andrew k c wong;attribute clustering for grouping selection and classification of gene expression data;868;0225C627;2005
+129;19;yang wang;keith c c chan,waiho au,andrew k c wong;correction to attribute clustering for grouping selection and classification of gene expression data;12256;0225C627;2007
+130;9;yang wang;yong gao,robert niewiadomski,guohui lin,junfeng wu,zhizhong chen;a space efficient algorithm for sequence alignment with inversions and reversals;093456D7;05686292;2004
+131;16;yang wang;tele tan,jiankang wu,kiafock loe;spatiotemporal video segmentation based on graphical models;06DE3FEB;06DF68B7;2005
+132;9;yang wang;deepayan chakrabarti,jurij leskovec,chenxi wang,christos faloutsos;epidemic thresholds in real networks;0477FFD3;0028537B;2008
+133;19;yang wang;yanmin sun,andrew k c wong;boosting an associative classifier;17765;01D46A2B;2006
+134;19;yang wang;andrew k c wong;from association to classification inference using weight of evidence;15006;01D46A2B;2003
+135;19;yang wang;andrew k c wong;from association to classification inference using weight of evidence;16301;45C7663C;1999
+136;19;yang wang;andrew k c wong;high order pattern discovery from discrete valued data;17106;01D46A2B;1997
+137;12;yang wang;jagath c rajapakse;contextual modeling of functional mr images with conditional random fields;0A4ACFBD;037612B1;2006
+138;12;yang wang;jagath c rajapakse,juan zhou,xuebin zheng;probabilistic framework for brain connectivity from functional mr images;3134;037612B1;2008
+139;19;yang wang;andrew k c wong;pattern discovery a data driven approach to decision support;19850;45C7663C;2003
+140;19;yang wang;yanmin sun,andrew k c wong;generative and discriminative learning by cl net;19562;0489FD27;2007
+141;24;yang wang;jie zhang,naitong zhang,qinyu zhang;evaluation of an ultra wide bandwidth wireless indoor non line of sight channels;0C37CBAD;00039752;2009
+142;15;yang wang;long wei;new travelling wave solutions to some nonlinear equations via a combined method;15609;03009DEA;2008
+143;4;yang wang;david mulvaney,i p w sillitoe,erick swere;robot navigation by waypoints;089249D9;05719500;2008
+144;1;yang wang;zhitang song,duanzheng yao,su chen;preparation of one dimensional photonic crystal with variable period by using ultra high vacuum electron beam evaporation;012E6F4E;05E40B87;2007
+145;4;yang wang;david mulvaney,erick swere,zhenhuan zhu,i p w sillitoe;real time machine learning in embedded software and hardware platforms;2505;088498F7;2005
+146;4;yang wang;david mulvaney,i p w sillitoe,zhenhuan zhu,erick swere;real time machine learning in embedded software and hardware platforms;089249D9;088498F7;2007
+147;42;yang wang;jianwen chen,zhong liu;comments on estimation of frequencies and damping factors by two dimensional esprit type methods;022B685F;0A0DDB5F;2005
+148;26;yang wang;yici cai,rui shi,qiang zhou,xianlong hong;application of optical proximity correction technology;4281;05798E5E;2008
+149;32;yang wang;;it is time for a computer application degree;07262C8C;09B201F7;2006
+150;11;yang wang;ersin uzun,gene tsudik,alfred kobsa,rahim sonawalla;serial hook ups a comparative usability study of secure device pairing methods;0C2C9DD2;43B946B8;2009
+151;9;yang wang;;real time moving vehicle detection with cast shadow removal in video based on conditional random field;10309;06DD66F4;2009
+152;9;yang wang;dazhen pan,hung q ngo;rearrangeable and nonblocking w f distributors;03C436D1;03B5AFB2;2009
+153;32;yang wang;;effects of suffix repetition rates of a string on the performance of string matching algorithms;07262C8C;46F6F355;2009
+154;18;yang wang;xiaojun cao,barnali chakrabarty,fei hu;an energy efficient disjoint path routing approach for wireless ad hoc networks;11817;1503350;2009
+155;18;yang wang;xiaojun cao,chunsheng xin;tree based burst aggregation in optical burst switching networks;15516;1284691;2009
+156;26;yang wang;peter d ungsunan,rongfei zeng,chuang lin,hongkun yang;a novel cookie based ddos protection scheme and its performance analysis;16565;46C53898;2009
+157;20;yang wang;zhidong li,evan tan,thanes wassantachat,jing chen;traffic density estimation with on line svm classifier;01E46A0B;43137C5C;2009
+158;22;yang wang;gunawan herman,jun yang,getian ye,jie xu,bang zhang;incremental em for probabilistic latent semantic analysis on human action recognition;01E46A0B;43137C5C;2009
+159;22;yang wang;glenn geers,enyang huang,carlos aydos,chen cai,bernhard hengst,getian ye;on the performance of adaptive traffic signal control;01E46A0B;43F8572D;2009
+160;11;yang wang;paul dourish,scott mainwaring,silvia lindtner;situating productive play online gaming practices and guanxi in china;0C2C9DD2;43331058;2009
+161;26;yang wang;peter d ungsunan,yi gai,chuang lin;network processing performability evaluation on heterogeneous reliability multicore processors using srn model;05E79D01;4708B833;2009
+162;9;yang wang;nassir navab,ingmar voigt,razvan ioan ionasec,joachim hornegger,helene houle,dorin comaniciu,bogdan georgescu;personalized modeling and assessment of the aortic mitral coupling from 4d tee and ct;4F076E00;435020A4;2009
+163;18;yang wang;xiaojun cao,adrian caciula;developing a multifunctional network laboratory for teaching and research;6549;46347866;2009
+164;17;yang wang;allen clement,taylor riche,manos kapritsos,mike dahlin,sangmin lee,lorenzo alvisi;upright cluster services;05282E0D;45CEC493;2009
+165;11;yang wang;alfred kobsa;performance evaluation of a privacy enhancing framework for personalized websites;0349EE07;1797779;2009
+166;11;yang wang;alfred kobsa;privacy in online social networking at workplace;14917;462C0072;2009
+167;26;yang wang;wei xue,yifeng luo,jiwu shu;an efficient san level caching method based on chunk aging;05E79D01;446AF0D7;2007
+168;14;yang wang;weiping wang,mingyuan an,ninghui sun,huaiming song;group by query process in middleware of large scale data intensive systems;012E6F4E;446AF0D7;2009
+169;28;yang wang;jun liu,zhiwen mo,dong qiu;products of mealy type fuzzy finite state machines;03C6B6E1;0A1902EC;2009
+170;9;yang wang;simon lucey,jeffrey f cohn,mark cox,sridha sridharan;efficient constrained local model fitting for non rigid face alignment;256;0A9361D2;2009
+171;9;yang wang;sridha sridharan,simon lucey,jeffery f cohn,mark cox;efficient constrained local model fitting for non rigid face alignment;04F353DF;0A9361D2;2009
+172;3;yang wang;greg mori;human action recognition by semilatent topic models;0112E226;0BEAEA4E;2009
+173;9;yang wang;lei zhang,dimitris samaras,zhen wen,zicheng liu,zhengyou zhang,gang hua;face relighting from a single image under arbitrary unknown lighting conditions;4F076E00;0BEAEA4E;2009
+174;9;yang wang;hua li,ming zhu;a distributed key message algorithm to optimize the communication in clusters;093456D7;474677D8;2009
+175;30;yang wang;sa xie,yujiang wu,lunji song;an implicit finite difference scheme with preconditioning for convection dominated diffusion equation;16590;44CD2E44;2009
+176;9;yang wang;;towards a workflow aware distributed versioning file system for metacomputing systems;16205;440F51B1;2005
+177;14;yang wang;mingyuan an;effective criterion functions for efficient agglomerative clustering on very large networks;18952;468A7487;2009
+178;24;yang wang;hanming lv;a heuristic approach to reconstruct triangle mesh from unorganized point cloud;4959;4665AEAE;2009
+179;26;yang wang;cherntang lin,ke meng;security analysis of enterprise network based on stochastic game nets model;05E79D01;436150FA;2009
+180;23;yang wang;shuiqing lv,baoan wo,aili zhan,wenjing sun,wei you;recognition of coronary heart disease patients by rbf neural network basing on contents of microelements in human blood;6165;449AF10A;2009
+181;51;yang wang;luan lin,haomin zhou;iterative filtering as an alternative algorithm for empirical mode decomposition;1761;00FAD7CA;2011
+182;51;yang wang;chao huang,lihua yang;convergence of a convolution filtering based algorithm for empirical mode decomposition;4203;00FAD7CA;2011
+183;28;yang wang;jun liu,mengzhi huang;research on vector control system of pmsm based on internal model control of current loop;15313;477373;2009
+184;25;yang wang;h ye,fang liu,peng yao,jian chang;optimizing model of blasting parameters based on fuzzy neural network;15225;85CC4F4F;2009
+185;28;yang wang;jianbo lu,jun liu,mengzhi huang;research on the robustness of a proportional integral switching surface based on sliding mode control;19014;1050600;2009
+186;30;yang wang;minli zeng,yujiang wu,aili yang;implementation of a modified marder weitzner method for solving nonlinear eigenvalue problems;048AEF89;09DCED85;2009
+187;52;yang wang;guotong zhou;on the use of high order ambiguity function for multi component polynomial phase signals;07CA5884;09379623;1998
+188;29;yang wang;;parameter dependent connected component of gray images and image understanding segmentation and stereo correspondence;16661;1494476;1997
+189;52;yang wang;marc a berger;multidimensional two scale dilation equations;11945;1267758;1993
+190;33;yang wang;hanxi li,hong zheng;segment hough transform a novel hough based algorithm for curve detection;04F0A8A0;458DD1E0;2007
+191;34;yang wang;;research on optimization algorithm for attribute reduction of decision system;19089;462E0862;2008
+192;31;yang wang;jun yu,tao liu,fengbao yang;designing of led illuminating system and testing notice;3588;891300;2009
+193;42;yang wang;liusheng huang,gang wang,hongli xu,wang liu;topology control for delay constraint data collection in wireless sensor networks;078A8AE9;06DAD4AA;2009
+194;35;yang wang;zhihao cao;on validity of m step multisplitting preconditioners for linear systems;4647;03009DEA;2002
+195;19;yang wang;kiafock loe,jiankang wu;a dynamic conditional random field model for foreground and shadow segmentation;0A4ACFBD;0BEAEA4E;2006
+196;13;yang wang;w a shelton,andrew canning,b l gyorffy,d m c nicholson,balazs ujfalussy,xiaoguang zhang,xindong wang,g m stocks;high performance first principles method for complex magnetic properties;0221BC42;44BF398F;1998
+197;33;yang wang;hong zheng,zhaorui liu,du jiaying;research on vehicle image classifier based on concentration regulating of immune clonal selection;0134B592;757767;2008
+198;46;yang wang;yuanzhi chen,xingrui ma;study on the harmonious operation of logistics finance management of supply chain in ports hinterland based on system dynamics;05669A68;704544;2008
+199;49;yang wang;ping liang,shuangcheng deng,tong lu,yingyu cao,he ren,lipei jiang;a needle holding robot for ultrasound guided percutaneous hepatic microwave ablation and initial experiments;18384;45737C92;2008

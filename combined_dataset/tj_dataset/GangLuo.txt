@@ -1,0 +1,51 @@
+0;0;gang luo;;intelligent output interface for intelligent medical search engine;4FF45383;46A05BB0;2008
+1;2;gang luo;opas chutatape,huiqi li,s krishnan;abnormality detection in automated mass screening system of diabetic retinopathy;6545;45835902;2001
+2;0;gang luo;jeffrey f naughton,curt j ellmann,michael w watzke;transaction reordering with application to synchronized scans;4FF45383;472C6E2D;2008
+3;0;gang luo;jeffrey f naughton,curt j ellmann,michael w watzke;transaction reordering with application to synchronized scans;4FF45383;472C6E2D;2008
+4;0;gang luo;rong yan,philip s yu;real time new event detection for video streams;4FF45383;472C6E2D;2008
+5;0;gang luo;philip s yu;content based filtering for efficient online materialized view maintenance;4FF45383;472C6E2D;2008
+6;0;gang luo;xing wei,hao yang,chunqiang tang;medsearch a specialized search engine for medical information retrieval;4FF45383;472C6E2D;2008
+7;0;gang luo;jeffrey f naughton,curt j ellmann,michael w watzke;transaction reordering with application to synchronized scans;4FF45383;472C6E2D;2008
+8;0;gang luo;jeffrey f naughton,curt j ellmann,michael w watzke;transaction reordering with application to synchronized scans;4FF45383;472C6E2D;2008
+9;0;gang luo;jeffrey f naughton,philip s yu;multi query sql progress indicators;4FF45383;43820346;2006
+10;0;gang luo;jeffrey f naughton,curt j ellmann;a non blocking parallel spatial join algorithm;0810AAFA;45610CDA;2002
+11;0;gang luo;jeffrey f naughton,curt j ellmann,michael w watzke;a comparison of three methods for join view maintenance in parallel rdbms;0810AAFA;45610CDA;2003
+12;0;gang luo;jeffrey f naughton,curt j ellmann,michael w watzke;increasing the accuracy and coverage of sql progress indicators;4FF45383;45610CDA;2005
+13;0;gang luo;;partial materialized views;4FF45383;45610CDA;2007
+14;0;gang luo;kunlung wu,philip s yu;sao a stream index for answering linear optimization queries;4FF45383;45610CDA;2007
+15;0;gang luo;;design and evaluation of the imed intelligent medical search engine;4FF45383;45610CDA;2009
+16;0;gang luo;chunqiang tang;challenging issues in iterative intelligent medical search;4FF45383;4372EE76;2008
+17;8;gang luo;rong ji,yingjie feng,junfeng zhang,xianjun zeng,liang chen;a novel low power clock skew compensation circuit;0A254897;434A76CE;2008
+18;1;gang luo;abderrazak ghedamsi,anindya das,rachida dssouli,martin dubuc,gregor v bochmann;fault models in testing;19621;782302;1991
+19;1;gang luo;anindya das,gregor v bochmann;generating tests for control portion of sdl specifications;16241;1124236;1993
+20;1;gang luo;abderrazak ghedamsi,rachida dssouli,pallapa venkataram,gregor v bochmann;generating synchronizable test sequences based on finite state machine with distributed ports;1120;1860258;1993
+21;0;gang luo;chunqiang tang;on iterative intelligent medical search;4FF45383;43FD776C;2008
+22;0;gang luo;jeffrey f naughton,curt j ellmann,peter j haas;a scalable hash ripple join algorithm;0810AAFA;460A7036;2002
+23;0;gang luo;jeffrey f naughton,curt j ellmann,michael w watzke;toward a progress indicator for database queries;0810AAFA;460A7036;2004
+24;0;gang luo;philip s yu,chunqiang tang;resource adaptive real time new event detection;4FF45383;460A7036;2007
+25;0;gang luo;;efficient detection of empty result queries;4FF45383;4390334E;2006
+26;0;gang luo;jeffrey f naughton,curt j ellmann,michael w watzke;locking protocols for materialized aggregate join views;0810AAFA;4390334E;2003
+27;0;gang luo;jeffrey f naughton,curt j ellmann,michael w watzke;locking protocols for materialized aggregate join views;4FF45383;4390334E;2005
+28;0;gang luo;kirsten hildrum,philip s yu,wei fan,kunlung wu,xiaohui gu,eric bouillet,haixun wang,charu c aggarwal,david a george,buǧra gedik;challenges and experience in prototyping a multi modal stream analytic and monitoring application on system s;4FF45383;4390334E;2007
+29;0;gang luo;chunqiang tang,yingli tian;answering relationship queries on the web;4FF45383;43ABF249;2007
+30;0;gang luo;xing wei,hao yang,chunqiang tang;medsearch a specialized search engine for medical information;4FF45383;43ABF249;2007
+31;6;gang luo;lian zhao;dynamic rate assignment and power control in uplink umtsw cdma systems;00081A17;47838FAB;2006
+32;0;gang luo;jeffrey f naughton,curt j ellmann,michael w watzke;transaction reordering and grouping for continuous data loading;4FF45383;44699282;2006
+33;7;gang luo;lingyun xiang,xingming sun,can gan;research on steganalysis for text steganography based on font format;00FD6FCE;45F475CA;2007
+34;7;gang luo;xingming sun,huajun huang,junwei huang;detection of hidden information in webpages based on randomness;00FD6FCE;45F475CA;2007
+35;1;gang luo;cheng wu,gregor v bochmann,anindya das;failure equivalent transformation of transition systems to avoid internal actions;15926;08D19590;1992
+36;0;gang luo;tong chen,hao yu;toward a progress indicator for program compilation;4FF45383;07489CC9;2007
+37;0;gang luo;jeffrey f naughton,curt j ellmann,michael w watzke;locking protocols for materialized aggregate join views;0810AAFA;4390334E;2003
+38;0;gang luo;jeffrey f naughton,curt j ellmann,michael w watzke;locking protocols for materialized aggregate join views;4FF45383;4390334E;2005
+39;1;gang luo;g von bochmann,alexandre petrenko;test selection based on communicating nondeterministic finite state machines using a generalized wp method;043A55FE;007F6F5E;1994
+40;1;gang luo;anindya das,gregor v bochmann;software testing based on sdl specifications with save;043A55FE;007F6F5E;1994
+41;3;gang luo;eli peli,xianping fu;tracking telescope aiming point for bioptic driving surveillance;12950;455477A7;2009
+42;0;gang luo;selena b thomas,chunqiang tang;intelligent consumer centric electronic medical record;18247;461A4BFF;2009
+43;3;gang luo;eli peli,noa m rensing,alex r bowers;development and evaluation of vision multiplexing devices for vision impairments;08B4B7FF;0AA7F8E4;2011
+44;0;gang luo;kunlung wu,philip s yu;answering linear optimization queries with an approximate stream index;4FF45383;04DFB7BE;2009
+45;8;gang luo;junfeng zhang,liang chen,rong ji,yingjie feng,zhiqiang ling,bingcai sui,xianjun zeng;comments on leading one prediction with concurrent position correction;0A254897;0965DDD6;2009
+46;4;gang luo;yanwei hong,jin yang,peng jin;improved method for network danger evaluation based on immunology principle;15720;278946;2009
+47;5;gang luo;;trace equivalent transformation of nondeterministic finite state machines to avoid internal actions;3145;46013AA1;1993
+48;1;gang luo;abderrazak ghedamsi,rachida dssouli,pallapa venkataram,gregor v bochmann;test generation with respect to distributed interfaces;14099;07216B46;1994
+49;0;gang luo;kirsten hildrum,philip s yu,wei fan,kunlung wu,xiaohui gu,eric bouillet,haixun wang,charu c aggarwal,david a george,buǧra gedik;challenges and experience in prototyping a multi modal stream analytic and monitoring application on system s;4FF45383;4390334E;2007
+50;8;gang luo;rong ji,junfeng zhang,xianjun zeng,shizhen huang,liang chen;a novel clock duty cycle corrector of dsp systems;0A254897;1676046;2008

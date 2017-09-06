@@ -1,0 +1,21 @@
+0;0;kuo zhang;wei wei,jie tang,mingcai hong,juanzi li;weighted ontology based search exploiting semantic similarity;05E79D01;43F44683;2006
+1;0;kuo zhang;wei wei,jie tang,mingcai hong,juanzi li;weighted ontology based search exploiting semantic similarity;7054;43F44683;2006
+2;0;kuo zhang;gang wu,can liu,juanzi li;adapting prime number labeling scheme for directed acyclic graphs;05E79D01;469D149A;2006
+3;0;kuo zhang;kehong wang,jie tang,juanzi li;feature correlation based multi view detection;05E79D01;470B05DE;2005
+4;0;kuo zhang;kehong wang,jie tang,juanzi li;feature correlation based multi view detection;1468;470B05DE;2005
+5;1;kuo zhang;wei sun,zhongbo jiang,rongzeng cao,yan zheng;practical application of fdc in software service pricing;4FF45383;449C9FDE;2006
+6;1;kuo zhang;wei sun,xin zhang,haiqi liang,shyhkwei chen;software as a service an integration perspective;4FF45383;450EACAF;2007
+7;2;kuo zhang;zhenkun zheng,yu chen,x wang,yanni wu;a component based reflective middleware approach to context aware adaptive systems;05E79D01;46BC0EDE;2005
+8;0;kuo zhang;gang wu,kehong wang,juanzi li;term committee based event identification within news topics;05E79D01;463BD859;2008
+9;0;kuo zhang;juan zi,li gang wu;new event detection based on indexing tree and named entity;05E79D01;43FD776C;2007
+10;0;kuo zhang;hui xu,jie tang,juanzi li;keyword extraction using support vector machine;5598;45F282AE;2006
+11;0;kuo zhang;hui xu,jie tang,juanzi li;keyword extraction using support vector machine;05E79D01;45F282AE;2006
+12;1;kuo zhang;b e white,ying huang,markus stolze,jim laredo,noi sukaviriya;the stakeholder matrix supporting the modeling of responsibility in situation oriented directories;4FF45383;478757A6;2007
+13;1;kuo zhang;ying huang,xuanzhe liu,haiqi liang,xin zhang,liangzhao zeng,wei sun;a policy driven approach for software as services customization;0134B592;478757A6;2007
+14;0;kuo zhang;gang wu,juanzi li;logical structure based semantic relationship extraction from semi structured documents;4622;43ABF249;2006
+15;2;kuo zhang;zhenkun zheng,yanni wu,x wang;purple a reflective middleware for pervasive computing;05E79D01;42FFB84B;2005
+16;2;kuo zhang;yanni wu,jinlan tian,x wang;extending metadata with scenarios in adaptive distributed system;05E79D01;0397AD64;2005
+17;2;kuo zhang;yanni wu,jinlan tian,x wang;extending metadata with scenarios in adaptive distributed system;05E79D01;01CBB785;2007
+18;2;kuo zhang;yanni wu,jinlan tian,x wang;extending metadata with scenarios in adaptive distributed system;05E79D01;0397AD64;2005
+19;2;kuo zhang;yanni wu,jinlan tian,x wang;extending metadata with scenarios in adaptive distributed system;05E79D01;01CBB785;2007
+20;3;kuo zhang;aviad sela,david amid,amit fisher,ateret anabytavor,ou tie jun;towards a model driven service engineering process;19616;1278652;2008

@@ -1,0 +1,77 @@
+0;0;feng pan;jerry r hobbs,rutu mulkar;modeling and learning vague event durations for temporal reasoning;0B0338EC;46A05BB0;2007
+1;0;feng pan;rutu mulkar,jerry r hobbs;learning event durations from event descriptions;0011EAC4;46DAB993;2006
+2;0;feng pan;lijun jiang,s l xie,woojin song,weiyun yau,surendra ranganath,shiqian wu;infrared face recognition by using blood perfusion data;06DE3FEB;471752F4;2005
+3;3;feng pan;xiang zhang,wei wang;redus finding reducible subspaces in high dimensional data;06CBEAA9;472C6E2D;2008
+4;4;feng pan;alexander gutfraind,aric hagberg;optimal interdiction of unreactive markovian evaders;0C4400FF;43073C3F;2009
+5;4;feng pan;alexander gutfraind,aric hagberg;optimal interdiction of unreactive markovian evaders;5019D871;43073C3F;2009
+6;0;feng pan;jerry r hobbs;temporal aggregates in owl time;19832;472D3001;2005
+7;0;feng pan;z g li,nam ling,c zhu,x yang,gang feng,stephen wu;a novel joint rate control scheme for the coding of multiple real time video programs;0A4ACFBD;4789F291;2002
+8;3;feng pan;leonard mcmillan,wei wang;accelerating profile queries in elevation maps;06CBEAA9;45610CDA;2007
+9;3;feng pan;wei wang,xiang zhang;care finding local linear correlations in high dimensional data;06CBEAA9;45610CDA;2008
+10;3;feng pan;wei wang,xiang zhang;a general framework for fast co clustering on large datasets using matrix decomposition;06CBEAA9;45610CDA;2008
+11;3;feng pan;anthony k h tung,gao cong,kianlee tan;mining frequent closed patterns in microarray data;09E3EE34;468A7487;2004
+12;3;feng pan;jiong yang,wei wang,anthony k h tung;finding representative set from massive data;06CBEAA9;468A7487;2005
+13;3;feng pan;david w threadgill,wei wang,amy e roberts,l o mcmillan,f p m de villena;sample selection for maximal diversity;06CBEAA9;468A7487;2007
+14;3;feng pan;david w threadgill,ling yang,wei wang,fernando pardomanuel de villena,libba r mcmillan;quantitative association analysis using tree hierarchies;06CBEAA9;468A7487;2008
+15;7;feng pan;weiyou cai,weimin qi,qiaoling ji,yuanchu cheng;study of improved hierarchy genetic algorithm based on adaptive niches;15652;439B9AD2;2005
+16;0;feng pan;h q lu,xiaolin lin,yifan lu,s w ma,wen gao,z g li,susanto rahardja,g n feng,k p lim;adaptive rate control for h 264;13613;455477A7;2006
+17;9;feng pan;michael j keane;a new set of moment invariants for handwritten numeral recognition;0B40411E;455477A7;1994
+18;0;feng pan;l s rahardja,zhao liang,ce zhu,l d wu,w s wu,weimin ye,k p lim;fast intra mode decision algorithm for h 264 avc video coding;06DE3FEB;455477A7;2004
+19;0;feng pan;chenxi zhu,z g li,x k yang,nam ling,stanley wu,g n feng;a router based unequal error control scheme for video over the internet;0A4ACFBD;455477A7;2002
+20;0;feng pan;ashraf a kassim,zhongkang lu,yin sun;complexity based rate distortion optimization with perceptual tuning for scalable video coding;06DE3FEB;455477A7;2005
+21;0;feng pan;z g li,wu si,d j wu,x lin,susanto rahardja,k p lim;complexity adaptive quantization for intra frames in very low bit rate video coding;06DE3FEB;432251B5;2004
+22;0;feng pan;z g li,susanto rahardja,xiao lin,k p lim;a directional field based fast intra mode decision algorithm for h 264 video coding;06DE3FEB;432251B5;2004
+23;0;feng pan;z g li,s wu,d j wu,xiao lin,susanto rahardja,k p lim;proactive frame skipping decision scheme for variable frame rate video coding;06DE3FEB;432251B5;2004
+24;0;feng pan;w s lin,ee ping ong,susanto rahardja,heng mui,xiao lin,keng terrace;measuring blocking artifacts using edge direction information;17592;432251B5;2004
+25;0;feng pan;hongtao yu,yin sun,zhiping lin;a perceptual bit allocation scheme for h 264;17497;432251B5;2005
+26;10;feng pan;joseph m schimmels;efficient contact state graph generation for assembly applications;061B6EC0;455FBCE1;2003
+27;10;feng pan;joseph m schimmels;robust procedures for obtaining assembly contact state extremal configurations;061B6EC0;455FBCE1;2004
+28;0;feng pan;;temporal aggregates for web services on the semantic web;0011EAC4;47A823DD;2005
+29;3;feng pan;nandini kappiah,david k lowenthal,r w springer,vincent w freeh;exploring the energy time tradeoff in mpi programs on a power scalable cluster;083839C7;4708B833;2005
+30;3;feng pan;daniel m smith,vincent w freeh;exploring the energy time tradeoff in high performance computing;083839C7;4708B833;2005
+31;0;feng pan;xianchang lin,z g li,d j wu,sining wu,susanto rahardja,k p lim;adaptive intra frame quantization for very low bit rate video coding;06DE3FEB;471752F4;2004
+32;0;feng pan;ee ping ong,weisi lin,xiao lin,xiaokang yang,susu yao,susanto rahardja,zhongkang lu;a locally adaptive algorithm for measuring blocking artifacts in images and videos;06DE3FEB;471752F4;2004
+33;0;feng pan;ee ping ong,weisi lin,susu yao,xiaokang yang,xiao lin,susanto rahardja,zhongkang lu;a locally adaptive algorithm for measuring blocking artifacts in images and videos;6343;471752F4;2004
+34;0;feng pan;x k yang,susanto rahardja,xueyin lin,s s yao,k p lim;an adaptive edge preserving artifacts removal filter for video post processing;11409;471752F4;2005
+35;0;feng pan;hongtao yu,zhiping lin;an improved rate control algorithm for h 264;1547;471752F4;2005
+36;0;feng pan;hongtao yu,zhiping lin;a scalable fast mode decision algorithm for h 264;16258;471752F4;2006
+37;3;feng pan;jiong yang,mohammed j zaki,anthony k h tung,gao cong;carpenter finding closed patterns in long biological datasets;09E3EE34;436976F3;2003
+38;0;feng pan;thinh m le,kenny choo;fast rate distortion optimization in h 264 avc video coding;06DE3FEB;46AB27D7;2005
+39;0;feng pan;thinh m le,h men;block standstill and homogeneity based fast motion estimation algorithm for h 264 video coding;06DE3FEB;46AB27D7;2005
+40;0;feng pan;r farrell;computing semantic similarity between skill statements for approximate matching;0B0338EC;45F914AD;2007
+41;0;feng pan;rong yu,dinghao wu,z g li,si wu,k p lim,guiliang feng;a 2 stage partial distortion search algorithm for block motion estimation;9493;4459102E;2002
+42;3;feng pan;wei wang,xiang zhang,fei zou,y xie;coe a general approach for efficient genome wide two locus epistasis test in disease association study;06CBEAA9;46DE2D44;2009
+43;3;feng pan;zhang xiang,wei wang,fei zou,y xie;coe a general approach for efficient genome wide two locus epistasis test in disease association study;3791;04AEE84F;2010
+44;3;feng pan;jiong yang,anthony k h tung,xin xu,gao cong;farmer finding interesting rule groups in microarray datasets;09E3EE34;460A7036;2004
+45;3;feng pan;xiang zhang,wei wang;crd fast co clustering on large datasets utilizing sampling based matrix decomposition;06CBEAA9;460A7036;2008
+46;3;feng pan;anthony k h tung,xin xu,gao cong;cobbler combining column and row enumeration for closed pattern discovery;09E3EE34;44E8D4B3;2004
+47;0;feng pan;jerry r hobbs;temporal arithmetic mixing months and days;0011EAC4;45A68B5F;2006
+48;8;feng pan;lini ma;efficient compression of multi view video using hierarchical b pictures;04B07EB0;44BC5EE8;2008
+49;6;feng pan;yunzhou zhang,shuying zhao,chengdong wu;the exploration and practice of talents foster mode about information science in country oriented information based strategy;00C50601;449CDF39;2008
+50;4;feng pan;alexander gutfraind,aric hagberg;optimal interdiction of unreactive markovian evaders;0C4400FF;43073C3F;2009
+51;4;feng pan;alexander gutfraind,aric hagberg;optimal interdiction of unreactive markovian evaders;5019D871;43073C3F;2009
+52;4;feng pan;david p morton;minimizing a stochastic maximum reliability path;5019D871;0B6E9D55;2008
+53;0;feng pan;;adaptive image compression using local pattern information;0A4ACFBD;090C990E;2002
+54;0;feng pan;jerry r hobbs;an ontology of time for the semantic web;0011EAC4;035F4706;2004
+55;0;feng pan;chenxi zhu,z g li,shinqjen wu,x k yang,nam ling,g n feng;a unified architecture for real time video coding systems;10419;06DD66F4;2003
+56;0;feng pan;kyutae lim,zhiyuan li,guorui feng;a study of mpeg 4 rate control scheme and its improvements;06DE3FEB;06DD66F4;2003
+57;0;feng pan;z g li,si wu,xiao lin,dajun wu,susanto rahardja,k p lim;fast mode decision algorithm for intraprediction in h 264 avc video coding;06DE3FEB;06DD66F4;2005
+58;0;feng pan;dinghao wu,z g li,si wu,c c ko,x lin,susanto rahardja,k p lim;fast intermode decision in h 264 avc video coding;06DE3FEB;06DD66F4;2005
+59;3;feng pan;mark e femal,david k lowenthal,vincent w freeh,nandini kappiah,barry rountree,r w springer;analyzing the energy time trade off in high performance computing applications;10908;05CA192B;2007
+60;0;feng pan;z p lin,w juwono,f slamet,susanto rahardja,xiao lin;adaptive frame skipping based on spatio temporal complexity for low bit rate video coding;10090;0648A7E5;2006
+61;0;feng pan;h q lu,xiaolin lin,yifan lu,s w ma,wen gao,z g li,susanto rahardja,g n feng,k p lim;adaptive rate control for h 264;7896;455477A7;2006
+62;12;feng pan;zhiyong du,jindong chen,xianfang wang;dynamic modeling of biotechnical process based on online support vector machine;14579;04A491A1;2009
+63;11;feng pan;zhenhua qu,weiqi luo,ji wu huang;a survey of passive technology for digital image forensics;09676E2E;0800285A;2007
+64;3;feng pan;andrew b nobel,xiang zhang,wei wang;mining non redundant high order correlations in binary data;06CBEAA9;4390334E;2008
+65;14;feng pan;;digital video coding techniques and standards;14228;189228;2007
+66;13;feng pan;jie chen,b xin;problem difficulty analysis for particle swarm optimization deception and modality;07802943;43F3068F;2009
+67;13;feng pan;guanghui wang,yang liu;a multi objective based non stationary uav assignment model for constraints handling using pso;07802943;43F3068F;2009
+68;0;feng pan;gianluca donato,franco salvetti,david ahn,tim converse;feature selection for ranking using boosted trees;4CE6FC2D;472C6E2D;2009
+69;5;feng pan;min xia,jian an fang,en jian bai;robust sequence memory in sparsely connected networks with controllable steady state period;0ACED25B;02B93B6A;2009
+70;11;feng pan;feng,jiwu,jiongbin,huang,chen,pan;discriminating between photorealistic computer graphics and natural images using fractal geometry;09676E2E;05798E5E;2009
+71;13;feng pan;jie chen,b xin,zhihong peng;statistical learning makes the hybridization of particle swarm and differential evolution more efficient a novel hybrid optimizer;07802943;05798E5E;2009
+72;1;feng pan;danhong liu,xia wang,peng yang,yongyong xu,keqin rao;web based infectious disease reporting using xml forms;0097503F;032AE46A;2008
+73;5;feng pan;min xia,en jian bai;a new hybrid model for time series prediction;0ACED25B;4665AEAE;2009
+74;2;feng pan;rucheng han,runsheng zhang;an optimal controller based on ga for direct torque control;15967;462E0862;2009
+75;0;feng pan;d j wu,r s yu,z g li,g n feng,k p lim;an adaptive rate control algorithm for video coding over personal digital assistants pda ;06DE3FEB;432251B5;2003
+76;12;feng pan;jindong chen,zhou wu,xianfang wang;modeling of fermentation process based on qdpso svm;06A6DFA2;45777CD3;2008

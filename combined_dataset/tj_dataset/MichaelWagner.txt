@@ -1,0 +1,83 @@
+0;0;michael wagner;gregory m cooper,andrew w moore,wengkeen wong;rule based anomaly pattern detection for detecting disease outbreaks;0A2510E5;46A05BB0;2002
+1;1;michael wagner;girija chetty;face voice authentication based on 3d face models;19843;4603A79F;2006
+2;1;michael wagner;dat tran;fuzzy c means clustering based speaker verification;0B39AE7C;42F0CC9A;2002
+3;1;michael wagner;dat tran;noise clustering based speaker verification;0B39AE7C;42F0CC9A;2002
+4;1;michael wagner;dat tran;generalised fuzzy hidden markov models for speech recognition;0B39AE7C;42F0CC9A;2002
+5;4;michael wagner;j pesch,r beckmann,jiri silny,manfred fuchs,helmut buchner,a rienacker,g knoll;anatomische abbildung elektrischer aktivitat des zns;9218;175784;1996
+6;4;michael wagner;hansaloys wischmann,thomas kohler,ralf drenckhahn,manfred fuchs;model based eeg and meg source reconstruction methods;11724;1336098;1996
+7;4;michael wagner;jan muller,thorsten m buzug,andreas mang,manfred fuchs;restoration of the sphere cortex homeomorphism;5525;46C92457;2006
+8;6;michael wagner;holger regenbrecht;interaction in a collaborative augmented reality environment;35238AAD;4558D729;2002
+9;7;michael wagner;cristina fra,jorge lorenzo,roland reichle,kurt geihs,massimo valla,mohammad ullah khan,nearchos paspallis,george a papadopoulos;a comprehensive context modeling framework for pervasive computing systems;0653D579;439E92D8;2008
+10;1;michael wagner;girija chetty;audio video person authentication based on 3d facial feature warping;19561;46BD07AF;2005
+11;1;michael wagner;girija chetty;a robust speaking face modelling approach based on multilevel fusion;0B39AE7C;46BD07AF;2007
+12;8;michael wagner;johannes j schneider,peter parycek;an e learning tool for the austrian citizen card;7204;4385295C;2004
+13;10;michael wagner;michael oberhuber,wolfgang karl,robert hockauf,markus leberecht;exploiting spatial and temporal locality of accesses a new hardware based monitoring approach for dsm systems;16264;4556024C;1998
+14;1;michael wagner;dat tran;a proposed fuzzy pattern verification system;0B39AE7C;47BBF4CC;2001
+15;8;michael wagner;stephanie ann ludi;re inventing icons using animation as cues in icons for the visually impaired;14211;298627;2001
+16;1;michael wagner;tuan d pham;image restoration by fuzzy convex ordinary kriging;1014;455477A7;2000
+17;0;michael wagner;andrew w moore,wengkeen wong,gregory f cooper;bayesian network anomaly pattern detection for disease outbreaks;12624;465F7C62;2003
+18;1;michael wagner;tuan pham;information based speaker verification;13047;4372EE76;2000
+19;1;michael wagner;luisa lu,w r mccloskey,k d fischer,p coppin,e myers,d seneker;eventscope bringing remote experience of mars to the public through telepresence;19106;4472F8CF;2004
+20;6;michael wagner;holger regenbrecht,wilhelm wilke,erich mueller,petra l kohler,claudia ott,t lum;an augmented virtuality approach to 3d videoconferencing;13199;47A7A7E0;2003
+21;1;michael wagner;yee wah lau,dat tran;testing voice mimicry with the yoho speaker verification corpus;0B39AE7C;47169EC5;2005
+22;7;michael wagner;cristina fra,roland reichle,kurt geihs,massimo valla,mohammad ullah khan,nearchos paspallis,george a papadopoulos;a context query language for pervasive computing environments;9985;43AEF2F9;2008
+23;11;michael wagner;joseph czyzyk,chunguang sun,stephen j wright,thomas f coleman;ppcx parallel software for linear programming;9234;474677D8;1997
+24;1;michael wagner;girija chetty;audio visual speaker verification based on hybrid fusion of cross modal features;0B39AE7C;43BA2D06;2007
+25;12;michael wagner;matthias erche,christian hein;mapping visual notations to mof compliant models with qvt relations;17412;439F2D27;2007
+26;0;michael wagner;wengkeen wong,john d levander,william r hogan,gregory f cooper,denver dash;bayesian biosurveillance of disease outbreaks;0A2510E5;47CCD465;2004
+27;1;michael wagner;luisa lu,w ronald mccloskey,eben myers,p coppin,kevin mccloskey,d seneker;the eventscope remote science operations tool using a visualization of a remote location as an interface for robotic exploration;8518;4566232D;2005
+28;11;michael wagner;ming guo,constance west;outpatient clinic scheduling a simulation approach;14143;44815780;2004
+29;0;michael wagner;julie a funk,w j a saville,thomas e wittum,loren shaffer,paivi j rajalaschultz,garrick wallstrom;early outbreak detection using an automated data feed of test orders from a veterinary diagnostic laboratory;0A2510E5;42E17B30;2007
+30;11;michael wagner;raghu r devineni,dayanand n naik,george l wright,srinivas kasukurti,o john semmes,alex pothen,baoling adam;computational protein biomarker prediction a case study for prostate cancer;4C9AA917;012269E3;2004
+31;6;michael wagner;holger regenbrecht,gregory baratoff;a tangible ar desktop environment;35238AAD;05A6DCAB;2001
+32;2;michael wagner;csnet,ray ford;performance evaluation methodologies for abstract data type implementation techniques;07874D3C;0AD8B77F;1987
+33;3;michael wagner;;geschaftsprozesgestaltung durch kommunikation und information;6661;424679;1998
+34;1;michael wagner;kate barrelle,m hiron,william laverty,ron henderson,j gough;user verification through pointing characteristics an exploration examination;17442;07B920C3;1996
+35;1;michael wagner;r napier,ron henderson,m hiron,william laverty,doug mahar;optimizing digraph latency based biometric typist verification systems inter and intra typist differences in digraph latency distributions;1576;07B920C3;1995
+36;1;michael wagner;ron henderson,m hiron,william laverty,doug mahar,renee m napier;keyboard user verification toward an accurate efficient and ecologically valid algorithm;14430;07B920C3;1995
+37;1;michael wagner;tuan d pham;image enhancement by kriging and fuzzy sets;16609;02790879;2011
+38;1;michael wagner;dat tran;a fuzzy approach to speaker verification;5346;02790879;2011
+39;5;michael wagner;;verteilte suche nach digitalen wasserzeichen in emule;6924;093D26E7;2007
+40;1;michael wagner;girija chetty;robust face voice based speaker identity verification using multilevel fusion;0B39AE7C;0A9361D2;2008
+41;1;michael wagner;tuan d pham;speaker verification with fuzzy fusion and genetic optimization;17304;0044D8EF;1999
+42;11;michael wagner;jaroslaw meller,rafal adamczak,aleksey porollo;linear regression models for solvent accessibility prediction in proteins;16589;04AEE84F;2005
+43;11;michael wagner;jaroslaw meller,ron elber;maximum feasibility guideline in the design and analysis of protein folding potentials;04D98949;01423ABF;2002
+44;0;michael wagner;andrew w moore,wengkeen wong,gregory f cooper;what s strange about recent events wsare an algorithm for the early detection of disease outbreaks;6337;07179FAA;2005
+45;11;michael wagner;jaroslaw meller,ron elber;large scale linear programming techniques for the design of protein folding potentials;4C9AA917;0B8EFC61;2004
+46;9;michael wagner;matthias horn,alexander loy;probebase an online resource for rrna targeted oligonucleotide probes;2788;0806DF69;2003
+47;9;michael wagner;alexander loy,frank maixner,matthias horn;probebase an online resource for rrna targeted oligonucleotide probes new features 2007;07BC3356;0806DF69;2007
+48;1;michael wagner;tuan pham;similarity normalization for speaker verification by fuzzy fusion;18298;00065366;2000
+49;1;michael wagner;tuan d pham;a geostatistical model for linear prediction analysis of speech;10240;00065366;1998
+50;1;michael wagner;tuan pham;ambiguity reduction in speaker identification by the relaxation labeling process;18865;00065366;1999
+51;6;michael wagner;holger regenbrecht,wilhelm wilke,c d ott,elizabeth a mueller,petra l kohler,t lum;using augmented virtuality for remote collaboration;35238AAD;3A26CE6F;2004
+52;6;michael wagner;holger regenbrecht,wilhelm wilke,c d ott,erich mueller,petra l kohler,t lum;using augmented virtuality for remote collaboration;17052;3A26CE6F;2006
+53;1;michael wagner;dat tran,t zheng;state mixture modelling applied to speech recognition;0B39AE7C;090C990E;1999
+54;6;michael wagner;holger regenbrecht,gregory baratoff;magicmeeting a collaborative tangible augmented reality system;04468646;026CF34F;2002
+55;7;michael wagner;sonia ben mokhtar,romain rouvoy;preface;6320;06B0F56F;2010
+56;7;michael wagner;mauro caporuscio,romain rouvoy;preface;13059;06B0F56F;2008
+57;7;michael wagner;romain rouvoy;preface;17743;06B0F56F;2009
+58;7;michael wagner;russel nzekwa,gabriel hermosillo;preface;811;06B0F56F;2011
+59;7;michael wagner;kurt geihs,dieter hogrefe,klaus david;preface;4798;493994;2009
+60;7;michael wagner;kurt geihs,roland reichle,mohammad ullah khan;modeling of context aware self adaptive applications in ubiquitous and service oriented environments;423;448334;2009
+61;7;michael wagner;manuele kirsch pinheiro,massimo valla,roland reichle,yolande berbers,alisa devlic,yves vanrompay;context inference of users social relationships and distributed policy management;0653D579;43AEF2F9;2009
+62;13;michael wagner;lachezar krumov,dirk bradler,jussi kangasharju;hierarchical data access in structured p2p networks;11171;443CF3D6;2009
+63;7;michael wagner;kurt geihs,roland reichle,mohammad ullah khan;service oriented adaptation in ubiquitous computing environments;10331;462C0072;2009
+64;1;michael wagner;florian metze,tim polzehl;fusion of acoustic and linguistic features for emotion detection;0B39AE7C;4399020E;2009
+65;7;michael wagner;sonia ben mokhtar,romain rouvoy;preface;1983;06B0F56F;2010
+66;7;michael wagner;mauro caporuscio,romain rouvoy;preface;15470;06B0F56F;2008
+67;7;michael wagner;romain rouvoy;preface;14155;06B0F56F;2009
+68;7;michael wagner;russel nzekwa,gabriel hermosillo;preface;6284;06B0F56F;2011
+69;7;michael wagner;kurt geihs,dieter hogrefe,klaus david;preface;14502;158811;2009
+70;7;michael wagner;ulrich scholz,kurt geihs,roland reichle,mohammad ullah khan,george a papadopoulos,konstantinos kakousis;an adaptation reasoning approach for large scale component based applications;0653D579;06B0F56F;2009
+71;7;michael wagner;sonia ben mokhtar,romain rouvoy;preface;7948;06B0F56F;2010
+72;7;michael wagner;mauro caporuscio,romain rouvoy;preface;16342;06B0F56F;2008
+73;7;michael wagner;romain rouvoy;preface;18159;06B0F56F;2009
+74;7;michael wagner;russel nzekwa,gabriel hermosillo;preface;18984;06B0F56F;2011
+75;7;michael wagner;kurt geihs,dieter hogrefe,klaus david;preface;1312;401548;2009
+76;1;michael wagner;girija chetty;liveness assurance in face authentication;0B39AE7C;939853;2009
+77;7;michael wagner;hendrik skubch,kurt geihs,roland reichle,stefan triller;towards a comprehensive teamwork model for highly dynamic domains;11576;47957C42;2010
+78;11;michael wagner;ming guo,constance west;outpatient clinic scheduling a simulation approach;2166;44815780;2004
+79;1;michael wagner;girija chetty;audio visual multimodal fusion for biometric person authentication and liveness verification;0B39AE7C;1349136;2006
+80;1;michael wagner;;a speech recognition experiment with the entire syllable inventory of standard chinese;13384;07A18497;1987
+81;1;michael wagner;girija chetty;reliability score based multimodal fusion for biometric person authentication;0B39AE7C;0B68DB42;2008
+82;1;michael wagner;girija chetty;video to the rescue;0B39AE7C;1184191;2006

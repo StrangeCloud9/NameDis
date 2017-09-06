@@ -1,0 +1,24 @@
+0;0;barry wilkinson;mark a holliday,james ruff;using an end to end demonstration in an undergraduate grid computing course;0616AB9C;44344A0A;2006
+1;0;barry wilkinson;mark a holliday,barry l kurtz,rahman tashakkori;a consortium to promote distributed computing;0616AB9C;44344A0A;2007
+2;0;barry wilkinson;amy apon,miguel l botelorenzo,oscar ardaizvillanueva;collaborative and learning applications of grid technology and grid education;10072;4651456C;2005
+3;0;barry wilkinson;mark a holliday,clayton ferner;experiences in teaching a geographically distributed undergraduate grid computing course;0616AB9C;4651456C;2005
+4;0;barry wilkinson;tanusree pai,meghana miraj;a distributed shared memory programming course;0616AB9C;4651456C;2001
+5;0;barry wilkinson;kenneth e hoganson,w homer carlisle;applications of rhombic multiprocssors;16511;474BD8D0;1997
+6;0;barry wilkinson;samir daoud,mark a holliday,jeffrey house,clayton ferner;a geographically distributed assignment structured undergraduate grid computing course;0629DAF7;4306948C;2005
+7;0;barry wilkinson;amy apon,thomas feilhauer,jens ma he;grid computing at the undergraduate level can we do it ;046C3B83;4306948C;2008
+8;0;barry wilkinson;clayton ferner;towards a top down approach to teaching an undergraduate grid computing course;0616AB9C;4306948C;2008
+9;0;barry wilkinson;jeremy villalobos;latency hiding by redundant processing a technique for grid enabled iterative synchronous parallel programs;0616AB9C;1093158;2008
+10;0;barry wilkinson;;comparative performance of overlapping connectivity multiprocessor interconnection networks;0616AB9C;02A934C1;1991
+11;0;barry wilkinson;carolina wilmington;teaching grid computing in north carolina part i;1019;1928216;2006
+12;0;barry wilkinson;clayton ferner;teaching grid computing in north carolina part ii;0616AB9C;065E4CBE;2006
+13;0;barry wilkinson;;cascaded rhombic crossbar interconnection networks;7319;095DDDE1;1990
+14;0;barry wilkinson;;overlapping connectivity interconnection networks for shared memory multiproceessor systems;4327;095DDDE1;1992
+15;0;barry wilkinson;;on crossbar switch and multiple bus interconnection networks with overlapping connectivity;0616AB9C;0965DDD6;1992
+16;0;barry wilkinson;clayton ferner;pair teaching a course on grid computing from two campuses on ncren;0616AB9C;4306948C;2009
+17;0;barry wilkinson;amy apon,thomas feilhauer,jens ma he;grid computing at the undergraduate level can we do it ;046C3B83;4306948C;2008
+18;0;barry wilkinson;c michael allen;parallel programming techniques and applications using networked workstations and parallel computers;0616AB9C;1404043;1998
+19;0;barry wilkinson;;digital system design;10759;265499;1992
+20;0;barry wilkinson;;digital system design;3721;1352191;1992
+21;0;barry wilkinson;michael c allen;parallel programming techniques and applications using networked workstations and parallel computers 2nd edition ;11533;136915;2004
+22;0;barry wilkinson;;comments on design and analysis of arbitration protocols by f el guibaly;0616AB9C;0965DDD6;1992
+23;0;barry wilkinson;;overlapping connectivity interconnection networks for shared memory multiprocessor systems;7084;095DDDE1;1992

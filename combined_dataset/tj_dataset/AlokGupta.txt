@@ -1,0 +1,57 @@
+0;0;alok gupta;wolfgang ketter,paul r schrater,john e collins,maria gini;a predictive empirical model for pricing and resource allocation decisions;07C34834;4565F956;2007
+1;1;alok gupta;alec j megibow,anna jerebko,shaked laks,pascal cathier,t venkata,r bharat rao,glenn fung,luca bogoni,jonathan stoeckel,michael macari,senthil periaswamy,e vega,murat dundar,arun v krishnan,j k liang,rachid amara;cad for polyp detection an invaluable tool to meet the increasing need for colon cancer screening;0734E3CC;45B8879C;2004
+2;1;alok gupta;yiqiang zhan,xiang sean zhou,arun krishnan,sonja zillner,michael sintek,manuel moeller;semantics and cbir a medical imaging perspective;0734E3CC;448AC690;2008
+3;1;alok gupta;shree k nayar,dinkar n bhat;motion estimation using ordinal measures;10615;45083D2F;1997
+4;1;alok gupta;gareth funkalea;the use of hybrid models to recover cardiac wall motion in tagged mr images;4F076E00;45083D2F;1996
+5;1;alok gupta;bogdan georgescu,dorin comaniciu,xiang sean zhou;database guided segmentation of anatomical structures with complex appearance;8547;45083D2F;2005
+6;1;alok gupta;richard d white,shmuel aharon,gareth funkalea,sandra s halliburton,tim odonnell;multi modality model based registration in the cardiac domain;19314;45083D2F;2000
+7;1;alok gupta;thomas odonnell,terrance e boult;global models with parametric offsets as applied to cardiac motion recovery;10034;45083D2F;1996
+8;1;alok gupta;bin xie,r cruceanu,dorin comaniciu,xiang sean zhou;a unified framework for uncertainty propagation in automatic shape tracking;18538;45083D2F;2004
+9;1;alok gupta;t w odonnell,terrance e boult;a new model for the recovery of cylindrical structures from medical image data;4F076E00;1951649;1997
+10;0;alok gupta;bochiuan su,zhiping walter;economic analysis of consumer purchase intentions in electronic and traditional retail channels competitive and strategic implications;3540;45A68B5F;2004
+11;0;alok gupta;robert j kauffman,gediminas adomavicius,jesse bockstedt;understanding patterns of technology evolution an ecosystem perspective;12366;4569270C;2006
+12;0;alok gupta;ravi bapna,paulo goes;simulating online yankee auctions to optimize sellers revenue;00C50601;4569270C;2001
+13;0;alok gupta;ram d gopal;minitrack introduction;974;4569270C;2002
+14;0;alok gupta;ramnath k chellappa;minitrack introduction;3931;4569270C;2006
+15;0;alok gupta;nelson granados,robert j kauffman;identifying facilitators and inhibitors of market structure change a hybrid theory of unbiased electronic markets;9183;4569270C;2005
+16;0;alok gupta;r chellappa;ethical legal and economic issues in the digital economy intellectual property rights piracy trust security and privacy minitrack introduction;164;4569270C;2004
+17;0;alok gupta;r chellappa;mini track ethical legal and economic issues in the digital economy intellectual property rights piracy trust security and privacy;07C34834;4569270C;2004
+18;0;alok gupta;ram d gopal;minitrack introduction;3383;4569270C;2002
+19;0;alok gupta;ramnath k chellappa;minitrack introduction;6671;4569270C;2006
+20;1;alok gupta;chengchung liang,mariepierre dubuissonjolly;optimal polyline tracking for artery motion compensation in coronary angiography;11519;45701BF3;1998
+21;1;alok gupta;mariepierre dubuissonjolly,thomas odonnell;a cooperative framework for segmentation using 2d active contours and 3d hybrid models as applied to branching cylindrical structures;19099;45701BF3;1998
+22;0;alok gupta;ravi bapna,d analyses,paulo b goes;insights and analyses of online auctions;5756;062B05D6;2001
+23;0;alok gupta;andrew b whinston,dale o stahl;the economics of network management;085ADB71;062B05D6;1999
+24;0;alok gupta;robert j kauffman,gediminas adomavicius,jesse bockstedt;understanding evolution in technology ecosystems;07C34834;062B05D6;2008
+25;1;alok gupta;mariepierre dubuissonjolly;tracking deformable templates using a shortest path algorithm;18106;0B07014C;2001
+26;0;alok gupta;ravi bapna,paulo goes;comparative analysis of multi item online auctions evidence from the laboratory;10027;46789D3E;2001
+27;0;alok gupta;andrew n k chen,james r marsden,paulo b goes;database design in the modern organization identifying robust structures under changing query patterns and arrival rate conditions;07C34834;46789D3E;2004
+28;0;alok gupta;bochiuan su,zhiping walter;risk profile and consumer shopping behavior in electronic and traditional channels;0C4E1AB4;46789D3E;2004
+29;1;alok gupta;ales leonardis,ruzena bajcsy;segmentation of range images as the search for geometric parametric models;04BE3F72;0185ADDC;1995
+30;0;alok gupta;ramnath k chellappa;managing computing resources in active intranets;085ADB71;0C31BA20;2002
+31;0;alok gupta;ravi bapna,paulo savio angeiras de goes,gilbert g karuga;predicting bidders willingness to pay in online multiunit ascending auctions analytical and empirical insights;0C4E1AB4;09DA8F85;2008
+32;0;alok gupta;boris jukic,manoj parameswaran,andrew b whinston,dale o stahl;streamlining the digital economy how to avert a tragedy of the commons;19514;0C45C5F4;1997
+33;0;alok gupta;nelson granados,robert j kauffman;it enabled transparent electronic markets the case of the air travel industry;07C34834;035AA3E4;2006
+34;0;alok gupta;ravi bapna,yiwei jin,paulo b goes;user heterogeneity and its impact on electronic auction market design an empirical exploration1research essays;738;036A39CA;2004
+35;1;alok gupta;bir bhanu,david j michael,terrance e boult;introduction to the special issue on innovative applications of computer vision;2550;44DF880B;2002
+36;1;alok gupta;davi geiger,j a vlontzos,luiz a costa;dynamic programming for detecting tracking and matching deformable contours;9695;0BEAEA4E;1995
+37;1;alok gupta;dorin comaniciu,xiang sean zhou;an information fusion framework for robust shape tracking;4F076E00;0BEAEA4E;2005
+38;0;alok gupta;andrew n k chen,james r marsden,paulo b goes;heuristics for selecting robust database structures with dynamic query patterns;0C4E1AB4;06289060;2006
+39;0;alok gupta;nelson granados,robert j kauffman;designing online selling mechanisms transparency levels and prices;0C4E1AB4;46789D3E;2008
+40;0;alok gupta;andrew b whinston,prabhudev konana;integrating user preferences and real time workload in information services;8430;0C16ABEE;2000
+41;0;alok gupta;gediminas adomavicius;toward comprehensive real time bidder support in iterative combinatorial auctions;0C4E1AB4;0C16ABEE;2005
+42;0;alok gupta;ravi bapna,paulo b goes;replicating online yankee auctions to analyze auctioneers and bidders strategies;10776;0C16ABEE;2003
+43;0;alok gupta;gediminas adomavicius,dmitry zhdanov;designing intelligent software agents for auctions with limited information feedback;3573;0C16ABEE;2008
+44;0;alok gupta;andrew b whinston,dale o stahl;priority pricing of integrated services networks;13581;0645B42E;1997
+45;0;alok gupta;ravi bapna,paulo savio angeiras de goes;auctioning vertically integrated online services computational approaches for real time allocation;0C4E1AB4;0097E5A9;2008
+46;1;alok gupta;ruzena bajcsy;volumetric segmentation of range images of 3d objects using superquadric models;1468;063DDB3A;1993
+47;0;alok gupta;andrew b whinston,dale o stahl;managing computing resources in intranets an electronic commerce perspective;085ADB71;46789D3E;1998
+48;0;alok gupta;andrew b whinston,prabhudev konana;research issues in real time dbms in the context of electronic commerce;16663;472C6E2D;1997
+49;0;alok gupta;andrew b whinston,prabhudev konana;research issues in real time dbms in the context of electronic commerce;085ADB71;472C6E2D;1996
+50;0;alok gupta;robert j kauffman,gediminas adomavicius,jesse bockstedt;technology roles and paths of influence in an ecosystem model of technology evolution;0C4E1AB4;0753A5A7;2007
+51;0;alok gupta;james r marsden,y alex tung;digital signature use and modification to achieve success in next generational e business processes;0C4E1AB4;02514EF1;2004
+52;0;alok gupta;boris jukic,mingzhi li,andrew b whinston,dale o stahl;estimating internet users demand characteristics;085ADB71;05E66137;2001
+53;0;alok gupta;boris jukic,mingzhi li,andrew b whinston,dale o stahl;estimating internet users demand characteristics;11359;30677;1999
+54;1;alok gupta;ruzena bajcsy,franc solina;segmentation versus object representation are they separable ;04BE3F72;523265;1990
+55;1;alok gupta;;surface and volumetric segmentation of complex 3 d objects using parametric shape models;8636;1035948;1991
+56;1;alok gupta;bir bhanu;editorial introduction to the special issue on innovative applications of computer vision;4F076E00;44DF880B;2002

@@ -1,0 +1,32 @@
+0;0;thomas wolf;jorg kienzle,alfred strohmeier;secure communication in distributed ada;004E3300;47987D60;1996
+1;0;thomas wolf;jorg kienzle,bo sanden,stephen michell,andy wellings,bob johnson;object oriented programming and protected objects in ada 95;004E3300;47987D60;2000
+2;0;thomas wolf;alfred strohmeier;fault tolerance by transparent replication for distributed ada 95;004E3300;47987D60;1999
+3;1;thomas wolf;;analytical decoupling decision of compatibility and partial integration of systems of non linear ordinary and partial differential equations;5723;439E313A;1985
+4;1;thomas wolf;;a package for the analytic investigation and exact solution of differential equations;3822;061B1A77;1987
+5;3;thomas wolf;benedikt brors,elisabeth georgii,thomas hofmann;global biclustering of microarray data;01E0D8CE;468A7487;2006
+6;1;thomas wolf;;programs for applying symmetries;09EA1A37;46FD5AEB;1995
+7;5;thomas wolf;peter noelle;vom rechenzentrum zum zentrum fur informations und kommunikationstechnik;00849FD8;1774798;1995
+8;0;thomas wolf;laurent pautet;transparent filtering of streams in glade;004E3300;45FFFB88;1997
+9;1;thomas wolf;matthew pratola;optimizing gotools search heuristics using genetic algorithms;17322;0B68DB42;2003
+10;1;thomas wolf;;a comparison of four approaches to the calculation of conservation laws;0B2264E4;0B68DB42;2002
+11;1;thomas wolf;;a comparison of four approaches to the calculation of conservation laws;0B2264E4;0B68DB42;2003
+12;1;thomas wolf;;the integration of systems of linear pdes using conservation laws of syzygies;0B2264E4;012074FB;2003
+13;1;thomas wolf;;size reduction and partial decoupling of systems of equations;8895;0B68DB42;2003
+14;7;thomas wolf;bernhard josko,wilhelm hasselbring,ingo bruckner,mark brorkens,ralf buschermohle,christoph schulte,werner damm;model checking grundlagen und praxiserfahrungen ;0C0FE15D;093D26E7;2004
+15;1;thomas wolf;;forward pruning and other heuristic search techniques in tsume go;13815;0B7B9B75;2000
+16;1;thomas wolf;;the symbolic integration of exact pdes;2300;012074FB;2000
+17;1;thomas wolf;;size reduction and partial decoupling of systems of equations;6171;0B68DB42;2003
+18;1;thomas wolf;;the integration of systems of linear pdes using conservation laws of syzygies;0B2264E4;012074FB;2003
+19;1;thomas wolf;majid mohammadzadeh,andreas brand;computer algebra algorithms and routines for the computation of conservation laws and fixing of gauge in differential expressions;07698D3B;012074FB;1999
+20;0;thomas wolf;jorg kienzle,bo sanden,stephen michell,andy wellings,barry w johnson;integrating object oriented programming and protected objects in ada 95;004E3300;027877C6;2002
+21;0;thomas wolf;jorg kienzle,bo sanden,stephen michell,andy wellings,barry w johnson;integrating object oriented programming and protected objects in ada 95;004E3300;027877C6;2000
+22;2;thomas wolf;wolffried stucky,thomas zeh,wolfgang weber,hans dieter unkelbach;virtab ein programmsystem zur generierung groser und reich strukturierter virtueller tabellen und deren aufteilung auf beschrankte ausgabemedien;11283;00C58188;1986
+23;2;thomas wolf;wolffried stucky,hans dieter unkelbach,wolfgang weber,thomas zeh;virtab ein programmsystem zur generierung groser und reich strukturierter virtueller tabellen und deren aufteilung auf beschrankte ausgabemedien;3858;1120475;1986
+24;1;thomas wolf;lei shen;checking life and death problems in go;16955;01D43DE7;2007
+25;0;thomas wolf;;on exceptions as first class objects in ada 95;6304;02FA8EBB;2001
+26;0;thomas wolf;;transparent replication for fault tolerance in distributed ada 95;004E3300;4306EF42;1999
+27;1;thomas wolf;h j pohle;automatic determination of dynamical symmetries of ordinary differential equations;048AB435;021F1B56;1989
+28;6;thomas wolf;andreas wicker,bernd gutmann;ein neuer ansatz zur l sung der phasenentfaltungsproblematik;11026;1985099;1996
+29;6;thomas wolf;herbert weber,bernd gutmann;ein fuzzy geregeltes optisches me system zur messung von 3d verformungn;10359;791949;1995
+30;1;thomas wolf;andreas brand;investigating des with crack and related programs;07698D3B;04F4C6BA;1995
+31;1;thomas wolf;;size reduction and partial decoupling of sytems of equations;0B2264E4;012074FB;2002

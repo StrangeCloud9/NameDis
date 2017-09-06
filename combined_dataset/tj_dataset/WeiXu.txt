@@ -1,0 +1,155 @@
+0;0;wei xu;gang xu,tao huang;extending obdd graphs for composite event matching in content based pub sub systems;012E6F4E;43A585B4;2005
+1;0;wei xu;gang xu,tao huang;extending obdd graphs for composite event matching in content based pub sub systems;012E6F4E;43A585B4;2005
+2;3;wei xu;gangwei hu,yatao li,ke zhao;research on models of concept and relation between concepts adapted for semantic disambiguation of natural language;6095;4665AEAE;2006
+3;4;wei xu;chunfa yuan,qin lu,wenjie li,mingli wu;extractive summarization using inter and intra event relevance;05E79D01;46DAB993;2006
+4;5;wei xu;xiaobo fan,lei liu,hong chen;ccsmoms a composite communication scheme for mobile object management system;6804;46C53898;2006
+5;8;wei xu;;the distance between randomly constructed genomes;15926;478E195D;2007
+6;0;wei xu;heqing guan,jun wei,beihong jin,ningjiang chen;a framework for application server based web services management;012E6F4E;43A1990D;2005
+7;4;wei xu;chunfa yuan,wenjie li,mingli wu;deriving event relevance from the ontology constructed with formal concept analysis;05E79D01;4321CC25;2006
+8;13;wei xu;chingcheng lee;category based web personalization system;7078;44233F91;2001
+9;0;wei xu;shaohua liu,jun wei;towards dynamic process with variable structure by reflection;012E6F4E;44233F91;2003
+10;0;wei xu;liu yu,wei jun,li jing;sowac a service oriented workflow access control model;012E6F4E;44233F91;2004
+11;16;wei xu;yimin wei,sanzheng qiao;an algorithm for solving scaled total least squares problems;13047;470CB4A0;2008
+12;17;wei xu;yihong gong,hai tao,mei han;an algorithm for multiple object trajectory tracking;070DD5D4;45083D2F;2004
+13;19;wei xu;yves lesperance,michael jenkin;a multi channel algorithm for edge detection under varying lighting;0B3CDF24;45083D2F;2006
+14;17;wei xu;yihong gong,ying wu,shengyang dai,mei han;soft edge smoothness prior for alpha channel super resolution;18550;45083D2F;2007
+15;17;wei xu;yihong gong,thomas huang,huazhong ning;discriminative learning of visual words for 3d human pose estimation;10532;45083D2F;2008
+16;5;wei xu;bill kramer,david a patterson,joseph l hellerstein;control considerations for scalable event processing;0349EE07;472461FB;2005
+17;17;wei xu;yihong gong,thomas huang,huazhong ning;latent pose estimator for continuous action recognition;070DD5D4;43001016;2008
+18;17;wei xu;yihong gong,kai yu,amr ahmed,eric xing;training hierarchical feed forward visual recognition models using transfer learning from pseudo tasks;070DD5D4;43001016;2008
+19;0;wei xu;gang xu,tao huang;an extended event matching approach in content based pub sub systems for eai;012E6F4E;43AFEC4B;2005
+20;23;wei xu;oliver musshoff,martin odening;zum einsatzpotenzial von wetterderivaten in der landwirtschaft dargestellt am beispiel einer niederschlagsoption;17292;1803147;2006
+21;25;wei xu;n vijaykrishnan,yuan xie,mary jane irwin;design of a nanosensor array architecture;07CB626B;434A76CE;2004
+22;0;wei xu;lu xu,min wang;a component based analytical performance model of ip based san;012E6F4E;44087830;2008
+23;28;wei xu;marvin j dainoff;comparative hypertext approaches to ergonomic training;2601;43331058;1997
+24;26;wei xu;ji liu,xiangxing shen;research on the status quo and system architecture of the web information resource evaluation;18620;27708;2007
+25;30;wei xu;zhi ding,chunming zhao;efficient user scheduling under low rate feedback for correlated mimo broadcast channels;04905D15;436150FA;2008
+26;30;wei xu;ming jiang,chunming zhao,peng zhou;error probability of ofdm systems impaired by carrier frequency offset in frequency selective rayleigh fading channels;04905D15;436150FA;2007
+27;30;wei xu;yijin yang,chunming zhao,peng zhou;efficient adaptive resource allocation for multiuser ofdm systems with minimum rate constraints;04905D15;436150FA;2007
+28;31;wei xu;shouyang wang,wen zhang,xun zhang,jue wang;a new hybrid approach for analysis of factors affecting crude oil price;012E6F4E;43D2A5F0;2007
+29;4;wei xu;chunfa yuan,kamfai wong,wenjie li,mingli wu;building document graphs for multiple news articles summarization an event based approach;05E79D01;42C200E4;2006
+30;32;wei xu;v n venkatakrishnan,r sekar,daniel c duvarney;provably correct runtime enforcement of non interference properties;038CB6F6;43B0EC38;2006
+31;17;wei xu;yihong gong,thomas huang,huazhong ning;improving speaker diarization by cross em refinement;5809;432251B5;2006
+32;17;wei xu;yihong gong,jinjun wang,shenghuo zhu;efficient video object segmentation by graph cut;070DD5D4;432251B5;2007
+33;17;wei xu;yihong gong,yue zhou,huazhong ning,thomas s huang;detecting unsafe driving patterns using discriminative learning;696;432251B5;2007
+34;34;wei xu;subhash c ayirala,dandina n rao;interfacial behavior of complex hydrocarbon fluids at elevated pressures and temperatures;0742D5C5;4509AF66;2005
+35;34;wei xu;subhash c ayirala,dandina n rao;compositional dependence of wetting and contact angles in solid liquid liquid systems under realistic environments;0742D5C5;4509AF66;2005
+36;34;wei xu;subhash c ayirala,dandina n rao;compositional dependence of wetting and contact angles in solid liquid liquid systems under realistic environments;0742D5C5;4509AF66;2006
+37;17;wei xu;yi zhang,jamie callan;exploration and exploitation in adaptive filtering based on bayesian active learning;15270;465F7C62;2003
+38;17;wei xu;yihong gong,mei han;video foreground segmentation based on sequential feature clustering;070DD5D4;4372EE76;2006
+39;17;wei xu;yihong gong,hai tao,dan kong,mei han;a conditional random field model for video super resolution;13408;4372EE76;2006
+40;19;wei xu;jane mulligan;robust relative pose estimation with integrated cheirality constraint;0B3CDF24;4372EE76;2008
+41;17;wei xu;yihong gong,tiejun huang,yue zhou,huazhong ning;temporal difference learning to detect unsafe system states;070DD5D4;4372EE76;2008
+42;19;wei xu;piotr jasiobedzki,michael jenkin,m obsniuk,anil k chopra,olena borzenko,yves lesperance;lights and camera intelligently controlled multi channel pose estimation system;7981;453CB501;2006
+43;32;wei xu;i v ramakrishnan,v n venkatakrishnan,r sekar;a framework for building privacy conscious composite web services;038CB6F6;47A823DD;2006
+44;36;wei xu;yiran chen,tong zhang;spin transfer torque magnetoresistive content addressable memory cam cell structure design with enhanced search noise margin;09E1E653;471752F4;2008
+45;0;wei xu;gang xu,tao huang;extending obdd graphs for composite event matching in content based pub sub systems;012E6F4E;43A585B4;2005
+46;0;wei xu;gang xu,tao huang;extending obdd graphs for composite event matching in content based pub sub systems;012E6F4E;43A585B4;2005
+47;17;wei xu;yihong gong,wei hua,mei han;an integrated baseball digest system using maximum entropy method;0C4DDE77;43AA5802;2002
+48;17;wei xu;yihong gong,mei han;video object segmentation by motion based sequential feature clustering;070DD5D4;43AA5802;2006
+49;17;wei xu;yihong gong,kai yu;deep learning with kernel regularization for visual recognition;070DD5D4;43319DD4;2009
+50;5;wei xu;armando fox,michael i jordan,ling huang,david a patterson;mining console logs for large scale system problem detection;05B090CE;46A355BA;2008
+51;42;wei xu;thomas f coleman;parallelism in structured newton computations;17017;474677D8;2007
+52;0;wei xu;shaohua liu,jun wei;diversifying and improving business process management systems by service cooperation middleware;012E6F4E;46819766;2003
+53;0;wei xu;ping xu,wenxiu zhang;information concept lattice and its reductions;012E6F4E;43819A5A;2007
+54;17;wei xu;hui han,c lee giles,hongyuan zha;a hierarchical naive bayes mixture model for name disambiguation in author citations;070DD5D4;439F2D27;2005
+55;17;wei xu;yihong gong,yun chi,thomas huang,huazhong ning;incremental spectral clustering with application to monitoring of evolving blog communities;9983;441CE122;2007
+56;43;wei xu;patrick lambrix,he tan;literature based alignment of ontologies;10934;44E12FD1;2008
+57;17;wei xu;xiang ji;document clustering with prior knowledge;070DD5D4;43FD776C;2006
+58;17;wei xu;yihong gong,xin liu,shenghuo zhu;document clustering with cluster refinement and model selection capabilities;005237C4;43FD776C;2002
+59;17;wei xu;yihong gong;document clustering by concept factorization;070DD5D4;43FD776C;2004
+60;17;wei xu;yihong gong,xin liu;document clustering based on non negative matrix factorization;070DD5D4;43FD776C;2003
+61;17;wei xu;yihong gong,shenghuo zhu,xiang ji;multi labelled classification using maximum entropy method;070DD5D4;43FD776C;2005
+62;17;wei xu;yi zhang;fast exact maximum likelihood estimation for mixture of language models;070DD5D4;43FD776C;2007
+63;17;wei xu;yihong gong,kai yu,shenghuo zhu;trnon greedy active learning for text categorization using convex ansductive experimental design;070DD5D4;43FD776C;2008
+64;32;wei xu;daniel c duvarney,r sekar;an efficient and backwards compatible transformation to ensure memory safety of c programs;038CB6F6;477F6C83;2004
+65;47;wei xu;xingming li;a shared path protection based heuristic algorithm for the capacity placement problem in mesh networks;7417;46950273;2007
+66;46;wei xu;zhen yang,bo chen,jun guo;bupt at trec 2006 spam track;0134B592;462F772C;2006
+67;25;wei xu;n vijaykrishnan,kevin m irick,mary jane irwin;a nanosensor array based vlsi gas discriminator;07CB626B;444CACB9;2005
+68;17;wei xu;yihong gong,hai tao,yue zhou;background segmentation using spatial temporal multi resolution mrf;070DD5D4;44865A7C;2005
+69;11;wei xu;wei liu,wenqing cheng;a transaction aware coordination protocol for web services composition;02D828C1;433F0094;2006
+70;32;wei xu;i v ramakrishnan,v n venkatakrishnan,r sekar;an approach for realizing privacy preserving web based services;038CB6F6;43ABF249;2005
+71;1;wei xu;houkuan huang;research and application of spatio temporal data mining based on ontology;0143616E;437D615C;2006
+72;0;wei xu;liu liu,lu xu,min wang;an analytical performance model of ip san;012E6F4E;446AF0D7;2008
+73;5;wei xu;sharad singhal,zhikui wang,xiaoyun zhu;predictive control for dynamic resource allocation in enterprise data centers;0349EE07;44F1E491;2006
+74;6;wei xu;;instrumentation and experiment design for in vitro interface temperature measurement during the insertion of an orthopaedic implant;01AFAF1B;45A0DDC1;2008
+75;16;wei xu;michael k ng,yimin wei,naimin zhang;tikhonov regularization for weighted total least squares problems;05DB33D4;00738719;2007
+76;20;wei xu;guojin wang;the termination criterion for subdivision of the rational bezier curves;6241;08311E31;1991
+77;17;wei xu;yihong gong,wei hua,mei han;maximum entropy model based baseball highlight detection and classification;070DD5D4;0B07014C;2004
+78;0;wei xu;shiqing fan,wenxiu zhang;fuzzy inference based on fuzzy concept lattice;19611;0A1902EC;2006
+79;14;wei xu;richard hammersley,karen lu,donald s fussell;lossless subdivision based multiresolution representation of arbitrary triangle meshes using kite trees;17771;040E50E5;2011
+80;17;wei xu;yi zhang;fast exact maximum likelihood estimation for mixture of language model;070DD5D4;0A6BF76B;2008
+81;15;wei xu;xiwen ma,peizhuang wang,hongmin zhang;design fuzzy controllers for complex systems with an application to 3 stage inverted pendulums;18257;0B7B9B75;1993
+82;8;wei xu;chunfang zheng,david sankoff;paths and cycles in breakpoint graph of random multichromosomal genomes;18239;04AEE84F;2007
+83;17;wei xu;yihong gong,hai tao,mei han;multi object trajectory tracking;070DD5D4;44DF880B;2007
+84;24;wei xu;tim king;the design and characteristics of piezomotors using flexure hinged displacement amplifiers;2228;07F923B3;1996
+85;27;wei xu;zhichao shen,yizhang chen;neuroscience output of china a medline based bibliometric study;0A9B0CA5;08DADDF6;2006
+86;17;wei xu;yihong gong,ying wu,shengyang dai,mei han,aggelos k katsaggelos;softcuts a soft edge smoothness prior for color image super resolution;070DD5D4;06DF68B7;2009
+87;22;wei xu;jibin li,jianwei shen;bifurcations of travelling wave solutions in a model of the hydrogen bonded systems;01059CAC;03009DEA;2005
+88;22;wei xu;xiaoli yang,yong xu,zhongkui sun;responses of strongly non linear oscillator parametrically excited by random narrow band noise;01059CAC;03009DEA;2005
+89;22;wei xu;yanfei jin,jianwei shen;bifurcation method and traveling wave solution to whitham broer kaup equation;01059CAC;03009DEA;2005
+90;22;wei xu;xiaoshan zhao,shuang li,jianwei shen;bifurcations of traveling wave solutions for a class of the generalized benjamin bona mahony equation;01059CAC;03009DEA;2006
+91;22;wei xu;shuang li,ruihong li;chaos controlling of extended nonlinear lienard system based on the melnikov theory;5155;03009DEA;2006
+92;22;wei xu;jianwei shen;smooth and non smooth travelling wave solutions of generalized degasperis procesi equation;01059CAC;03009DEA;2006
+93;22;wei xu;xiaoyan zhang,zhanguo li;analysis of chaotic behavior in the extended duffing van der pol system subject to additive non symmetry biharmonical excitation;7000;03009DEA;2006
+94;22;wei xu;liang gao,jianwei shen,yaning tang;a series of explicit and exact travelling wave solutions of the b m n equations;01059CAC;03009DEA;2007
+95;22;wei xu;xiaoshan zhao,bingchang zhou,hongxian zhou;bifurcations of limit cycles for a perturbed quintic hamiltonian system with four infinite singular points;14374;03009DEA;2007
+96;22;wei xu;ying zhang,tong fang;stochastic hopf bifurcation and chaos of stochastic bonhoeffer van der pol system via chebyshev polynomial approximation;01059CAC;03009DEA;2007
+97;22;wei xu;shuang li,ying zhang,hongxian zhou;on the number of limit cycles of a cubic polynomials hamiltonian system under quintic perturbation;1519;03009DEA;2007
+98;22;wei xu;xiaoshan zhao,shuang li,hongxian zhou;detection function method and its application to a class of quintic hamiltonian systems with quintic perturbations;14926;03009DEA;2007
+99;22;wei xu;xiaoshan zhao;travelling wave solutions for a class of the generalized benjamin bona mahoney equations;15373;03009DEA;2007
+100;22;wei xu;wenxian xie,li cai;numerical meshfree path integration method for non linear dynamic systems;01059CAC;03009DEA;2008
+101;22;wei xu;xiaoshan zhao,mingchun wang;bifurcations of traveling wave solutions for a class of the nonlinear equations;01059CAC;03009DEA;2008
+102;22;wei xu;yong xu,jianwei shen;travelling wave solutions in the generalized hirota satsuma coupled kdv system;01059CAC;03009DEA;2005
+103;22;wei xu;jianhu feng,wenxian xie,li cai;computations of shallow water equations with high order central upwind schemes on triangular meshes;01059CAC;03009DEA;2005
+104;22;wei xu;hongxian zhou;thirteen limit cycles for a class of cubic hamiltonian system with higher order perturbed terms;15629;03009DEA;2008
+105;33;wei xu;shigang wang,anlin wang,guobao wang;towards an efficient self organizing reconfiguration method for self reconfigurable robots;0AE9651A;05719500;2003
+106;6;wei xu;zuquan ding,jianxin gao;3d finite element mesh generation of complicated tooth model based on ct slices;01AFAF1B;08485B5E;2006
+107;0;wei xu;jing li,jiannong cao,beihong jin,liang zhang;gcs ma a group communication system for mobile agents;06D74A38;01CBB785;2007
+108;22;wei xu;xiaoli yang,zhongkui sun;effect of gaussian white noise on the dynamical behaviors of an extended duffing van der pol oscillator;2695;04D4239C;2011
+109;22;wei xu;haiwu rong,tong fang,qun he;global analysis of stochastic bifurcation in duffing system;12127;04D4239C;2011
+110;33;wei xu;shigang wang,guobao wang;on using flexure hinge five bar linkages to develop novel walking mechanisms and small scale grippers for microrobots;0AE9651A;005C9ABE;2004
+111;38;wei xu;xingsheng gu;a hybrid particle swarm optimization approach with prior crossover differential evolution;088F1129;43F3068F;2009
+112;39;wei xu;zhaogang xiong,boshan chen;the periodic solution of a class of two neurons hopfield network with distributed delay;2139;4539ED1E;2009
+113;35;wei xu;limin zhi,jun zhi,liu jianyong;fusion algorithm based on the intuitionistic fuzzy set and multiple neural network;02AA1FA9;4539ED1E;2009
+114;37;wei xu;yuelin zhu;ezarray a web based highly automated affymetrix expression array data management and analysis system;0810AAFA;012269E3;2008
+115;36;wei xu;yiran chen,tong zhang,xiaobin wang;improving stt mram storage density through smaller than worst case transistor sizing;09E1E653;46CDFBC4;2009
+116;36;wei xu;tong zhang,jibang liu;data manipulation techniques to reduce phase change memory write energy;09E1E653;42CCF5DE;2009
+117;17;wei xu;yihong gong,guangyu zhu,kai yu,ming yang;detecting video events based on action recognition in complex scenes using spatio temporal descriptor;070DD5D4;43AA5802;2009
+118;5;wei xu;armando fox,michael i jordan,ling huang,david a patterson;detecting large scale system problems by mining console logs;05B090CE;45CEC493;2009
+119;5;wei xu;armando fox,michael i jordan,ling huang,david a patterson;detecting large scale system problems by mining console logs;05B090CE;465F7C62;2010
+120;17;wei xu;jianchao yang,guangyu zhu,zhen li,vuong le,liangliang cao,kai yu,ming yang,thomas s huang,kaihsiang lin,shenfu tsai,huazhong ning,yihong gong,zhao zhao,dennis j lin,fengjun lv,mert dikmen;surveillance event detection;2083;249882;2009
+121;41;wei xu;jianguo qian,konrad engel;a generalization of sperner s theorem and an application to graph orientations;0B659C39;0A3C919D;2009
+122;40;wei xu;kraig finstad,shibani kapoor,sri canakapalli,john gladding;feature bridging the gaps between enterprise software and end users;500F4F9C;0449514C;2009
+123;17;wei xu;yihong gong,yun chi,huazhong ning,thomas s huang;incremental spectral clustering by efficiently updating the eigen system;070DD5D4;00065366;2010
+124;22;wei xu;xiuchun li,yuzhu xiao,sufang tang;adaptive complete synchronization of the noise perturbed two bi directionally coupled chaotic systems with time delay and unknown parametric mismatch;01059CAC;03009DEA;2009
+125;22;wei xu;jinqian feng;analysis of bifurcations for non linear stochastic non smooth vibro impact system via top lyapunov exponent;9902;03009DEA;2009
+126;22;wei xu;li ling,minghai li;parametric inference for progressive type i hybrid censored data on a simple step stress accelerated life test model;01059CAC;01EA05AA;2009
+127;30;wei xu;zhi ding,chunming zhao;limited feedback design for mimo broadcast channels with arq mechanism;04905D15;03C85075;2009
+128;45;wei xu;zhihui xiong,wei chen,maojun zhang;view synthesis for virtual walk through in real scene based on catadioptric omnidirectional images;0A254897;46E0467E;2008
+129;19;wei xu;jane mulligan;feature matching under region based constraints for robust epipolar geometry estimation;0B3CDF24;4613D662;2009
+130;19;wei xu;jane mulligan,jaeheon jeong;augmenting exercise systems with virtual exercise environment;0B3CDF24;4613D662;2009
+131;44;wei xu;changhong wang,di guan,qiang guo;segment clustering radar signal sorting;4895;44CD2E44;2009
+132;31;wei xu;deren han,hai yang;sequential experimental approach for congestion pricing with multiple vehicle types and multiple time periods;348EB203;44CD2E44;2009
+133;31;wei xu;deren han,hai yang;sequential experimental approach for congestion pricing with multiple vehicle types and multiple time periods;2440;44CD2E44;2013
+134;5;wei xu;armando fox,david patterson,michael i jordan,ling huang;online system problem detection by mining patterns of console logs;19359;468A7487;2009
+135;42;wei xu;thomas f coleman;fast structured newton computations;4882;09DD8582;2008
+136;27;wei xu;mihoko okada;ebm metadata based on dublin core better presenting validity of clinical trials;0A9B0CA5;0236E46F;2007
+137;21;wei xu;joseph genin;thermoelastic plastic metals with mass diffusion;19468;0214F82E;1999
+138;16;wei xu;yimin wei,xiaoqing jin,x u wei;a stability property of t chan s preconditioner;10966;0102C391;2003
+139;2;wei xu;huapu lu,qian zhoul;new travel demand models with back propagation network;05E79D01;4131;2007
+140;32;wei xu;klaus mueller;accelerating regularized iterative ct reconstruction on commodity graphics hardware gpu ;038CB6F6;46C92457;2009
+141;32;wei xu;sandeep bhatkar,r sekar;taint enhanced policy enforcement a practical approach to defeat a wide range of attacks;038CB6F6;211620;2006
+142;21;wei xu;j genin;elastostatic inverse formulation;009962AC;0214F82E;2002
+143;9;wei xu;alexander i rudnicky;task based dialog management using an agenda;0477FFD3;0B68DB42;2000
+144;7;wei xu;yuefei zhu,nan liu,zhongquan mao;an improved and efficient tool for analyzing industrial security protocols;17456;45A2B36F;2009
+145;12;wei xu;shasha liao,michiko kosaka,ang sun,adam meyers,nianwen xue,heng ji;automatic recognition of logical relations for english chinese and japanese in the glarf framework;0368E8BE;1338501;2009
+146;10;wei xu;yunlong zhou,yong li,lihua cao;application of synthetic neural network for fault diagnosis of steam turbine flow passage;1200;42CC6E2D;2009
+147;29;wei xu;bing zhu,xuezhe wei;internal resistance identification in vehicle power lithium ion battery and application in lifetime evaluation;9195;785154;2009
+148;7;wei xu;yuefei zhu,nan liu;automatic analysis of fair exchange protocols in tla;11360;46F3DAAB;2009
+149;15;wei xu;peizhuang wang,hongmin zhang;pad analysis of fuzzy control stability;16150;0A1902EC;1990
+150;28;wei xu;marvin j dainoff,douglas l gardner,leonard s mark;considerations for linking seatpan and backrest angles;04F77DC2;09DE3D54;2009
+151;14;wei xu;donald s fussell;a fast solver of radiosity equation systems;18736;43F3EBCF;2014
+152;14;wei xu;donald s fussell;a fast solver of radiosity equation systems;15767;06542A1C;1995
+153;33;wei xu;handan liu,shigang wang;hydrodynamic modelling and cfd simulation of ferrofluids flow in magnetic targeting drug delivery;0AE9651A;0B57DB9F;2008
+154;31;wei xu;deren han,hai yang;an operator splitting method for variational inequalities with partially unknown mappings;348EB203;0C07F96D;2008

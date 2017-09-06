@@ -1,0 +1,31 @@
+0;0;xiaoyan li;thu d nguyen,richard p martin;an analytic model predicting the optimal range for maximizing 1 hop broadcast coverage in dense wireless networks;06194FDE;42D65D01;2004
+1;1;xiaoyan li;w bruce croft;time based language models;01776B6C;472C6E2D;2003
+2;1;xiaoyan li;w bruce croft;novelty detection based on sentence level patterns;01776B6C;472C6E2D;2005
+3;1;xiaoyan li;w bruce croft;improving novelty detection for general topics using sentence level information patterns;01776B6C;472C6E2D;2006
+4;4;xiaoyan li;lidan shou,gang chen,kianlee tan;an image semantic ontological framework for large image databases;0489A984;469D149A;2007
+5;0;xiaoyan li;wade trappe,konstantinos kleisouris,yingying chen,richard p martin;the robustness of localization algorithms to signal strength attacks a comparative study;06194FDE;45238EAA;2006
+6;1;xiaoyan li;zhigang zhu;enhancing relevance models with adaptive passage retrieval;08FB679F;465D33C1;2008
+7;5;xiaoyan li;wei cai,min li;an adaptive image segmentation method based on a modified pulse coupled neural network;11742;856D618D;2006
+8;5;xiaoyan li;gang li,wei cai,min li;a novel pixel level and feature level combined multisensor image fusion scheme;11120;4539ED1E;2008
+9;5;xiaoyan li;gang li,wei cai,min li;adaptive image segmentation using modified pulse coupled neural network;7805;4539ED1E;2008
+10;0;xiaoyan li;michael pagliorola,andrew tjang,richard p martin,hiral patel;active tapes bus based sensor networks;06194FDE;438E31AA;2004
+11;0;xiaoyan li;eiman elnahraway,richard p martin;the limits of localization using rss;06194FDE;43DCE876;2004
+12;0;xiaoyan li;hongyi xue,konstantinos kleisouris,eiman elnahrawy,yingying chen,johnausten francisco,richard p martin;grail general real time adaptable indoor localization;06194FDE;43DCE876;2006
+13;1;xiaoyan li;;syntactic features in question answering;01776B6C;43FD776C;2003
+14;0;xiaoyan li;thu d nguyen,kiran nagaraja,ricardo bianchini,richard p martin;using fault injection and modeling to evaluate the performability of cluster based services;06194FDE;085B8F4B;2003
+15;4;xiaoyan li;lidan shou,gang chen,jinxiang dong,chun chen;hisa a query system bridging the semantic gap for large image databases;0489A984;4390334E;2006
+16;2;xiaoyan li;weiguo han,peisheng zhao,yaxing wei,liping di;design and implementation of geobrain online analysis system geonas ;09B2D407;454CC982;2008
+17;4;xiaoyan li;lidan shou,gang chen,lujiang ou;a latent image semantic indexing scheme for image retrieval on the web;0489A984;433F0094;2006
+18;4;xiaoyan li;lidan shou,gang chen,xiaolong zhang,jinxiang dong,t hu;pivotbrowser a tag space image searching prototype;0489A984;43ABF249;2008
+19;3;xiaoyan li;luo zhong,jie li,jingling yuan;modeling of grey neural network and its applications;0BB963EC;44C93DEC;2008
+20;3;xiaoyan li;luo zhong,jingling yuan;optimized grey rbf prediction model based on genetic algorithm;0BB963EC;449CDF39;2008
+21;1;xiaoyan li;;a new robust relevance model in the language model framework;08FB679F;0A6BF76B;2008
+22;1;xiaoyan li;w bruce croft;an information pattern based approach to novelty detection;08FB679F;0A6BF76B;2008
+23;4;xiaoyan li;yijun bei,lidan shou,gang chen,jinxiang dong;bottom up discovery of frequent rooted unordered subtrees;0489A984;0B7B9B75;2009
+24;4;xiaoyan li;lidan shou,gang chen,jinxiang dong,t hu;modeling image data for effective indexing and retrieval in large general image databases;0489A984;01D46A2B;2008
+25;0;xiaoyan li;wade trappe,konstantinos kleisouris,yingying chen,richard p martin;a security and robustness performance analysis of localization algorithms to signal strength attacks;0B033334;0A29A850;2009
+26;1;xiaoyan li;nasreen abduljaleel,mark d smucker,leah s larkey,w bruce croft,fernando diaz,james allan,courtney wade;umass at trec 2004 novelty and hard;01776B6C;38595;2004
+27;2;xiaoyan li;weiguo han,peisheng zhao,liping di;building an on line geospatial analysis system with ajax and web services;17314;06D6C9D4;2009
+28;5;xiaoyan li;yun sun,wei cai,min li,jianshe song;a novel image fusion method based on contourlet decomposition;1735;44CD2E44;2009
+29;1;xiaoyan li;w bruce croft;evaluating question answering techniques in chinese;01776B6C;995690;2001
+30;0;xiaoyan li;thu d nguyen,richard p martin;poster abstract using adaptive range control to optimize 1 hop broadcast coverage in dense wireless networks;06194FDE;43DCE876;2003

@@ -1,0 +1,49 @@
+0;0;bin zhu;;visualizing a computer mediated communication cmc process to facilitate knowledge management;0839CEE3;4558D729;2002
+1;2;bin zhu;yifei xing,jiaguang liu,yantao wang;study on agent based parts resource application system for commercial design;01198E98;43520230;2006
+2;2;bin zhu;hua ying,yantao wang;research on network based collaborative commodity development;01198E98;43520230;2008
+3;2;bin zhu;hua ying,yantao wang;research on network based collaborative commodity development;01198E98;43520230;2007
+4;3;bin zhu;h d li;image completion from low level learning;0056B275;46BD07AF;2005
+5;0;bin zhu;tobun d ng,marshall ramsey,hauck rosie,bruce r schatz,hsinchun chen;create a large scale digital library for geo referenced information;0839CEE3;45B176DF;1999
+6;0;bin zhu;shipeng li,xiaoming wang;a novel privacy and copyright protection enforced peer to peer network;4CE6FC2D;0655F58A;2006
+7;0;bin zhu;shipeng li,xiaoming wang;a novel privacy and copyright protection enforced peer to peer network;11741;0655F58A;2006
+8;5;bin zhu;tao liu;research on emotional vocabulary driven personalized music retrieval;6789;457CED2E;2008
+9;0;bin zhu;g shankar,yu cai;integrating data quality data into decision making process an information visualization approach;069F11AE;1519575;2007
+10;6;bin zhu;mitchell d swanson,ahmed h tewfik,b chau;multiresolution video watermarking using perceptual models and scene segmentation;1208;455477A7;1997
+11;6;bin zhu;ahmed h tewfik,mitchell d swanson;data hiding for video in video;18505;455477A7;1997
+12;6;bin zhu;ahmed h tewfik,mitchell d swanson;image coding by folding;07C34834;455477A7;1997
+13;6;bin zhu;a e cetin,ahmed h tewfik,mark colestock,omer nezih gerek;image coding with wavelet representations edge information and visual masking;07C34834;455477A7;1995
+14;0;bin zhu;tobun d ng,marshall ramsey,rosie v hauck,bruce r schatz,hsinchun chen;support concept based multimedia information retrieval a knowledge management approach;0839CEE3;43F65246;1999
+15;6;bin zhu;ahmed h tewfik,mitchell d swanson;current state of the art challenges and future directions for audio watermarking;19129;47C35ECC;1999
+16;5;bin zhu;hexin lv,yongchuan tang;fuzzy classifier with probabilistic if then rules;6778;42F0CC9A;2007
+17;5;bin zhu;hexin lv,yongchuan tang;conditional dempster shafer theory for uncertain knowledge updating;12152;42F0CC9A;2007
+18;9;bin zhu;zhou ming,zhang guozhong,mao yalin;chaotic simulated annealing neural network with decaying chaotic noise and its application in economic load dispatch of power systems;023B9EF3;44B7D8B2;2004
+19;8;bin zhu;ali a ghorbani,iosifviorel onut;svision a network host centered anomaly visualization technique;065FC05B;44BF398F;2005
+20;0;bin zhu;jun shao,min feng,zhenfu cao;an efficient certified email protocol;11926;44BF398F;2007
+21;0;bin zhu;hsinchun chen;visualizing the archive of a computer mediated communication process;0839CEE3;45B176DF;2002
+22;0;bin zhu;gondy leroy,yongchi chen,hsinchun chen;medtextus an intelligent web based medical meta search system;0839CEE3;45B176DF;2002
+23;8;bin zhu;ali a ghorbani,iosifviorel onut;a novel visualization technique for network anomaly detection;17214;45230F0A;2004
+24;11;bin zhu;yunlei zhao,binyu zang,shirley h c cheung;a note on the cramer damgard identification scheme;4CE6FC2D;455982FB;2005
+25;10;bin zhu;sven nordholm,defeng huang;enhanced verification based decoding for packet based ldpc codes over wireless channels;7404;43701CEE;2008
+26;13;bin zhu;;automatic numeric control programming system for locators;01198E98;4351B9E8;2008
+27;12;bin zhu;hui liu;refactoring formal specifications in object z;1246;449CDF39;2008
+28;0;bin zhu;thianhuat ong,waiki sung,hsinchun chen;newsmap a knowledge map for online news;069F11AE;46789D3E;2005
+29;0;bin zhu;hsinchun chen;using 3d interfaces to facilitate the spatial knowledge retrieval a geo referenced knowledge repository system;069F11AE;46789D3E;2005
+30;0;bin zhu;ann m lally,michael chau,hsinchun chen;elpfulmed intelligent searching for medical information over the internet;1704;04C66E92;2003
+31;0;bin zhu;marshall ramsey,bruce r schatz,hsinchun chen;a collection of visual thesauri for browsing large collections of geographic images;0839CEE3;081A81FD;1999
+32;0;bin zhu;marshall ramsey,bruce r schatz,hsinchun chen;a collection of visual thesauri for browsing large collections of geographic images;13999;081A81FD;1999
+33;0;bin zhu;hsinchun chen;validating a geographical image retrieval system;0839CEE3;081A81FD;2000
+34;14;bin zhu;waikai chen,xinyu wu,wenjun zhuang;a new one and half layer channel routing algorithm based on assigning resources for cmos gate array;6874;0602A23F;1993
+35;0;bin zhu;marshall ramsey,hsinchun chen;creating a large scale content based airphoto image digital library;0839CEE3;06DF68B7;2000
+36;6;bin zhu;ahmed h tewfik,enhui yang;arithmetic coding with dual symbol sets and its performance analysis;4615;06DF68B7;1999
+37;1;bin zhu;huaikou miao,bo song;user interface design of web application using object z;06CA964A;46F6F355;2009
+38;2;bin zhu;yantao wang;a management strategy for distributed data in collaborative design;01198E98;43520230;2009
+39;0;bin zhu;hsinchun chen;communication garden system visualizing a computer mediated communication process;069F11AE;46789D3E;2008
+40;8;bin zhu;ali a ghorbani;alert correlation for extracting attack strategies;065FC05B;0B4CB45D;2006
+41;4;bin zhu;jiexin zhang;study on multidisciplinary collaborative design based on regression analysis;0182E35A;4665AEAE;2009
+42;10;bin zhu;sven nordholm,defeng david huang;performance analysis of verification based decoding for packet based ldpc codes over binary symmetric channel;0A9A3087;436150FA;2009
+43;2;bin zhu;hua ying,yantao wang;research on network based collaborative commodity development;01198E98;43520230;2008
+44;2;bin zhu;hua ying,yantao wang;research on network based collaborative commodity development;01198E98;43520230;2007
+45;0;bin zhu;marshall ramsey,tobun d ng,bruce r schatz,hsinchun chen;creating a large scale digital library for georeferenced information;11245;071F8D3B;1999
+46;0;bin zhu;tobun d ng,marshall ramsey,hauck rosie,bruce r schatz,hsinchun chen;create a large scale digital library for geo referenced information;0839CEE3;45B176DF;1999
+47;1;bin zhu;huaikou miao,shengbo chen,hongwei zeng;generating test case from functional requirement of web applications;06CA964A;46F3DAAB;2009
+48;7;bin zhu;weixu chen,yuejun lei;research and design of multifunctional intelligent melted iron analyzer;04D32953;621875;2008

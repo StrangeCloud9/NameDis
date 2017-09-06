@@ -1,0 +1,15 @@
+0;0;lei jin;hyunjin lee,sangyeun cho;a flexible data to l2 cache mapping approach for future multicore processors;0A2510E5;45FB3662;2006
+1;1;lei jin;xiaojun ye,yawei zhang;an extensible data model with security support for dataspace management;05E79D01;447B8E60;2008
+2;0;lei jin;sangyeun cho;taming single thread program performance on many distributed on chip l2 caches;0A2510E5;44E5A1B2;2008
+3;0;lei jin;kiyeon lee,shayne evans,sangyeun cho,socrates demetriades,hyunjin lee,michael moeng;tpts a novel framework for very fast manycore processor architecture simulation;0A2510E5;44E5A1B2;2008
+4;0;lei jin;sangyeun cho;reducing cache traffic and energy with macro data load;0A2510E5;42CCF5DE;2006
+5;1;lei jin;xiaojun ye,yawei zhang;secure dataspace with access policies;05E79D01;4737FD14;2008
+6;2;lei jin;e j g wilson,ray r hashemi,gary anderson,murray r clark;a comparison of search patterns for cooperative robots operating in remote environment;17213;474677D8;2001
+7;2;lei jin;d k owens,s w m jones,ray r hashemi,gary anderson;a rule based system for localization of water on the surface of mars;16568;474677D8;2001
+8;0;lei jin;sangyeun cho;managing distributed shared l2 caches through os level page allocation;0A2510E5;4499A295;2006
+9;0;lei jin;kiyeon lee,sangyeun cho;achieving predictable performance with on chip shared l2 caches for manycore based real time systems;0A2510E5;44AB61E1;2007
+10;1;lei jin;xiaojun ye,bin li;a multi dimensional k anonymity model for hierarchical data;05E79D01;46F3DAAB;2008
+11;3;lei jin;jun huang,funmilayo lawal,oliver yang;content based blind compensation and shaping for streaming video;09299093;47838FAB;2009
+12;0;lei jin;sangyeun cho;sos a software oriented distributed shared cache management approach for chip multiprocessors;0A2510E5;439F03CF;2009
+13;0;lei jin;kiyeon lee,hyunjin lee,michael moeng,sangyeun cho,socrates demetriades;two phase trace driven simulation tpts a fast multicore processor architecture simulation approach;0A2510E5;07489CC9;2010
+14;4;lei jin;christoph f mecklenbrauker,zoran salcic;simulation model of the ls drmta adaptive algorithm for multiple antenna system for ds cdma;092FD9CF;43D2A5F0;2002

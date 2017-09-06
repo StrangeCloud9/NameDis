@@ -1,0 +1,27 @@
+0;0;steve king;diyaaaddein atiya;extending ravenscar with csp channels;031AFA6D;47987D60;2005
+1;0;steve king;darren foulger;using the spark toolset for showing the absence of run time errors in safety critical software;031AFA6D;47987D60;2001
+2;0;steve king;abhijeet joglekar;software iscsi over iwarp on a general purpose cpu;500F4F9C;43A193B2;2006
+3;0;steve king;diyaaaddein atiya,jim woodcock;a circus semantics for ravenscar protected objects;031AFA6D;45B9D64F;2003
+4;0;steve king;ian houston;cics project report experiences and results from the use of z in ibm;10114;45B9D64F;1991
+5;0;steve king;michael huber;towards an integrated model checker for railway signalling data;031AFA6D;45B9D64F;2002
+6;0;steve king;;z and the refinement calculus;02642F55;45B9D64F;1990
+7;0;steve king;jonathan hammond,andy pryor,rod chapman;the value of verification positive experience of industrial proof;031AFA6D;45B9D64F;1999
+8;0;steve king;jagun kwon,andy wellings;predictable memory utilization in the ravenscar java profile;0B78A521;460452E7;2003
+9;0;steve king;carroll morgan;an iterator construct for the refinement calculus;031AFA6D;45B9D64F;2000
+10;0;steve king;jagun kwon,andy wellings;ravenscar java a high integrity profile for real time java;031AFA6D;00A8D870;2002
+11;0;steve king;jagun kwon,andy wellings;ravenscar java a high integrity profile for real time java;031AFA6D;00A8D870;2005
+12;0;steve king;susan stepney,samuel h valentine,ian toyn;typechecking z;2009;1156273;2000
+13;0;steve king;susan stepney,samuel h valentine,ian toyn;type constrained generics for z;031AFA6D;0655F58A;2000
+14;0;steve king;jagun kwon,andy wellings;ravenscar java a high integrity profile for real time java;031AFA6D;00A8D870;2002
+15;0;steve king;jagun kwon,andy wellings;ravenscar java a high integrity profile for real time java;031AFA6D;00A8D870;2005
+16;0;steve king;diyaaaddein atiya,jim woodcock;simpler reasoning about system properties a proof by refinement technique;031AFA6D;03009113;2005
+17;0;steve king;carroll morgan;exits in the refinement calculus;02642F55;07A4F1E7;1995
+18;0;steve king;jagun kwon,andy wellings;assessment of the java programming language for use in high integrity systems;031AFA6D;08D7401B;2003
+19;0;steve king;jonathan hammond,andy pryor,rod chapman;is proof more cost effective than testing ;0B78A521;007F6F5E;2000
+20;0;steve king;jagun kwon,andy wellings;ravenscar java a high integrity profile for real time java research articles;031AFA6D;00A8D870;2005
+21;2;steve king;jay alperson;paradox 1 1 more power and less pain;19657;710798;1986
+22;2;steve king;juan jimenez;the dbms watcher s field guide to comdex;8576;435870;1988
+23;2;steve king;juan jimenez;what s new in dataflex 2 2;3448;1849625;1987
+24;2;steve king;juan jimenez;dataflex multi user features;844;1219222;1987
+25;2;steve king;jay alperson;a database program generator for turbo pascal;13006;1762027;1987
+26;2;steve king;;having it all;7216;711068;1988

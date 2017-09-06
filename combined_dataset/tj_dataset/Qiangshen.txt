@@ -1,0 +1,70 @@
+0;0;qiang shen;stuart aitken,ronan daly;speeding up the learning of equivalence classes of bayesian network structures;2080;42F0CC9A;2006
+1;0;qiang shen;peter jarvis,ian miguel;flexible graphplan;15585;454F686A;2000
+2;0;qiang shen;joe halliwell;towards temporal linguistic variables;05E1B1D9;42F0CC9A;2001
+3;0;qiang shen;alexios chouchoulas;selection of features in transparent fuzzy modelling;05E1B1D9;42F0CC9A;2001
+4;0;qiang shen;Javier G. Marín-Blázquez;linguistic hedges on tradezoidal fuzzy sets a revisit;4114;47BBF4CC;2001
+5;0;qiang shen;richard jensen;tolerance based and fuzzy rough feature selection;00F4BA82;42F0CC9A;2007
+6;0;qiang shen;xin fu,ruiqing zhao;towards fuzzy compositional modelling;00F4BA82;42F0CC9A;2007
+7;0;qiang shen;neil seosamh macparthalain,richard jensen;distance measure assisted rough set feature selection;00F4BA82;42F0CC9A;2007
+8;0;qiang shen;jeroen keppens,joe halliwell;linguistic bayesian networks for reasoning will objective probabilities in forensic statistics;7289;43FD084C;2003
+9;0;qiang shen;jeroen keppens,burkhard schafer;probabilistic abductive computation of evidence collection strategies in crime investigation;00F4BA82;43FD084C;2005
+10;0;qiang shen;jeroen keppens,burkhard schafer;probabilistic abductive computation of evidence collection strategies in crime investigation;17011;43FD084C;2005
+11;1;qiang shen;yuguang fang,xuming fang,pan li;admission control for providing qos in wireless mesh networks;00493E54;436150FA;2008
+12;0;qiang shen;r r leitch;prioritising behaviours in qualitative simulation;9416;47C39427;1993
+13;0;qiang shen;;semantics preserving dimensionality reduction in intelligent modelling;05E1B1D9;1870198;2003
+14;0;qiang shen;alexios chouchoulas;rough set based dimensionality reduction for multivariate adaptive regression splines;05E1B1D9;45C7663C;2000
+15;0;qiang shen;richard jensen;webpage classification with aco enhanced fuzzy rough feature selection;00F4BA82;4799A10B;2006
+16;0;qiang shen;richard jensen;using fuzzy dependency guided attribute grouping in feature selection;05E1B1D9;42F0CC9A;2003
+17;0;qiang shen;andrew tuson,richard jensen;finding rough set reducts with sat;05CEA7C0;42F0CC9A;2005
+18;0;qiang shen;alexios chouchoulas;a rough set based approach to text classification;05E1B1D9;42F0CC9A;1999
+19;0;qiang shen;richard jensen;a rough set aided system for sorting www bookmarks;05E1B1D9;478794CB;2001
+20;0;qiang shen;alexios chouchoulas;rough set aided keyword reduction for text categorization;6154;077B006D;2010
+21;0;qiang shen;g m coghill,m j chantier,r r leitch;selecting tools and techniques for model based diagnosis;05E1B1D9;080694E6;1998
+22;0;qiang shen;alexios chouchoulas;fureap a fuzzy rough estimator of algae populations;13823;080694E6;2001
+23;0;qiang shen;r r leitch;on extending the quantity space in qualitative reasoning;566;080694E6;1992
+24;0;qiang shen;r r leitch;diagnosing continuous systems with qualitative dynamic models;689;080694E6;1995
+25;0;qiang shen;ian miguel;fuzzy rrdfcsp and planning;05E1B1D9;0BB0DA67;2003
+26;0;qiang shen;g m coghill;on the specification of multiple models for diagnosis of dynamic systems;9349;0A822C77;2001
+27;0;qiang shen;ian miguel;solution techniques for constraint satisfaction problems foundations;05E1B1D9;0752020E;2001
+28;0;qiang shen;ian miguel;solution techniques for constraint satisfaction problems advanced approaches;05E1B1D9;0752020E;2001
+29;0;qiang shen;g m coghill,m j chantler,r r leitch;a preliminary specification methodology for model based diagnosis;01E93C2F;056055AD;1994
+30;0;qiang shen;ian miguel;dynamic flexible constraint satisfaction;05E1B1D9;04743DEB;2000
+31;0;qiang shen;jeroen keppens;granularity and disaggregation in compositional modelling with applications to ecological systems;05CEA7C0;04743DEB;2006
+32;0;qiang shen;khairul a rasmani;data driven fuzzy rule generation and its application for student academic performance evaluation;05CEA7C0;04743DEB;2006
+33;0;qiang shen;richard jensen;approximation based feature selection and application for algae population estimation;05CEA7C0;04743DEB;2008
+34;0;qiang shen;richard jensen;fuzzy rough attribute reduction with application to web categorization;05E1B1D9;0A1902EC;2004
+35;0;qiang shen;richard jensen;fuzzy rough data reduction with ant colony optimization;05E1B1D9;0A1902EC;2005
+36;0;qiang shen;changjing shang;rough feature selection for neural network based image classification;12179;0394C23D;2011
+37;0;qiang shen;jeroen keppens;compositional model repositories via dynamic constraint satisfaction with order of magnitude preferences;05E1B1D9;08572D61;2004
+38;0;qiang shen;alexios chouchoulas;a rough fuzzy approach for generating classification rules;15812;00065366;2002
+39;0;qiang shen;alexios chouchoulas;combining rough sets and data driven fuzzy learning for generation of classification rules;15497;00065366;1999
+40;0;qiang shen;richard jensen;selecting informative features with fuzzy rough sets and its application for complex systems monitoring;05E1B1D9;00065366;2004
+41;0;qiang shen;joe halliwell;linguistic probabilities theory and application;05CEA7C0;42F0CC9A;2009
+42;0;qiang shen;wansheng tang,ruiqing zhao;random fuzzy alternating renewal processes;05CEA7C0;42F0CC9A;2009
+43;0;qiang shen;zhiheng huang;fuzzy interpolative reasoning via scale and move transformations;6017;07FF62D9;2006
+44;0;qiang shen;richard jensen;fuzzy rough sets assisted attribute selection;00F4BA82;07FF62D9;2007
+45;0;qiang shen;wansheng tang,ruiqing zhao;modeling random fuzzy renewal reward processes;00F4BA82;07FF62D9;2008
+46;0;qiang shen;zhiheng huang;fuzzy interpolation and extrapolation a practical approach;1673;07FF62D9;2008
+47;0;qiang shen;richard jensen;semantics preserving dimensionality reduction rough and fuzzy rough based approaches;922;01D46A2B;2004
+48;0;qiang shen;;rough feature selection for intelligent classifiers;00F4BA82;01AE9938;2007
+49;0;qiang shen;ian miguel;exhibiting the behavior of time delayed systems via an extension to qualitative simulation;13986;0489FD27;2005
+50;0;qiang shen;f s smith;fault identification through the combination of symbolic conflict recognition and markov chain aided belief revision;13862;0489FD27;2004
+51;0;qiang shen;colin aitken,richard jensen,b hayes;the evaluation of evidence for exponentially distributed data;00F4BA82;07E3B233;2007
+52;0;qiang shen;meijun yang;fuzzy diagnosis of turbomachines;00F4BA82;07F913FC;2008
+53;0;qiang shen;meijun yang;reinforcing fuzzy rule based diagnosis of turbomachines with case based reasoning;00F4BA82;07F913FC;2008
+54;0;qiang shen;tossapon boongoen;intelligent hybrid approach to false identity detection;00F4BA82;43FD084C;2009
+55;0;qiang shen;neil mac parthalain;exploring the boundary region of tolerance rough sets for feature selection;00F4BA82;00065366;2009
+56;0;qiang shen;richard jensen;feature selection for aiding glass forensic evidence analysis;00F4BA82;4799A10B;2009
+57;1;qiang shen;pan li,yuguang fang,hailin zhang;power controlled network protocols for multi rate ad hoc networks;00493E54;03C85075;2009
+58;0;qiang shen;;fuzzy sets and rough sets for scenario modelling and analysis;00F4BA82;42F0CC9A;2009
+59;0;qiang shen;dave barnes,changjing shang;taking fuzzy rough application to mars;00F4BA82;42F0CC9A;2009
+60;0;qiang shen;dave barnes,changjing shang;effective feature selection for mars mcmurdo terrain image classification;00F4BA82;45D416DF;2009
+61;0;qiang shen;;intelligent systems for decision support;18080;461877A8;2010
+62;0;qiang shen;shunqin li,tang wansheng,zhao ruiqing;random fuzzy delayed renewal processes;00F4BA82;42F0CC9A;2009
+63;2;qiang shen;mian ge,jie li;a cluster warhead projection time self adaptive algorithm and simulation;07802943;1918032;2009
+64;2;qiang shen;dongguang li;design of range correction fuze trajectory calculation and control device;07802943;882669;2009
+65;0;qiang shen;michelle galea,john levine;evolutionary approaches to fuzzy modelling for classification;4395;08322F9A;2004
+66;0;qiang shen;taoxin peng;combining dimensional analysis and heuristics for causal ordering in memory of dr rob milne ;00F4BA82;1846381;2006
+67;1;qiang shen;pan li,rongsheng huang,yuguang fang,xuming fang;improving throughput by tuning carrier sensing in 802 11 wireless networks;00493E54;06DAD4AA;2009
+68;0;qiang shen;r r leitch;combining qualitative simulation and fuzzy sets;13934;0BB0DA67;1991
+69;1;qiang shen;witold a krzymien;optimum power assignment for maximum throughput in cdma personal communication systems with integrated voice data traffic;093456D7;02FA7055;1998

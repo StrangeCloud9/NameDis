@@ -1,0 +1,33 @@
+0;0;ajay gupta;;explanation based failure recovery;4EF77785;46A05BB0;1987
+1;0;ajay gupta;yossi lichtenstein,bob welham;time representation in prolog circuit modelling;4EF77785;171431;1992
+2;2;ajay gupta;manish bhide,mukul joshi,mukesh mohania;optimal deployment of triggers for detecting events;041B3329;47169EC5;2004
+3;2;ajay gupta;manish bhide,mukesh mohania;web page ranking based on events;4FF45383;4692A0B1;2004
+4;0;ajay gupta;daryl allred,c priest,yossi lichtenstein,michael v l bennett;agatha an integrated expert system to test and diagnose complex personal computer boards;7136;44F1BEFF;1991
+5;2;ajay gupta;rema ananthanarayanan,mukesh mohania;management of conflicting obligations in self protecting policy based systems;4FF45383;449D545A;2005
+6;2;ajay gupta;shree raman;policy framework for autonomic data management;4FF45383;449D545A;2004
+7;4;ajay gupta;zille huma kamal,ala alfuqaha;using lagrangean relaxation for service location planning with qos constraints in large scale networks;087165E4;436150FA;2008
+8;4;ajay gupta;chaoli cai;mobility pattern based anomaly detection algorithm in mobile networks;087165E4;436150FA;2008
+9;4;ajay gupta;vijay bhuse,ala alfuqaha;detection of masquerade attacks on wireless sensor networks;087165E4;436150FA;2007
+10;2;ajay gupta;manish bhide,sandeep pandey,mukesh mohania;dynamic access control framework based on events;11824;45610CDA;2003
+11;2;ajay gupta;manish bhide,mukesh mohania;towards bringing database management task in the realm of it non experts;4FF45383;45610CDA;2003
+12;2;ajay gupta;mukesh mohania,kriti puniyani,himanshu gupta,manish bhide,prasan roy,vibhuti s sengar,venkatesan chakravarthy,sourashis roy;enhanced business intelligence using erocs;3031;45610CDA;2008
+13;0;ajay gupta;;hardware diagnosis as program debugging;2380;47C39427;1987
+14;7;ajay gupta;wolfgang maass;efficient design of boltzmann machines;16944;43319DD4;1990
+15;2;ajay gupta;vishal s batra,jaijit bhattacharya,upendra sharma,h p s chauhan,mukesh mohania;policy driven data administration;4FF45383;449D545A;2002
+16;0;ajay gupta;krishnan ramanathan,somnath banerjee;clustering short texts using wikipedia;4EF77785;43FD776C;2007
+17;2;ajay gupta;rahul gupta,manish bhide,prasan roy,zenita ichhaporia,mukesh mohania;liptus associating structured and unstructured information in a banking environment;4FF45383;460A7036;2007
+18;0;ajay gupta;praphul chandra;retaining personal expression for social search;4EF77785;43ABF249;2009
+19;2;ajay gupta;rema ananthanarayanan,mukesh mohania;some issues in privacy data management;4831;45A68B5F;2007
+20;3;ajay gupta;steven c bruell,sukumar ghosh;mutual exclusion on a hypercube;12240;095DDDE1;1993
+21;4;ajay gupta;elise de doncker;multivariate integration on hypercubic and mesh networks;19124;474677D8;1998
+22;4;ajay gupta;zul kamal,leszek lilien,ashfaq khokhar;power consumption analysis of maximum a posterior classifier using lu decomposition and jacobi iterations;087165E4;05CA192B;2008
+23;0;ajay gupta;prashant sarin,parthasarathy ranganathan,mehul a shah;it infrastructure in emerging markets arguing for an end to end perspective;4EF77785;0171209C;2006
+24;4;ajay gupta;turkmen canli,ashfaq khokhar;power efficient algorithms for computing fast fourier transform over wireless sensor networks;8895;47B7ABEF;2006
+25;2;ajay gupta;indrajit bhattacharya,shantanu godbole,kevin w english,ashish verma,jeffrey m achtermann;enabling analysts in managed services for crm analytics;4FF45383;436976F3;2009
+26;0;ajay gupta;yogesh sankarasubramaniam,nidhi mathur,krishnan ramanathan;document summarization using wikipedia;34C77BFA;44E947F7;2009
+27;5;ajay gupta;prabhash dhyani;performance indicators in a 802 11 wlan deployment;4145;4482E21B;2009
+28;2;ajay gupta;rema ananthanarayanan,mukesh mohania;towards automated privacy compliance in the information life cycle;4FF45383;1142768;2008
+29;8;ajay gupta;dipl ing kurt j maly,satish mynam;a workstation s communication performance benchmark;11301;1787119;1996
+30;4;ajay gupta;elise de doncker,rodger zanny;large scale parallel numerical integration;14225;09DCED85;1999
+31;7;ajay gupta;wolfgang maass;a method for the efficient design of boltzmann machines for classification problems;14861;43319DD4;1990
+32;1;ajay gupta;scott laliberte,t j klevinsky;hack i t security through penetration testing;16748;480302;2002

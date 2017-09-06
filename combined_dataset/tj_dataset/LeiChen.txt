@@ -1,0 +1,206 @@
+0;0;lei chen;jyhhaw yeh,chungwei lee;density based multipath secure communication over mobile ad hoc networks;04EAD036;44344A0A;2006
+1;0;lei chen;wenchen hu,chungwei lee;gene intrusion on a society of hill climbers;04EAD036;44344A0A;2006
+2;0;lei chen;chungwei lee;multi level secure video streaming over srtp;3890;45D8562E;2005
+3;1;lei chen;hong liu,minglu li,xinda lu,yang qi,xili sun,qianni deng,xinhua lin;recent advances in cfd grid application platform;8096;47A823DD;2004
+4;2;lei chen;ying yu tai,lan lan,shu lin,khaled a s abdelghaffar,lingqi zeng;algebraic constructions of quasi cyclic ldpc codes part i for awgn and binary random erasure channels;050513B0;4762CAF8;2006
+5;0;lei chen;chungwei lee;the effects of mobility and redundancy on wireless video streaming over manets;0B68FAA6;46C53898;2008
+6;1;lei chen;lorraine o ramig,mary p harper,robert bryll,francis quek;audio and vision based evaluation of parkinson s disease from discourse video;3020;44C5464F;2001
+7;1;lei chen;m tamer ozsu,jie lian,kshirasagar naik,gordon b agnew;localized routing trees for query processing in sensor networks;0BF77E37;472C6E2D;2005
+8;1;lei chen;yueting zhuang,qing li;towards interactive indexing for large chinese calligraphic character databases;0BF77E37;472C6E2D;2006
+9;1;lei chen;shaoxu song;probabilistic correlation based similarity measure of unstructured records;0BF77E37;472C6E2D;2007
+10;1;lei chen;yingyi bu,weixiong rao,ada waichee fu;optimal proactive caching in peer to peer network analysis and application;0BF77E37;472C6E2D;2007
+11;1;lei chen;yansheng lu,lei zou;top k subgraph matching query in a large graph;0BF77E37;472C6E2D;2007
+12;1;lei chen;m tamer ozsu,rui li,jie lian,qiang wang;speed up semantic search in p2p networks;0BF77E37;472C6E2D;2008
+13;1;lei chen;yongzhen zhuang;in network outlier cleaning for data collection in sensor networks;0BF77E37;663062;2006
+14;7;lei chen;jeffrey l ram,shiyong lu;compressed pattern matching in dna sequences;0B0DA3DC;45BD7739;2004
+15;9;lei chen;wei peng,xiuzi ye;heterogeneous cad hybrid data exchange based on feature semantics and geometry representation;0489A984;43520230;2006
+16;1;lei chen;bin wang,xiang lian;approximate similarity search over multiple stream time series;0BF77E37;469D149A;2007
+17;1;lei chen;shaoxu song;similarity joins of text with incomplete information formats;0BF77E37;469D149A;2007
+18;1;lei chen;zhenhua wang,junchang xin,guoren wang,xiaoyi zhang;continuously maintaining sliding window skylines in a sensor network;0BF77E37;469D149A;2007
+19;1;lei chen;huaming zhang,yansheng lu,qiang lou,lei zou;summarization graph indexing beyond frequent structure based approach;1983;469D149A;2008
+20;1;lei chen;xiang lian;probabilistic inverse ranking queries over uncertain data;0BF77E37;469D149A;2009
+21;1;lei chen;vincent oria,junchang xin,guoren wang;energy efficient evaluation of multiple skyline queries over a wireless sensor network;0BF77E37;469D149A;2009
+22;1;lei chen;yi zhuang,qing li;a unified indexing structure for efficient cross media retrieval;8661;469D149A;2009
+23;1;lei chen;yansheng lu,lei zou;top k correlation sub graph search in graph databases;1771;469D149A;2009
+24;1;lei chen;sean x wang,ge yu,bin wang,xiaochun yang,xuemin lin,guoren wang;answering constrained k nn queries in unstructured p2p systems;0BF77E37;42FD7C2C;2009
+25;1;lei chen;xiang lian;dynamic skyline queries in metric spaces;0BF77E37;43820346;2008
+26;1;lei chen;yi yu,yi zhuang,qing li;indexing high dimensional data in dual distance spaces a symmetrical encoding approach;0BF77E37;43820346;2008
+27;1;lei chen;jeffrey xu yu,yansheng lu,lei zou;a novel spectral coding in a large graph database;0BF77E37;43820346;2008
+28;1;lei chen;xiang lian;probabilistic ranked queries in uncertain databases;0BF77E37;43820346;2008
+29;1;lei chen;jinchuan chen,xike xie,reynold cheng;evaluating probability threshold k nearest neighbor queries over uncertain data;0BF77E37;43820346;2009
+30;1;lei chen;xiang lian;top k dominating queries in uncertain databases;0BF77E37;43820346;2009
+31;15;lei chen;quentin miller,jifeng he;algebraic laws for bsp programming;02642F55;4556024C;1996
+32;18;lei chen;weidong yu,ye yu,j luo,xiaohan yu,yan ni,zhaoqun du;fabric handle clusters based on fuzzy clustering algorithm;0ACED25B;4665AEAE;2008
+33;1;lei chen;jian cao,minglu li,yanli cai;portlet based portal design for grid systems;0AE9651A;4554E150;2006
+34;16;lei chen;chi zhang,fengjun zhang,guozhong dai,hailan feng,hao zhang;a new virtual dynamic dentomaxillofacial system for analyzing mandibular movement occlusal contact and tmj condition;0134B592;43331058;2007
+35;17;lei chen;steven dropsho,david h albonesi;dynamic data dependence tracking and its application to branch prediction;005237C4;43226B44;2003
+36;1;lei chen;zhoujun li,yongzhen zhuang,jinsong han,xiaoming chen;hand an overlay optimization algorithm in peer to peer systems;0BF77E37;447B8E60;2006
+37;24;lei chen;siming liu,chunhua yin,xin ye;e government web mining tool design and implementation based on the semantic web;0714CD68;478794CB;2008
+38;20;lei chen;di yuan;automated planning of cpich power for enhancing hsdpa performance at cell edges with preserved control of r99 soft handover;4D76ACCE;436150FA;2008
+39;21;lei chen;yanmiao zhou,zhaohui wu,qijia wang,nenggan zheng;a dependable communication network for e textiles;0489A984;43D2A5F0;2006
+40;27;lei chen;xuewen xia,weiqin ying,yuanxiang li;automated design approach for analog circuit using genetic algorithm;023B9EF3;43D2A5F0;2007
+41;21;lei chen;yanmiao zhou,zhaohui wu,nenggan zheng;the e textile token grid network with dual rings;0489A984;470B05DE;2006
+42;1;lei chen;jie lian,yongzhen zhuangt,xiaoyang sean wang;a weighted moving average based approach for cleaning sensor data;0BF77E37;4789F291;2007
+43;1;lei chen;yunhao liu,mo li;non threshold based event detection for 3d environment monitoring in sensor networks;0BF77E37;4789F291;2007
+44;1;lei chen;yi zhuang,qing li;multi query optimization for distributed similarity query processing;7459;4789F291;2008
+45;1;lei chen;raghu ramakrishnan,bee chung chen,david r musicant;learning from aggregate views;15770;45610CDA;2006
+46;1;lei chen;m t ozsu;multi scale histograms for answering queries over time series data;090B77B3;45610CDA;2004
+47;1;lei chen;jeffrey xu yu,ge yu,guoren wang,xiang lian;similarity match over high speed time series streams;0BF77E37;45610CDA;2007
+48;1;lei chen;xiang lian;a general cost model for dimensionality reduction in high dimensional spaces;0BF77E37;45610CDA;2007
+49;1;lei chen;jeffrey xu yu,di wu,zheng liu;detection of shape anomalies a probabilistic approach using hidden markov models;17053;45610CDA;2008
+50;1;lei chen;lei zou;dominant graph an efficient indexing structure to answer top k queries;14116;45610CDA;2008
+51;1;lei chen;jeffrey xu yu,xiang lian;pattern matching over cloaked time series;15227;45610CDA;2008
+52;1;lei chen;christopher olston,raghu ramakrishnan;parallel evaluation of composite aggregate queries;0810AAFA;45610CDA;2008
+53;1;lei chen;xiang lian;similarity search in arbitrary subspaces under lp norm;13185;45610CDA;2008
+54;1;lei chen;hanhua chen,weixiong rao,ada waichee fu;stairs towards efficient full text filtering and dissemination in a dht environment;11655;45610CDA;2009
+55;1;lei chen;ke yi,feifei li,xiang lian;a concise representation of range queries;12347;45610CDA;2009
+56;1;lei chen;yongzhen zhuang;max regional aggregate over sensor networks;0BF77E37;45610CDA;2009
+57;1;lei chen;changliang wang;continuous subgraph pattern search over graph streams;0BF77E37;45610CDA;2009
+58;1;lei chen;david gross,jy cai,david r musicant,r ramakrishnan,stephen j wright,james j schauer,zhifang huang;mass spectrum labeling theory and practice;0810AAFA;468A7487;2004
+59;1;lei chen;jeffrey xu yu,zheng liu,xuemin lin,yiping ke;spotting significant changing subgraphs in evolving graphs;0BF77E37;468A7487;2008
+60;39;lei chen;hung keng pung,fei long;feedforward neural networks without orthonormalization;09E3EE34;44A68539;2007
+61;1;lei chen;m t ozsu;rule based scene extraction from video;090B77B3;455477A7;2002
+62;17;lei chen;wendi heinzelman;network architecture to support qos in mobile ad hoc networks;005237C4;1328579;2004
+63;1;lei chen;sedef gunduz,m t ozsu;mixed type audio classification with support vector machine;0BF77E37;432251B5;2006
+64;24;lei chen;zhe wang,xiaolin zhang;analog error control coding based on dimension expanding shannon mapping for robust image communication;04F0A8A0;432251B5;2007
+65;1;lei chen;;utilizing gestures to better understand dynamic structure of human communication;0D109F83;4372B502;2004
+66;1;lei chen;mary p harper,francis quek;gesture patterns during speech repairs;0D109F83;4372B502;2002
+67;1;lei chen;mary p harper,zhongqiang huang;using maximum entropy me model to incorporate gesture cues for su detection;0D109F83;4372B502;2006
+68;1;lei chen;yunhao liu,jie lian,kshirasagar naik;virtual surrounding face geocasting with guaranteed message delivery for ad hoc and sensor networks;0BF77E37;44F1AB80;2006
+69;1;lei chen;rui chu,nong xiao,xicheng lu;a push based prefetching for cooperative caching ram grid;6312;43C1EF66;2007
+70;1;lei chen;xicheng lu,dongsheng li,yiming zhang;collaborative search in large scale unstructured peer to peer networks;18767;44E5A1B2;2007
+71;1;lei chen;prima chairunnanda,vivekanand gopalkrishnan;enhancing edit distance on real sequences filters using histogram distance on fixed reference ordering;15383;4372EE76;2006
+72;4;lei chen;haiming chen;inclusion test algorithms for one unambiguous regular expressions;012E6F4E;42D4CF15;2008
+73;5;lei chen;eric g manning,kin fun li,shahadat khan;building an adaptive multimedia system using the utility model;2639;45B9D64F;1999
+74;1;lei chen;yunhao liu,kebin liu,amiya nayak,wei gong;continuous answering holistic queries over sensor networks;0BF77E37;4708B833;2016
+75;1;lei chen;yunhao liu,minglu li,kebin liu;continuous answering holistic queries over sensor networks;6285;4708B833;2008
+76;1;lei chen;nong xiao,shaoliang peng,shanshan li,yuxing peng;sencast scalable multicast in wireless sensor networks;2774;4708B833;2008
+77;1;lei chen;fabian moerchen,kazuki joe,yi yu,j s downie;using exact locality sensitive mapping to group and detect audio based cover songs;0BF77E37;46D76472;2008
+78;39;lei chen;hung keng pung,lifeng zhou,lek heng ngoh;end to end diagnosis of qos violations with neural network;09E3EE34;438E31AA;2008
+79;1;lei chen;mohamed s kamel;design of multiple classifier systems for time series data;090B77B3;06A2B60B;2005
+80;1;lei chen;ju jiang,mohamed s kamel;a modular system for the classification of time series data;090B77B3;866766;2004
+81;11;lei chen;wei yang,rongqian yang,yazhu chen,weiyin ma,su zhang,bo ye;noninvasive temperature monitoring in a wide range based on textures of ultrasound images;0AE9651A;140902;2006
+82;1;lei chen;m tamer ozsu,vincent oria;symbolic representation and retrieval of moving object trajectories;090B77B3;46F58A2E;2004
+83;1;lei chen;yi yu,vincent oria,j stephen downie,kazuki joe;searching musical audio datasets by a batch of multi variant tracks;0BF77E37;46F58A2E;2008
+84;1;lei chen;m tamer ozsu,vincent oria;a multi level index structure for video databases;968;1935482;2002
+85;1;lei chen;thomas huang,haleema welji,david mcneill,tony x han,mary p harper,fey parrill,irene kimbara,r travis rose,ying qiao,jilin tu,ronald f tuttle,zhongqiang huang,francis quek,yingen xiong;vace multimodal meeting corpus;0D109F83;465F7C62;2005
+86;1;lei chen;mary p harper,irene kimbara,amy franklin,zhongqiang huang,francis quek,travis rose;a multimodal analysis of floor control in meetings;0D109F83;344505;2006
+87;1;lei chen;fabian moerchen,vincent oria,j stephen downie,yi yu,kazuki joe;cosin content based retrieval system for cover songs;0BF77E37;43AA5802;2008
+88;1;lei chen;m tamer ozsu,vincent oria;modeling video data for content based queries extending the disima image data model;16265;42F91B89;2003
+89;14;lei chen;mingchun chiang,chingyu liao,lichun wang,chungju chang;performance comparisons of power allocation mechanisms for downlink handoff in the wcdma system with microcellular environments;08D7E515;47175205;2003
+90;1;lei chen;;incorporating gesture and gaze into multimodal models of human to human communication;0D109F83;45F914AD;2006
+91;1;lei chen;yiming zhang,dongsheng li,xicheng lu;flexible routing in grouped dhts;6945;45700DCB;2008
+92;1;lei chen;yunhao liu,jian pei,yiyang zhao,qiuxia chen;mining frequent trajectory patterns for activity monitoring using radio frequency tag arrays;0BF77E37;43AEF2F9;2007
+93;1;lei chen;yunhao liu,jian pei,yiyang zhao,jinsong han;mining frequent trajectory patterns for activity monitoring using radio frequency tag arrays;0BF77E37;43AEF2F9;2012
+94;1;lei chen;zheng huang,raghu ramakrishnan;cost based labeling of groups of mass spectra;0810AAFA;460A7036;2004
+95;1;lei chen;m tamer ozsu,vincent oria;robust and fast similarity search for moving object trajectories;090B77B3;460A7036;2005
+96;1;lei chen;yunhao liu,qiong luo,wenwei xue;contour map matching for event detection in sensor networks;0BF77E37;460A7036;2006
+97;1;lei chen;xiang lian;monochromatic and bichromatic reverse skyline search over uncertain databases;0BF77E37;460A7036;2008
+98;1;lei chen;ju jiang,mohamed s kamel;reinforcement learning and aggregation;090B77B3;45C7663C;2004
+99;1;lei chen;mohamed s kamel;a new design of multiple classifier system and its application to the classification of time series data;090B77B3;45C7663C;2007
+100;1;lei chen;vincent oria,m tamer oszu;using multi scale histograms to answer pattern existence and shape match queries;12714;44E8D4B3;2005
+101;1;lei chen;xiang lian;efficient methods on predictions for similarity search over stream time series;0BF77E37;44E8D4B3;2006
+102;1;lei chen;beechung chen,paul barford,raghu ramakrishnan,vinod yegneswaran;composite subset measures;0810AAFA;4390334E;2006
+103;1;lei chen;raymond ng;on the marriage of lp norms and edit distance;090B77B3;4390334E;2004
+104;1;lei chen;yi lin,raghu ramakrishnan,bee chung chen;prediction cubes;3114;4390334E;2005
+105;1;lei chen;yunhao liu,jeffrey xu yu,qiuxia chen,xiang lian;indexable pla for efficient similarity search;0BF77E37;4390334E;2007
+106;1;lei chen;yunhao liu,hanhua chen,hai jin,jiliang wang,lionel m ni;efficient multi keyword search over p2p web;0BF77E37;43ABF249;2008
+107;9;lei chen;hongzheng liu,qiuer xu,xiuzi ye,xiang pans;parameterized freeform shape design and deformation;0489A984;44BC5EE8;2007
+108;29;lei chen;morteza mohammadzaheri;design of an intelligent controller for a model helicopter using neuro predictive method with fuzzy compensation;5475;457C90F5;2007
+109;27;lei chen;shaobo xu,zhengfeng jiang;testing technology of torsional vibration spring static stiffness;0BB963EC;45737C92;2008
+110;28;lei chen;jingyuan li,ruikun gong;study of coupling based on genetic neural network multivariable nonlinear complex system;11622;449CDF39;2008
+111;28;lei chen;gong ruikun,jingyuan li;study of coupling based on genetic neural network multivariable nonlinear complex system;14255;0A15CDA3;2008
+112;4;lei chen;haiming chen;efficient type checking for a subclass of regular expression types;012E6F4E;46013AA1;2008
+113;25;lei chen;shaoqian li,jun wang;cooperative spectrum sensing with multi bits local sensing decisions in cognitive radio context;18224;45563B9A;2008
+114;39;lei chen;hung keng pung;convergence analysis of convex incremental neural networks;09E3EE34;056055AD;2008
+115;36;lei chen;feng liu,jian jim wang,xuegong deng,anguel nikolov,xiaoming liu,paul sciortino,stephen tai,barry j weinbaum;free space nano optical devices and integration design fabrication and manufacturing;6738;0A902CAD;2005
+116;9;lei chen;zhiyang chen,hongzheng liu,sanyuan zhang,xiang pan,xiuzi ye;reverse innovative design an integrated product design methodology;0489A984;0109D5ED;2008
+117;1;lei chen;shaoxu song;discovering matching dependencies;0BF77E37;472C6E2D;2009
+118;1;lei chen;shaoxu song;discovering matching dependencies;12767;472C6E2D;2009
+119;34;lei chen;changhong lu,mingqing zhai;extremal problems on consecutive l 2 1 labelling;03FC4F79;0A3C919D;2007
+120;1;lei chen;ju jiang,mohamed s kamel;aggregation of multiple reinforcement learning algorithms;8398;0AA7F8E4;2011
+121;1;lei chen;martin m shafer,deborah s gross,raghu ramakrishnan,zheng huang,david r musicant,james j schauer;the edam project mining atmospheric aerosol datasets;0810AAFA;0374415A;2005
+122;32;lei chen;zhihua zhou,songcan chen;a unified swsi kams framework and performance evaluation on face recognition;00962EEC;02B93B6A;2005
+123;39;lei chen;guangbin huang;convex incremental extreme learning machine;015BDFDA;02B93B6A;2007
+124;39;lei chen;cheekheong siew,guangbin huang,mingbin li;incremental extreme learning machine with fully complex hidden nodes;09E3EE34;02B93B6A;2008
+125;39;lei chen;hung keng pung,guangbin huang;systemical convergence rate analysis of convex incremental feedforward neural networks;09E3EE34;02B93B6A;2009
+126;1;lei chen;x sean wang,ge yu,bin wang,xiaochun yang,xuemin lin,guoren wang;continually answering constraint k nn queries in unstructured p2p systems;0BF77E37;09A08B9A;2008
+127;1;lei chen;nong xiao,shaoliang peng,shanshan li,yuxing peng;scalable base station model based multicast in wireless sensor networks;0BF77E37;09A08B9A;2008
+128;17;lei chen;wendi heinzelman;qos aware routing based on bandwidth estimation for mobile ad hoc networks;005237C4;0563BD02;2005
+129;38;lei chen;kaiyuan cai;analyzing software science data with partial repeatability;04F0A8A0;0241FF68;2002
+130;1;lei chen;vincent oria,m tamer zsu;mindex an efficient index structure for salient object based queries in video databases;16244;06B0FB97;2004
+131;1;lei chen;m tamer ozsu,vincent oria;mindex an efficient index structure for salient object based queries in video databases;12542;06B0FB97;2004
+132;1;lei chen;yunhao liu,minglu li,kebin liu;robust and efficient aggregate query processing in wireless sensor networks;0BF77E37;0B7F57E3;2008
+133;3;lei chen;wendi heinzelman;a survey of routing protocols that support qos in mobile ad hoc networks;005237C4;0B1F0EDA;2007
+134;32;lei chen;songcan chen;distance based sparse associative memory neural network algorithm for pattern recognition;00962EEC;0866EBEE;2006
+135;39;lei chen;hung keng pung,lifeng zhou;universal approximation and qos violation application of extreme learning machine;09E3EE34;0866EBEE;2008
+136;29;lei chen;morteza mohammadzaheri,john willison,ali ghaffari;a combination of linear and nonlinear activation functions in neural networks for modeling a de superheater;0056B275;06D6C9D4;2009
+137;1;lei chen;yl zhuang,qing li;interactive high dimensional index for large chinese calligraphic character databases;0BF77E37;035F4706;2007
+138;2;lei chen;ivana djurdjevic,shu lin,jun xu;near shannon limit quasi cyclic low density parity check codes;050513B0;43701CEE;2003
+139;2;lei chen;ivana djurdjevic,shu lin,jun xu;near shannon limit quasi cyclic low density parity check codes;050513B0;0BB89C05;2004
+140;2;lei chen;lingqi zeng,shu lin,zongwang li,w fong;efficient encoding of quasi cyclic low density parity check codes;15083;43701CEE;2005
+141;2;lei chen;wai h fong,lingqi zeng,shu lin,zongwang li;efficient encoding of quasi cyclic low density parity check codes;12873;43701CEE;2005
+142;2;lei chen;lingqi zeng,shu lin,zongwang li,w fong;efficient encoding of quasi cyclic low density parity check codes;12141;43701CEE;2005
+143;2;lei chen;wai h fong,lingqi zeng,shu lin,zongwang li;efficient encoding of quasi cyclic low density parity check codes;11897;43701CEE;2005
+144;2;lei chen;lingqi zeng,lan lan,shu lin,jun xu;construction of low density parity check codes by superposition;050513B0;0BB89C05;2005
+145;2;lei chen;ivana djurdjevic,shu lin,khaled a s abdelghaffar,jun xu;construction of regular and irregular ldpc codes geometry decomposition and masking;3444;0044B422;2007
+146;2;lei chen;lan lan,ying yu tai,lingqi zeng,shu lin,khaled a s abdelghaffar;construction of quasi cyclic ldpc codes for awgn and binary erasure channels a finite field approach;11433;0044B422;2007
+147;1;lei chen;yuhai zhao,guoren wang,ge yu,bin wang,jeffrey xu yu;maximal subspace coregulated gene clustering;5066;01D46A2B;2008
+148;1;lei chen;xiang lian;efficient similarity search in nonmetric spaces with local constant embedding;0BF77E37;01D46A2B;2008
+149;1;lei chen;xiang lian;efficient similarity search over future stream time series;0BF77E37;01D46A2B;2008
+150;1;lei chen;xiang lian;probabilistic group nearest neighbor queries in uncertain databases;0BF77E37;01D46A2B;2008
+151;1;lei chen;yunhao liu,mo li;nonthreshold based event detection for 3d environment monitoring in sensor networks;0BF77E37;01D46A2B;2008
+152;13;lei chen;adel ben mnaouer,chuan heng foh,juki wirawan tantra;ophmr an optimized polymorphic hybrid multicast routing protocol for manet;2124;041F05A5;2007
+153;1;lei chen;yunhao liu,jie lian,kshirasagar naik;virtual surrounding face geocasting in wireless ad hoc and sensor networks;0BF77E37;03B5AFB2;2009
+154;1;lei chen;yunhao liu,jie lian,gordon b agnew,kshirasagar naik;gradient boundary detection for time series snapshot construction in sensor networks;495;05CA192B;2007
+155;39;lei chen;guangbin huang,cheekheong siew;universal approximation using incremental constructive feedforward networks with random hidden nodes;0A4ACFBD;02821AB5;2006
+156;1;lei chen;jeffrey xu yu,ke yi,xuemin lin,cheqing jin;sliding window top k queries on uncertain streams;0BF77E37;4390334E;2008
+157;1;lei chen;jeffrey xu yu,ke yi,xuemin lin,cheqing jin;sliding window top k queries on uncertain streams;0BF77E37;4390334E;2010
+158;1;lei chen;raymond c w wong,jiuyong li,ada w c fu,yingyi bu;privacy preserving serial data publishing by role composition;0BF77E37;4390334E;2008
+159;1;lei chen;m tamer ozsu,jie lian,gordon b agnew,kshirasagar naik;bbs an energy efficient localized routing scheme for query processing in wireless sensor networks;11020;03D6EF79;2006
+160;1;lei chen;yingyi bu,ada waichee fu,dawei liu;efficient anomaly monitoring over moving object trajectory streams;0BF77E37;436976F3;2009
+161;10;lei chen;yuichi nakamura,shinji kimura,takashi horiyama;fine grained power gating based on the controlling value of logic elements;2753;09F41384;2008
+162;1;lei chen;mohamed s kamel;a generalized adaptive ensemble generation and aggregation approach for multiple classifier systems;090B77B3;00065366;2009
+163;1;lei chen;xiang lian;efficient processing of probabilistic reverse nearest neighbor queries over uncertain data;0BF77E37;4390334E;2009
+164;1;lei chen;xiang lian;efficient join processing on uncertain data streams;0BF77E37;472C6E2D;2009
+165;1;lei chen;xiping liu,changxuan wan;effective xml content and structure retrieval with relevance ranking;0BF77E37;472C6E2D;2009
+166;1;lei chen;shaoxu song;discovering matching dependencies;0BF77E37;472C6E2D;2009
+167;1;lei chen;shaoxu song;discovering matching dependencies;3016;472C6E2D;2009
+168;12;lei chen;yunhong wang,de zhang;gender recognition from gait using radon transform and relevant component analysis;04F0A8A0;439B9AD2;2009
+169;1;lei chen;mary p harper;multimodal floor control shift detection;0D109F83;4372B502;2009
+170;1;lei chen;yi yu,vincent oria,michel crucianu;local summarization and multi level lsh for retrieving multi variant audio tracks;0BF77E37;43AA5802;2009
+171;26;lei chen;boleslaw k szymanski,joel w branch;auction based congestion management for target tracking in wireless sensor networks;09E1E653;43AEF2F9;2009
+172;20;lei chen;di yuan;fast algorithm for large scale umts coverage planning with soft handover consideration;06167391;4371D954;2009
+173;39;lei chen;yaozhang pan,shuzhi sam ge,qun zhang;equivalent relationship of feedforward neural networks and real time face detection system;09E3EE34;42CF1BB8;2009
+174;29;lei chen;morteza mohammadzaheri;hybrid neuro predictive fuzzy algorithm for a model helicopter s yaw angle control;9802;03C4F666;2008
+175;34;lei chen;zhenbing zeng,changhong lu;a linear time algorithm for paired domination problem in strongly chordal graphs;03FC4F79;08D19590;2009
+176;1;lei chen;xiang lian;general cost models for evaluating dimensionality reduction in high dimensional spaces;0BF77E37;01D46A2B;2009
+177;1;lei chen;xiang lian;efficient processing of metric skyline queries;0BF77E37;01D46A2B;2009
+178;1;lei chen;jeffrey xu yu,jian ma,jinsong han,xiang lian;multiscale representations for fast pattern matching in stream time series;0BF77E37;01D46A2B;2009
+179;1;lei chen;xiang lian;efficient similarity join over multiple stream time series;0BF77E37;01D46A2B;2009
+180;1;lei chen;m tamer ozsu,lei zou;k automorphism a general framework for privacy preserving network publication;0BF77E37;4390334E;2009
+181;1;lei chen;m tamer ozsu,lei zou;distancejoin pattern match query in a large graph database;9596;0215FD76;2009
+182;23;lei chen;;curse of dimensionality;16690;1713641;2009
+183;22;lei chen;;two dimensional shape retrieval;0BF77E37;986128;2009
+184;22;lei chen;;video content modeling;12202;1956473;2009
+185;19;lei chen;yanju guo,ting liu,liyi zhang;research of blind images separation algorithm based on kernel space;09B52E07;42F0CC9A;2009
+186;37;lei chen;bao hua zhao;an interference free data aggregation protocol for clustered wireless sensor networks;078A8AE9;1636704;2008
+187;27;lei chen;yunde jia,zhongli wang;stereo vision based floor plane extraction and camera pose estimation;07802943;45737C92;2009
+188;34;lei chen;zhenbing zeng,changhong lu;distance paired domination problems on subclasses of chordal graphs;03FC4F79;05686292;2009
+189;34;lei chen;zhenbing zeng,changhong lu;hardness results and approximation algorithms for weighted paired domination in graphs;03FC4F79;05686292;2009
+190;28;lei chen;zhigang li,yuekun ma,shuli yu;research on distributed data mining tool used in control system;17693;982782;2009
+191;1;lei chen;martin m shafer,deborah s gross,raghu ramakrishnan,zheng huang,david r musicant,james j schauer;the edam project mining atmospheric aerosol datasets research articles;0810AAFA;0374415A;2005
+192;39;lei chen;guangbin huang;letters convex incremental extreme learning machine;015BDFDA;02B93B6A;2007
+193;1;lei chen;kevin chenchuan chang,wei wang,clarence a ellis,ah chung tsoi,haixun wang,chinghsien hsu;proceedings of the apweb waim 2007 dbman webetrends pais and aswan international workshops on advances in web and network technologies and information management;10771;825994;2007
+194;33;lei chen;xinxiao wu,wei liang,t liu;tracking articulated hand underlying graphical model with depth cue;07802943;1071788;2008
+195;39;lei chen;guangbin huang;enhanced random search based incremental extreme learning machine;015BDFDA;02B93B6A;2008
+196;30;lei chen;lu lu;a tcp based performance test method and its application;05669A68;462E0862;2008
+197;31;lei chen;john sabatini,klaus zechner;automatic scoring of children s read aloud text passages and word lists;01328BF3;518799;2009
+198;31;lei chen;klaus zechner,xiaoming xi;improved pronunciation features for construct driven assessment of non native spontaneous speech;01328BF3;45F914AD;2009
+199;35;lei chen;yunjei li,mingwei ren,fei wang,xiaojun zhao,haixia su;research on telerobotic system based on arm core processor;15362;1925973;2009
+200;1;lei chen;chengfei liu,qing liu,ke deng;database systems for advanced applications dasfaa 2009 international workshops benchmarx mcis wdpp ppda mbc phd brisbane australia april 20 23 2009;13090;469D149A;2009
+201;1;lei chen;yi zhuang,darijus strasunskas,k selcuk candan,chengfei liu,jinghai rao,wensyan li,xiao zhang,shan wang,kwanghoon kim,stein l tomassen,dickson k w chiu,clarence ellis;advances in web and network technologies and information management apweb waim 2009 international workshops wcmt 2009 rtbi 2009 dbir enqoir 2009 pais 2009 suzhou china april 2 4 2009 revised selected papers;17177;43F44683;2009
+202;35;lei chen;yong cao,mignwei ren,fei wang,xiaojun zhao,haixia su;remote equipment monitoring system based on arm9 and can bus;15203;484664;2009
+203;1;lei chen;;similarity search over time series and trajectory data;090B77B3;1367579;2005
+204;8;lei chen;lizhong xu,xinnan fan,xuewu zhang;the research and application of human detection based on support vector machine using in intelligent video surveillance system;09BC607B;439B9AD2;2008
+205;6;lei chen;jing zeng,youcheng xie;design of main steam temperature cascade control system based on fuzzy self tuning pid controller;0364C255;974692;2008

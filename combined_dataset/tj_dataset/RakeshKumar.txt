@@ -1,0 +1,105 @@
+0;1;rakesh kumar;dean m tullsen,norman p jouppi;core architecture optimization for heterogeneous chip multiprocessors;0229448F;439F03CF;2006
+1;3;rakesh kumar;anil k sarje,m c misra,p macharla;a qos routing protocol for delay sensitive applications in mobile ad hoc networks;093AD6C0;43C176E6;2008
+2;5;rakesh kumar;yanlin guo,steve hsu,supun samarasekera,harpreet s sawhney;multi view 3d analysis with applications for augmented reality and enhanced video visualization;2923;45083D2F;2000
+3;5;rakesh kumar;ying shan,Steven C. Hsu,harpreet s sawhney,yanlin guo;vehicle fingerprinting for reacquisition and tracking in videos;5399;45083D2F;2005
+4;5;rakesh kumar;steve hsu,yanlin guo,harpreet s sawhney;learning based building outline detection from multiple aerial images;4E13CA1C;45083D2F;2001
+5;5;rakesh kumar;supun samarasekera,stephen hsu,harpreet s sawhney;pose estimation model refinement and enhanced visualization using video;13365;45083D2F;2000
+6;5;rakesh kumar;harpreet s sawhney;true multi image alignment and its application to mosaicing and lens distortion correction;12054;45083D2F;1999
+7;5;rakesh kumar;harpreet s sawhney;true multi image alignment and its application to mosaicing and lens distortion correction;7740;45083D2F;1997
+8;5;rakesh kumar;ying shan,harpreet s sawhney,feng han;learning exemplar based categorization for the detection of multi view multi pose objects;14535;45083D2F;2006
+9;5;rakesh kumar;ying shan,david j huber,martial hebert,bogdan matei,harpreet s sawhney;linear model hashing and batch ransac for rapid and accurate object recognition;4E13CA1C;45083D2F;2004
+10;5;rakesh kumar;ying shan,harpreet s sawhney;unsupervised learning of discriminative edge measures for vehicle matching between non overlapping cameras;4E13CA1C;45083D2F;2005
+11;5;rakesh kumar;hai tao,harpreet s sawhney;dynamic layer representation with applications to tracking;11142;45083D2F;2000
+12;5;rakesh kumar;hai tao,harpreet s sawhney;dynamic depth recovery from multiple synchronized video streams;1020;45083D2F;2001
+13;5;rakesh kumar;vivek verma,stephen hsu;3d building detection and modeling from aerial lidar data;19362;45083D2F;2006
+14;5;rakesh kumar;manoj aggarwal,harpreet s sawhney,tao zhao;real time wide area multi camera stereo tracking;4E13CA1C;45083D2F;2005
+15;5;rakesh kumar;ying shan,yanlin guo,harpreet s sawhney;peet prototype embedding and embedding transition for matching vehicles over disparate viewpoints;4E13CA1C;45083D2F;2007
+16;5;rakesh kumar;zhiwei zhu,supun samarasekera,taragay oskiper;visual odometry system using multiple stereo cameras and inertial measurement unit;4E13CA1C;45083D2F;2007
+17;5;rakesh kumar;zhiwei zhu,supun samarasekera,harpreet s sawhney,taragay oskiper;real time global localization with a pre built visual landmark database;4E13CA1C;45083D2F;2008
+18;5;rakesh kumar;ying shan,harpreet s sawhney,feng han;discovering class specific composite features through discriminative sampling with swendsen wang cut;9248;45083D2F;2008
+19;5;rakesh kumar;bogdan c matei,supun samarasekera,janet kim,harpreet s sawhney;building segmentation for densely built urban regions using aerial lidar data;4E13CA1C;45083D2F;2008
+20;5;rakesh kumar;yanlin guo,cen rao,supun samarasekera,janet kim,harpreet s sawhney;matching vehicles under large pose transformations using approximate 3d models and piecewise mrf model;4E13CA1C;45083D2F;2008
+21;1;rakesh kumar;sukhun kang;magellan a search and machine learning based framework for fast multi core design space exploration and optimization;0AF5B565;463BE6FF;2008
+22;5;rakesh kumar;steve hsu,harpreet s sawhney;robust video mosaicing through topology inference and local to global alignment;4E13CA1C;43001016;1998
+23;5;rakesh kumar;ying shan,bogdan matei,harpreet s sawhney;partial object matching with shapeme histograms;4E13CA1C;43001016;2004
+24;5;rakesh kumar;yanlin guo,changjiang yang,harpreet s sawhney;learning actions using robust string kernels;4E13CA1C;45701BF3;2007
+25;1;rakesh kumar;dean m tullsen,d f sheldon,frank vahid,roman lysecky;application specific customization of parameterized fpga soft core processors;19933;433DEF3A;2006
+26;1;rakesh kumar;dean m tullsen,david sheldon,frank vahid,roman lysecky;conjoining soft core fpga processors;0229448F;433DEF3A;2006
+27;5;rakesh kumar;ying shan,harpreet s sawhney;vehicle identification between non overlapping cameras without direct feature matching;4E13CA1C;45701BF3;2005
+28;5;rakesh kumar;harpreet s sawhney,jane c asmuth,y guo;independent motion detection in 3d scenes;13633;45701BF3;1999
+29;5;rakesh kumar;yanlin guo,harpreet s sawhney;independent motion detection in 3d scenes;11405;45701BF3;2000
+30;5;rakesh kumar;hai tao,harpreet s sawhney;a global matching framework for stereo computation;11970;45701BF3;2001
+31;5;rakesh kumar;w b lehman,wen yi zhao,david hirvonen,bogdan matei,stephen charles hsu,r p wiles;video georegistration algorithm and quantitative evaluation;13098;45701BF3;2001
+32;5;rakesh kumar;yanlin guo,sanghack jung,harpreet s sawhney;multiple cue integrated action detection;4E13CA1C;43331058;2007
+33;5;rakesh kumar;zhiwei zhu,supun samarasekera,harpreet s sawhney,taragay oskiper;ten fold improvement in visual odometry using landmark matching;4E13CA1C;45701BF3;2007
+34;5;rakesh kumar;keith hanna,yanlin guo,s samarasekara,harpreet s sawhney;annotation of video by alignment to reference imagery;4E13CA1C;47C35ECC;1999
+35;5;rakesh kumar;keith hanna,yanlin guo,s samarasekara,harpreet s sawhney;annotation of video by alignment to reference imagery;14858;47C35ECC;1999
+36;5;rakesh kumar;keith hanna,yanlin guo,s samarasekara,harpreet s sawhney;annotation of video by alignment to reference imagery;4E13CA1C;47C35ECC;1999
+37;5;rakesh kumar;hai tao,harpreet s sawhney;a sampling algorithm for tracking multiple objects;4E13CA1C;45701BF3;1999
+38;5;rakesh kumar;james r bergen,p anandan,mzchal irani;video as an image data source efficient representations and applications;01328BF3;455477A7;1995
+39;5;rakesh kumar;steve hsu,yanlin guo,supun samarasekera,harpreet s sawhney;3d manipulation of motion imagery;4E13CA1C;455477A7;2000
+40;5;rakesh kumar;keith hanna,yanlin guo,s samarasekara,harpreet s sawhney;annotation of video by alignment to reference imagery;4E13CA1C;47C35ECC;1999
+41;5;rakesh kumar;keith hanna,yanlin guo,s samarasekara,harpreet s sawhney;annotation of video by alignment to reference imagery;2101;47C35ECC;1999
+42;5;rakesh kumar;keith hanna,yanlin guo,s samarasekara,harpreet s sawhney;annotation of video by alignment to reference imagery;4E13CA1C;47C35ECC;1999
+43;5;rakesh kumar;keith hanna,steve hsu,supun samarasekera;registration of highly oblique and zoomed in aerial video to reference imagery;4E13CA1C;4372EE76;2000
+44;5;rakesh kumar;yanlin guo,cen rao,harpreet s sawhney;a heterogeneous feature based image alignment method;4E13CA1C;4372EE76;2006
+45;6;rakesh kumar;dan rubenstein,keith w ross,torsten suel,david d yao,micah adler;optimal peer selection for p2p downloading and streaming;2700;442BD7CD;2005
+46;6;rakesh kumar;keith w ross,yongjian xi,jian liang;pollution in p2p file sharing systems;7514;442BD7CD;2005
+47;6;rakesh kumar;keith w ross,yong liu;stochastic fluid theory for p2p streaming systems;19262;442BD7CD;2007
+48;1;rakesh kumar;dean m tullsen,m de vuyst;exploiting unbalanced thread scheduling for energy and performance on a cmp of smt processors;0349EE07;4708B833;2006
+49;1;rakesh kumar;dean m tullsen,matthew devuyst;exploiting unbalanced thread scheduling for energy and performance on a cmp of smt processors;0229448F;04D05F71;2006
+50;1;rakesh kumar;keith i farkas,parthasarathy ranganathan,norman p jouppi,dean m tullsen;single isa heterogeneous multi core architectures for multithreaded workload performance;0349EE07;436EE6FE;2004
+51;1;rakesh kumar;victor zyuban,dean m tullsen;interconnections in multi core architectures understanding mechanisms overheads and scaling;0349EE07;436EE6FE;2005
+52;1;rakesh kumar;anupam basu,tusar kanti patra;software energy optimization of real time preemptive tasks by minimizing cache related preemption costs;0349EE07;44BF398F;2002
+53;1;rakesh kumar;keith i farkas,parthasarathy ranganathan,dean m tullsen,norman p jouppi;single isa heterogeneous multi core architectures the potential for processor power reduction;0349EE07;4499A295;2003
+54;1;rakesh kumar;dean m tullsen,norman p jouppi;conjoined core chip multiprocessing;0229448F;4499A295;2004
+55;1;rakesh kumar;dean m tullsen;compiling for instruction cache performance on a multithreaded architecture;0349EE07;4499A295;2002
+56;1;rakesh kumar;dean m tullsen,brad calder,eric s tune;balanced multithreading increasing throughput via a low cost multithreading hierarchy;2321;4499A295;2004
+57;5;rakesh kumar;yanlin guo,sanghack jung,harprett sawhney;action video retrieval based on atomic action vocabulary;4E13CA1C;46F58A2E;2008
+58;6;rakesh kumar;john buford,greg perkins;composition trust bindings in pervasive computing service composition;14366;43AEF2F9;2006
+59;5;rakesh kumar;keith j hanna,david nister,supun samarasekera,aydin arpa,Steven C. Hsu,manoj aggarwal,harpreet s sawhney;video flashlights real time rendering of multiple videosfor immersive model visualization;13087;478D1F3B;2002
+60;5;rakesh kumar;keith hanna,yanlin guo,harpreet s sawhney,samuel zhou,sean m adkins;hybrid stereo camera an ibr approach for synthesis of very high resolution stereoscopic image sequences;4E13CA1C;4566232D;2001
+61;6;rakesh kumar;david d yao,keith w ross,dan rubenstein,amitabha bagchi;fluid modeling of pollution proliferation in p2p networks;13766;4372AEEF;2006
+62;1;rakesh kumar;dean m tullsen,jeffery a brown;proximity aware directory based coherence for multi core processor architectures;0966B229;451C38EE;2007
+63;8;rakesh kumar;satwinder jit singh,gurjeet singh,k s kahlon;translator design to model cpp files;4602;47B7ABEF;2005
+64;8;rakesh kumar;er satwinder singh,k s kahlon;translator design to model cpp files;18159;530996;2007
+65;1;rakesh kumar;dean m tullsen;the architecture of efficient multi core processors a holistic approach;3436;0AECB621;2007
+66;1;rakesh kumar;;the architecture of efficient multi core processors a holistic approach;19623;0AECB621;2007
+67;1;rakesh kumar;keith i farkas,dean m tullsen,norman p jouppi,partha ranganathan;processor power reduction via single isa heterogeneous multi core architectures;34C77BFA;010D3644;2003
+68;1;rakesh kumar;dean m tullsen,yiannakis sazeides,theofanis constantinou;the danger of interval based power efficiency metrics when worst is best;8765;010D3644;2005
+69;5;rakesh kumar;steve hsu;automated mosaics via topology inference;8191;0647F8EB;2002
+70;6;rakesh kumar;keith w ross,jian liang;the fasttrack overlay a measurement study;05DAB8C0;03C7498F;2006
+71;1;rakesh kumar;dean m tullsen,parthasarathy ranganathan,norman p jouppi;heterogeneous chip multiprocessors;0349EE07;0AAA0D31;2005
+72;5;rakesh kumar;alexandar knowles,tao zhao,supun samarasekera,manoj aggarwal,i roth,harpreet s sawhney,thomas germano;toward a sentient environment real time wide area multiple human tracking with identities;4E13CA1C;44DF880B;2008
+73;5;rakesh kumar;ying shan,martial hebert,daniel huber,bogdan matei,yi tan,harpreet s sawhney;rapid object indexing using locality sensitive hashing and joint 3d signature space estimation;4E13CA1C;0BEAEA4E;2006
+74;5;rakesh kumar;harpreet s sawhney,jane c asmuth,y guo;independent motion detection in 3d scenes;7930;45701BF3;1999
+75;5;rakesh kumar;yanlin guo,harpreet s sawhney;independent motion detection in 3d scenes;2583;45701BF3;2000
+76;5;rakesh kumar;harpreet s sawhney;true multi image alignment and its application to mosaicing and lens distortion correction;15769;45083D2F;1999
+77;5;rakesh kumar;harpreet s sawhney;true multi image alignment and its application to mosaicing and lens distortion correction;2994;45083D2F;1997
+78;5;rakesh kumar;ying shan,bogdan matei,harpreet s sawhney;shapeme histogram projection and matching for partial object recognition;4E13CA1C;0BEAEA4E;2006
+79;5;rakesh kumar;hai tao,harpreet s sawhney;object tracking with bayesian estimation of dynamic layer representations;16597;0BEAEA4E;2002
+80;5;rakesh kumar;yanlin guo,stephen hsu,harpreet s sawhney;robust object matching for persistent tracking with heterogeneous features;4E13CA1C;43D23988;2005
+81;5;rakesh kumar;ying shan,harpreet s sawhney;unsupervised learning of discriminative edge measures for vehicle matching between nonoverlapping cameras;7455;0BEAEA4E;2008
+82;1;rakesh kumar;dean m tullsen,norman p jouppi;introduction to the special issue on the 2005 workshop on design analysis and simulation of chip multiprocessors dascmp 05 ;0966B229;039952EE;2005
+83;6;rakesh kumar;david d yao,micah adler,david a turner,dan rubenstein,keith w ross;two optimal peer selection problems;1765;4372AEEF;2004
+84;5;rakesh kumar;lawrence dougherty,aaron s blom,jane c asmuth,leon axel;validation of an optical flow method for tag displacement estimation;12024;037612B1;1999
+85;9;rakesh kumar;x t chen,cher ming tan,arijit roy;effect of test condition and stress free temperature on the electromigration failure of cu dual damascene submicron interconnect line via test structures;19318;07F74989;2005
+86;9;rakesh kumar;seah chin hwee,t hara,s balakumar,grace wang;enhancement of adhesion strength of cu layer with low dielectric constant sic h liners in cu interconnects;18547;05E40B87;2005
+87;9;rakesh kumar;n j singh,moitreyee mukherjeeroy,s mehta;placement of scattering bars in binary and attenuated phase shift mask for damascene trench patterning;2791;05E40B87;2004
+88;9;rakesh kumar;sun hai qin,navab singh,moitreyee mukherjeeroy,s mehta;resist pattern peeling assessment in duv chemically amplified resist;9338;05E40B87;2004
+89;9;rakesh kumar;b ramana murthy;a method for deep etching in dielectric films for 3d chip and photonics applications;19251;05E40B87;2004
+90;1;rakesh kumar;joseph sloan;towards scalable reliability frameworks for error prone cmps;0966B229;47765112;2009
+91;1;rakesh kumar;john sartori;distributed peak power management for many core architectures;0AF5B565;463BE6FF;2009
+92;5;rakesh kumar;oleg naroditsky,zhiwei zhu,supun samarasekera,aruneema das,taragay oskiper;videotrek a vision system for a tag along robot;4E13CA1C;45083D2F;2009
+93;1;rakesh kumar;deming chen,shoaib akram;workload adaptive shared memory multicore processors with reconfigurable interconnects;0966B229;45D87245;2009
+94;1;rakesh kumar;nam duong;register multimapping a technique for reducing register bank conflicts in processors with large register files;0966B229;45D87245;2009
+95;2;rakesh kumar;naveen chilamkurti,ben soh;a comparative study of different sensors for smart car park management;0BBB6080;172915;2007
+96;0;rakesh kumar;s m dhawan;replication of biomolecular techniques for implementing intelligent systems;0A831A60;457D1A50;2008
+97;0;rakesh kumar;s m dhawan;analyzing performance of web based metrics for evaluating reliability and maintainability of hypermedia applications;0A9C10E4;457D1A50;2008
+98;4;rakesh kumar;christos a papachristou,abhijit chatterjee,elie maricau,adit d singh,jacob a abraham;panel realistic low power design let errors occur and correct them later or mitigate errors via design guardbanding and process control ;0966B229;476510B9;2009
+99;1;rakesh kumar;john sartori;low overhead high speed multi core barrier synchronization;0966B229;42CCC198;2010
+100;1;rakesh kumar;dean m tullsen,vasileios kontorinis,amirali shayan;reducing peak power with a table driven adaptive processor core;0966B229;4499A295;2009
+101;1;rakesh kumar;nicolas zea,john sartori;servo a programming model for many core computing;0AF5B565;039952EE;2008
+102;1;rakesh kumar;anupam basu,tusar kanti patra;software energy optimization of real time preemptive tasks by minimizing cache related preemption costs;0349EE07;44BF398F;2002
+103;9;rakesh kumar;lu shen,babu narayanan,kaiyang zeng,yihua wang;determination of the hardness and elastic modulus of low k thin films and their barrier layer for microelectronic applications;8987;096B53DD;2003
+104;5;rakesh kumar;keith hanna,michal irani,james r bergen,p anandan;representation of scenes from collections of images;01328BF3;45701BF3;1995

@@ -1,0 +1,58 @@
+0;0;x zhang;john cheng,gholamreza emami,vinod malhotra,donna l cornwell,larry kerschberg,alexander brodsky,i starnes,m feldhousen,christopher john long;active agile coordinator testbed integrated virtual environment;09B2D407;45A88363;2006
+1;1;x zhang;gabriel dragffy,a g pipe;repair of the genetic material in biologically inspired embryonic cell based systems;10488;44C93DEC;2004
+2;1;x zhang;gabriel dragffy,a g pipe,quan m zhu;ontogenetic cellular hardware for fault tolerant systems;4846;44C93DEC;2003
+3;2;x zhang;robert w barber,david r emerson,hans g kerkhoff;fault modelling and co simulation in flowfet based biological array systems;14365;465670BF;2006
+4;1;x zhang;quan min zhu,nigel gunton,gabriel dragffy,a g pipe;a reconfigurable self healing embryonic cell architecture;0AA43B6D;1591592;2003
+5;1;x zhang;gabriel dragffy,a g pipe,quan m zhu;partial dna supported artificial life in an embryonic array;16067;45DA1F87;2004
+6;3;x zhang;j a sharp,m f webster,philip w grant;some issues in a functional implementation of a finite element algorithm;17008;454ED2F8;1993
+7;1;x zhang;gabriel dragffy,q m zhu,a g pipe;artificial innate immune system an instant defence layer of embryonics;0AA43B6D;44B35AAB;2004
+8;4;x zhang;bernd girod,thomas wiegand;motion compensating long term memory prediction;175;455477A7;1997
+9;5;x zhang;jun zhang,hamid krim;invariant object recognition by shape space analysis;10789;455477A7;1998
+10;6;x zhang;jeremiah f hayes,mustafa k mehmet ali;a discrete time queuing analysis of the wireless atm multiplexing system;0395F208;446AF0D7;2001
+11;7;x zhang;roberto triggiani,irena lasiecka;nonconservatice schrodinger equations with unobserved neumann b c global uniqueness and observability in one shot;18721;1928112;2002
+12;3;x zhang;m f webster,philip w grant;solving computational fluid dynamics problems on unstructured grids with distributed parallel processing;025C0B1D;44BF398F;1995
+13;8;x zhang;soumik ukil,j mreinhardt,eric a hoffman,milan sonka,geoffrey mclennan,e j van beek,juerg tschirren,yang xu;pulmonary ct image analysis and computer aided detection;07874D3C;46C92457;2007
+14;9;x zhang;anthony vetro,alexander m haimovich,h chen,yun q shi,h sun;successive packing based interleaver design for turbo codes;070A58AF;471752F4;2002
+15;10;x zhang;n almey,i sinclair,stephanie greenish,michel doyon,j mcdougall,jimmy poulin,xin chen,larry lessard,s boelen,james demers,vincent hayward,b makuc,pedro gil gregorio,oliver r astley,i benguigui;freedom 7 a high fidelity seven axis haptic device with application to surgical training;19792;47831A49;1997
+16;12;x zhang;michael talmor,zvi gur,xiaojun li,jin qin,bojr huang,joseph b bernstein;deep submicron cmos integrated circuit reliability simulation with spice;03FD8454;4565183D;2005
+17;11;x zhang;zhe chen,quan m zhu;mining influential association rules;4130;43C1EF66;2002
+18;3;x zhang;michael francis webster,p w grant;parallel simulation of a multi dimensional computational fluid dynamics problem;025C0B1D;43B17EAF;1996
+19;13;x zhang;andrew chien,kenjiro taura,d jakobsen,x liu,h j song,ranjita bhagwan;the microgrid a scientific tool for modeling computational grids;0229448F;44BF398F;2000
+20;14;x zhang;danny krizanc,evangelos kranakis,leszek gąsieniec;optimal memory rendezvous of anonymous mobile agents in a unidirectional ring;08BDCA25;4744249D;2006
+21;1;x zhang;gabriel dragffy,a g pipe;bio inspired reconfigurable architecture for reliable systems;3035;023CCC5C;2003
+22;16;x zhang;kijoune li,l h cheng;stripe based wavelet transform and its coding;16261;1233323;2003
+23;15;x zhang;xin luo,fran c blumberg,chunhui su,zijiao shen;impasse driven learning in the context of video games in chinese players;01815C1D;43F5AF1B;2009
+24;18;x zhang;yahaya makarfi ibrahim,ammar kaka,emanuele trucco,timothy c lukins;towards automated progress assessment of workpackage components in construction projects using computer vision;033EFB02;06AF24C5;2009
+25;17;x zhang;yuliya prychyna,monica c sleumer,erin d pleasance,steven j m jones,misha bilenky,obi l griffith,casey m bergman,stephen b montgomery;oreganno an open access database and curation system for literature derived promoters transcription factor binding sites and regulatory variation;267;031F7D94;2006
+26;20;x zhang;h vo,m xie,jonathan simonson,daniel berleant;version augmented uris for reference permanence via an apache module design;7155;03C7498F;1998
+27;19;x zhang;albert wynn,g tanaka,charles a weatherford,daniel h gebremedhin;evaluation of the matrix exponential function using finite elements in time;15188;0B68DB42;2008
+28;22;x zhang;baba c vemuri,loc vuquoc,linghwei chen,otis r walton;efficient and accurate collision detection for granular flow simulation;4822;08311E31;1998
+29;21;x zhang;christine w chan,gordon h huang;guest editors introduction;19847;07D5A6F3;2008
+30;3;x zhang;m f webster,p w grant,j a sharp;sparse matrix representations in a functional language;025C0B1D;00BB2DB1;1996
+31;17;x zhang;monica c sleumer,w yuen,jeffry d sander,misha bilenky,y y li,kingip lin,christopher d fjell,gordon robertson,martin hassel,stephen b montgomery,w pan,mingtung chuang,richard varhol,erin d pleasance,steven j m jones,n a robertson,obi l griffith,j zhou,tamara astakhova,m dagpinar,asim siddiqui,y pan,aisheng he,hao hao,keith a teague,bo li;cisred a database system for genome scale computational discovery of regulatory elements;12145;0806DF69;2006
+32;6;x zhang;jeremiah f hayes,m mehmet ali;a performance analysis of a discrete time queueing system with server interruption for modeling wireless atm multiplexer;0395F208;02AEB332;2003
+33;5;x zhang;hamid krim,jinlong zhang,gilbert g walter;object representation and recognition in shape spaces;0298F6CF;00065366;2003
+34;3;x zhang;m f webster,p w grant,j a sharp;experiences of parallelising finite element problems in a functional style;025C0B1D;07489CC9;1995
+35;23;x zhang;byounghoon kim,manuel flury;linear mmse space time equalizer for mimo multicode cdma systems;0126039E;0BB89C05;2006
+36;25;x zhang;zhongming liu,bin he,chengzong han,steven m pogwizd;noninvasive three dimensional cardiac activation imaging from body surface potential maps a computational and experimental study on a rabbit model;5567;037612B1;2008
+37;24;x zhang;brian rodrigues,andrew lim;a simulated annealing and hill climbing algorithm for the traveling tournament problem;0BF77E37;06289060;2006
+38;24;x zhang;brian rodrigues,andrew lim;scheduling sports competitions at multiple venues revisited;0BF77E37;06289060;2006
+39;28;x zhang;changping zhang,hong ming gao;global asymptotic stabilization of feedforward nonlinear systems with a delay in the input;092F5EFF;07BA2985;2006
+40;29;x zhang;zhenlan cheng;global stabilization of a class of time delay nonlinear systems;4998;07BA2985;2005
+41;13;x zhang;yuexian hou,peng zhang,xingxing xu,wenjie li;nonlinear dimensionality reduction by locally linear inlaying;09B52E07;02821AB5;2009
+42;27;x zhang;mrinal k sen,paul l stoffa,umit v catalyurek,tahsin kurc,benjamin rutt,joel saltz;supporting scalable and distributed data subsetting and aggregation in large scale seismic data analysis;5449;44BF398F;2006
+43;32;x zhang;y t lee,siuchung wong,michal opas,y q guan,z w xiong,y y cai;application of virtual reality in volumetric cellular visualization;0B0ADEB6;45563292;2004
+44;29;x zhang;ke wang,zhijun cheng,t zhong;scaling of impervious surface area and vegetation as indicators to urban land surface temperature using satellite data;0489A984;06FF8E18;2009
+45;30;x zhang;;some intersection theorems and minimax inequalities;14717;03200830;1997
+46;13;x zhang;yunfu li;the application of artificial neural networks in editing noisy seismic data;17096;42F0CC9A;1994
+47;24;x zhang;c j su,benjamin p c yen;an internet based virtual exhibition system conceptual design and infrastructure;2113;0BBB40EA;1998
+48;33;x zhang;alexandra c nica,a van wyk,youngil lee,amy j lee,elke a rundensteiner,andreas koeller;evolvable view environment eve non equivalent view maintenance under schema changes;0661DECB;460A7036;1999
+49;22;x zhang;loc vuquoc,lee lesburg;an accurate tangential force displacement model for granular flow simulations contacting spheres with plastic deformation force driven formulation;01FACAD8;08DD21F7;2004
+50;35;x zhang;;exact controllability of semilinear evolution systems and its application;3157;03200830;2000
+51;13;x zhang;kenjiro taura,andrew chien,d jakobsen,x liu,h j song,ranjita bhagwan;the microgrid a scientific tool for modeling computational gridsr;10430;58241;2000
+52;12;x zhang;philippe burlina,rama chellappa,q zheng;automatic image to site model registration;03FD8454;42D493FC;1996
+53;39;x zhang;david l waltz,jill p mesirov;protein structure prediction by a data level parallel algorithm;006952C5;44BF398F;1989
+54;38;x zhang;lawrence t pillage,ronald a rohrer;efficient final placement based on nets as points;0477FFD3;46CDFBC4;1989
+55;37;x zhang;i e mccarthy;distorted wave born approximation for the ionisation of hydrogen by electrons;19674;06096BE5;1990
+56;13;x zhang;chang de yan,x liu,l shen,yamin li;a high accuracy printed traditional and simplified chinese character document recognition system;16978;448D1E7E;1995
+57;2;x zhang;frederick mailly,andrew richardson,hans g kerkhoff,pascal nouet,hui liu;a dependable microelectronic peptide synthesizer using electrode data;6736;04D86A94;2008

@@ -1,0 +1,19 @@
+0;0;lei fang;chuanqin zhang;the e logistics framework in e commerce;0C3BAC1F;4565F956;2005
+1;1;lei fang;michael s hsiao;a new hybrid solution to boost sat solver performance;3333E44B;463BE6FF;2007
+2;1;lei fang;michael s hsiao;a fast approximation algorithm for min one sat;3333E44B;463BE6FF;2008
+3;1;lei fang;michael s hsiao;bilateral testing of nano scale fault tolerant circuits;3333E44B;45C56EDC;2006
+4;1;lei fang;michael s hsiao;bilateral testing of nano scale fault tolerant circuits;3333E44B;45C56EDC;2008
+5;1;lei fang;maheshwar chandrasekar,michael s hsiao,mainak banga;guided test generation for isolation and detection of embedded trojans in ics;3333E44B;434A76CE;2008
+6;2;lei fang;chen pan,yi fang,li liu;fast training of svm via morphological clustering for color image segmentation;05364FE4;439B9AD2;2005
+7;3;lei fang;haoxun chen,peter b luh;a time window based approach for job shop scheduling;2645;455FBCE1;2001
+8;4;lei fang;wenliang du,peng ning;a beacon less location discovery scheme for wireless sensor networks;043B1E1B;442BD7CD;2005
+9;5;lei fang;qing cao,sang son,tian he,john a stankovic,tarek abdelzaher;efficiency centric communication model for wireless sensor networks;10256;442BD7CD;2006
+10;4;lei fang;wenliang du,peng ning;lad localization anomaly detection forwireless sensor networks;12721;4708B833;2005
+11;5;lei fang;anthony d wood,tian he,john a stankovic;sigf a family of configurable secure routing protocols for wireless sensor networks;0312B01D;43498F7E;2006
+12;1;lei fang;k balakrishnan;rtl test point insertion to reduce delay test volume;12182;4300CAC5;2007
+13;4;lei fang;wenliang du,peng ning;lad localization anomaly detection for wireless sensor networks;3333E44B;095DDDE1;2006
+14;5;lei fang;gilles virone,leo selavo,alan wood,radu stoleru,john a stankovic,qiuhua cao,zhimin he,t doan,yafeng wu;context aware wireless sensor networks for assisted living and residential monitoring;0312B01D;0B1F0EDA;2008
+15;1;lei fang;michael s hsiao;bilateral testing of nano scale fault tolerant circuits;3333E44B;45C56EDC;2006
+16;1;lei fang;michael s hsiao;bilateral testing of nano scale fault tolerant circuits;3333E44B;45C56EDC;2008
+17;6;lei fang;jiaquan gao;a novel artificial immune system for multiobjective optimization problems;03521AEC;4539ED1E;2009
+18;6;lei fang;zhimin fang,jiaquan gao;effects of similarity based selection on wbmoia a weight based multiobjective immune algorithm;03521AEC;44C93DEC;2009

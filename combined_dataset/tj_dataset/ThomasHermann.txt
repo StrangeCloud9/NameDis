@@ -1,0 +1,46 @@
+0;1;thomas hermann;davide rocchesso,frauke behrendt,karmen franinovic,nicola bernardini,roberto bresin,gerhard eckel,patrick susini,sandra pauletto,yon visell;sonic interaction design sound information and experience;3038;4558D729;2008
+1;1;thomas hermann;davide rocchesso,stefania serafin,frauke behrendt,karmen franinovic,nicola bernardini,roberto bresin,gerhard eckel,patrick susini,sandra pauletto,yon visell;sonic interaction design sound information and experience;004CA7A3;4558D729;2008
+2;3;thomas hermann;;mensch computer interaktion vorstellungen der benutzer;19887;437C7B15;1983
+3;3;thomas hermann;thomas herrmann;grenzen der software ergonomie bei betrieblichen isdn anlagen;12126;732789;1988
+4;1;thomas hermann;thomas henning,helge ritter;gesture desk an integrated multi modal gestural workplace for sonification;0133076F;45C028EA;2003
+5;1;thomas hermann;helge ritter,oliver honer;acoumotion an interactive sonification system for acoustic motion control;0133076F;45C028EA;2005
+6;1;thomas hermann;helge ritter,oliver honer;acoumotion an interactive sonification system for acoustic motion control;2760;45C028EA;2006
+7;1;thomas hermann;claudia nolker,helge ritter;hand postures for sonification control;0133076F;45C028EA;2001
+8;1;thomas hermann;claudia nolker,helge ritter;hand postures for sonification control;11741;45C028EA;2002
+9;1;thomas hermann;helge ritter,stella paschalidou,dirk beckmann;gestural interactions for multi parameter audio control and audification;0133076F;45C028EA;2005
+10;1;thomas hermann;helge ritter,stella paschalidou,dirk beckmann;gestural interactions for multi parameter audio control and audification;17951;45C028EA;2006
+11;1;thomas hermann;helge ritter,christian lange;holistic body tracking for gestural interfaces;0133076F;1065773;2004
+12;1;thomas hermann;gerold baier;the sonification of rhythms in human electroencephalogram;9903;4411B4B8;2004
+13;1;thomas hermann;markus muller,gerold baier;polyrhythm in the human brain;19489;4411B4B8;2004
+14;1;thomas hermann;a j hunt;the importance of interaction in sonification;17382;4411B4B8;2004
+15;6;thomas hermann;gabor renner;subdivision of n sided regions into four sided patches;2024;1875827;1988
+16;7;thomas hermann;tamas varady;best fit surface curvature at vertices of topologically irregular curve networks;15196;121218;1994
+17;1;thomas hermann;markus muller,gerold baier;polyrhythmic organization of coupled nonlinear oscillators;10892;43613D12;2005
+18;1;thomas hermann;helge ritter;neural gas sonification growing adaptive interfaces for interacting with data;0133076F;4472F8CF;2004
+19;1;thomas hermann;a j hunt,sandra pauletto;interacting with sonification systems closing the loop;0B78A521;4472F8CF;2004
+20;2;thomas hermann;biljana cubaleska,andreas rieke;improving and extending the lim lee exponentiation algorithm;5142;1106224;1999
+21;1;thomas hermann;risto koiva;tactilesfor ambient intelligence and interactive sonification;17110;1019185;2008
+22;5;thomas hermann;katharina just;experts systems instead of expert systems;2730;08AB5321;1995
+23;6;thomas hermann;gabor renner;nurbs for curve and surface design g farin ed siam 1991 161 pp isbn 0 89871 286 6;16047;0109D5ED;1993
+24;6;thomas hermann;gabor lukacs,Franz-Erich Wolter;geometrical criteria on the higher order smoothness of composite surfaces;12783;080F5173;1999
+25;6;thomas hermann;gabor renner;note on the rgb patch concept;19153;080F5173;1992
+26;6;thomas hermann;;degree elevation for generalized poisson functions;19340;080F5173;2002
+27;6;thomas hermann;;on a tolerance problem of parametric curves and surfaces;6041;080F5173;1992
+28;6;thomas hermann;;on the smoothness of offset surfaces;9882;080F5173;1998
+29;6;thomas hermann;;on the derivatives of second and third degree rational bezier curves;15012;080F5173;1999
+30;6;thomas hermann;gabor lukacs;on higher order derivatives of blending functions;7338;080F5173;2000
+31;6;thomas hermann;gabor lukacs;a new insight into the gn continuity of polynomial surfaces;3452;080F5173;1996
+32;6;thomas hermann;gabor lukacs;proof of the nonintersection conjecture of hoffmann and peters;6562;080F5173;1998
+33;1;thomas hermann;holger bekel,horst m muller,sholom m weiss,h g ritter,peter meinicke;identification of discriminative features in the eeg;19513;4799A10B;2004
+34;1;thomas hermann;andrew j hunt;guest editors introduction an introduction to interactive sonification;0133076F;0457F6F5;2005
+35;4;thomas hermann;armin b cremers;das verbundprojekt veranderungen der wissensproduktion und verteilung durch expertensysteme ;6582;1281226;1990
+36;0;thomas hermann;augustine e souza,h ulrich goringer;the guide rna database;08EF476D;0806DF69;1997
+37;1;thomas hermann;helge ritter;crystallization sonification of high dimensional datasets;6461;4411B4B8;2002
+38;1;thomas hermann;helge ritter;crystallization sonification of high dimensional datasets;0133076F;43570143;2005
+39;1;thomas hermann;helge ritter;model based sonification revisited authors comments on hermann and ritter icad 2002;0133076F;43570143;2005
+40;1;thomas hermann;angelika dierker,marc hanheide,gerhard sagerer,christian mertes;mediated attention with multimodal augmented reality;0133076F;4372B502;2009
+41;1;thomas hermann;tobias grosshauser;augmented haptics an interactive feedback system for musicians;0133076F;1409300;2009
+42;6;thomas hermann;gabor renner;note on the rbg patch concept;3315;080F5173;1992
+43;6;thomas hermann;gabor lukacs,franzerich wolter;geometric criteria on the higher order smoothness of composite surfaces;19711;080F5173;1999
+44;1;thomas hermann;risto koiva;tactiles for ambient intelligence and interactive sonification;0133076F;8821;2008
+45;1;thomas hermann;tobias grosshauser;augmented haptics an interactive feedback system for musicians;0133076F;885297;2009

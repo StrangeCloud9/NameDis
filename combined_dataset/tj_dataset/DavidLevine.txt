@@ -1,0 +1,52 @@
+0;0;david levine;tuomas sandholm,subhash suri,andrew gilpin;winner determination in combinatorial auction generalizations;0477FFD3;45A88363;2002
+1;1;david levine;w he,leonidas fegaras;indexing and searching xml documents based on content and structure synopses;0B46E8A6;455D09BB;2007
+2;1;david levine;nirmal ranganathan,cedric feschotte;cluster and grid based classification of transposable elements in eukaryotic genomes;16245;4651456C;2006
+3;1;david levine;vamsi chaluvadi,sujoe bose,leonidas fegaras;query processing of streamed xml data;0B46E8A6;472C6E2D;2002
+4;1;david levine;gautam das,w he,leonidas fegaras;xml query routing in structured p2p systems;0B46E8A6;42FD7C2C;2005
+5;1;david levine;vamsi chaluvadi,sujoe bose,leonidas fegaras;a query algebra for fragmented xml stream data;0B46E8A6;470F8BDC;2003
+6;1;david levine;w he,leonidas fegaras;locating and ranking xml documents based on content and structure synopses;0B46E8A6;47169EC5;2007
+7;4;david levine;mark bernstein,michael joyce;contours of constructive hypertexts;2713;43ABF249;1992
+8;1;david levine;tummalapalli sudhamsh reddy,nirmal ranganathan,farhad a kamangar;optimizing grid scheduling based on local cluster scheduling policies and resource availability;14509;46405877;2006
+9;1;david levine;ramesh yerraballi,farhad a kamangar,sunil pai;a multimedia application using mobile agents for establishing and managing streaming audio communications;16980;1353157;2001
+10;0;david levine;tuomas sandholm,subhash suri,andrew gilpin;cabob a fast optimal algorithm for combinatorial auctions;19214;47C39427;2001
+11;8;david levine;tho lengoc,william e lynch;iterative joint source channel decoding of h 264 compressed video;0395F208;471752F4;2007
+12;8;david levine;tho lengoc,william e lynch;iterative joint source channel decoding of h 264 compressed video;0395F208;471752F4;2010
+13;1;david levine;vijay murthi,behrooz shirazi,jeff marquis;a tool based methodology for development of automatically scalable and reusable parallel code;6361;465EF934;2002
+14;11;david levine;libby bishop;computer mediated communication as employee voice the profit sharing plan;9593;463369F3;1993
+15;12;david levine;freeman l rawson,rajarshi das,jeffrey o kephart,hoi chan,charles r lefurgy,gerald tesauro;managing power consumption and performance of computing systems using reinforcement learning;4FF45383;43319DD4;2008
+16;1;david levine;gergely v zaruba,farhad a kamangar,navakiran chitturi;distributed network monitoring using mobile agents paradigm;0B46E8A6;474BD8D0;2003
+17;1;david levine;shashi kanth lakshmikantha,farhad a kamangar;quality of service primitives for operating system support of multimedia applications;14366;474BD8D0;2002
+18;1;david levine;vamsi k putrevu,farhad a kamangar;interoperability issues for a secure mobile agent platform;15515;474BD8D0;2003
+19;1;david levine;renjith thomas,gergely v zaruba,farhad a kamangar;mobile agents for pervasive computing using a novel method of message passing;0B46E8A6;474BD8D0;2003
+20;1;david levine;vijay murthi,jeff marquis,farhad a kamangar;performance analysis and scalability of the threadmantm thread manager;6906;474BD8D0;2002
+21;1;david levine;gergely v zaruba,kumaran sambandan;on the reliability and additional overhead of reliable on demand multicast routing protocol for mobile ad hoc networks;0B46E8A6;474BD8D0;2004
+22;1;david levine;gergely v zaruba;accelerated neighbor discovery in bluetooth based personal area networks;6973;474BD8D0;2002
+23;13;david levine;kimmo forsman,william gropp,lauri kettunen;computational electromagnetics and parallel dense matrix computations;4C6B6145;474677D8;1995
+24;13;david levine;n galbreath,william gropp,d l gunter,gary k leaf;parallel solution of the three dimensional time dependent ginzburg landau equation;1157;474677D8;1996
+25;13;david levine;marc garbey;massively parallel computation of conservation laws;18260;474677D8;1990
+26;13;david levine;marc garbey;massively parallel computation of conservation laws;15982;474677D8;1989
+27;13;david levine;n galbreath,william gropp;applications driven parallel i o;4C6B6145;44BF398F;1993
+28;15;david levine;owen astrachan,john barr,stuart hirshfield,mark mcginn,karen donnelly;object oriented programming abstract how to scale up cs 1;0A7F477C;4306948C;1994
+29;14;david levine;donald h house;the art and science of computer graphics a very depth first approach to the non majors course;0A7F477C;4306948C;1994
+30;16;david levine;kerr thompson;accomplishing more by doing less lessons from spanish language instruction;2351;45C7663C;2000
+31;1;david levine;anthony okorodudu,leonidas fegaras;a scalable and self adapting notification framework for healthcare information systems;0B46E8A6;47050C03;2008
+32;13;david levine;kimmo forsman,william gropp,lauri kettunen;parallel computation of three dimensional nonlinear magnetostatic problems;4C6B6145;00A8D870;1999
+33;17;david levine;;application of a hybrid genetic algorithm to airline crew scheduling;6739;0A53AE4E;1996
+34;2;david levine;;genetic algorithms a practitioner s view;14557;09DA8F85;1997
+35;13;david levine;marc garbey;massively parallel computation of conservation laws;4963;474677D8;1990
+36;13;david levine;marc garbey;massively parallel computation of conservation laws;556;474677D8;1989
+37;2;david levine;eric dillon,g david kerlick,joseph w manke,subhankar banerjee;parallel performance of two applications in the boeing high performance computing benchmark suite;14916;474677D8;2001
+38;1;david levine;renjith thomas,gergely v zaruba,farhad a kamangar;mobile agent connection establishment and management cema message exchange for pervasive computing environments;0B46E8A6;01ED449B;2005
+39;3;david levine;john a gregory,nira dyn;a butterfly subdivision scheme for surface interpolation with tension control;00FA1C18;0B0C7BA0;1990
+40;2;david levine;david kerlick,eric dillon;performance testing of a parallel multiblock cfd solver;6245;44BF398F;2001
+41;0;david levine;paul martyn,james j jacobs,dennis begg,r h hughes,tuomas sandholm,michael concordia;changing the game in strategic sourcing at procter gamble expressive competition enabled by optimization;04738A41;085F2CE9;2006
+42;1;david levine;t thor;an auction mechanism for grid scheduling and resource allocation in the context of atlas;3210;335623;2009
+43;6;david levine;benjamin n grosof,gene tsudik,colin g harrison,david m chess,christie parris;itinerant agents for mobile computing;19003;002A9F65;1995
+44;6;david levine;benjamin n grosof,gene tsudik,colin parris,david m chess,colin g harrison;itinerant agents for mobile computing;15761;01697376;1997
+45;6;david levine;benjamin n grosof,gene tsudik,colin parris,colin g harrison,david m chess;itinerant agents for mobile computing;14131;01697376;2000
+46;7;david levine;mark wirt,barry whitebook;practical grid computing for massively multiplayer games;19037;46405877;2003
+47;4;david levine;mark bernstein,michael joyce;contours of constructive hypertexts;10413;43ABF249;1992
+48;16;david levine;frank ford,aaron garth enright,linda wilkens,scott mcelfresh,ralph bravaco,mary ann robert;tending our fields hiring and retaining faculty in small colleges computing programs panel session ;011078C5;03583712;2001
+49;1;david levine;sajal k das,mohan kumar,behrooz shirazi,mukesh singhal,byung y sung;pico a middleware framework for pervasive computing;8657;0171209C;2003
+50;9;david levine;;live java database to cyberspace;17867;155967;1996
+51;10;david levine;;fortran language extensions;18716;0B8250EA;1994

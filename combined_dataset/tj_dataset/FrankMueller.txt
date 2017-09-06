@@ -1,0 +1,111 @@
+0;0;frank mueller;;supporting ada 95 passive partitions in a distributed environment;02585490;47987D60;1997
+1;0;frank mueller;david whalley;fast instruction cache analysis via static cache simulation;0626251D;450B99F2;1995
+2;0;frank mueller;ramnath venugopalan,prasanth ganesan,pushkin peddabachagari,alexander g dean,mihail l sichitiu;encryption overhead in embedded systems and sensor network nodes modeling and analysis;083839C7;47765112;2003
+3;0;frank mueller;b r de supinski,sally a mckee,andy yoo,jaydeep marathe,t s mohan;metric tracking down inefficiencies in the memory hierarchy via binary rewriting;083839C7;43555C32;2003
+4;0;frank mueller;sebastian unger;handling irreducible loops optimized node splitting vs dj graphs;083839C7;4556024C;2001
+5;0;frank mueller;claus wagner;token based read write locks for distributed mutual exclusion;02585490;4556024C;2000
+6;0;frank mueller;nirmit desai;scalable distributed concurrency services for hierarchical locking;083839C7;4789F291;2003
+7;0;frank mueller;zhe zhang,xiaosong ma,chao wang,sudharshan s vazhkudai;on the fly recovery of job input data in supercomputers;083839C7;44E5A1B2;2008
+8;0;frank mueller;jaydeep marathe,bronis de supinski;a hybrid hardware software approach to efficiently determine cache coherence bottlenecks;083839C7;43C08A77;2005
+9;0;frank mueller;jaydeep marathe,anita nagarajan;detailed cache coherence characterization for openmp benchmarks;083839C7;43C08A77;2004
+10;0;frank mueller;stephen l scott,chao wang,jyothish varma,christian engelmann;scalable fault tolerant membership for mpi tasks on hpc systems;083839C7;43C08A77;2006
+11;0;frank mueller;stephen l scott,arun b nagarajan,christian engelmann;proactive fault tolerance for hpc with xen virtualization;083839C7;43C08A77;2007
+12;0;frank mueller;martin schulz,prasun ratn,bronis r de supinski;preserving time in large scale communication traces;083839C7;43C08A77;2008
+13;0;frank mueller;n r desai;a log n multi mode locking protocol for distributed systems;083839C7;4708B833;2003
+14;0;frank mueller;;fault tolerance for token based synchronization protocols;02585490;4708B833;2001
+15;0;frank mueller;;timing analysis in search of multiple paradigms;18429;4708B833;2004
+16;0;frank mueller;;prioritized token based mutual exclusion for distributed systems;02585490;474677D8;1998
+17;0;frank mueller;;prioritized token based mutual exclusion for distributed systems;02585490;474677D8;1997
+18;0;frank mueller;;adaptive dsm behavior via speculative data distribution;8062;45B9D64F;1999
+19;0;frank mueller;alexander schlaefer,jorg nolte;clix a hybrid programming environment for distributed objects and distributed shared memory;02585490;4708B833;2000
+20;0;frank mueller;jeffrey s vetter;communication characteristics of large scale scientific applications for contemporary cluster architectures;8019;4708B833;2002
+21;0;frank mueller;jeffrey s vetter;communication characteristics of large scale scientific applications for contemporary cluster architectures;16490;4708B833;2001
+22;0;frank mueller;jeffrey s vetter;communication characteristics of large scale scientific applications for contemporary cluster architectures;083839C7;4708B833;2003
+23;0;frank mueller;b r de supinski,michael noeth,m k schulz;scalable compression and replay of communication traces in massively p arallel e nvironments;083839C7;4708B833;2007
+24;0;frank mueller;stephen l scott,chao wang,christian engelmann;a job pause service under lam mpi blcr for transparent fault tolerance;083839C7;4708B833;2007
+25;0;frank mueller;eric rotenberg,kiran seth,k v patil,aravindh anantaraman;virtual simple architecture visa exceeding the complexity limit in safe real time systems;14236;436EE6FE;2003
+26;0;frank mueller;daniel schulz;a thread aware debugger with an open interface;02585490;430D9705;2000
+27;0;frank mueller;nirmit desai;a brief overview of scalable distributed concurrency services for hierarchical locking;083839C7;00A8D870;2002
+28;0;frank mueller;;compiler support for software based cache partitioning;02585490;4373F5A0;1995
+29;0;frank mueller;yifan zhu,ajay dudani;energy conserving feedback edf scheduling for embedded systems with real time constraints;083839C7;4373F5A0;2002
+30;0;frank mueller;kiran seth,k v patil;compositional static instruction cache simulation;083839C7;4373F5A0;2004
+31;0;frank mueller;yifan zhu;dvsleak combining leakage reduction and voltage scaling in feedback edf scheduling;083839C7;4373F5A0;2007
+32;0;frank mueller;joel coffman,christopher healy,david whalley;generalizing parametric timing analysis;083839C7;4373F5A0;2007
+33;0;frank mueller;emilio vivancos,christopher healy,david whalley;parametric timing analysis;4C6E8511;4373F5A0;2001
+34;0;frank mueller;yifan zhu;feedback edf scheduling exploiting hardware assisted asynchronous dynamic voltage scaling;083839C7;4373F5A0;2005
+35;2;frank mueller;antony l hosking;penumbra an eclipse plugin for introductory programming;0D109F83;46804BBA;2003
+36;2;frank mueller;antony l hosking;penumbra an eclipse plugin for introductory programming;0D109F83;43DFAE0A;2003
+37;0;frank mueller;;on the design and implementation of dsm threads;3826;474BD8D0;1997
+38;0;frank mueller;marion g harmon,david whalley;real time debugging by minimal hardware simulation;0626251D;198195;1994
+39;0;frank mueller;david whalley;avoiding unconditional jumps by code replication;18686;4332078E;1992
+40;0;frank mueller;david whalley;avoiding conditional branches by code replication;02585490;4332078E;1995
+41;0;frank mueller;jaydeep marathe;hardware profile guided automatic page placement for ccnuma systems;083839C7;44616FF1;2006
+42;0;frank mueller;george ostrouchov,chao wang,stephen l scott,thomas naughton,geoffroy vallee,arun b nagarajan,nichamon naksinehaboon,chokchai leangsuksun,mihaela paun,raja nassar,christian engelmann,jyothish varma,anand tikotekar;a tunable holistic resiliency approach for high performance computing systems;083839C7;44616FF1;2009
+43;0;frank mueller;sibin mohan,christopher healy,david whalley;timing analysis for sensor network nodes of the atmega processor family;083839C7;46FBD930;2005
+44;0;frank mueller;joachim wegener;a comparison of static analysis and evolutionary testing for the verification of timing constraints;02585490;46FBD930;1998
+45;0;frank mueller;joachim wegener;a comparison of static analysis and evolutionary testing for the verification of timing constraints;083839C7;0AF5DEFE;2001
+46;0;frank mueller;harini ramaprasad;bounding worst case data cache behavior by analytically deriving cache reference patterns;083839C7;46FBD930;2005
+47;0;frank mueller;harini ramaprasad;bounding preemption delay within data cache reference patterns for real time tasks;1712;46FBD930;2006
+48;0;frank mueller;marion g harmon,randall t white,christopher healy,david whalley;timing analysis for data caches and set associative caches;11306;46FBD930;1997
+49;0;frank mueller;william kreahling,wankang zhao,christopher healy,david whalley;improving wcet by optimizing worst case paths;19411;46FBD930;2005
+50;0;frank mueller;christopher a healy,wankang zhao,prasad a kulkarni,David B. Whalley,Gang-Ryung Uh;tuning the wcet of embedded applications;18946;46FBD930;2004
+51;0;frank mueller;yifan zhu;feedback edf scheduling exploiting dynamic voltage scaling;083839C7;46FBD930;2004
+52;0;frank mueller;harini ramaprasad;bounding worst case response time for tasks with non preemptive regions;083839C7;46FBD930;2008
+53;0;frank mueller;sibin mohan;hybrid timing analysis of modern processor pipelines via hardware software interactions;083839C7;46FBD930;2008
+54;0;frank mueller;eric rotenberg,kiran seth,aravindh anantaraman;enforcing safety of real time schedules on contemporary processors using a virtual simple architecture visa ;14109;4306EF42;2004
+55;0;frank mueller;mueller,whalley,arnold,harmon;bounding worst case instruction cache performance;15036;4306EF42;1994
+56;0;frank mueller;sibin mohan,michael root,william g hawkins,christopher healy,david whalley;parascale exploiting parametric timing analysis for real time schedulers and dynamic voltage scaling;083839C7;4306EF42;2005
+57;0;frank mueller;viresh rustagi,theodore p baker;mithos a real time micro kernel threads operating system;02585490;4306EF42;1995
+58;0;frank mueller;eric rotenberg,kiran seth,aravindh anantaraman;fast frequency aware static timing analysis;083839C7;4306EF42;2003
+59;0;frank mueller;kiran seth,eric rotenberg,aravindh anantaraman;fast frequency aware static timing analysis;083839C7;4306EF42;2006
+60;0;frank mueller;harini ramaprasad;tightening the bounds on feasible preemption points;083839C7;4306EF42;2006
+61;0;frank mueller;wankang zhao,christopher healy,david whalley;wcet code positioning;6367;4306EF42;2004
+62;0;frank mueller;david whalley;efficient on the fly analysis of program behavior and static cache simulation;0626251D;43CDABDA;1994
+63;0;frank mueller;sally a mckee,andy yoo,martin schulz,bronis r de supinski,t s mohan;identifying and exploiting spatial regularity in data memory references;19364;44BF398F;2003
+64;0;frank mueller;xiaosong ma,leo t yang;cross platform performance prediction of parallel applications using partial execution;11690;44BF398F;2005
+65;0;frank mueller;martin schulz,michael noeth,jaydeep marathe,bronis r de supinski;poster reception scalable compression and replay of communication traces in massively parallel environments;5334;44BF398F;2006
+66;0;frank mueller;zhe zhang,chao wang,john w cobb,gregory g pike,xiaosong ma,sudharshan s vazhkudai;optimizing center performance through coordinated data staging scheduling and recovery;083839C7;44BF398F;2007
+67;0;frank mueller;stephen l scott,chao wang,christian engelmann;proactive process level live migration in hpc environments;083839C7;44BF398F;2008
+68;0;frank mueller;e w giering,theodore p baker;implementing ada 9x features using posix threads design issues;0626251D;47987D60;1993
+69;0;frank mueller;e w giering,theodore p baker;features of the gnu ada runtime library;0626251D;45FFFB88;1994
+70;0;frank mueller;dragan macos;the rendezvous is dead long live the protected object;02585490;47987D60;1998
+71;0;frank mueller;;a library implementation of posix threads under unix;4246;4402B9E5;1993
+72;0;frank mueller;;2006 wcet preface proceedings of the 6th intl workshop on worst case execution time analysis wcet 06 ;19686;4458CAA8;2006
+73;0;frank mueller;;2006 wcet abstracts collection 6th intl workshop on worst case execution time wcet analysis;3705;4458CAA8;2006
+74;0;frank mueller;ramnath venugopalan,prasanth ganesan,pushkin peddabachagari,alexander g dean,mihail l sichitiu;analyzing and modeling encryption overhead for sensor network nodes;083839C7;42F4F2CC;2003
+75;1;frank mueller;daniel j muller,dirk labudde;analysis assistant for single molecule force spectroscopy data on membrane proteins mptv;3260;031F7D94;2006
+76;0;frank mueller;thomas roblitz,oliver buhn;legosim simulation of embedded kernels over pthreads;083839C7;0517EA0C;2002
+77;0;frank mueller;nirmit desai;scalable hierarchical locking for distributed systems;083839C7;095DDDE1;2004
+78;0;frank mueller;jeffrey s vetter;communication characteristics of large scale scientific applications for contemporary cluster architectures;7994;4708B833;2002
+79;0;frank mueller;jeffrey s vetter;communication characteristics of large scale scientific applications for contemporary cluster architectures;13434;4708B833;2001
+80;0;frank mueller;jeffrey s vetter;communication characteristics of large scale scientific applications for contemporary cluster architectures;083839C7;4708B833;2003
+81;0;frank mueller;joachim wegener;a comparison of static analysis and evolutionary testing for the verification of timing constraints;02585490;46FBD930;1998
+82;0;frank mueller;joachim wegener;a comparison of static analysis and evolutionary testing for the verification of timing constraints;083839C7;0AF5DEFE;2001
+83;0;frank mueller;marion g harmon,randall t white,christopher healy,david whalley;timing analysis for data and wrap around fill caches;02585490;0AF5DEFE;1999
+84;0;frank mueller;yifan zhu;feedback edf scheduling of real time tasks exploiting dynamic voltage scaling;083839C7;0AF5DEFE;2005
+85;0;frank mueller;william kreahling,wankang zhao,christopher healy,david whalley;improving wcet by applying worst case path optimizations;083839C7;0AF5DEFE;2006
+86;0;frank mueller;p sadayappan,stephen l scott,narasimha raju gottumukkala,chao wang,aniruddha g shet,chokchai leangsuksun,david e bernholdt,jyothish varma,christian engelmann;molar adaptive runtime support for high end computing operating and runtime systems;083839C7;02FC069B;2006
+87;0;frank mueller;;the 3rd acm sigplan workshop on languages compilers and tools for real time systems workshop report ;278;08D7401B;1997
+88;0;frank mueller;wankang zhao,christopher healy,david whalley;improving wcet by applying a wc code positioning optimization;083839C7;018D9825;2005
+89;0;frank mueller;jaydeep marathe,bronis r de supinski;analysis of cache coherence bottlenecks with hybrid hardware software techniques;083839C7;018D9825;2006
+90;0;frank mueller;marion g harmon,robert arnold,christopher healy,david whalley;bounding pipeline and instruction cache performance;8115;0965DDD6;1999
+91;0;frank mueller;eric rotenberg,kiran seth,aravindh anantaraman;fast frequency aware static timing analysis;083839C7;4306EF42;2003
+92;0;frank mueller;kiran seth,eric rotenberg,aravindh anantaraman;fast frequency aware static timing analysis;083839C7;4306EF42;2006
+93;0;frank mueller;per stenstrom;introduction to the special issue;12162;081DA4C2;2005
+94;0;frank mueller;yifan zhu;exploiting synchronous and asynchronous dvs for feedback edf scheduling on an embedded platform;083839C7;081DA4C2;2007
+95;0;frank mueller;guillem bernat,niklas holsti,reinhold heckmann,jan staschulat,isabelle puaut,christian ferdinand,jakob engblom,peter puschner,stephan thesing,reinhard wilhelm,per stenstrom,t k mitra,andreas ermedahl,david whalley;the worst case execution time problem overview of methods and survey of tools;05776AD7;081DA4C2;2008
+96;0;frank mueller;sebastian unger;handling irreducible loops optimized node splitting versus dj graphs;083839C7;027877C6;2002
+97;0;frank mueller;sally a mckee,andy yoo,jaydeep marathe,bronis r de supinski,t s mohan;metric memory tracing via dynamic binary rewriting to identify cache inefficiencies;083839C7;027877C6;2007
+98;0;frank mueller;jaydeep marathe;source code correlated cache coherence characterization of openmp benchmarks;083839C7;05CA192B;2007
+99;0;frank mueller;sibin mohan,harini ramaprasad,abhik sarkar;push assisted migration of real time tasks in multi core processors;083839C7;4373F5A0;2009
+100;0;frank mueller;zhe zhang,xiaosong ma,chao wang,sudharshan s vazhkudai;improving the availability of supercomputer job input data using temporal replication;083839C7;0151AFA6;2009
+101;0;frank mueller;yuan xie,tao zhang,jin ouyang,raghuveer raghavendra,s mohan;checkercore enhancing an fpga soft core to capture worst case execution times;083839C7;47765112;2009
+102;0;frank mueller;harini ramaprasad;bounding worst case response times of tasks under pip;10695;46FBD930;2009
+103;0;frank mueller;sibin mohan;merging state and preserving timing anomalies in pipelines of high end processors;083839C7;4306EF42;2008
+104;0;frank mueller;prasun ratn,martin schulz,michael noeth,bronis r de supinski;scalatrace scalable compression and replay of communication traces for high performance computing;083839C7;095DDDE1;2009
+105;0;frank mueller;jaydeep marathe;pfetch software prefetching exploiting temporal predictability of memory access streams;083839C7;11528;2008
+106;0;frank mueller;dragan macos;the rendezvous is dead long live the protected object;02585490;47987D60;1998
+107;0;frank mueller;harini ramaprasad;analytically bounding data cache behavior for real time systems;3399;1695555;2008
+108;0;frank mueller;sibin mohan;exploiting hardware software interactions for analyzing embedded systems;083839C7;588209;2008
+109;1;frank mueller;daniel j muller,dirk labudde;analysis assistant for single molecule force spectroscopy data on membrane proteins mptv;17892;031F7D94;2006
+110;0;frank mueller;;static cache simulation and its applications;0626251D;1613162;1995

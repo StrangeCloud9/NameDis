@@ -1,0 +1,182 @@
+0;0;gang chen;ruimin shen,zeyu chen,jiajun wang;collaborative education model and its application in e learning;0AE9651A;46F6F355;2007
+1;1;gang chen;zhonghua yang,k m goh,hao he;multi agent coordination a fuzzy logic based approach;0A4ACFBD;45A88363;2003
+2;2;gang chen;ramesh k karne,yimin lu,alexander l wijesinha,yunlai sun;java implementation of an object oriented software metrics assessment tool;12746;46B774B0;1999
+3;3;gang chen;junhai yong,fuhua cheng;subdivision depth computation for extra ordinary catmull clark subdivision surface patches;088AA042;44AE44DD;2006
+4;4;gang chen;w f smyth,simon j puglisi;fast and practical algorithms for computing all the runs in a string;05DB33D4;4718BF06;2007
+5;5;gang chen;li zhang,yuzhu wang,wenyu zhang,jinxiang dong;a semantic web based architecture for collaborative multi agent functional modeling in design;0489A984;43520230;2006
+6;5;gang chen;jinxiang dong,zhongdong huang,cheng zang;a network access control architecture using state transfer based dynamic policy;0489A984;43520230;2006
+7;5;gang chen;chengwen wu,jinxiang dong,lihua yu;an index scheme for xml documents based on relationship joins;0489A984;43520230;2006
+8;5;gang chen;lihua yu,jinxiang dong,ke chen;securely sharing data in encrypted databases;0489A984;43520230;2006
+9;5;gang chen;lidan shou,jinxiang dong,bin cui;a web based framework for on line collaborative learning;0489A984;43520230;2006
+10;5;gang chen;jinxiang dong,ke chen;a database encryption scheme for enhanced security and easy sharing;0489A984;43520230;2006
+11;5;gang chen;jin xiang dong,wei li han,ping peng yuan;an event and service interacting model and event detection based on the broker service model;7592;43520230;2001
+12;5;gang chen;ke chen,jinxiang dong,t hu;resilient rights protection for product data;0489A984;43520230;2006
+13;5;gang chen;xiaolong zhang,jinxiang dong,t hu,yinjie hong;collaborative agents supported automatic physical database design based on description logics reasoning;0489A984;43520230;2006
+14;5;gang chen;ke chen,jinxiang dong,cheng zang;a fractal watermark solution for product data;0489A984;43520230;2006
+15;5;gang chen;wei wang,jinxiang dong,lihua yu;msfss a storage system for mass small files;0489A984;43520230;2007
+16;5;gang chen;yijun bei,jinxiang dong,t hu;a caching system for xml queries using frequent query patterns;0489A984;43520230;2007
+17;5;gang chen;yijun bei,feng shao,jinxiang dong,lihua yu;accelerating parent child path matching in xml;0489A984;43520230;2007
+18;12;gang chen;baifeng wu,guobo li,songwen pei;prototyping system of codec for novel 2 d continuous barcode;017C99DB;43520230;2008
+19;10;gang chen;janusz rajski,sudhakar m reddy,irith pomeranz;a test pattern ordering algorithm for diagnosis with truncated fail data;064CCA71;46CDFBC4;2006
+20;5;gang chen;lidan shou,xiaoyan li,kianlee tan;an image semantic ontological framework for large image databases;0489A984;469D149A;2007
+21;5;gang chen;ping wang,lidan shou,jinxiang dong;mime a dynamic index scheme for multi dimensional query in mobile p2p networks;0489A984;469D149A;2007
+22;5;gang chen;bing yang,guohui li,hui chen;mining frequent patterns in an arbitrary sliding window over data streams;02D828C1;469D149A;2008
+23;5;gang chen;lidan shou,yunjun gao,nan chen,jinxiang dong;predictive skyline queries for moving objects;0489A984;469D149A;2009
+24;10;gang chen;chen wang,huaxing tang,sudhakar m reddy,janusz rajski,irith pomeranz;defect aware test patterns;07874D3C;463BE6FF;2005
+25;13;gang chen;jason cong;simultaneous logic decomposition with technology mapping in fpga designs;099D876D;43C18390;2001
+26;13;gang chen;jason cong;simultaneous timing driven placement and duplication;00B871F8;43C18390;2005
+27;13;gang chen;jason cong;simultaneous timing driven clustering and placement for fpgas;0349EE07;4704764E;2004
+28;5;gang chen;shuqing wang,jianming zhang;robust adaptive fuzzy control for uncertain nonlinear systems;0489A984;4665AEAE;2005
+29;5;gang chen;shuqing wang,jianming zhang;robust and adaptive backstepping control for nonlinear systems using fuzzy logic systems;0489A984;4665AEAE;2005
+30;5;gang chen;ming qiu,jinxiang dong;a fuzzy contrast model to measure semantic similarity between owl dl concepts;0489A984;4665AEAE;2006
+31;18;gang chen;zheru chi,junli li;a fuzzy metric for image quality assessment;0489A984;171534;2001
+32;5;gang chen;yongwei wu,weimin zheng;uge4b an universal grid environment for bioinformatics research;05E79D01;4554E150;2006
+33;5;gang chen;yongwei wu,jia liu,bo cao,guangwen yang,weimin zheng;adapting to application workflow in processing data integration queries;05E79D01;4554E150;2007
+34;20;gang chen;kuan zhou,yifei luo;a picosecond tdc architecture for multiphase plls;09998A84;434A76CE;2009
+35;3;gang chen;fuhua cheng;matrix based subdivision depth computation for extra ordinary catmull clark subdivision surface patches;088AA042;44EABA80;2006
+36;26;gang chen;feiyu liu,yuanqiang cai;torsional pile subjected to transient loading in viscoelastic poroelastic medium;0489A984;43D2A5F0;2007
+37;5;gang chen;feng shao,jinxiang dong;accelerating xml structural matching using suffix bitmaps;0489A984;43D2A5F0;2007
+38;5;gang chen;yijun bei,jinxiang dong;improving xml querying with maximal frequent query patterns;0489A984;43D2A5F0;2007
+39;10;gang chen;sudhakar m reddy,irith pomeranz;procedures for identifying untestable and redundant transition faults in synchronous sequential circuits;07874D3C;46BFF4BF;2003
+40;5;gang chen;beng chin ooi,yueguo chen,ke chen;efficient processing of warping time series join of motion capture data;13271;45610CDA;2009
+41;5;gang chen;fei wang,changshui zhang;collaborative filtering using orthogonal nonnegative matrix tri factorization;05E79D01;468A7487;2007
+42;5;gang chen;fei wang,changshui zhang;collaborative filtering using orthogonal nonnegative matrix tri factorization;05E79D01;468A7487;2009
+43;29;gang chen;zheng xingchen,zhensheng jiang;a research on chaos forecast with the capital market structure model;18679;1635400;2004
+44;18;gang chen;hong yan,david dagan feng,zheru chi,xiaoyu zhao,chi xu;image recovery from broken image streams;15957;455477A7;2007
+45;5;gang chen;xinxin bai,jin dong,zhonglin lin,wenjun yin;improving image clustering an unsupervised feature weight learning framework;4FF45383;455477A7;2008
+46;5;gang chen;shuqing wang,jianming zhang;adaptive neural network control for multi fingered robot hand manipulation in the constrained environment;0489A984;0655F58A;2005
+47;32;gang chen;anfei liu,bicheng li,xianfei zhang;a new art neural networks for remote sensing image classification;16578;0655F58A;2005
+48;1;gang chen;zhonghua yang,k m goh,hao he;coordinating multi agents using javaspaces;0A4ACFBD;43C1EF66;2002
+49;39;gang chen;michael d smith;reorganizing global schedules for register allocation;9135;43C08A77;1999
+50;38;gang chen;ruwei yun,yi li;using vrml and java to build virtual game based learning environment for addition and subtraction operation;090FD2EB;44BF6A26;2006
+51;37;gang chen;rong huanzong,weirong zhang;nonuniform b spline mesh fairing method;6617;209244;1991
+52;36;gang chen;guoqiang bai,hongyi chen;a dual field elliptic curve cryptographic processor based on a systolic arithmetic unit;05E79D01;471752F4;2008
+53;32;gang chen;bicheng li,zhigang guo;remote sensing image classification based on evidence theory and neural networks;3671;4539ED1E;2004
+54;5;gang chen;bin chen,jinghong fan,hongtao liu,xianghe peng;inelastic simulation of insect cuticle using artificial neural network;0977BD3A;4539ED1E;2005
+55;41;gang chen;jinwen ma,lei li;a gradient byy harmony learning algorithm for straight line detection;0134B592;4539ED1E;2008
+56;40;gang chen;libo xu,guoxin wu,sanfeng zhang;on building and updating distributed lsi for p2p systems;04905D15;4737FD14;2005
+57;44;gang chen;;subtyping calculus of construction extended abstract ;01C3C549;455C7238;1997
+58;0;gang chen;lixu gu;a novel liver perfusion analysis based on active contours and chamfer matching;0AE9651A;504439;2006
+59;5;gang chen;yingwei zhang,stanley habib,chihong zhang,zhizhong tang,bogong su;gpmb software pipelining branch intensive loops;05E79D01;4499A295;1993
+60;5;gang chen;tang zhizhong,yingwei zhang,s e d habib,chihong zhang,bogong su;gpmb software pipelining branch intensive loops;15377;0A70A92E;1993
+61;42;gang chen;jiang li,k t ng,hanning zhou,jizheng xu,keman yu,yong wang,heungyeung shum,lijie wang,kaibo wang;portrait video phone;4CE6FC2D;43AA5802;2001
+62;42;gang chen;jiang li,k t ng,hanning zhou,jizheng xu,keman yu,yong wang,heungyeung shum,lijie wang,kaibo wang;portrait video phone;4CE6FC2D;43AA5802;2001
+63;5;gang chen;lidan shou,jinxiang dong,ge gao;classifying motion time series using neural networks;0489A984;45A1082E;2006
+64;1;gang chen;zhonghua yang,simon see,jie song;agent mediated genetic super scheduling in grid environments;0A4ACFBD;45BA2C87;2004
+65;44;gang chen;;coercive subtyping for the calculus of constructions;069F11AE;4524B15F;2003
+66;44;gang chen;chiyan chen,hongwei xi;guarded recursive datatype constructors;069F11AE;4524B15F;2003
+67;44;gang chen;;full integration of subtyping and if expression;069F11AE;465D12F0;2002
+68;5;gang chen;tianjiang wang,p herrera;music retrieval based on a multi samples selection strategy for support vector machine active learning;02D828C1;439F2D27;2009
+69;5;gang chen;fei wang,yangqiu song,changshui zhang;semi supervised multi label learning by solving a sylvester equation;3297;441CE122;2009
+70;5;gang chen;yijun bei,lihua yu;obsi object based storage system for massive image databases;0489A984;46950273;2007
+71;5;gang chen;yijun bei,feng shao,jinxiang dong,lihua yu;xml query recommendation based on association rules;0489A984;46950273;2007
+72;5;gang chen;yijun bei,feng shao,jinxiang dong,lihua yu;bitmap filtering an efficient speedup method for xml structural matching;0489A984;46950273;2007
+73;5;gang chen;lidan shou,jinxiang dong,xiaoyan li,chun chen;hisa a query system bridging the semantic gap for large image databases;0489A984;4390334E;2006
+74;10;gang chen;janusz rajski,sudhakar m reddy,irith pomeranz;new procedures to identify redundant stuck at faults and removal of redundant logic;07874D3C;444CACB9;2006
+75;5;gang chen;jinxiang dong,ke chen;an immunity based intrusion detection solution for database systems;0489A984;45F282AE;2005
+76;5;gang chen;ke chen,jinxiang dong,t hu;watermarking abstract tree structured data;0489A984;45F282AE;2005
+77;5;gang chen;ke chen,jinxiang dong,t hu;garwm towards a generalized and adaptive watermark scheme for relational data;0489A984;45F282AE;2005
+78;5;gang chen;yuan wang,xiaojing li,jinxiang dong;self adaptive statistics management for efficient query processing;0489A984;45F282AE;2005
+79;5;gang chen;lidan shou,jinxiang dong,bin cui;classifying e mails via support vector machine;0489A984;45F282AE;2006
+80;5;gang chen;yuan wang,jinxiang dong;mpx a multiversion concurrency control protocol for xml documents;0489A984;45F282AE;2005
+81;5;gang chen;yijun bei,jinxiang dong;buxminer an efficient bottom up approach to mining xml query patterns;0489A984;45F282AE;2007
+82;5;gang chen;jinxiang dong,zhongdong huang,cheng zang;a state transfer based dynamic policy approach for constraints in rbac;0489A984;45F282AE;2005
+83;5;gang chen;jinxiang dong,lihua yu;mining infrequently accessed file correlations in distributed file system;0489A984;45F282AE;2007
+84;1;gang chen;rong zhou,haifeng shen,ren wei,ming luo,zhonghua yang,jingbing zhang;ant colony inspired self healing for resource allocation in service oriented environment considering resource breakdown;0A4ACFBD;478794CB;2008
+85;1;gang chen;david chen,j b zhang,haifeng shen,wei ren,zhonghua yang,chengzheng sun,chor ping low;dynamic self healing for service flows with semantic web services;0A4ACFBD;478794CB;2008
+86;5;gang chen;lidan shou,lujiang ou,xiaoyan li;a latent image semantic indexing scheme for image retrieval on the web;0489A984;433F0094;2006
+87;8;gang chen;shao zhengrong;the design and realization of e journals categorizing and navigating system;8937;433F0094;2001
+88;5;gang chen;lidan shou,xiaolong zhang,jinxiang dong,xiaoyan li,t hu;pivotbrowser a tag space image searching prototype;0489A984;43ABF249;2008
+89;11;gang chen;ge guo,xijian ping;a fast document classification algorithm based on improved knn;8065;437D615C;2006
+90;17;gang chen;wenan zhou,baofei yang,junde song;research on service management data modeling based on sid;0134B592;462744F4;2007
+91;1;gang chen;zhonghua yang,chor ping low;extremal search of decision policies for scalable distributed applications;0A4ACFBD;44B337CB;2007
+92;38;gang chen;jinyang shi,yi li;modeling and simulation of continuous time invariant systems in simulation based learning environments;04B51E34;44C615EB;2008
+93;14;gang chen;thierry fraichard;an architecture for automated driving in urban environments;4F10C1EB;441DE433;2008
+94;5;gang chen;bing yang,xianghong tang,hui chen,guohui li;fine grained progressive algorithm based on hmj;02D828C1;449CDF39;2008
+95;16;gang chen;;a design of data rebuilding for decision support in e government system;01E209FE;46013AA1;2008
+96;15;gang chen;rensheng che,dong ye,lingfei zhang;a fast center of mass estimation algorithm for coordinates of ir markers;0C37CBAD;46013AA1;2008
+97;1;gang chen;z h yang,j b zhang,runjing zhou,c h tan,ming luo;self organized manufacturing resource management an ant colony inspired approach;0A4ACFBD;45A0DDC1;2008
+98;1;gang chen;david chen,j b zhang,wei ren,zhonghua yang,chengzheng sun,junhong zhou,chor ping low;semantic enhanced rule driven workflow execution in collaborative virtual enterprise;0A4ACFBD;45A0DDC1;2008
+99;1;gang chen;min tan,de xu;an improved dead reckoning method for mobile robot with redundant odometry information;012E6F4E;45A0DDC1;2002
+100;1;gang chen;zhonghua yang,k m goh,hao he;coordinating multiple agents via reinforcement learning;015BDFDA;00527A05;2005
+101;23;gang chen;randy giles,mihaela dinu,howard r stuart,ronen rapaport;nanophotonics quantum dots photonic crystals and optical silicon circuits an excursion into the optical behavior of very small things;044C0559;0A902CAD;2005
+102;5;gang chen;shixuan wang,hongyu li,jinhua zhou,gang xu,chunxia hu,tao zhu,ding ma;comparative genomics and function analysis on bi1 family;04BC086B;0641039F;2008
+103;19;gang chen;john schmitt,jianhua yin;graphic sequences with a realization containing a generalized friendship graph;014A3C26;01206F2B;2008
+104;22;gang chen;yongzheng ma,hongmei zhang,kai nan;transfer processing and distribution of cosmic ray data from tibet;02CE558F;0B1B95C6;2006
+105;34;gang chen;giuseppe castagna;dependent types with subtyping and late bound overloading;16361;03928357;2001
+106;1;gang chen;zhonghua yang,h e hao,kiahmok goh;maintaining system state information in a multiagent environment for effective learning;7811;09F41384;2005
+107;31;gang chen;k f wong,chunfa yuan,wenjie li;an effective method for chinese grammar rule learning;18921;02FB08BA;2012
+108;5;gang chen;yijun bei,lidan shou,jinxiang dong,xiaoyan li;bottom up discovery of frequent rooted unordered subtrees;0489A984;0B7B9B75;2009
+109;30;gang chen;suxin zheng,hualiang jiang,weiliang zhu,kaixian chen,xiaomin luo,jianhua shen;a new rapid and effective chemistry space filter in recognizing a druglike database;12718;09F837EB;2005
+110;44;gang chen;;soundness of coercion in the calculus of constructions;069F11AE;02CE08D2;2004
+111;36;gang chen;guoqiang bai,hongyi chen;a new systolic architecture for modular division;05E79D01;0965DDD6;2007
+112;18;gang chen;zheru chi,chenggang lu,junli li;image coding quality assessment using fuzzy integrals with a three component image model;16939;07FF62D9;2004
+113;18;gang chen;zheru chi,junli li;a fuzzy image metric with application to fractal coding;19005;06DF68B7;2002
+114;5;gang chen;lidan shou,jinxiang dong,xiaoyan li,t hu;modeling image data for effective indexing and retrieval in large general image databases;0489A984;01D46A2B;2008
+115;13;gang chen;jason cong;simultaneous placement with clustering and duplication;00B871F8;46CDFBC4;2004
+116;13;gang chen;jason cong;simultaneous placement with clustering and duplication;00B871F8;46CDFBC4;2006
+117;5;gang chen;feng liu,xiaoyu song,qingping tan,fei he;a note on a mapping algorithm for computer assisted exploration in the design of embedded systems;0787E01C;0642E126;2007
+118;1;gang chen;zhonghua yang,chor ping low;coordinated services provision in peer to peer environments;0A4ACFBD;05CA192B;2008
+119;1;gang chen;zhonghua yang,chor ping low;enhancing search performance in unstructured p2p networks based on users common interest;0A4ACFBD;05CA192B;2008
+120;5;gang chen;kai hwang,ke chen;heuristic discovery of role based trust chains in peer to peer networks;1835;05CA192B;2009
+121;35;gang chen;tao wang,e a g robertson,don batory;design wizards and visual programming environments for genvoca generators;7210;007F6F5E;2000
+122;46;gang chen;taofang zeng;nonequilibrium electron and phonon transport and energy conversion in heterostructures;03D00B37;05E40B87;2003
+123;45;gang chen;zimeng chen;an audio feature extraction method taking class information into account;18857;09E66BCD;2006
+124;4;gang chen;w f smyth,simon j puglisi;lempel ziv factorization using less time space;05DB33D4;081BC81E;2008
+125;1;gang chen;zhonghua yang,chor ping low;coordinating agents in shop floor environments from a dynamic systems perspective;0A4ACFBD;0B037A22;2006
+126;5;gang chen;jianwei yin,xin dong,jinxiang dong;petri net based context related access control in workflow environment;0489A984;43520230;2002
+127;5;gang chen;weili han,jinxiang dong,pingpeng yuan;research on an event specification for event based collaboration support software architecture;0489A984;43520230;2002
+128;5;gang chen;jianer chen,jianxin wang,bin hu,min li;modifying the dpclus algorithm for identifying protein complexes based on new topological structures;08530CBF;012269E3;2008
+129;5;gang chen;lidan shou,nan chen,jinxiang dong;adaptive indexing of moving objects with highly variable update frequencies;0489A984;09A08B9A;2008
+130;7;gang chen;zhanshan wang,jian feng;global stability of a class of cohen grossberg neural networks with delays;06EA9474;088498F7;2009
+131;6;gang chen;tai hu,xiaoyong guo;a noise insensitive cluster validity measure for pattern classification;012E6F4E;46081467;2009
+132;5;gang chen;yongluan zhou,dengcheng he,lidan shou;cluster based rank query over multidimensional data streams;0489A984;472C6E2D;2009
+133;5;gang chen;hai wan,xiaoyu song,ming gu;formalization and verification of plc timers in coq;19979;44233F91;2009
+134;12;gang chen;baifeng wu,wenjun cao,guobo li,songwen pei;a self embedded watermarking scheme based on relationship function of corresponding inter blocks dct coefficient;017C99DB;43520230;2009
+135;12;gang chen;baifeng wu,guobo li,songwen pei;gpgpu supported cooperative acceleration in molecular dynamics;017C99DB;43520230;2009
+136;5;gang chen;yijun bei,lidan shou,chun chen,zujie ren;pisa federated search in p2p networks with uncooperative peers;0489A984;47169EC5;2009
+137;5;gang chen;jianwen zhang,yangqiu song,changshui zhang;on line evolutionary exponential family mixture;1083;47C39427;2009
+138;5;gang chen;qiming tian,xinxin bai,jin dong,wenjun yin;semi supervised regression for evaluating convenience store location;4FF45383;47C39427;2009
+139;18;gang chen;fuqiang zhang,jiaju man,junli li;assessment of color video quality with singular value decomposition of complex matrix;5317;45E5BC3F;2009
+140;5;gang chen;fei wang,changshui zhang;collaborative filtering using orthogonal nonnegative matrix tri factorization;05E79D01;468A7487;2007
+141;5;gang chen;fei wang,changshui zhang;collaborative filtering using orthogonal nonnegative matrix tri factorization;05E79D01;468A7487;2009
+142;42;gang chen;yer van hui,yong wang,lawrence c leung;a 0 1 lp model for the integration and consolidation of air cargo shipments;09676E2E;077F2EB9;2009
+143;1;gang chen;georg thimm,yongsheng ma;change propagation algorithm in a unified feature modeling scheme;0A4ACFBD;039F69FE;2008
+144;10;gang chen;janusz rajski,sudhakar m reddy,irith pomeranz;n distinguishing tests for enhanced defect diagnosis;17527;459EF883;2009
+145;5;gang chen;ke chen,jinxiang dong,t hu;an adaptive load balancing framework for parallel database systems based on collaborative agents;0489A984;43520230;2005
+146;5;gang chen;jianwei yin,dongcai shi,jinxiang dong;a workflow based distributed multidisciplinary design optimization framework;0489A984;43520230;2005
+147;5;gang chen;yuan wang,jimxiang dong;dxec integrating database xml and email for collaboration;0489A984;43520230;2005
+148;5;gang chen;ke chen,jinxiang dong,t hu;a logical replication based intrusion detection approach for cscw system;0489A984;43520230;2005
+149;5;gang chen;jianwei yin,li zhu,jinxiang dong;complicated product oriented collaborative document management system;0489A984;43520230;2005
+150;5;gang chen;yuli gao,jianwen zhang,fei wang,changshui zhang;efficient multi label classification with hypergraph regularization;05E79D01;45083D2F;2009
+151;5;gang chen;lidan shou,yu wu,t hu;query triggered crawling strategy build a time sensitive vertical search engine;0489A984;46E0467E;2008
+152;5;gang chen;lidan shou,jinhua jiang,ke chen;efficient holistic twig join algorithm on xml documents with optimization rules and index;0489A984;46E0467E;2008
+153;5;gang chen;feng liu,xiaoyu song,otmane ait mohamed,qingping tan,fariborz fereydouni forouzandeh;a comparative study of parallel prefix adders in fpga implementation of eac;15972;42E6BE19;2009
+154;12;gang chen;baifeng wu,leandro a j marzulo,felipe m g franca,songwen pei,min du;spmt wavecache exploiting thread level parallelism in wavescalar;13889;46AB47BD;2009
+155;18;gang chen;junlili,gangchen,guoqinglu,jiajuman;a method of video quality assessment based on the sensitive region;6487;46AB47BD;2009
+156;9;gang chen;sihai deng,huifang lv,chunlei guo;tactical communication equipment simulation training platform based on vr;8357;46AB47BD;2009
+157;40;gang chen;xiaorui zhang,c g lv,wei sun,weigong zhang;multi feature fusion method of driver face location based on area coincidence degree and prior knowledge;9694;475B8292;2009
+158;5;gang chen;jianwen zhang,changshui zhang,shuo chen;beyond banditron a conservative and efficient reduction for online multiclass prediction with bandit setting model;8158;468A7487;2009
+159;18;gang chen;fuqiang zhang,jiaju man,junli li;assessment of color video quality based on quaternion singular value decomposition;0A5B5D90;4665AEAE;2009
+160;5;gang chen;lidan shou,jinhua jiang,ke chen;otjfast processing ordered xml twig join fast;0489A984;459777C0;2008
+161;9;gang chen;guanqun ji,yilong jia,shang xiang;network attack defense simulation training system based on hla;4910;4659CB2E;2009
+162;9;gang chen;guanqun ji,yilong jia,shang xiang;network attack defense simulation training system based on hla;19712;4659CB2E;2009
+163;9;gang chen;guanqun ji,quan ding,shang xiang;scene simulation platform based on data fusion of multiple format 3d models;3228;4659CB2E;2009
+164;18;gang chen;dagan feng,chenggang lu,zheru chi;geometric analysis of particle motion in a vector image field;00D956B2;03F2768C;2006
+165;1;gang chen;zhonghua yang,chor ping low;preserving and exploiting genetic diversity in evolutionary programming algorithms;0A4ACFBD;05971759;2009
+166;0;gang chen;jianrong xu,lijun qian,lixu gu;an improved level set for liver segmentation and perfusion analysis in mris;0AE9651A;041BE876;2009
+167;28;gang chen;li li;study on fast fixed codebook search algorithm in g 729 speech coding;14754;1857954;2009
+168;40;gang chen;guoxin wu;a client peer adjustment policy for peer to peer media streaming;04905D15;45BA0A3D;2006
+169;9;gang chen;yilong jia,shang xiang;simulation training platform for large tactical communication equipment based on vr;17118;1287572;2009
+170;33;gang chen;hongbin pu,weiguang li,quanquan liu,song zhang;ansys based dynamic analysis of high speed motorized spindle;05669A68;432577;2009
+171;5;gang chen;yingwei zhang,stanley habib,chihong zhang,zhizhong tang,bogong su;gpmb software pipelining branch intensive loops;05E79D01;4499A295;1993
+172;5;gang chen;tang zhizhong,yingwei zhang,s e d habib,chihong zhang,bogong su;gpmb software pipelining branch intensive loops;14205;0A70A92E;1993
+173;18;gang chen;zheru chi,junli li;image retrieval based on sugeno fuzzy integral;6001;458DD1E0;2004
+174;21;gang chen;;a mathematical model for bifurcations in a belousov zhabotinsky reaction;1786;0178B751;2000
+175;5;gang chen;bing yang,guohui li,jun xiang,hui chen;predictive queries algorithm based on probability model over data streams;02D828C1;45D416DF;2007
+176;27;gang chen;;bcm mechanism based on infinite horizon growth model in e commerce;14772;46F3DAAB;2009
+177;25;gang chen;xiangning lu,rong lu;design and development of small size stiffness surveying instrument for sheet metal;6880;1363246;2009
+178;24;gang chen;;web based service management of distributed learning;06CA964A;1946193;2009
+179;13;gang chen;;unified synthesis techniques for high performance fpga designs;099D876D;705893;2005
+180;43;gang chen;iain d boyd;statistical error analysis for the direct simulation monte carlo technique;8558;08DD21F7;1996
+181;22;gang chen;yongjian wang,shuaijie wang,yaodong cheng;deploying hep applications on multiple grid infrastructures;012E6F4E;4554E150;2008

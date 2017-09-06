@@ -1,0 +1,41 @@
+0;0;yue zhao;yongcun cao,ciwen xu;research on query by committee method of active learning and application;33C05CD7;469407EC;2006
+1;1;yue zhao;aiguo he,tongjun huang,zixue cheng;pseudo surface based network camera smart control;4802;46C53898;2005
+2;0;yue zhao;yongcun cao,yong lu,xiaona xu,xiuqin pan;mbbntree classifier algorithm based on active learning from unlabeled samples;33C05CD7;4665AEAE;2008
+3;2;yue zhao;shuigeng zhou,aoying zhou;e mail services on hybrid p2p networks;017C99DB;4554E150;2004
+4;3;yue zhao;xiaoya zha;on non null separating circuits in embedded graphs;3567;86238;1991
+5;4;yue zhao;hongjiao fu;a conceptual model of public medical service system based on cell phone mobile platform;04B5445A;445240;2007
+6;1;yue zhao;ryohei nakatani,tongjun huang,shoichi noguchi,aiguo he,yuichi amadatsu,akio koyama,zixue cheng;design of a real time interactive tele exercise classroom for computer exercises over a gigabit network;15842;43F6AF91;2001
+7;2;yue zhao;shuigeng zhou,joshua huang,jihong guan;a neighborhood based clustering algorithm;017C99DB;436976F3;2005
+8;6;yue zhao;fengquan zhang,ming yu,yanyan huang;silicon wafer defect extraction based on morphological filter and watershed algorithm;0B047E91;449CDF39;2008
+9;3;yue zhao;daniel p sanders;on simultaneous edge face colorings of plane graphs;3530;0450388C;1997
+10;3;yue zhao;daniel p sanders;a five color theorem;0653F611;01206F2B;2000
+11;3;yue zhao;;on the edge reconstruction of graphs embedded in surfaces iv;268;01206F2B;2003
+12;3;yue zhao;rong luo;a note on vizing s independence number conjecture of edge chromatic critical graphs;0653F611;01206F2B;2006
+13;3;yue zhao;o v borodin,daniel p sanders;on cyclic colorings and their generalizations;031EE95E;01206F2B;1999
+14;8;yue zhao;h r f hind;edge colorings of graphs embeddable in a surface of low genus;12196;01206F2B;1998
+15;3;yue zhao;;on the edge reconstruction of 3 connected planar graphs with minimum valency 4;6289;01206F2B;1995
+16;3;yue zhao;daniel p sanders;on improving the edge face coloring theorem;0653F611;0B1811E8;2001
+17;1;yue zhao;jerold a dehart,aiguo he,zixue cheng,tong jun huang,akio koyama;a working model for real time interactive distance education support systems;18386;02FB08BA;2012
+18;3;yue zhao;daniel p sanders;a new bound on the cyclic chromatic number;0653F611;07A99D26;2001
+19;3;yue zhao;daniel p sanders;planar graphs of maximum degree seven are class i;6806;07A99D26;2001
+20;3;yue zhao;daniel p sanders;on the size of edge chromatic critical graphs;0653F611;07A99D26;2002
+21;3;yue zhao;daniel p sanders;coloring the faces of convex polyhedra so that like colors are far apart;282;07A99D26;2002
+22;3;yue zhao;daniel p sanders;coloring edges of graphs embedded in a surface of characteristic zero;0653F611;07A99D26;2003
+23;3;yue zhao;daniel p sanders;on 2 connected spanning subgraphs with low maximum degree;8661;07A99D26;1998
+24;3;yue zhao;;on the edge reconstruction of graphs embedded in surfaces iii ;17430;07A99D26;1998
+25;3;yue zhao;xiaoya zha,neil robertson;on the flexibility of toroidal embeddings;0653F611;07A99D26;2008
+26;3;yue zhao;;new lower bounds for the size of edge chromatic critical graphs;0653F611;0B86905B;2004
+27;3;yue zhao;lianying miao,rong luo;the size of edge chromatic critical graphs with maximum degree 6;0653F611;0B86905B;2009
+28;7;yue zhao;wookhyun kwon,kueiming lo;identification of multi dimensional system based on a novel criterion;6463;437C0B5D;2008
+29;1;yue zhao;tamotsu hayase,hideki aoi;improvement of the damaged thermowell of the monju fast breeder reactor based on vibration analysis;1352;01F107E4;2002
+30;0;yue zhao;yongcun cao,xiuqin pan;tibetan language continuous speech recognition based on dynamic bayesian network;4683;1395926;2009
+31;3;yue zhao;daniel p sanders;on spanning trees and walks of low maximum degree;0653F611;0B86905B;2001
+32;3;yue zhao;;3 coloring graphs embedded in surfaces;0653F611;0B86905B;2000
+33;3;yue zhao;daniel p sanders;coloring edges of embedded graphs;0653F611;0B86905B;2000
+34;3;yue zhao;daniel p sanders;on total 9 coloring planar graphs of maximum degree seven;06D835C2;0B86905B;1999
+35;5;yue zhao;gregory j pottie;optimal spectrum management in multiuser interference channels;099D876D;4762CAF8;2009
+36;5;yue zhao;gregory j pottie;optimal spectrum management in multiuser interference channels;099D876D;4762CAF8;2013
+37;5;yue zhao;gregory j pottie;optimal spectrum management in multiuser interference channels;8462;4762CAF8;2008
+38;7;yue zhao;wookhyun kwon,guiming luo;recursive algorithms for a novel identification criterion;17034;06542A1C;2008
+39;3;yue zhao;daniel p sanders;on diagonally 10 coloring plane triangulations;031EE95E;0B86905B;1995
+40;0;yue zhao;shuang chen;evolving model for small world network based on benefit choice;00493E54;0B68DB42;2008

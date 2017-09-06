@@ -1,0 +1,7 @@
+0;0;charles smith;jundong liu,hima chebrolu;a local probabilistic prior based active contour model for brain mr image segmentation;088AA042;4603A79F;2007
+1;1;charles smith;sophia drossopoulou;chai traits for java like languages;02D4EDF8;462A683B;2005
+2;0;charles smith;david m chelberg,hima chebrolu,jundong liu;automatic subcortical structure segmentation using probabilistic atlas;088AA042;4613D662;2007
+3;0;charles smith;jundong liu,darlene e berryman,edward o list,hima chebrolu,shuisheng xie;a robust image segmentation model based on integrated square estimation;088AA042;4613D662;2007
+4;2;charles smith;balaji kannan,jaeho kim,sung h ahn,vijay sundararajan,paul k wright,ashish mohole,sara mcmains,roshan dsouza,jordan j smith,carlo h sequin,ganping sun;cybercut an internet based cad cam system;05B090CE;0A527EE2;2001
+5;2;charles smith;paul k wright,carlo h sequin;the manufacturing advisory service web based process and material selection;0349EE07;0366B3F8;2010
+6;3;charles smith;hector d cortes,guido malpohl,loet leydesdorff,andrew smith,caroline s wagner,j antonio del rio,rene tshiteya,george karypis,ronald n kostoff;clustering methodologies for identifying country core competencies;4ECE052B;041B880A;2007

@@ -1,0 +1,26 @@
+0;0;j yin;stephen m chu,martin kruger,chiman kwan,irma sityar,xiao liu;enhanced speech in noisy multiple speaker environment;8435;2008
+1;0;j yin;b ayhan,chiman kwan,k puckett,stephen chu,yiwei zhao,k c ho,m kruger,irma sityar,xuebin liu;an integrated approach to robust speaker identification and speech recognition;7051;2008
+2;0;j yin;b ayhan,chiman kwan,k puckett,stephen chu,yong zhao,k c ho,m kruger,irma sityar,xun liu;speech separation algorithms for multiple speaker environments;2124;2008
+3;1;j yin;t eilem,giovanni pacifici,j hansom,auroop r ganguly,rui j p de figueiredo,ajay mohindra,david m chess,hidayatullah shaikh;reducing complexity of software deployment with delta configuration;10516;2007
+4;2;j yin;minh tue vo,harold treat,denis lee,wayne niblack,k h weiss,colin bird,robert j f dow,myron flickner,james lee hafner,bonnie holt,peter phuong vo,paul elliott,meijih gee,fangwu tung,david steele,j hethorn,dragutin petkovic;recent applications of ibm s query by image content qbic ;4FF45383;1996
+5;3;j yin;f e bennett;packings and coverings of the complete directed multigraph with 3 and 4 circuits;003BDEE2;1996
+6;3;j yin;sun wu;four new bibds with block size seven;17624;1993
+7;4;j yin;cristian teodosiu;constrained mesh optimization on boundary;14081;2008
+8;3;j yin;cunsheng ding;signal sets from functions with optimum nonlinearity;17620;2007
+9;5;j yin;peter hall;nonuniform sequential sampling for signal analysis;070DD774;2004
+10;3;j yin;jianmin wang;constructions for perfect 5 deletion correcting codes of length 7;003BDEE2;2006
+11;5;j yin;andrzej s kozek;on gauss quadrature and partial cross validation;070DD774;2004
+12;6;j yin;x f liang,yiran chen,z g liu,beichia yang;a nanoscale nonvolatile memory device made from rbag4i5 solid electrolyte grown on a si substrate;348EB203;2008
+0;0;j yin;stephen m chu,martin kruger,chiman kwan,irma sityar,xiao liu;enhanced speech in noisy multiple speaker environment;1036;4539ED1E;2008
+1;0;j yin;b ayhan,chiman kwan,k puckett,stephen chu,yiwei zhao,k c ho,m kruger,irma sityar,xuebin liu;an integrated approach to robust speaker identification and speech recognition;3819;4539ED1E;2008
+2;0;j yin;b ayhan,chiman kwan,k puckett,stephen chu,yong zhao,k c ho,m kruger,irma sityar,xun liu;speech separation algorithms for multiple speaker environments;15414;4539ED1E;2008
+3;1;j yin;t eilem,giovanni pacifici,j hansom,auroop r ganguly,rui j p de figueiredo,ajay mohindra,david m chess,hidayatullah shaikh;reducing complexity of software deployment with delta configuration;1273;452ACCB8;2007
+4;2;j yin;minh tue vo,harold treat,denis lee,wayne niblack,k h weiss,colin bird,robert j f dow,myron flickner,james lee hafner,bonnie holt,peter phuong vo,paul elliott,meijih gee,fangwu tung,david steele,j hethorn,dragutin petkovic;recent applications of ibm s query by image content qbic ;4FF45383;439F2D27;1996
+5;3;j yin;f e bennett;packings and coverings of the complete directed multigraph with 3 and 4 circuits;003BDEE2;01206F2B;1996
+6;3;j yin;sun wu;four new bibds with block size seven;16304;01206F2B;1993
+7;4;j yin;cristian teodosiu;constrained mesh optimization on boundary;9143;05531DA6;2008
+8;3;j yin;cunsheng ding;signal sets from functions with optimum nonlinearity;5584;0BB89C05;2007
+9;5;j yin;peter hall;nonuniform sequential sampling for signal analysis;070DD774;0044B422;2004
+10;3;j yin;jianmin wang;constructions for perfect 5 deletion correcting codes of length 7;003BDEE2;0044B422;2006
+11;5;j yin;andrzej s kozek;on gauss quadrature and partial cross validation;070DD774;07E3B233;2004
+12;6;j yin;x f liang,yiran chen,z g liu,beichia yang;a nanoscale nonvolatile memory device made from rbag4i5 solid electrolyte grown on a si substrate;348EB203;096B53DD;2008

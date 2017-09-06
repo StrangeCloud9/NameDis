@@ -1,0 +1,41 @@
+0;0;john hale;mahendra sekaran,sandip sen;learning to coordinate without sharing information;0532B1F5;46A05BB0;1994
+1;0;john hale;mahendra sekaran,sandip sen;learning to coordinate without sharing information;614;46A05BB0;1997
+2;2;john hale;matthew lease,lisa yung,anna krasnyanskaya,mary p harper,robin stewart,brian roark,matthew snover,izhak shafran,bonnie j dorr,yang liu;pcfgs with syntactic and prosodic indicators of speech repairs;0532D181;46DAB993;2006
+3;0;john hale;sujeet shenoi,mauricio papa,pablo galiasso;security policy coordination for heterogeneous information systems;0532B1F5;47405592;1999
+4;0;john hale;sujeet shenoi,rodrigo chandia,mauricio papa,o bremer;extending java for package based access control;15468;47405592;2000
+5;0;john hale;vincent hu,sujeet shenoi,d ferraiola,o bremer,pablo galiasso;policy mediation for multi enterprise environments;3186;47405592;2000
+6;0;john hale;stephen tyree,ethan singleton,k e clark;strata gem risk assessment through mission modeling;0532B1F5;476F3906;2008
+7;0;john hale;kenneth d fitch,mauricio papa,brandon pollet,c e campbell,jerald dawkins;on modeling computer networks for vulnerability analysis;16651;45A68B5F;2003
+8;0;john hale;mark berryman,sujeet shenoi,jody threet,mauricio papa,carlo rummel;an environment for developing securely interoperable heterogeneous distributed objects;2260;45A68B5F;1997
+9;0;john hale;sujeet shenoi,rodrigo chandia,clinton campbell;language extensions for programmable security;7968;45A68B5F;2000
+10;0;john hale;sujeet shenoi,mauricio papa;programmable security for object oriented systems;733;45A68B5F;1999
+11;0;john hale;sujeet shenoi,jody threet;a practical formalism for imprecise inference control;19524;45A68B5F;1994
+12;0;john hale;sujeet shenoi,jody threet;capability based primitives for access control in object oriented systems;2362;45A68B5F;1997
+13;0;john hale;james m keller,sujeet shenoi,gavin wylie manes,gesa lorenz;public telephone network vulnerabilities;8099;45A68B5F;2001
+14;0;john hale;s magill,mauricio papa,bradley skaggs;implementation and verification of programmable security;12172;45A68B5F;2003
+15;0;john hale;sujeet shenoi,s magill,mauricio papa,o bremer;simulation and analysis of cryptographic protocols;11091;45A68B5F;2000
+16;0;john hale;sujeet shenoi,dominic jones,surath rath;a tool for inference detection and knowledge discovery in databases;0532B1F5;45A68B5F;1996
+17;0;john hale;gavin w manes,david m greer,alex barclay,layne t watson;redacting digital information from electronic devices;0532B1F5;1795611;2007
+18;0;john hale;sujeet shenoi,mauricio papa,o bremer;formal analysis of e commerce protocols;5503;474EAFD5;2001
+19;0;john hale;jerald dawkins;a systematic approach to multi stage network attack analysis;0532B1F5;315755;2004
+20;2;john hale;;a probabilistic earley parser as a psycholinguistic model;08A948CC;45F914AD;2001
+21;0;john hale;arthur l corcoran;a genetic algorithm for fragment allocation in a distributed database system;0532B1F5;439F2D27;1994
+22;0;john hale;sujeet shenoi,mauricio papa,o bremer;integrating logics and process calculi for cryptographic protocol analysis;0532B1F5;464F6958;2003
+23;0;john hale;sujeet shenoi;catalytic inference analysis detecting inference threats due to knowledge discovery;0532B1F5;455B6732;1997
+24;0;john hale;scott fujan,stephen tyree,trevor sarratt,rayus kuplicki;gridspim a framework for simple locality and containment in the stochastic pi calculus;18325;47784D0E;2009
+25;0;john hale;sujeet shenoi;analyzing fd inference in relational databases;17926;45A68B5F;1996
+26;0;john hale;mauricio papa,s shenoi;programmable access control;0532B1F5;066092F1;2003
+27;0;john hale;sujeet shenoi,jody threet;a ticket based access control architecture for object systems;19873;066092F1;2000
+28;0;john hale;paul j brusil;secur e ity management two sides of the same coin;9481;03FF7002;2004
+29;0;john hale;paul j brusil;secur e ity management a continuing uphill climb;0532B1F5;03FF7002;2007
+30;0;john hale;paul j brusil;the shifting sands of security management;939;03FF7002;2005
+31;3;john hale;;book review;858;0BC46068;2007
+32;0;john hale;michael harvey,elizabeth downing,j w johnson,alex barclay,gavin w manes;issues and techniques for redacting pdf files;0532B1F5;079FD8E4;2008
+33;0;john hale;chris a johnson,george louthan,collin mcmillan;toward robust and extensible automatic protocol identification;8321;46405877;2009
+34;0;john hale;mahendra sekaran,sandip sen;learning to coordinate without sharing information;0532B1F5;46A05BB0;1994
+35;0;john hale;mahendra sekaran,sandip sen;learning to coordinate without sharing information;7107;46A05BB0;1997
+36;0;john hale;sujeet shenoi,jody threet;a framework for high assurance security of distributed objects;0532B1F5;45A68B5F;1997
+37;1;john hale;eugene charniak;getting useful gender statistics from english text;3974;1750370;1998
+38;0;john hale;matthew walker,brady deetz,george louthan;content based alternatives to conventional network monitoring systems;0532B1F5;4569270C;2009
+39;2;john hale;marisa ferrara boston,shravan vasishth,reinhold kliegl;surprising parser actions and reading difficulty;0532D181;46DAB993;2008
+40;2;john hale;;the information processing difficulty of incremental parsing;0532D181;335400;2004

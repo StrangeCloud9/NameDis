@@ -1,0 +1,71 @@
+0;0;li shen;t machida,haruo takemura;efficient photometric stereo technique for three dimensional surfaces with unknown brdf;05DBB954;4482B3A4;2005
+1;0;li shen;rong zhang,justin d pearlman,heng huang,fillia makedon;a spatio temporal modeling method for shape representation;066AF386;46E0467E;2006
+2;0;li shen;lei zhang,fillia makedon,dimitris samaras,rong zhang,justin d pearlman,heng huang;hemispherical harmonic surface description and applications to medical image analysis;11604;46E0467E;2006
+3;0;li shen;moo k chung;large scale modeling of parametric surfaces using spherical harmonics;066AF386;46E0467E;2006
+4;0;li shen;ramprasad balasubramanian,amit tandon,veena moolani;shape analysis and spatio temporal tracking of mesoscale eddies in miami isopycnic coordinate ocean model;05FF8B11;46E0467E;2006
+5;1;li shen;e c tan;pls and svd based penalized logistic regression for cancer classification using microarray data;0A4ACFBD;478E195D;2005
+6;1;li shen;e c tan;a generalized output coding scheme with svm for multiclass microarray classification;0A4ACFBD;478E195D;2006
+7;4;li shen;jianzhuang lu,zhiying wang;predicate analysis based on path information;0A254897;476951FF;2003
+8;4;li shen;kui dai,libo huang,zhiying wang;a new architecture for multiple precision floating point multiply add fused unit design;0A254897;475A7738;2007
+9;1;li shen;;rtl concurrent fault simulation;012E6F4E;459EF883;2003
+10;7;li shen;;genetic algorithm based test generation for sequential circuits;11132;459EF883;1999
+11;0;li shen;moo k chung,heng huang,andrew j saykin;morphometric analysis of hippocampal shape in mild cognitive impairment an imaging genetics study;0352F953;44C5464F;2007
+12;0;li shen;heng huang,fillia makedon,andrew j saykin;efficient registration of 3d spharm surfaces;05FF8B11;4531DEA3;2007
+13;0;li shen;fillia makedon,bruce hettleman,rong zhang,fei xiong,justin d pearlman,heng huang;k means method for improving gene selection for classification of microarray data;19223;45BD7739;2005
+14;0;li shen;haruo takemura;spatial reflectance recovery under complex illumination from sparse images;05DBB954;45083D2F;2006
+15;8;li shen;ping tan,stephen lin;intrinsic image decomposition with non local texture cues;4CE6FC2D;45083D2F;2008
+16;4;li shen;libo huang,nong xiao,yashuai lu,zhiying wang;customizing computation accelerators for extensible multi issue processors with effective optimization techniques;0A254897;46CDFBC4;2008
+17;0;li shen;hong shen;mining flexible multiple level association rules in all concept hierarchies extended abstract ;12593;47169EC5;1998
+18;0;li shen;fillia makedon,heather a wishart,andrew j saykin,tilmann steinberg,james ford,sarantos kapidakis;metadl a digital library of metadata for sensitive or complex research data;066AF386;430EDF97;2002
+19;4;li shen;kui dai,mingche lai,zhiying wang;a new technique for program code compression in embedded microprocessor;0A254897;4385AB9B;2004
+20;1;li shen;stephen y h su;vlsi functional testing using critical path traces at hardware description language level;6276;009348DA;1984
+21;0;li shen;heng huang;surface harmonics for shape modeling;2513;455477A7;2007
+22;1;li shen;e c tan;nonlinear kernel mse methods for cancer classification;0A4ACFBD;856D618D;2005
+23;2;li shen;peizhong lu,xiangyang luo,qingyang tang;an improved sample pairs method for detection of lsb embedding;017C99DB;46155D1D;2004
+24;2;li shen;peizhong lu,xiangyang luo,qingyang tang;an improved sample pairs method for detection of lsb embedding;14120;46155D1D;2004
+25;6;li shen;tadahiro kitahashi,noboru babagushi;a quick method for synthesizing photorealistic color images under various illumination conditions;35170767;47A7A7E0;2001
+26;1;li shen;stephen y h su,kewal k saluja;a simplified algorithm for testing microprocessors;17072;4579FB5B;1983
+27;1;li shen;stephen y h su,kewal k saluja;a simplified algorithm for testing microprocessors;07634566;4579FB5B;1987
+28;2;li shen;peizhong lu,yan zou,xiangyang luo;equivalence of punctured convolutional codes from shift equivalent puncturing patterns;2320;0382F1D5;2004
+29;0;li shen;fillia makedon;spherical parameterization for 3d surface analysis in volumetric images;066AF386;449CDF39;2004
+30;0;li shen;j l c jr ford,yuhang wang,fillia makedon,dina goldin;generating fuzzy semantic metadata describing spatial relations from images using the r histogram;066AF386;45B176DF;2004
+31;0;li shen;song ye,fillia makedon,james ford,yan zhao,tilmann steinberg,yuhang wang,sarantos kapidakis;scens a system for the mediated sharing of sensitive data;066AF386;45B176DF;2003
+32;0;li shen;richard j davidson,kim m dalton,moo k chung;multi scale voxel based morphometry via weighted spherical harmonic representation;05FF8B11;903799;2006
+33;0;li shen;rong zhang,bruce hettleman,justin d pearlman,heng huang,fillia makedon;surface alignment of 3d spherical harmonic models application to cardiac mri analysis;066AF386;435020A4;2005
+34;0;li shen;rong zhang,justin d pearlman,fillia makedon,bruce hettleman,heng huang;a prediction framework for cardiac resynchronization therapy via 4d cardiac motion analysis;066AF386;435020A4;2005
+35;0;li shen;song ye,fillia makedon,andrew j saykin,james ford,tilmann steinberg,yuhang wang;morphometric analysis of brain structures for improved discrimination;066AF386;435020A4;2003
+36;1;li shen;xilin chen,pin liao,shiguang shan,wen gao,wenbing zeng;classification of facial images using gaussian mixture models;012E6F4E;4459102E;2001
+37;1;li shen;takeo igarashi,yasuyuki matsushita,makoto okabe;illumination brush interactive design of all frequency lighting;04756336;43F3EBCF;2007
+38;0;li shen;mark l greenberg,sheng zhang,fillia makedon,ling gao,justin d pearlman,heng huang;a clustering based approach for prediction of cardiac resynchronization therapy;05FF8B11;439F2D27;2005
+39;3;li shen;thomas b hilburn,massood towhidnejad;application of software fault tree analysis to an airport ground control system;14093;45FFFB88;2008
+40;0;li shen;fillia makedon,song ye,sheng zhang,sarantos kapidakis,james ford;data brokers building collections through automated negotiation;066AF386;4304EC96;2004
+41;0;li shen;heather a wishart,yuhang wang,andrew j saykin,fillia makedon,tilmann steinberg;a spatio temporal multi modal data management and analysis environment for tracking ms lesions;066AF386;44E8D4B3;2003
+42;0;li shen;ling cheng,vasileios megalooikonomou,tilmann steinberg,fillia makedon,james ford;mining the most interesting web access associations;066AF386;45C7663C;2000
+43;4;li shen;kui dai,libo huang,mingche lai,hong yue;hardware support for arithmetic units of processor with multimedia extension;0A254897;44BC5EE8;2007
+44;4;li shen;kui dai,libo huang,xinbiao gan,zhiying wang;a new cordic algorithm and software implementation based on synchronized data triggering architecture;0A254897;44BC5EE8;2008
+45;4;li shen;hongyi lu,dan chen,wei chen,nong xiao,zhiying wang;a novel hardware assisted full virtualization technique;0A254897;46013AA1;2008
+46;1;li shen;e c tan;reducing multiclass cancer classification to binary by output coding and svm;0A4ACFBD;0641039F;2006
+47;0;li shen;james ford,fillia makedon,andrew j saykin;a surface based approach for classification of 3d neuroanatomic structures;14232;4799A10B;2004
+48;0;li shen;ling cheng,hong shen;new algorithms for efficient mining of association rules;066AF386;0B7B9B75;1999
+49;0;li shen;ling cheng,hong shen;new algorithms for efficient mining of association rules;00B28C35;0B7B9B75;1999
+50;0;li shen;fillia makedon;spherical mapping for processing of 3d closed surfaces;05FF8B11;0A9361D2;2006
+51;1;li shen;pin liao;unified probabilistic models for face recognition from a single example image per person;012E6F4E;09A08B9A;2004
+52;1;li shen;pin liao,yiqiang chen,shuchang liu;unified model in identity subspace for face recognition;012E6F4E;09A08B9A;2004
+53;1;li shen;;vfsim concurrent fault simulation at register transfer level;012E6F4E;09A08B9A;2005
+54;0;li shen;paul pritchard,ling cheng,hong shen;fast association discovery in derivative transaction collections;066AF386;04DFB7BE;2000
+55;0;li shen;yongqiang sun,kai lin;the design and implementation of a program development system based on rewriting method;14567;08D7401B;1997
+56;1;li shen;stephen y h su;a functional testing method for microprocessors;07634566;0965DDD6;1988
+57;1;li shen;e c tan;dimension reduction based penalized logistic regression for cancer classification using microarray data;0A4ACFBD;0225C627;2005
+58;0;li shen;rong zhang,justin d pearlman,heng huang,fillia makedon,andrew j saykin;a novel surface registration algorithm with biomedical modeling applications;16567;041BE876;2007
+59;0;li shen;richard j davidson,kim m dalton,moo k chung,alan c evans;weighted fourier series representation and its application to quantifying the amount of gray matter;2651;037612B1;2007
+60;1;li shen;wei wang,jie liu;gbnet deciphering regulatory rules in the co regulated genes using a gibbs sampler enhanced bayesian network approach;0229448F;012269E3;2008
+61;4;li shen;nong xiao,yashuai lu,zhiying wang;dynamically utilizing computation accelerators for extensible processors in a software approach;0A254897;45462B39;2009
+62;5;li shen;ruifang pan,xiaogang jin,hanli zhao,jianbing shen;fast shape simplifying image abstraction using graphics hardware;0489A984;457CED2E;2009
+63;4;li shen;hongyi lu,wei chen,nong xiao,zhiying wang;dbtim an advanced hardware assisted full virtualization architecture;0A254897;451FA97C;2008
+64;0;li shen;nha nguyen,heng huang;three dimensional models for cardiac bioelectricity simulation cell to organ;00090A43;01F107E4;2007
+65;4;li shen;hongyi lu,zhong zheng,wei chen,nong xiao,zhiying wang;a hardware approach for reducing interpretation overhead;0A254897;42C62517;2009
+66;8;li shen;ping tan;photometric stereo and weather estimation using internet images;09E3EE34;45083D2F;2009
+67;0;li shen;sungeun kim,andrew j saykin;fourier method for large scale surface modeling and registration;19729;05A6DCAB;2009
+68;4;li shen;kui dai,yashuai lu,zhiying wang;parallel simulation of chip multiprocessor by using multi threading;0A254897;1633512;2007
+69;0;li shen;andrew j saykin,sungeun kim;technical section fourier method for large scale surface modeling and registration;085F6C30;05A6DCAB;2009
+70;4;li shen;kui dai,xinbiao gan,zhiying wang;optimal matrix computing using vector division with sub word parallel;0A254897;423385;2008

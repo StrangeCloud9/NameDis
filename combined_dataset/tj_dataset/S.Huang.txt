@@ -1,0 +1,16 @@
+0;0;s huang;baba c vemuri,jeffrey r fitzsimmons,robin l gilmore,timothy h lucas,c leonard,sartaj sahni,cecile m mohr;a robust and efficient algorithm for image registration;01FACAD8;4367C1B4;1997
+1;1;s huang;wuchun feng,yan luo;modeling and analysis of power in multicore network processors;3333E44B;4708B833;2008
+2;2;s huang;robert d mcleod;phatpackets for data transport within an hpc network;02C1AEE3;4777163F;2002
+3;3;s huang;k j m moriarty,jim r potvin,edward a myers;information optimization for monte carlo data and application to high temperature quantum chromodynamics;069F11AE;44BF398F;1990
+4;4;s huang;elke a rundensteiner,j yang,matthew o ward;visual hierarchical dimension reduction for exploration of high dimensional datasets;0661DECB;1394147;2003
+5;5;s huang;jianwen zhu,guangming wu,b liu,wenxing ding,wei sun,c c wang,shenghai ye,taiyong li,zhi tian,d chou,linsong weng;model driven business process integration and management a case study with the bank sinopac regional service platform;4FF45383;06576259;2004
+6;6;s huang;stuart a kauffman,mircea andrecut;heuristic approach to sparse approximation of gene regulatory networks;2367;04AEE84F;2008
+7;7;s huang;aoying zhou,xiaoling wang;bits a binary tree based web service composition system;017C99DB;071EF8E7;2007
+8;8;s huang;john a kaliski,k o kortanek,yanwei ye;near boundary behavior of primal dual potential reduction algorithms for linear programming;07874D3C;0B8EFC61;1993
+9;9;s huang;jidong zhong;an enhanced multiplicative spread spectrum watermarking scheme;0AE9651A;06DD66F4;2006
+10;10;s huang;jian kang wu;optical watermarking for printed document authentication;0BA3C53A;03A78696;2007
+11;1;s huang;wuchun feng;energy efficient cluster computing via accurate workload characterization;3333E44B;4651456C;2009
+12;11;s huang;h p ng,k w c foong,jun liu,s h ong,wieslaw l nowinski,p s goh;3d segmentation and quantification of a masticatory muscle from mr data using patient specific models and matching distributions;06DE3FEB;03B63EE8;2009
+13;12;s huang;kwangting cheng,takkwan lee,kuangchien chen;a novel methodology for transistor level power estimation;09368EC9;42CCF5DE;1996
+14;13;s huang;dennis b smith,scott tilley,john gerdes,terrance hamilton,hausi a muller,kenny wong;on the business value and technical challenges of adopting web services;062D596B;03BE339E;2004
+15;14;s huang;jun ji,florian a potra;predictor corrector method for linear complementarity problems with polynomial complexity and superlinear convergence;02AA1FA9;03200830;1995

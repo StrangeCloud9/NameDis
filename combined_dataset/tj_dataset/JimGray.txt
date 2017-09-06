@@ -1,0 +1,223 @@
+0;1;jim gray;;database and transaction processing performance handbook;18121;1722256;1993
+1;1;jim gray;;the benchmark handbook for database and transaction systems 1st edition ;2926;926464;1991
+2;1;jim gray;andreas reuter;transaction processing concepts and techniques;14095;551969;1992
+3;1;jim gray;;notes on data base operating systems;4FF45383;0AECB621;1978
+4;1;jim gray;;the revolution in database system architecture;10758;43CD1EFB;2004
+5;1;jim gray;irving l traiger,donald d chamberlin;views authorization and locking in a relational data base system;4FF45383;46DAB993;1975
+6;1;jim gray;peter homan,ron obermarck,henry f korth;a straw man analysis of the probability of waiting and deadlock in a database system;242;886002;1981
+7;1;jim gray;;super servers commodity computer clusters pose a software challenge;5386;46C3B28B;1995
+8;4;jim gray;;why do computer stop and what can be about it ;2075;1989851;1985
+9;1;jim gray;james annis,alexander s szalay,william omullane,aniruddha r thakar,maria a nietosantisteban;when database systems meet the grid;08A948CC;0B68DB42;2005
+10;1;jim gray;peter homan,dieter gawlick,harald sammer,robert c good;one thousand transactions per second;05FF5AE5;44C16141;1985
+11;1;jim gray;christian nyberg;desktop batch processing;15718;44C16141;1994
+12;1;jim gray;g r putzolu,raymond lorie,irving l traiger;granularity of locks and degrees of consistency in a shared data base;9195;437C7B15;1988
+13;1;jim gray;g r putzolu,raymond lorie,irving l traiger;granularity of locks and degrees of consistency in a shared data base;18585;437C7B15;1998
+14;1;jim gray;michael stonebraker,bruce lindsay,philip a bernstein,david beech,lawrence a rowe,michael l brodie,michael j carey;third generation database system manifesto the committee for advanced dbms function;8856;437C7B15;1990
+15;0;jim gray;;triumphs sins and challenges of database benchmarking;15062;890420;2006
+16;1;jim gray;;greetings from a filesystem user;19311;4372AEEF;2005
+17;1;jim gray;michael a harrison;single pass precedence analysis extended abstract ;8992;448ECA1D;1969
+18;1;jim gray;dan dumitriu,werner vogels,rod gamache,joseph s barrera,rob short,michael t massa,kenneth p birman,john vert;the design and architecture of the microsoft cluster service a practical approach to high availability and scalability;1693;43F41A29;1998
+19;1;jim gray;;a comparison of the byzantine agreement problem and the transaction commit problem;15875;43F41A29;1990
+20;1;jim gray;;fault tolerance in tandem systems;19999;439550F3;1985
+21;3;jim gray;;why tp lite will dominate the tp market;15513;439550F3;1993
+22;1;jim gray;;a transaction model;4FF45383;440ED19A;1980
+23;1;jim gray;michael stonebraker,a chandra,moshe y vardi,umeshwar dayal,gio wiederhold,surajit chaudhuri;database research lead follow or get out of the way panel abstract;16184;45610CDA;1996
+24;1;jim gray;adam bosworth,hamid pirahesh,andrew layman;data cube a relational aggregation operator generalizing group by cross tab and sub total;12443;45610CDA;1996
+25;1;jim gray;prashant shenoy;rules of thumb in data engineering;4CE6FC2D;45610CDA;2000
+26;1;jim gray;jim gemmell,eve m schooler;fcast multicast file distribution tune in download and drop out;13436;448C641E;1999
+27;1;jim gray;;on line science the world wide telescope as a prototype for the new computational science;4CE6FC2D;436976F3;2003
+28;1;jim gray;;the cost of messages;15390;43F41A29;1988
+29;1;jim gray;naga k govindaraju,dinesh manocha,scott larsen;memory a memory model for scientific algorithms on graphics processors;703;425933;2006
+30;1;jim gray;randal burns,andreas terzis,katalin szlavecz,stuart ozer,josh cogan,razvan musaloiue,alexander s szalay;data analysis tools for sensor based science;4CE6FC2D;43DCE876;2006
+31;1;jim gray;susanne englert,praful shah,terrye kocher;a benchmark of nonstop sql release 2 demonstrating near linear speedup and scaleup on large databases;882;4372AEEF;1990
+32;1;jim gray;;a view of database system performance measures;15820;4372AEEF;1987
+33;1;jim gray;elizabeth oneil,hal berenson,patrick oneil,phil bernstein,jim melton;a critique of ansi sql isolation levels;05B090CE;460A7036;1995
+34;1;jim gray;elizabeth oneil,philip a bernstein,hal berenson,patrick oneil,jim melton;a critique of ansi sql isolation levels;9168;460A7036;2007
+35;1;jim gray;don slut,donald r slutz,tom barclay;terraserver a spatial data warehouse;235;460A7036;2000
+36;1;jim gray;dinesh manocha,ritesh kumar,naga k govindaraju;gputerasort high performance graphics co processor sorting for large database management;4CE6FC2D;460A7036;2006
+37;1;jim gray;;the next database revolution;4CE6FC2D;460A7036;2004
+38;1;jim gray;;practical problems in data management a position paper;14382;460A7036;1983
+39;1;jim gray;;operating system support for data management systems;5739;460A7036;1987
+40;1;jim gray;;database performance metrics;1636;460A7036;1989
+41;1;jim gray;;database and transaction processing benchmarks;5978;460A7036;1992
+42;1;jim gray;;parallel database systems 101;10458;460A7036;1995
+43;1;jim gray;pat helland,dennis shasha,patrick oneil;the dangers of replication and a solution;4CE6FC2D;460A7036;1996
+44;1;jim gray;pat helland,dennis shasha,patrick oneil;the dangers of replication and a solution;12440;460A7036;1998
+45;1;jim gray;peter j weinberger,susanne englert,kenneth baclawski,prakash sundaresan;quickly generating billion record synthetic databases;6113;460A7036;1994
+46;1;jim gray;jeffrey d ullman,michael stonebraker,h j schek;the lowell report;4CE6FC2D;460A7036;2003
+47;1;jim gray;chris nyberg,dave lomet,zarka cvetanovic,tom barclay;alphasort a risc machine sort;16643;460A7036;1994
+48;1;jim gray;alex tsukerman,susan uren,michael stuewart,betty salzberg,bonnie vaughan;fastsort a distributed single input single output external sort;3176;460A7036;1990
+49;1;jim gray;peter z kunszt,ani r thakar,alexander s szalay;designing and mining multi terabyte astronomy archives the sloan digital sky survey;4813;460A7036;1999
+50;1;jim gray;peter z kunszt,jan vandenberg,jordan raddick,ani r thakar,christopher stoughton,tanu malik,alexander s szalay;the sdss skyserver public access to the sloan digital sky server data;4CE6FC2D;460A7036;2002
+51;1;jim gray;bruce lindsay,lawrence a rowe,michael stonebraker,david beech,michael j carey;the committee for advanced dbms function third generation data base system manifesto;12399;460A7036;1990
+52;4;jim gray;;why do computers stop and what can be done about it ;11980;43B0793E;1985
+53;1;jim gray;;where the rubber meets the sky the semantic gap between data producers and data consumers;4CE6FC2D;44E8D4B3;2004
+54;1;jim gray;dina bitton;disk shadowing;126;4390334E;1988
+55;1;jim gray;;the transaction concept virtues and limitations invited paper ;16289;4390334E;1981
+56;1;jim gray;m k r walker,bob horst;parity striping of disk arrays low cost reliable storage with acceptable throughput;14220;4390334E;1990
+57;1;jim gray;g r putzolu,raymond lorie,irving l traiger;granularity of locks in a large shared data base;13815;4390334E;1975
+58;1;jim gray;eran gabber,bruce gordon,banu ozden,elizabeth shriver,david j dewitt,john wilkes,wee teck ng,bruce k hillyer;storage service providers a solution for storage management panel ;9001;4390334E;2001
+59;1;jim gray;stefano ceri,andreas reuter,betty salzberg,gerhard weikum;databases and workflow management what is it all about panel ;11809;4390334E;1995
+60;1;jim gray;hansjorg zeller;an adaptive hash join algorithm for multiuser environments;3022;4390334E;1990
+61;1;jim gray;sveinolaf hvasshovd;panel session do the dbms sw vendors offer the products required by the industrial user in the communication industry ;4CE6FC2D;4390334E;1999
+62;1;jim gray;peter z kunszt,christopher stoughton,donald r slutz,ani r thakar,jan vandenberg,alexander s szalay;data mining the sdss skyserver database;4CE6FC2D;0B68DB42;2002
+63;1;jim gray;m e lesk,richard t snodgrass,rakesh agrawal,avi silberschatz,joseph m hellerstein,timos sellis,jennifer widom,stefano ceri,michael pazzani,martin kersten,gerhard weikum,jeffrey d ullman,david j dewitt,hector garcia molina,serge abiteboul,bruce croft,laura m haas,jeffrey f naughton,stan zdonik,phil bernstein,alon halevy,yannis ioannidis,michael stonebraker,michael j franklin,david maier,dieter gawlick,h j schek,michael j carey;the lowell database research self assessment;284;062B05D6;2005
+64;1;jim gray;richard t snodgrass,rakesh agrawal,w bruce croft,alon halevy,joseph m hellerstein,timos sellis,stanley b zdonik,hansj rg schek,jennifer widom,michael pazzani,michael lesk,martin kersten,gerhard weikum,jeffrey d ullman,david j dewitt,hector garcia molina,serge abiteboul,stefano ceri,philip a bernstein,laura m haas,jeffrey f naughton,avi silberschatz,michael j franklin,michael stonebraker,yannis ioannidis,david maier,dieter gawlick,michael j carey;the lowell database research self assessment;4CE6FC2D;0B68DB42;2003
+65;1;jim gray;gordon bell;what s next in high performance computing ;4CE6FC2D;062B05D6;2002
+66;1;jim gray;patricia griffiths selinger,raymond lorie,donald d chamberlin,bruce lindsay,j w mehl,robert a yost,irving l traiger,thomas g price,donald r slutz,morton m astrahan,mario schkolnick,w frank king,michael w blasgen,franco putzolu,bradford w wade;a history and evaluation of system r;4FF45383;062B05D6;1981
+67;1;jim gray;patricia griffiths selinger,raymond lorie,donald d chamberlin,bruce lindsay,j w mehl,robert a yost,irving l traiger,thomas g price,donald r slutz,morton m astrahan,mario schkolnick,w frank king,michael w blasgen,franco putzolu,bradford w wade;a history and evaluation of system r;4FF45383;062B05D6;1988
+68;1;jim gray;patricia griffiths selinger,raymond lorie,donald d chamberlin,bruce lindsay,j w mehl,robert a yost,irving l traiger,thomas g price,donald r slutz,mario schkolnick,morton m astrahan,w frank king,michael w blasgen,franco putzolu,bradford w wade;a history and evaluation of system r;11739;062B05D6;1998
+69;1;jim gray;david j dewitt;parallel database systems the future of high performance database systems;7586;062B05D6;1992
+70;1;jim gray;irving l traiger,raymond lorie,kapali p eswaran;the notions of consistency and predicate locks in a database system;4FF45383;062B05D6;1976
+71;1;jim gray;alexander s szalay;the world wide telescope;4CE6FC2D;062B05D6;2002
+72;1;jim gray;alexander s szalay;the world wide telescope;4CE6FC2D;003B355D;2001
+73;1;jim gray;gordon bell,alexander s szalay;petascale computational systems;4065;0AAA0D31;2007
+74;1;jim gray;gordon bell,alexander s szalay;petascale computational systems;4CE6FC2D;0AAA0D31;2006
+75;1;jim gray;;evolution of data management;4CE6FC2D;0AAA0D31;1996
+76;1;jim gray;daniel p siewiorek;high availability computer systems;4891;0AAA0D31;1991
+77;1;jim gray;;locally served network computers;4CE6FC2D;0B68DB42;1998
+78;1;jim gray;george spix,bill devlin,bill laing;scalability terminology farms clones partitions packs racs and raps;4CE6FC2D;0B68DB42;1999
+79;1;jim gray;peter z kunszt,christopher stoughton,donald r slutz,ani r thakar,jan vandenberg,alexander s szalay;data mining the sdss skyserver database;4CE6FC2D;0B68DB42;2002
+80;1;jim gray;jan vandenberg,alexander s szalay;petabyte scale data mining dream or reality ;4CE6FC2D;0B68DB42;2002
+81;1;jim gray;j m vandenberg,alexander s szalay;petabyte scale data mining dream or reality ;4CE6FC2D;0B68DB42;2002
+82;1;jim gray;istvan szapudi,takahiko matsubara,andrew j connolly,a pope,tamas budavari,alexander s szalay;spatial clustering of galaxies in large datasets;4CE6FC2D;0B68DB42;2002
+83;1;jim gray;istvan szapudi,takahiko matsubara,andrew j connolly,a pope,tamas budavari,alexander s szalay;spatial clustering of galaxies in large datasets;4CE6FC2D;0B68DB42;2002
+84;1;jim gray;m e lesk,richard t snodgrass,rakesh agrawal,avi silberschatz,joseph m hellerstein,timos sellis,jennifer widom,stefano ceri,michael pazzani,martin kersten,gerhard weikum,jeffrey d ullman,david j dewitt,hector garcia molina,serge abiteboul,bruce croft,laura m haas,jeffrey f naughton,stan zdonik,phil bernstein,alon halevy,yannis ioannidis,michael stonebraker,michael j franklin,david maier,dieter gawlick,h j schek,michael j carey;the lowell database research self assessment;7949;062B05D6;2005
+85;1;jim gray;richard t snodgrass,rakesh agrawal,w bruce croft,alon halevy,joseph m hellerstein,timos sellis,stanley b zdonik,hansj rg schek,jennifer widom,michael pazzani,michael lesk,martin kersten,gerhard weikum,jeffrey d ullman,david j dewitt,hector garcia molina,serge abiteboul,stefano ceri,philip a bernstein,laura m haas,jeffrey f naughton,avi silberschatz,michael j franklin,michael stonebraker,yannis ioannidis,david maier,dieter gawlick,michael j carey;the lowell database research self assessment;4CE6FC2D;0B68DB42;2003
+86;1;jim gray;william omullane,maria a nietosantisteban,aniruddha r thakar,tamas budavari,alexander s szalay,nolan li;extending the sdss batch query system to the national virtual observatory grid;4CE6FC2D;0B68DB42;2004
+87;1;jim gray;alexander s szalay;the world wide telescope an archetype for online science;4CE6FC2D;0B68DB42;2004
+88;1;jim gray;peter z kunszt,aniruddha r thakar,alexander s szalay;the sloan digital sky survey science archive migrating a multi terabyte astronomical archive from object to relational dbms;4CE6FC2D;0B68DB42;2004
+89;1;jim gray;wyman chong,tom barclay;a quick look at sata disk performance;4CE6FC2D;0B68DB42;2004
+90;1;jim gray;;the revolution in database system architecture;18164;43CD1EFB;2004
+91;1;jim gray;arnold h rots,william omullane,maria a nietosantisteban,gyorgy fekete,aniruddha r thakar,gerd heber,alexander s szalay;there goes the neighborhood relational algebra for spatial data search;4CE6FC2D;0B68DB42;2004
+92;1;jim gray;chris nyberg,joshua coates;performance price sort;12243;0B68DB42;1998
+93;1;jim gray;goetz graefe;the five minute rule ten years later and other computer storage rules of thumb;4CE6FC2D;02D4EDCF;1997
+94;1;jim gray;john hoffman,george lee,robert eberl,beth duff,Randall Sunne,john nordlinger,Hedy Rossmeissl,Natt Robb III,greg smith,Guru Raghavendran,Theresa Mathesmier,donald r slutz,phil smoot,tom barclay;microsoft terraserver;1498;460A7036;1998
+95;1;jim gray;dave maier,michael j franklin,michael lesk,jerry held,joseph m hellerstein,david j dewitt,michael stonebraker,jeffrey f naughton,jeffrey d ullman,h v jagadish,michael l brodie,hamid pirahesh,phil bernstein,hector garciamolina,stefano ceri;the asilomar report on database research;2713;02D4EDCF;1998
+96;1;jim gray;peter z kunszt,ani r thakar,alexander s szalay;designing and mining multi terabyte astronomy archives the sloan digital sky survey;3245;460A7036;1999
+97;1;jim gray;donald r slutz,tom barclay;microsoft terraserver a spatial data warehouse;4CE6FC2D;460A7036;2000
+98;1;jim gray;donald r slutz,tom barclay;microsoft terraserver a spatial data warehouse;4CE6FC2D;0B68DB42;1999
+99;1;jim gray;tamas budavari,ani r thakar,tanu malik,alexander s szalay;web services for the virtual observatory;4CE6FC2D;0B68DB42;2002
+100;1;jim gray;tamas budavari,alexander s szalay,tanu malika,ani thakara;web services for the virtual observatory;4CE6FC2D;0B68DB42;2002
+101;1;jim gray;leslie lamport;consensus on transaction commit;4CE6FC2D;055F1F1C;2006
+102;1;jim gray;peter z kunszt,jan vandenberg,jordan raddick,ani r thakar,christopher stoughton,tanu malik,alexander s szalay;the sdss skyserver public access to the sloan digital sky server data;4CE6FC2D;460A7036;2002
+103;1;jim gray;peter z kunszt,jan vandenberg,jordan raddick,ani r thakar,christopher stoughton,tanu malik,alexander s szalay;the sdss skyserver public access to the sloan digital sky server data;4CE6FC2D;460A7036;2002
+104;1;jim gray;jeffrey richter,steve ekblad,eric strand,tom barclay;terraservice net an introduction to web services;4CE6FC2D;0B68DB42;2002
+105;1;jim gray;jan vandenberg,christopher stoughton,ani r thakar,alexander s szalay;online scientific data curation publication and archiving;4CE6FC2D;0B68DB42;2002
+106;1;jim gray;christopher stoughton,j m vandenberg,ani r thakar,alexander s szalay;online scientific data curation publication and archiving;08A948CC;0B68DB42;2002
+107;1;jim gray;gordon bell;the revolution yet to happen;12928;0B68DB42;1997
+108;1;jim gray;c gordon bell;the revolution yet to happen;4CE6FC2D;0B68DB42;1998
+109;1;jim gray;;what next a dozen information technology research goals;17936;0B68DB42;2007
+110;1;jim gray;;what next a dozen information technology research goals;4CE6FC2D;0B68DB42;1999
+111;1;jim gray;;what next a dozen information technology research goals;4CE6FC2D;0717AE69;2003
+112;1;jim gray;jan vandenberg,wyman chong,alexander s szalay,tom barclay;terascale sneakernet using inexpensive disks for backup archiving and data exchange;4CE6FC2D;0B68DB42;2002
+113;1;jim gray;;distributed computing economics;4CE6FC2D;02B7909E;2008
+114;1;jim gray;adam bosworth,hamid pirahesh,andrew layman;data cube a relational aggregation operator generalizing group by cross tab and sub totals;4CE6FC2D;4390334E;1995
+115;1;jim gray;a lyaman,adam bosworth,hamid pirahesh;data cube a relational aggregation operator generalizing group by cross tab and sub totals;4CE6FC2D;45610CDA;1996
+116;1;jim gray;adam bosworth,surajit chaudhuri,andrew layman,don reichart,hamid pirahesh,murali venkatrao,frank pellow;data cube a relational aggregation operator generalizing group by cross tab and sub totals;1566;45610CDA;2007
+117;1;jim gray;adam bosworth,surajit chaudhuri,andrew layman,don reichart,hamid pirahesh,murali venkatrao,frank pellow;data cube a relational aggregation operator generalizing group by cross tab and sub totals;4CE6FC2D;45610CDA;1997
+118;1;jim gray;;data management past present and future;4CE6FC2D;0B68DB42;2007
+119;1;jim gray;elizabeth oneil,hal berenson,patrick oneil,phil bernstein,jim melton;a critique of ansi sql isolation levels;05B090CE;460A7036;1995
+120;1;jim gray;elizabeth oneil,philip a bernstein,hal berenson,patrick oneil,jim melton;a critique of ansi sql isolation levels;15536;460A7036;2007
+121;1;jim gray;;queues are databases;4CE6FC2D;0B68DB42;2007
+122;1;jim gray;gerd heber;supporting finite element analysis with a relational database backend part i there is life beyond files;4CE6FC2D;0B68DB42;2007
+123;1;jim gray;gerd heber;supporting finite element analysis with a relational database backend part ii database design and access;4CE6FC2D;0B68DB42;2007
+124;1;jim gray;charles levine;thousands of debitcredit transactions per second easy and inexpensive;4CE6FC2D;0B68DB42;2007
+125;1;jim gray;;a measure of transaction processing 20 years later;14986;0B68DB42;2007
+126;1;jim gray;;a measure of transaction processing 20 years later;4CE6FC2D;03B217F8;2007
+127;1;jim gray;gyorgy fekete,alexander s szalay;using table valued functions in sql server 2005 to implement a spatial data library;4CE6FC2D;0B68DB42;2007
+128;1;jim gray;peter z kunszt,g fekete,alexander s szalay,ani r thakar,peter kukol;indexing the sphere with the hierarchical triangular mesh;4CE6FC2D;0B68DB42;2007
+129;1;jim gray;gordon bell,alexander s szalay;petascale computational systems;3624;0AAA0D31;2007
+130;1;jim gray;gordon bell,alexander s szalay;petascale computational systems;4CE6FC2D;0AAA0D31;2006
+131;1;jim gray;catharine van ingen;empirical measurements of disk failure rates and error rates;4CE6FC2D;0B68DB42;2007
+132;1;jim gray;maria a nietosantisteban,aniruddha r thakar,alexander s szalay;large scale query and xmatch entering the parallel zone;4CE6FC2D;0B68DB42;2007
+133;1;jim gray;catharine van ingen,russell sears;to blob or not to blob large object storage in a database or a filesystem ;4CE6FC2D;0B68DB42;2007
+134;1;jim gray;randal burns,sam small,andreas terzis,j cogan,katalin szlavecz,stuart ozer,razvan musaloiue,alexander s szalay;life under your feet an end to end soil ecology sensor network database web server and analysis service;4CE6FC2D;0B68DB42;2007
+135;1;jim gray;maria a nietosantisteban,alexander s szalay;the zones algorithm for finding points near a point or cross matching spatial datasets;08A948CC;0B68DB42;2007
+136;1;jim gray;alexander s szalay,maria a nietosantisteban,tamas budavari,robert h lupton,ani r thakar;cross matching multiple spatial observations and dealing with missing data;4CE6FC2D;0B68DB42;2007
+137;1;jim gray;svetlana lebedeva,brian yanny,vik singh,jordan raddick,ani r thakar,b boroski,alexander s szalay;skyserver traffic report the first five years;4CE6FC2D;0B68DB42;2007
+138;1;jim gray;david j dewitt,maria a nietosantisteban,david t liu,gerd heber,alexander s szalay;scientific data management in the coming decade;4CE6FC2D;02D4EDCF;2005
+139;1;jim gray;peter kukol;performance considerations for gigabyte per second transcontinental disk to disk file transfers;13859;0B68DB42;2005
+140;1;jim gray;tom barclay;terraserver san cluster architecture and operations experience;4CE6FC2D;0B68DB42;2005
+141;1;jim gray;alexander s szalay;where the rubber meets the sky bridging the gap between databases and science;778;0B68DB42;2005
+142;1;jim gray;alexander s szalay;where the rubber meets the sky bridging the gap between databases and science;4CE6FC2D;03B217F8;2005
+143;1;jim gray;peter kukol;sequential file programming patterns and performance with net;4CE6FC2D;0B68DB42;2005
+144;1;jim gray;james annis,alexander s szalay,william omullane,aniruddha r thakar,maria a nietosantisteban;when database systems meet the grid;08A948CC;0B68DB42;2005
+145;1;jim gray;maria a nietosantisteban,nolan li,william omullane,ani r thakar,alexander s szalay;batch is back casjobs serving multi tb data on the web;08A948CC;47A823DD;2005
+146;1;jim gray;jacek becla,ghaleb m abdulla,andrew hanushevsky,maria a nietosantisteban,sergei nikolaev,ani r thakar,alexander s szalay;designing a multi petabyte database for lsst;4CE6FC2D;0B68DB42;2006
+147;1;jim gray;raymond lorie,bruce lindsay,irving l traiger,thomas g price,paul r mcjones,michael w blasgen,franco putzolu;the recovery manager of the system r database manager;11158;0969B0BC;1981
+148;1;jim gray;adam bosworth,hamid pirahesh,andrew layman;data cube a relational aggregation operator generalizing group by cross tab and sub totals;4CE6FC2D;4390334E;1995
+149;1;jim gray;a lyaman,adam bosworth,hamid pirahesh;data cube a relational aggregation operator generalizing group by cross tab and sub totals;4CE6FC2D;45610CDA;1996
+150;1;jim gray;adam bosworth,surajit chaudhuri,andrew layman,don reichart,hamid pirahesh,murali venkatrao,frank pellow;data cube a relational aggregation operator generalizing group by cross tab and sub totals;13344;45610CDA;2007
+151;1;jim gray;adam bosworth,surajit chaudhuri,andrew layman,don reichart,hamid pirahesh,murali venkatrao,frank pellow;data cube a relational aggregation operator generalizing group by cross tab and sub totals;4CE6FC2D;45610CDA;1997
+152;1;jim gray;timothy c k chou;transaction acceleration;3701;03B217F8;1985
+153;1;jim gray;;a measure of transaction processing 20 years later;6693;0B68DB42;2007
+154;1;jim gray;;a measure of transaction processing 20 years later;4CE6FC2D;03B217F8;2007
+155;1;jim gray;alexander s szalay;where the rubber meets the sky bridging the gap between databases and science;10310;0B68DB42;2005
+156;1;jim gray;alexander s szalay;where the rubber meets the sky bridging the gap between databases and science;4CE6FC2D;03B217F8;2005
+157;1;jim gray;;what next a few remaining problems in information technlogy sigmod conference 1999 acm turing award lecture video;5710;02061EAC;2000
+158;1;jim gray;;review benchmarking database systems a systematic approach;7307;0338ADA2;1999
+159;1;jim gray;michael a harrison;the theory of sequential relations;404;03928357;1966
+160;1;jim gray;oscar h ibarra,michael a harrison;two way pushdown automata;138;03928357;1967
+161;1;jim gray;g r putzolu,raymond lorie,donald d chamberlin,bruce lindsay,j w mehl,p g sellinger,irving l traiger,thomas g price,donald r slutz,h r strong,mario schkolnick,morton m astrahan,robert a yost,michael w blasgen,w f king,bradford w wade;system r an architectural overview;3854;06B74EC7;1999
+162;1;jim gray;g r putzolu,raymond lorie,donald d chamberlin,bruce lindsay,j w mehl,p g sellinger,irving l traiger,thomas g price,donald r slutz,h r strong,mario schkolnick,morton m astrahan,robert a yost,michael w blasgen,w f king,bradford w wade;system r an architectural overview;19086;06B74EC7;1999
+163;1;jim gray;jeffrey richter,steve ekblad,eric strand,tom barclay;designing and building terraservice;4CE6FC2D;0C45C5F4;2006
+164;1;jim gray;;what next a dozen information technology research goals;14662;0B68DB42;2007
+165;1;jim gray;;what next a dozen information technology research goals;4CE6FC2D;0B68DB42;1999
+166;1;jim gray;;what next a dozen information technology research goals;4CE6FC2D;0717AE69;2003
+167;1;jim gray;michael a harrison;on the covering and reduction problems for context free grammars;4FF45383;0717AE69;1972
+168;1;jim gray;michael a harrison;canonical precedence schemes;4FF45383;0717AE69;1973
+169;1;jim gray;g t herman,michael a harrison,h gallaire;infinite linear sequential machines;10393;0867CDAD;1968
+170;1;jim gray;;a conversation with tim bray;18629;02B7909E;2005
+171;1;jim gray;mark compton;a call to arms;4CE6FC2D;02B7909E;2005
+172;1;jim gray;robert barnes,prakash sundaresan,tom barclay;loading databases using dataflow parallelism;8849;02D4EDCF;1994
+173;1;jim gray;dave maier,michael j franklin,michael lesk,jerry held,joseph m hellerstein,david j dewitt,michael stonebraker,jeffrey f naughton,jeffrey d ullman,h v jagadish,michael l brodie,hamid pirahesh,phil bernstein,hector garciamolina,stefano ceri;the asilomar report on database research;5776;02D4EDCF;1998
+174;1;jim gray;hansjorg schek,peter c lockemann,michael stonebraker,david maier,bruce lindsay,philip a bernstein,matthias jarke,umeshwar dayal,lawrence a rowe,dieter gawlick,david j dewitt,andreas reuter,joachim w schmidt,erich j neuhold,michael schrefl;future directions in dbms research the laguna beach participants;3556;02D4EDCF;1989
+175;1;jim gray;david j dewitt;parallel database systems the future of database processing or a passing fad ;9634;02D4EDCF;1990
+176;1;jim gray;goetz graefe;the five minute rule ten years later and other computer storage rules of thumb;4CE6FC2D;02D4EDCF;1997
+177;1;jim gray;david j dewitt,maria a nietosantisteban,david t liu,gerd heber,alexander s szalay;scientific data management in the coming decade;4CE6FC2D;02D4EDCF;2005
+178;1;jim gray;michael stonebraker,bruce lindsay,philip a bernstein,david beech,lawrence a rowe,michael l brodie,michael j carey;third generation database system manifesto the committee for advanced dbms function;15954;437C7B15;1990
+179;1;jim gray;thomas g price,michael w blasgen,mike mitoma;the convoy phenomenon;2246;0B810D50;1980
+180;2;jim gray;;increasing the effectiveness of os research;14698;02FC069B;1992
+181;1;jim gray;g r putzolu,raymond lorie,donald d chamberlin,p p griffiths,j w mehl,p r mcjones,irving l traiger,v watson,morton m astrahan,kapali p eswaran,michael w blasgen,w f king,bradford w wade;system r relational approach to database management;8626;055F1F1C;1998
+182;1;jim gray;p p griffiths,raymond lorie,donald d chamberlin,g r putzolu,j w mehl,p r mcjones,irving l traiger,v watson,morton m astrahan,bradford w wade,michael w blasgen,w f king,kapali p eswaran;system r relational approach to database management;4FF45383;055F1F1C;1976
+183;1;jim gray;leslie lamport;consensus on transaction commit;4CE6FC2D;055F1F1C;2006
+184;1;jim gray;bruce lindsay,irving l traiger,cesare a galtieri;transactions and consistency in distributed database systems;4FF45383;055F1F1C;1982
+185;1;jim gray;;an approach to decentralized computer systems;16795;007F6F5E;1986
+186;1;jim gray;chris nyberg,zarka cvetanovic,dave lomet,tom barclay;alphasort a cache sensitive parallel external sort;4CE6FC2D;4390334E;1995
+187;1;jim gray;chris nyberg,dave lomet,zarka cvetanovic,tom barclay;alphasort a cache sensitive parallel external sort;17305;04B4543D;1998
+188;1;jim gray;michael j franklin,m hansen,akshay k deshpande,magdalena balazinska,vincent tao,phillip b gibbons,suman nath,m liebhold,alexander s szalay;data management in the worldwide sensor web;15702;0171209C;2007
+189;1;jim gray;vera watson;a shared segment and interprocess communication facility for vm 370;4647;055F1F1C;1975
+190;1;jim gray;bruce lindsay,irving l traiger,cesare a galtieri;transactions and consistency in distributed database systems;4FF45383;055F1F1C;1982
+191;1;jim gray;;the benchmark handbook for database and transaction systems 1st edition ;19582;1740758;1991
+192;1;jim gray;andreas reuter;transaction processing concepts and techniques;8586;406042;1992
+193;1;jim gray;bob fitzgerald;flash disk opportunity for server applications;2265;02B7909E;2008
+194;1;jim gray;;distributed computing economics;4CE6FC2D;02B7909E;2008
+195;1;jim gray;;the benchmark handbook for database and transaction systems 1st edition ;17844;20632;1991
+196;1;jim gray;andreas reuter;transaction processing concepts and techniques;13835;1168781;1992
+197;1;jim gray;a r thakai,alexander s szalay;the sqlloader data loading pipeline;8347;066EC72D;2008
+198;1;jim gray;g fekete,ani r thakar,alexander s szalay;the catalog archive server database management system;1657;066EC72D;2008
+199;1;jim gray;m e lesk,richard t snodgrass,rakesh agrawal,avi silberschatz,joseph m hellerstein,timos sellis,jennifer widom,stefano ceri,michael pazzani,martin kersten,gerhard weikum,jeffrey d ullman,david j dewitt,hector garcia molina,serge abiteboul,bruce croft,laura m haas,jeffrey f naughton,stan zdonik,phil bernstein,alon halevy,yannis ioannidis,michael stonebraker,michael j franklin,david maier,dieter gawlick,h j schek,michael j carey;the lowell database research self assessment;13624;062B05D6;2005
+200;1;jim gray;richard t snodgrass,rakesh agrawal,w bruce croft,alon halevy,joseph m hellerstein,timos sellis,stanley b zdonik,hansj rg schek,jennifer widom,michael pazzani,michael lesk,martin kersten,gerhard weikum,jeffrey d ullman,david j dewitt,hector garcia molina,serge abiteboul,stefano ceri,philip a bernstein,laura m haas,jeffrey f naughton,avi silberschatz,michael j franklin,michael stonebraker,yannis ioannidis,david maier,dieter gawlick,michael j carey;the lowell database research self assessment;4CE6FC2D;0B68DB42;2003
+201;1;jim gray;;the transaction concept virtues and limitations;3664;055F1F1C;1988
+202;1;jim gray;franco putzolu;the 5 minute rule for trading memory for disc accesses and the 10 byte rule for trading memory for cpu time;6943;460A7036;1987
+203;1;jim gray;dave maier,michael j franklin,michael lesk,jerry held,joseph m hellerstein,david j dewitt,michael stonebraker,jeffrey f naughton,jeffrey d ullman,h v jagadish,michael l brodie,hamid pirahesh,phil bernstein,hector garciamolina,stefano ceri;the asilomar report on database research;15425;02D4EDCF;1998
+204;1;jim gray;chris nyberg,zarka cvetanovic,dave lomet,tom barclay;alphasort a cache sensitive parallel external sort;4CE6FC2D;4390334E;1995
+205;1;jim gray;chris nyberg,dave lomet,zarka cvetanovic,tom barclay;alphasort a cache sensitive parallel external sort;17513;04B4543D;1998
+206;1;jim gray;david j dewitt;parallel database systems the future of high performance database systems;10158;062B05D6;1992
+207;1;jim gray;adam bosworth,hamid pirahesh,andrew layman;data cube a relational aggregation operator generalizing group by cross tab and sub totals;4CE6FC2D;4390334E;1995
+208;1;jim gray;a lyaman,adam bosworth,hamid pirahesh;data cube a relational aggregation operator generalizing group by cross tab and sub totals;4CE6FC2D;45610CDA;1996
+209;1;jim gray;adam bosworth,surajit chaudhuri,andrew layman,don reichart,hamid pirahesh,murali venkatrao,frank pellow;data cube a relational aggregation operator generalizing group by cross tab and sub totals;3285;45610CDA;2007
+210;1;jim gray;adam bosworth,surajit chaudhuri,andrew layman,don reichart,hamid pirahesh,murali venkatrao,frank pellow;data cube a relational aggregation operator generalizing group by cross tab and sub totals;4CE6FC2D;45610CDA;1997
+211;1;jim gray;donald r slutz,tom barclay;microsoft terraserver a spatial data warehouse;4CE6FC2D;460A7036;2000
+212;1;jim gray;donald r slutz,tom barclay;microsoft terraserver a spatial data warehouse;4CE6FC2D;0B68DB42;1999
+213;1;jim gray;pat helland,dennis shasha,patrick oneil;the dangers of replication and a solution;4CE6FC2D;460A7036;1996
+214;1;jim gray;pat helland,dennis shasha,patrick oneil;the dangers of replication and a solution;14155;460A7036;1998
+215;1;jim gray;michael stonebraker,bruce lindsay,philip a bernstein,david beech,lawrence a rowe,michael l brodie,michael j carey;third generation database system manifesto;11339;02D4EDCF;1990
+216;1;jim gray;michael stonebraker,bruce lindsay,philip a bernstein,david beech,lawrence a rowe,michael l brodie,michael j carey;third generation database system manifesto;6647;02D4EDCF;1991
+217;1;jim gray;raymond lorie,bruce lindsay,irving l traiger,thomas g price,paul r mcjones,michael w blasgen,franco putzolu;the recovery manager of the system r database manager;4100;0969B0BC;1981
+218;1;jim gray;eran gabber,bruce gordon,banu ozden,elizabeth shriver,david j dewitt,john wilkes,wee teck ng,bruce k hillyer;storage service providers a solution for storage management panel ;3975;4390334E;2001
+219;1;jim gray;;a comparison of the byzantine agreement problem and the transaction commit problem;13027;43F41A29;1990
+220;1;jim gray;elizabeth oneil,hal berenson,patrick oneil,phil bernstein,jim melton;a critique of ansi sql isolation levels;05B090CE;460A7036;1995
+221;1;jim gray;elizabeth oneil,philip a bernstein,hal berenson,patrick oneil,jim melton;a critique of ansi sql isolation levels;15559;460A7036;2007
+222;1;jim gray;;benchmark handbook for database and transaction processing systems;16033;212463;1992

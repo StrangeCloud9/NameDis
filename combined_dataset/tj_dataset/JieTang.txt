@@ -1,0 +1,66 @@
+0;0;jie tang;fuyan zhang;anisotropic feature preserving smoothing of 3d mesh;13134;455477A7;2005
+1;1;jie tang;hwee tou ng,conghui zhu;a unified tagging approach to text normalization;2828;46DAB993;2008
+2;1;jie tang;kehong wang,bangyong liang,juanzi li;semantic similarity based ontology cache;05E79D01;43F44683;2006
+3;1;jie tang;juanzi li,peng xu,qiang song;table detection from plain text using machine learning and document structure;05E79D01;43F44683;2006
+4;1;jie tang;kehong wang,yueru cai,juanzi li;loss minimization based keyword distillation;05E79D01;43F44683;2004
+5;1;jie tang;wei wei,kuo zhang,mingcai hong,juanzi li;weighted ontology based search exploiting semantic similarity;05E79D01;43F44683;2006
+6;1;jie tang;wei wei,kuo zhang,mingcai hong,juanzi li;weighted ontology based search exploiting semantic similarity;1015;43F44683;2006
+7;1;jie tang;mingcai hong,juanzi li;semantic annotation using horizontal and vertical contexts;05E79D01;4761B1FF;2006
+8;1;jie tang;kehong wang,bangyong liang,juanzi li;risk minimization based ontology mapping;05E79D01;143133;2004
+9;1;jie tang;kehong wang,xiaoqin xie,juanzi li;a component retrieval method based on facet weight self learning;05E79D01;986834;2004
+10;1;jie tang;kehong wang,po zhang,jianjun xu,qian zhu,juanzi li;semantic based web services discovery;05E79D01;821168;2004
+11;1;jie tang;kehong wang,juanzi li,duo zhang;a constraint based probabilistic framework for name disambiguation;05E79D01;472C6E2D;2007
+12;1;jie tang;xin xin,qiong luo,juanzi li;academic conference homepage understanding using constrained hierarchical conditional random fields;05E79D01;472C6E2D;2008
+13;1;jie tang;zhifeng gu,r huang,bin xu,juanzi li;verification of web service conversations specified in wscl;05E79D01;44233F91;2007
+14;1;jie tang;jing zhang,juanzi li;expert finding in a social network;05E79D01;469D149A;2007
+15;0;jie tang;fuyan zhang;content based 3d model retrieval for digital museum;348EB203;457CED2E;2006
+16;1;jie tang;kehong wang,bangyong liang,juanzi li;keyword extraction based peer clustering;05E79D01;4554E150;2004
+17;1;jie tang;kehong wang,yueru cai,juanzi li;research of satisfying atomic and anonymous electronic commerce protocol;05E79D01;4554E150;2003
+18;0;jie tang;zhigeng pan,fuyan zhang,mingyong pang;subdivision interpolating polygonization of implicit surfaces with normal meshes;348EB203;720060;2006
+19;1;jie tang;kehong wang,kuo zhang,juanzi li;feature correlation based multi view detection;05E79D01;470B05DE;2005
+20;1;jie tang;kehong wang,kuo zhang,juanzi li;feature correlation based multi view detection;19505;470B05DE;2005
+21;1;jie tang;limin yao,duo zhang;social network extraction of academic researchers;05E79D01;468A7487;2007
+22;1;jie tang;ruoming jin,jing zhang;a topic modeling approach and its integration into the random walk framework for academic search;05E79D01;468A7487;2008
+23;1;jie tang;zhaohui tang,hang li,yunbo cao;email data cleaning;05E79D01;436976F3;2005
+24;1;jie tang;zhong su,li zhang,limin yao,jing zhang,juanzi li;arnetminer extraction and mining of academic social networks;05E79D01;436976F3;2008
+25;1;jie tang;liu liu,jing zhang,juanzi li;a mixture model for expert finding;05E79D01;436976F3;2008
+26;1;jie tang;jing zhang;a discriminative approach to topic based citation recommendation;05E79D01;436976F3;2009
+27;1;jie tang;kehong wang,yueru cai,juanzi li;research of atomic and anonymous electronic commerce protocol;05E79D01;42F0CC9A;2003
+28;1;jie tang;bangyong liang,mingcai hong,juanzi li;tree structured conditional random fields for semantic annotation;05E79D01;44E12FD1;2006
+29;1;jie tang;juanzi li,y l li,duo zhang;result of ontology alignment with rimom at oaei 06;05E79D01;44E12FD1;2006
+30;1;jie tang;juanzi li,chunlin zhu,limin yao,jing zhang,duo zhang;arnetminer an expertise oriented search system for web community;05E79D01;44E12FD1;2007
+31;1;jie tang;hui xu,kuo zhang,juanzi li;keyword extraction using support vector machine;484;45F282AE;2006
+32;1;jie tang;hui xu,kuo zhang,juanzi li;keyword extraction using support vector machine;05E79D01;45F282AE;2006
+33;1;jie tang;kehong wang,feng wang,jing zhang,juanzi li;name disambiguation using atomic clusters;05E79D01;45F282AE;2008
+34;1;jie tang;lizhu zhou,qian zhong,yi li,juanzi li;path similarity based directory ontology matching;05E79D01;45F282AE;2008
+35;1;jie tang;yize li;expertise search in a time varying social network;05E79D01;45F282AE;2008
+36;1;jie tang;bangyong liang,zi yang,juanzi li,s wang,jing zhang,jingjing zuo;recommendation over a heterogeneous social network;05E79D01;45F282AE;2008
+37;1;jie tang;bo gao,zi yang,jing zhang,juanzi li;topic level random walk through probabilistic model;05E79D01;45F282AE;2009
+38;1;jie tang;lizhu zhou,dewei chen,limin yao,juanzi li;query focused summarization by combining topic model and affinity propagation;05E79D01;45F282AE;2009
+39;1;jie tang;kehong wang,bangyong liang,juanzi li;using daml oil to enhance search semantic;05E79D01;478794CB;2004
+40;1;jie tang;limin yao,juanzi li;a unified approach to researcher profiling;05E79D01;478794CB;2007
+41;1;jie tang;xin xin,juanzi li;enhancing semantic web by semantic annotation experiences in building an automatic conference calendar;05E79D01;478794CB;2007
+42;1;jie tang;bangyong liang,juanzi li;association search in semantic web search inference;6359;43ABF249;2005
+43;1;jie tang;yong liang,zi li;multiple strategies detection in ontology mapping;05E79D01;43ABF249;2005
+44;1;jie tang;yunhao liu,jing zhang,qiong luo,mingcai hong,juanzi li;eos expertise oriented search using social networks;05E79D01;43ABF249;2007
+45;1;jie tang;ying ding,guirong xue,juanzi li;www 2008 workshop on social web search and mining swsm2008;05E79D01;43ABF249;2008
+46;1;jie tang;limin yao,jing zhang,juanzi li;extraction and mining of an academic social network;05E79D01;43ABF249;2008
+47;1;jie tang;juanzi li,jing zhang,duo zhang;a unified framework for name disambiguation;05E79D01;43ABF249;2008
+48;1;jie tang;lizhu zhou,dewei chen,juanzi li;discovering the staring people from social networks;05E79D01;43ABF249;2009
+49;1;jie tang;kehong wang,bangyong liang,juanzi li;swarms a new tool for domain exploration in semantic web;05E79D01;43B11EF5;2006
+50;2;jie tang;heng chang,huan wang,eduardo martins,weiliang chen,yan li,xiaomin shi;user profile management for personalized telecom service;5473;46013AA1;2008
+51;1;jie tang;hongjun lu,kehong wang,bangyong liang,xiaotong huang,juanzi li;iasa learning to annotate the semantic web;05E79D01;0A1565CE;2005
+52;1;jie tang;kehong wang,bangyong liang,xiaotong huang,yi li,juanzi li;using bayesian decision for ontology mapping;05E79D01;01346614;2006
+53;3;jie tang;jihuan he;rebuild of king fang 40 bc musical scales by he s inequality;5540;03009DEA;2005
+54;1;jie tang;yunhao liu,jing zhang,qiong luo,mingcai hong,juanzi li;arnetminer expertise oriented search using social networks;05E79D01;0800285A;2008
+55;1;jie tang;chi wang,jimeng sun,zi yang;social influence analysis in large scale networks;05E79D01;436976F3;2009
+56;1;jie tang;dewei chen,limin yao;multi topic based query oriented summarization;05E79D01;441CE122;2009
+57;1;jie tang;guotong xie,lizhu zhou,juanzi li,hanyu li,qian zhong,yue pan;a gauss function based approach for unbalanced ontology matching;05E79D01;460A7036;2009
+58;1;jie tang;zi yang,songcan chen,wei fan,bo wang,yanzhu liu;heterogeneous cross domain ranking in latent space;05E79D01;472C6E2D;2009
+59;1;jie tang;ning zhang,yuan zhang;a tag recommendation system for folksonomy;05E79D01;472C6E2D;2009
+60;4;jie tang;zhanbin hu,lei huang,qunfeng zhu;the fuzzy pi control for the dstatcom based on the balance of instantaneous power;0C4C4290;439B9AD2;2009
+61;1;jie tang;dewei chen,qiong luo,hofung leung,jibin gong;towards ontology learning from folksonomies;05E79D01;47C39427;2009
+62;5;jie tang;ninghan zheng,yi zhang,yan huang,changding liu,zhimin gu;the stable conditions of a task pair with helper thread in cmp;7568;474BD8D0;2009
+63;1;jie tang;hanyu li,guo tong xie,feng shi,juanzi li;actively learning ontology matching via user interaction;2181;44E12FD1;2009
+64;1;jie tang;qiong luo,yi li,juanzi li;rimom a dynamic multistrategy ontology alignment framework;05E79D01;01D46A2B;2009
+65;1;jie tang;rui ma,zhong su,li zhang,zi yang,keke cai,jing zhang,jeffrey xu yu;topic distributions over links on web;11055;468A7487;2009

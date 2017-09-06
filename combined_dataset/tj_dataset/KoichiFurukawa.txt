@@ -1,0 +1,84 @@
+0;0;koichi furukawa;keiko shimazu,isao saito;experimental study of semantic contents mining on intra university enterprise contents management system for knowledge sharing;0C280BFF;4761B1FF;2006
+1;0;koichi furukawa;k ueno,keiko shimazu,tomoko murakami,tomonobu ozaki;query evaluation of deductive database by mgtp and its application to data mining;14477;491196;1997
+2;0;koichi furukawa;;on the completion of the most specific hypothesis computation in inverse entailment for mutual recursion;0C280BFF;437C7B15;1998
+3;0;koichi furukawa;ikuo kobayashi,mutsumi imai,tomonobu ozaki;a model of children s vocabulary acquisition using inductive logic programming;0C280BFF;437C7B15;1999
+4;0;koichi furukawa;atsuhito momma,keiko shimazu;discovering exceptional information from customer inquiry by association rule miner;0C280BFF;437C7B15;2003
+5;0;koichi furukawa;ikuo kobayashi,mutsumi imai,tomonobu ozaki;a computational model for children s language acquisition using inductive logic programming;11546;437C7B15;2002
+6;0;koichi furukawa;ikuo kobayashi,mutsumi imai,tomonobu ozaki;a computational model for children s language acquisition using inductive logic programming;0C280BFF;437C7B15;2002
+7;0;koichi furukawa;atsuhito momma,keiko shimazu;daisy an rer model based interface for rdb to ilp;0C280BFF;46202E57;2003
+8;0;koichi furukawa;;summary of basic research activities of the fgcs project;232;47C39427;1992
+9;0;koichi furukawa;;concurrent logic programming as a basis for large scale knowledge information processing panel position paper;17653;47C39427;1992
+10;0;koichi furukawa;hideki yasukawa,akikazu takeuchi,masaru ohki,susumu kunifuji,kazunori ueda;mandela a logicbased knowledge programming system;18249;47C39427;1984
+11;0;koichi furukawa;toshio yokoi;basic software system;16977;47C39427;1984
+12;0;koichi furukawa;kazunori ueda;transformation rules for ghc programs;15468;47C39427;1988
+13;0;koichi furukawa;akikazu takeuchi,Tashihiko Miyazaki,kazunori ueda,yuji matsumoto,jiro tanaka;guarded horn clauses and experience with parallel logic programming;14187;1186638;1986
+14;0;koichi furukawa;kazunori ueda;ghc a language for a new age of parallel programming;10313;42F73407;1988
+15;0;koichi furukawa;kazuhiro fuchi;the role of logic programming in the fifth generation computer project;17779;47977D8C;1986
+16;0;koichi furukawa;kazuhiro fuchi;the role of logic programming in the fifth generation computer project;17803;47977D8C;1987
+17;0;koichi furukawa;akira okumura,hiroshi fujita;partial evaluation of ghc programs based on the ur set with constraints;4030;477633;1988
+18;0;koichi furukawa;yuji matsumoto,katsumi nitta;prolog interpreter based on concurrent programming;13614;47977D8C;1982
+19;0;koichi furukawa;randy goebel,david poole;using definite clauses and integrity constraints as the basis for a theory formation approach to diagnostic reasoning;18196;47977D8C;1986
+20;0;koichi furukawa;hideki hirakawa,takashi chikayama;eager and lazy enumerations in concurrent prolog;12757;47977D8C;1984
+21;0;koichi furukawa;akikazu takeuchi,masaru ohki;an object oriented programming language based on the parallel logic programming language kl1;1302;47977D8C;1987
+22;0;koichi furukawa;akikazu takeuchi;parallel logic programming languages;14944;47977D8C;1986
+23;0;koichi furukawa;akikazu takeuchi;parallel logic programming languages;5549;47977D8C;1988
+24;0;koichi furukawa;soh igarashi,tomonobu ozaki;respiration reflecting musical expression analysis of respiration during musical performance by inductive logic programming;0C280BFF;44AC2FEE;2002
+25;0;koichi furukawa;;specification languages versus programming languages panel ;240;219453;1986
+26;0;koichi furukawa;;constraint logic programming as a new vehicle for knowledge representation;13322;1131146;1989
+27;0;koichi furukawa;akikazu takeuchi;partial evaluation of prolog programs and its application to meta programming;12113;421885;1986
+28;0;koichi furukawa;;a deductive question answering system on relational data bases;9134;47C39427;1977
+29;0;koichi furukawa;;use of data representation mapping in automatic generation of data base access procedures;1460;47C39427;1981
+30;0;koichi furukawa;hiroshi fujita,naoki yagi,tomonobu ozaki;a new design and implementation of progol by bottom up computation;0C280BFF;4786A6E3;1996
+31;0;koichi furukawa;k ueno,keiko shimazu,tomoko murakami,tomonobu ozaki;on a sufficient condition for the existence of most specific hypothesis in progol;0C280BFF;4786A6E3;1997
+32;0;koichi furukawa;tomonobu ozaki;on the completion of inverse entailment for mutual recursion and its application to self recursion;11262;4786A6E3;2000
+33;0;koichi furukawa;tomonobu ozaki;application of pruning techniques for propositional learning to progol;0C280BFF;4786A6E3;2001
+34;0;koichi furukawa;tomonobu ozaki;application of pruning techniques for propositional learning to progol;5314;4786A6E3;2001
+35;0;koichi furukawa;k ueno,tomoko murakami,tomonobu ozaki;realizing progol by forward reasoning;0C280BFF;4786A6E3;1997
+36;0;koichi furukawa;atsuhito momma,keiko shimazu;experimental study of discovering essential information from customer inquiry;0C280BFF;436976F3;2003
+37;0;koichi furukawa;akikazu takeuchi,masaru ohki;a framework for interactive problem solving based on interactive query revision;3659;253694;1987
+38;0;koichi furukawa;;a framework for verbalizing unconscious knowledge based on inductive logic programming;18164;474799EB;1999
+39;0;koichi furukawa;;a framework for verbalizing unconscious knowledge based on inductive logic programming;3990;474799EB;1995
+40;0;koichi furukawa;hideo miyoshi;object oriented parser in the logic programming language esp;9297;1103108;1984
+41;0;koichi furukawa;randy goebel,srinivas padmanabhuni;curried least general generalization a framework for higher order concept learning;0C280BFF;45FD9DD4;1996
+42;0;koichi furukawa;keiko shimazu;knowledge discovery in database by progol design implementation and its application to expert system building;0C280BFF;439F2D27;1997
+43;0;koichi furukawa;;fifth generation computer project towards large scale knowledge information processing;502;1924063;1991
+44;0;koichi furukawa;toramatsu shintani;deriving an efficient production system by partial evaluation;144;1056928;1989
+45;0;koichi furukawa;taizo miyachi,hajime kitakami,susumu kunifuji;a methodology for implementation of a knowledge acquisition system;10835;439E313A;1984
+46;0;koichi furukawa;taizo miyachi,haruo yokota,akikazu takeuchi,hajime kitakami,susumu kunifuji;a knowledge assimilation method for logic databases;14392;439E313A;1984
+47;0;koichi furukawa;hirohisa seki;notes on transformation techniques for generate and test logic programs;9859;439E313A;1987
+48;0;koichi furukawa;kazuhiro fuchi;role of logic programming in the fgcs project;16651;470F8BDC;1991
+49;0;koichi furukawa;;fifth generation computer project current research activity and future plans;15844;45B9D64F;1987
+50;0;koichi furukawa;john rundell,david jefferson,giora pelled,fritz kruckeberg,george champine,charles purcell,tadahiko takahama,craig fields;panel directions in database research;18306;4390334E;1977
+51;0;koichi furukawa;yuji matsumoto,katsumi nitta;prolog interpreter and its parallel extension;11826;023CCC5C;1984
+52;0;koichi furukawa;;logic programming as the integrator of the fifth generation computer systems project;7238;46013AA1;1993
+53;0;koichi furukawa;;logic programming as the integrator of the fifth generation computer systems project;6883;062B05D6;1992
+54;0;koichi furukawa;kazuhiro fuchi,kenneth m kahn,kazunori ueda,evan tick,robert kowalski,takashi chikayama,david h d warren,ehud shapiro;the fifth generation project personal perspectives;10699;062B05D6;1993
+55;0;koichi furukawa;kazuhiro fuchi;knowledge engineering and fifth generation computers;2166;03B217F8;1983
+56;0;koichi furukawa;k ueno,michael bain;motor skill as dynamic constraint satisfaction;19985;05BA724B;2000
+57;0;koichi furukawa;ikuo kobayashi,mutsumi imai,tomonobu ozaki;a bootstrapping model for children s vocabulary acquisition using inductive logic programming;712;05BA724B;2001
+58;0;koichi furukawa;;fifth generation computer systems fgcs project in japan;18178;09F40314;1993
+59;0;koichi furukawa;kazuhiro fuchi;the role of logic programming in the fifth generation computer project;9115;47977D8C;1986
+60;0;koichi furukawa;kazuhiro fuchi;the role of logic programming in the fifth generation computer project;13089;47977D8C;1987
+61;0;koichi furukawa;hiroshi fujita;a self applicable partial evaluator and its use in incremental compilation;19621;09DB4213;1988
+62;0;koichi furukawa;;towards cross fertilization of multiple disciplines;0C280BFF;09DB4213;2002
+63;0;koichi furukawa;akinori yonezawa,reiji nakajima;modularization and abstraction in logic programming;19525;09DB4213;1983
+64;0;koichi furukawa;akira okumura,m murakami;unfolding rules for ghc programs;12063;09DB4213;1988
+65;0;koichi furukawa;takeshi shinohara,yuji takada;special issue on algorithmic learning theory;0C280BFF;09DB4213;1994
+66;0;koichi furukawa;kenneth m kahn;preface to the special issue;14706;09DB4213;1987
+67;0;koichi furukawa;taizo miyachi,haruo yokota,akikazu takeuchi,hajime kitakami,susumu kunifuji;a knowledge assimilation method for logic databases;17464;439E313A;1984
+68;0;koichi furukawa;fumio mizoguchi;guest editors preface;7715;09DB4213;1985
+69;0;koichi furukawa;ehud y shapiro,makoto amamiya,david h d warren;guest editors preface;5361;09DB4213;1990
+70;0;koichi furukawa;fumio mizoguchi,stephen muggleton;special issue on inductive logic programming;0C280BFF;09DB4213;1995
+71;0;koichi furukawa;atsunori takeuchi;bounded buffer communication in concurrent prolog;7612;09DB4213;1988
+72;0;koichi furukawa;akikazu takeuchi;bounded buffer communication in concurrent prolog;8439;09DB4213;1985
+73;0;koichi furukawa;;philosophy of new generation computing in remembrance of professor kazuhiro fuchi;0C280BFF;09DB4213;2008
+74;0;koichi furukawa;shinichi morishita,hiroshi motoda,setsuo arikawa;preface;680;05686292;2003
+75;0;koichi furukawa;keiko shimazu;design of database interface to ilp for building knowledge base;13401;43DB3338;1996
+76;0;koichi furukawa;keiko shimazu,isao saito;contents sharing framework using ccci model for intra university network;0C280BFF;45F282AE;2006
+77;0;koichi furukawa;akikazu takeuchi,masaru ohki;a framework for interactive problem solving based on interactive query revision;18727;1097631;1987
+78;0;koichi furukawa;;logic programming as the integrator of the fifth generation computer systems project;13062;46013AA1;1993
+79;0;koichi furukawa;;logic programming as the integrator of the fifth generation computer systems project;412;062B05D6;1992
+80;0;koichi furukawa;kazuhiro fuchi,kenneth m kahn,kazunori ueda,evan tick,robert kowalski,takashi chikayama;launching the new era;070DD5D4;47C39427;1993
+81;1;koichi furukawa;munenori nakasato;on the number of securities which constitute an efficient portfolio;06D39D72;036FEF52;1993
+82;0;koichi furukawa;yoshikuni okada,jyunichi shimada;special issue on real world computing project;18883;09DB4213;2000
+83;0;koichi furukawa;setsuo arikawa;proceedings of the second international conference on discovery science;12919;437C7B15;1999

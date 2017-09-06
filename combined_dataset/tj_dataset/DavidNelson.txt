@@ -1,0 +1,17 @@
+0;1;david nelson;susan stirk,xian liu,simon stobart;managing schema versions in object oriented databases;0C04E0C2;43CD1EFB;2005
+1;1;david nelson;susan stirk,robert warrender;database interoperability using a database s own natural query language;2926;455D09BB;2003
+2;1;david nelson;liu xian,Sue Stirk;a nested matrix model for schema versioning in object oriented databases;18366;455D09BB;2003
+3;4;david nelson;david ow,a v carrano,mark wagner,linda k ashworth,elbert branscomb,tom slezak,mimi yeh;a database system for constructing integrating and displaying physical maps of chromosome 19;4C6E8511;4569270C;1995
+4;5;david nelson;frank weil,brian mastenbrook,paul dietz,aswin van den berg;automated semantic analysis of design models;4F799D2F;47059E35;2007
+5;6;david nelson;thomas a wynn,david kane,danielle m hari,david e bryant,mark reimers,sudarshan narasimhan,stanley k burt,charlotte cunninghamrundles,eldad elnekave,robert m stephens,haiying qin,john n weinstein,donn m stewart,barry r zeeberg,hong cao,margot sunshine;high throughput gominer an industrial strength integrative gene ontology tool for interpretation of multiple microarray experiments with application to studies of common variable immune deficiency cvid ;0564D70F;012269E3;2005
+6;7;david nelson;ahmad almukdad;constructible falsity and inexact predicates;0B890E85;0A971BE4;1984
+7;7;david nelson;;constructible falsity;15894;0A971BE4;1949
+8;7;david nelson;;twenty fifth annual meeting of the association for symbolic logic;4836;0A971BE4;1960
+9;7;david nelson;;non null implication;0B890E85;0A971BE4;1966
+10;1;david nelson;a e james,alastair monger,karen c davis,richard cooper;ideas in teaching learning and assessment of databases a communication of the 7thinternational workshop on teaching learning and assessment of databases tlad 2009 ;00576805;455D09BB;2009
+11;8;david nelson;carlos morales;mobile 3d game development from start to market;9126;144728;2007
+12;10;david nelson;laurie reinhart,bob ellis;siggraph public policy committee activity detailed;11410;07DCF666;2001
+13;2;david nelson;;coursework in cognition by mathematics undergraduates a seven year review;01B1760F;07D986A7;2007
+14;0;david nelson;paul j leach;the architecture and applications of the apollo domain;18297;0647F8EB;1984
+15;0;david nelson;james h clark,robert m dunn,harvey z kriloff,andries van dam;professional workstations panel session ;05C86094;4566232D;1982
+16;3;david nelson;elizabeth a wentz,atiqur rahman,william l stefanov,shoursaseni sen roy;expert system classification of urban land use cover for delhi india;0352694C;06FF8E18;2008

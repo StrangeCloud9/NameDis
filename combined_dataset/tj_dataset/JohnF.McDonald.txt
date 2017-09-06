@@ -1,0 +1,32 @@
+0;0;john f mcdonald;bryan goda;reconfigurable fpga s in the 1 20 ghz band with hbt bicmos;09E1E653;432E26DB;1999
+1;0;john f mcdonald;ke zhou,channakeshav,russell p kraft;gigahertz fpgas with new power saving techniques and decoding logic;09E1E653;432E26DB;2002
+2;0;john f mcdonald;michael chu,kuan zhou,robert heikaus,young uk yim,jongru guo,chao you,russell p kraft;a novel multi speed power saving architecture for sige hbt fpga;09E1E653;408837;2003
+3;0;john f mcdonald;c c you,bryan goda,j d diao,kuan zhou,russell p kraft,jongru guo,robert heikaus,m m chu,o e erdogan;the gigahertz fpga design consideration and applications;09E1E653;43C18390;2004
+4;0;john f mcdonald;chao you,bryan goda,kuan zhou,russell p kraft,j r guo;a scalable 2 v 20 ghz fpga using sige hbt bicmos technology;09E1E653;43C18390;2003
+5;0;john f mcdonald;j r guo,channakeshav,michael chu,bryan goda,kuan zhou,j mayega,russell p kraft,chao you;a four bit full adder implemented on fast sige fpgas with novel power control scheme;09E1E653;43C18390;2003
+6;0;john f mcdonald;thomas w krawczyk,bryan goda,steven r carlough,russell p kraft;gigahertz reconfigurable computing using sige hbt bicmos fpgas;09E1E653;4704764E;2001
+7;0;john f mcdonald;michael chu,bryan goda,kuan zhou,chao you,russell p kraft,jongru guo,robert heikaus,p f curran,okan erdogan;gigahertz fpga by sige bicmos technology for low power high speed computing with 3 d memory;13668;4704764E;2003
+8;0;john f mcdonald;channakeshav,bryan goda,kuan zhou,russell p kraft,jongru guo,chao you;fast sige hbt bicmos fpgas with new architecture and power saving techniques;09E1E653;4704764E;2002
+9;0;john f mcdonald;j diao,michael chu,alan d george,kuan zhou,russell p kraft,jongru guo,chao you,p f curran;the 10ghz 4 1 mux and 1 4 demux implemented via the gigahertz sige fpga;09E1E653;434A76CE;2004
+10;0;john f mcdonald;atul garg,j loy,m krishnamoorthy;chip pad migration is a key component to high performance mcm design;12889;434A76CE;1996
+11;0;john f mcdonald;kuan zhou,russel p kraft,j mayega,paul m belemjian,okan erdogan;3d direct vertical interconnect microprocessors test vehicle;09E1E653;434A76CE;2003
+12;0;john f mcdonald;chao you,kuan zhou,russell p kraft,michael chu,jongru guo;a 5 20 ghz low power fpga implemented by sige hbt bicmos technology;09E1E653;434A76CE;2003
+13;0;john f mcdonald;kuan zhou;multi ghz sige design methodologies for reconfigurable computing;09E1E653;434A76CE;2005
+14;0;john f mcdonald;atul garg,mukkai s krishnamoorthy,j loy;differential routing of mcms cif the ideal bifurcation medium;6036;46BFF4BF;1994
+15;0;john f mcdonald;michael chu,abdul raouf zia,paul m belemjian,jin woo kim,russell p kraft,paul s jacobs,o e erdogan,peng jin;amdahl s figure of merit sige hbt bicmos and 3d chip stacking;09E1E653;46BFF4BF;2007
+16;0;john f mcdonald;kuan zhou,sizhong chen,tong zhang,allen drake,yifei luo;triple rail mos current mode logic for high speed self timed pipeline applications;5415;471752F4;2006
+17;0;john f mcdonald;chao you,russell p kraft,michael chu,jongru guo,okan erdogan;a high speed reconfigurable gate array for gigahertz applications;09E1E653;434A76CE;2005
+18;0;john f mcdonald;young uk yim,russell p kraft;12 23 ghz ultra wide tuning range voltage controlled ring oscillator with hybrid control schemes;09E1E653;434A76CE;2005
+19;0;john f mcdonald;paul m belemjian,russell p kraft,aamir zia,philip jacob,okan erdogan;predicting the performance of a 3d processor memory chip stack;09E1E653;046010A6;2005
+20;0;john f mcdonald;michael chu,bryan goda,kuan zhou,russell p kraft,jongru guo,chao you,jiedong diao,p f curran;a 10 ghz 4 1 mux and 1 4 demux implemented by a gigahertz sige fpga for fast adc;09E1E653;434A76CE;2005
+21;0;john f mcdonald;john mayega,kuan zhou,t zhang,Jong-Ru Guo,russell p kraft,bryan s goda,chao you;multi ghz sige bicmos fpgas with new architecture and novel power management techniques;8370;09FD69F0;2005
+22;0;john f mcdonald;r philhower,matthew w ernest,joseph w perry,amit k garg,thomas w krawczyk,h greub,steven r carlough,r b iverson,paul m campbell,y l le coz,c maier,samuel a steidl,russell p kraft;accurate high speed performance prediction for full differential current mode logic the effect of dielectric anisotropy;1035;0602A23F;1999
+23;0;john f mcdonald;chao you,bryan goda,russell p kraft,michael chu,jongru guo;a 12 gb s demux implemented with sige high speed fpga circuits;5570;023CCC5C;2007
+24;0;john f mcdonald;k lewis,h greub,chienkuo v tien,t tsen;design of a 32 b monolithic microprocessor based on gaas hmesfet technology;18669;023CCC5C;1997
+25;0;john f mcdonald;r philhower,matthew w ernest,christoph maier,a steidl,h greub,russell p kraft,paul m campbell,a k garg,steven r carlough;a very wide bandwidth digital vco using quadrature frequency multiplication and division implemented in algaas gaas hbt s;10282;023CCC5C;1998
+26;0;john f mcdonald;michael chu,bryan goda,kuan zhou,russell p kraft,jongru guo,chao you,p f curran;a 5 10ghz sige bicmos fpga with new configurable logic block;152;0BA997D3;2005
+27;0;john f mcdonald;j e sustman,ronald g harris;controller for a flexible disk;01F71AD0;46DAB993;1974
+28;0;john f mcdonald;k lewis,h greub,chienkuo v tien,t tsen;design of a 32 b monolithic microprocessor based on gaas hmesfet technology;14995;023CCC5C;1997
+29;0;john f mcdonald;atul garg;characterization of algaas gaas hbt interconnect for digital applications and design of a dense multi chip module for a 1 ghz risc processor;18894;1196717;1997
+30;0;john f mcdonald;thomas w krawczyk,bryan goda,steven r carlough,russell p kraft;gigahertz reconfigurable computing using sige hbt bicmos fpgas;09E1E653;4704764E;2001
+31;0;john f mcdonald;channakeshav,bryan goda,kuan zhou,russell p kraft,jongru guo,chao you;fast sige hbt bicmos fpgas with new architecture and power saving techniques;09E1E653;4704764E;2002

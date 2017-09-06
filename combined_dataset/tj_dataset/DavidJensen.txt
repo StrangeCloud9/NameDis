@@ -1,0 +1,57 @@
+0;0;david jensen;stephen hart,roderic a grupen;a relational representation for procedural task knowledge;01776B6C;46A05BB0;2005
+1;0;david jensen;regis vincent,michael atighetchi,victor lesser;learning quantitative knowledge for multiagent coordination;8968;46A05BB0;1999
+2;0;david jensen;tim oates;toward a theoretical understanding of why and when decision tree pruning algorithms fail;18952;46A05BB0;1999
+3;1;david jensen;mehrdad reshadi,bita gorjiara,nader bagherzadeh,pai chou;fast and efficient voltage scheduling by evolutionary slack distribution;13695;43D1CF2E;2004
+4;0;david jensen;dawn lawrie,j d allan,paul ogilvie,victor lavrenko,matthew d schmill;language models for financial news recommendation;01776B6C;472C6E2D;2000
+5;0;david jensen;chirag shah,w bruce croft;representing documents with named entities for story link detection sld ;01776B6C;472C6E2D;2006
+6;0;david jensen;jennifer neville;leveraging relational autocorrelation with latent group models;17453;468A7487;2005
+7;0;david jensen;jennifer neville;leveraging relational autocorrelation with latent group models;14461;468A7487;2006
+8;0;david jensen;jennifer neville;leveraging relational autocorrelation with latent group models;01776B6C;468A7487;2005
+9;0;david jensen;;knowledge discovery from graphs invited talk ;8833;470B5A7A;2001
+10;0;david jensen;jennifer neville;dependency networks for relational data;10248;468A7487;2004
+11;0;david jensen;jennifer neville;leveraging relational autocorrelation with latent group models;13441;468A7487;2005
+12;0;david jensen;jennifer neville;leveraging relational autocorrelation with latent group models;15990;468A7487;2006
+13;0;david jensen;jennifer neville;leveraging relational autocorrelation with latent group models;01776B6C;468A7487;2005
+14;0;david jensen;jennifer neville,brian gallagher;simple estimators for relational bayesian classifiers;2493;468A7487;2003
+15;0;david jensen;matthew j rattigan,marc maier;exploiting network structure for active inference in collective classification;01776B6C;468A7487;2007
+16;0;david jensen;andrew fast;why stacked models perform effective collective classification;01776B6C;468A7487;2008
+17;0;david jensen;jennifer neville;linkage and autocorrelation cause feature selection bias in relational learning;14009;465F7C62;2002
+18;0;david jensen;jennifer neville,michael hay;avoiding bias when aggregating relational data with degree disparity;8620;465F7C62;2003
+19;0;david jensen;amy mcgovern;identifying predictive structures in relational data using multiple instance learning;15872;465F7C62;2003
+20;0;david jensen;tim oates;the effects of training set size on decision tree complexity;440;465F7C62;1997
+21;0;david jensen;matthew j rattigan,marc maier;graph clustering with network structure indices;01776B6C;465F7C62;2007
+22;0;david jensen;tim oates,paul r cohen;building simple models a case study with decision trees;01776B6C;4799A10B;1997
+23;0;david jensen;o zgu r simsek;decentralized search in networks using homophily and degree disparity;01776B6C;47C39427;2005
+24;0;david jensen;jennifer neville;autocorrelation and linkage cause bias in evaluation of relational learners;01776B6C;4786A6E3;2002
+25;0;david jensen;jennifer neville;bias variance analysis for relational domains;01776B6C;4786A6E3;2007
+26;0;david jensen;john burgess,brian neil levine,brian gallagher;maxprop routing for vehicle based disruption tolerant networks;01776B6C;442BD7CD;2006
+27;0;david jensen;brian neil levine,andrew fast;creating social networks to improve peer to peer networking;01776B6C;436976F3;2005
+28;0;david jensen;jennifer neville,brian gallagher;why collective inference improves relational classification;01776B6C;436976F3;2004
+29;0;david jensen;matthew rattigan,hannah blau;information awareness a prospective technical assessment;01776B6C;436976F3;2003
+30;0;david jensen;bonferroni pruning,matthew d schmill;adjusting for multiple comparisons in decision tree pruning;5603;436976F3;1997
+31;0;david jensen;michael hay,jennifer neville,l friedland;learning relational probability trees;01776B6C;436976F3;2003
+32;0;david jensen;ozgur şimsek,jennifer neville,john komoroske,kelly palmer,henry g goldberg;using relational knowledge discovery to prevent securities fraud;01776B6C;436976F3;2005
+33;0;david jensen;tim oates;large datasets lead to overly complex models an explanation and a solution;2126;436976F3;1998
+34;0;david jensen;foster provost,tim oates;efficient progressive sampling;01776B6C;436976F3;1999
+35;0;david jensen;matthew j rattigan,marc maier;using structure indices for efficient approximation of network properties;01776B6C;436976F3;2006
+36;0;david jensen;brian j taylor,henry g goldberg,john komoroske,andrew fast,l friedland,marc maier;relational data pre processing techniques for improved securities fraud detection;01776B6C;436976F3;2007
+37;0;david jensen;l friedland;finding tribes identifying close knit individuals from employment patterns;01776B6C;436976F3;2007
+38;0;david jensen;andrew tomkins,gueorgi kossinets,alexander tuzhilin,jure leskovec,christos faloutsos,ravi kumar;social networks looking ahead;01776B6C;436976F3;2008
+39;0;david jensen;george dean bissias,brian neil levine,marc liberatore;privacy vulnerabilities in encrypted http streams;01776B6C;45F841A1;2005
+40;0;david jensen;trevor strohman,w bruce croft;recommending citations for academic papers;01776B6C;43FD776C;2007
+41;0;david jensen;leon j osterweil,stanley m sutton,eric k mccall,barbara staudt legner,yulin dong,alexander wise;coordinating agent activities in knowledge discovery processes;01776B6C;0B24320F;1999
+42;2;david jensen;heng cao,leonard berman,haifeng xi;supply chain simulation distributed supply chain simulation using a generic job running framework;4FF45383;44815780;2003
+43;0;david jensen;richard power,vinay chaudri,donia scott,david traum,michael mateas,richard e fikes,fawzi daud,alain giboin,phoebe sengers,susan brennan;reports on the aaai fall symposia november 1999 and november 1998 ;7311;09B77941;2000
+44;3;david jensen;stefan kramer,hendrik blockeel;introduction to the special issue on multi relational data mining and statistical relational learning;7920;03B4502A;2006
+45;0;david jensen;jennifer neville;a bias variance decomposition for models using collective inference;01776B6C;03B4502A;2008
+46;2;david jensen;francisco barahona;plant location with minimum inventory;1876;0B8EFC61;1998
+47;0;david jensen;amy mcgovern;optimistic pruning for multiple instance learning;01776B6C;090C990E;2008
+48;0;david jensen;;data snooping dredging and fishing the dark side of data mining a sigkdd99 panel report;01776B6C;057D97D4;2000
+49;0;david jensen;brian gallagher,jennifer neville,michael hay,andrew fast,l friedland,amy mcgovern;exploiting relational structure to understand publication patterns in high energy physics;01776B6C;057D97D4;2003
+50;0;david jensen;matthew j rattigan;the case for anomalous link discovery;01776B6C;057D97D4;2005
+51;0;david jensen;chao li,michael hay,don towsley,gerome miklau;resisting structural re identification in anonymized social networks;01776B6C;4390334E;2010
+52;0;david jensen;philipp weis,gerome miklau,michael hay,don towsley;resisting structural re identification in anonymized social networks;01776B6C;04B4543D;2008
+53;0;david jensen;chao li,michael hay,gerome miklau;accurate estimation of the degree distribution of private networks;01776B6C;468A7487;2009
+54;0;david jensen;;knowledge discovery by design;7697;4346E145;2009
+55;0;david jensen;matthew j rattigan;the case for anomalous link detection;01776B6C;436976F3;2005
+56;0;david jensen;jennifer neville;relational dependency networks;8512;07179FAA;2007

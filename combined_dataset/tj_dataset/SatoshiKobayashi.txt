@@ -1,0 +1,40 @@
+0;0;satoshi kobayashi;tom head,takashi yokomori;locality reversibility and beyond learning languages from positive data;09DDAA88;471D649B;1998
+1;0;satoshi kobayashi;;learning strategies using decision lists;0139433B;471D649B;1993
+2;0;satoshi kobayashi;takashi yokomori;learning concatenations of locally testable languages from positive data;0139433B;471D649B;1994
+3;0;satoshi kobayashi;takashi yokomori;on approximately identifying concept classes in the limit;0139433B;471D649B;1995
+4;0;satoshi kobayashi;takashi yokomori;identifiability of subspaces and homomorphic images of zero reversible languages;0139433B;471D649B;1997
+5;2;satoshi kobayashi;shoko kawamoto,hideaki takeda,aman shakya,koichi ando,hendry muljadi,asao fujiyama;semantic wiki as a lightweight knowledge management system;0B00BA67;4761B1FF;2006
+6;0;satoshi kobayashi;yasubumi sakakibara,takashi yokomori;an algorithm for testing structure freeness of biomolecular sequences;0139433B;176755;2003
+7;0;satoshi kobayashi;takashi yokomori,yasubumi sakakibara;a magic pot self assembly computation revisited;0139433B;485593;2002
+8;0;satoshi kobayashi;;testing structure freeness of regular sets of biomolecular sequences;0139433B;08EE3380;2004
+9;0;satoshi kobayashi;;testing structure freeness of regular sets of biomolecular sequences;15448;0655F58A;2005
+10;0;satoshi kobayashi;masanori arita,tomohiro kondo;on template method for dna sequence design;0139433B;08EE3380;2002
+11;0;satoshi kobayashi;masami hagiya,hiroki uejima;horn clause computation by self assembly of dna molecules;0139433B;05686292;2001
+12;0;satoshi kobayashi;atsushi kijima;efficient algorithm for testing structure freeness of finite set of biomolecular sequences;0139433B;0655F58A;2005
+13;3;satoshi kobayashi;;a new translation for semi classical theories backtracking without cps;0A08EC51;43CB8BB1;2008
+14;0;satoshi kobayashi;nobuyuki ishida,takashi yokomori;learning local languages and its application to protein alpha chain identification;5013;4569270C;1994
+15;0;satoshi kobayashi;;iterated transductions and efficient learning from positive data a unifying view;09DDAA88;4366C780;2000
+16;0;satoshi kobayashi;shinnosuke seki;efficient learning of k reversible context free grammars from positive structural examples;0139433B;4366C780;2004
+17;0;satoshi kobayashi;setsuo ohsuga,koichi hori;learning decision lists over tree patterns and its application;14351;47C39427;1993
+18;0;satoshi kobayashi;claudio ferretti,giancarlo mauri,takashi yokomori;on the universality of post and splicing systems;5159;4677A3BB;1998
+19;0;satoshi kobayashi;claudio ferretti,giancarlo mauri,takashi yokomori;on the universality of post and splicing systems;0139433B;4677A3BB;2000
+20;0;satoshi kobayashi;cristina tirnăucă;a characterization of the language classes learnable with correction queries;0139433B;478CDBCA;2007
+21;2;satoshi kobayashi;hendry muljadi,shoko kawamoto,asao fujiyama,hideaki takeda;towards a semantic wiki based japanese biodictionary;0B00BA67;46556D49;2006
+22;1;satoshi kobayashi;syuichi nakazaki,susumu hayashi,masakazu ishikawa,hiroshi nakano;two extensions of px system;7762;03009113;1996
+23;0;satoshi kobayashi;shinnosuke seki;a grammatical approach to the alignment of structure annotated strings;0139433B;09F41384;2005
+24;0;satoshi kobayashi;takashi yokomori;families of noncounting languages and their learnability from positive data;3646;040E50E5;2011
+25;0;satoshi kobayashi;;horn clause computation with dna molecules;09DDAA88;066ED013;1999
+26;0;satoshi kobayashi;masanori arita;dna sequence design using templates;0139433B;09DB4213;2002
+27;0;satoshi kobayashi;takashi yokomori;learning local languages and their application to dna sequence analysis;10267;0BEAEA4E;1998
+28;0;satoshi kobayashi;yasubumi sakakibara;sticker systems with complex structures;09DDAA88;42F0CC9A;2001
+29;0;satoshi kobayashi;claudio ferretti,giancarlo mauri,takashi yokomori;on the universality of post and splicing systems;19446;4677A3BB;1998
+30;0;satoshi kobayashi;claudio ferretti,giancarlo mauri,takashi yokomori;on the universality of post and splicing systems;0139433B;4677A3BB;2000
+31;1;satoshi kobayashi;;monad as modality;450;05686292;1997
+32;0;satoshi kobayashi;gheorghe păun,victor mitrana,grzegorz rozenberg;formal properties of pa matching;09DDAA88;05686292;2001
+33;0;satoshi kobayashi;yasubumi sakakibara;multiple splicing systems and the universal computability;6306;05686292;2001
+34;1;satoshi kobayashi;makoto tatsuta;realizability interpretation of generalized inductive definitions;12219;05686292;1994
+35;0;satoshi kobayashi;takashi yokomori;learning approximately regular languages with reversible languages;10811;05686292;1997
+36;0;satoshi kobayashi;yasuo uemura,aki hasegawa,takashi yokomori;tree adjoining grammars for rna structure prediction;0139433B;05686292;1999
+37;0;satoshi kobayashi;;mathematical foundations of learning theory;12167;1841128;2006
+38;0;satoshi kobayashi;cristina tirnuc;necessary and sufficient conditions for learning with correction queries;0139433B;05686292;2009
+39;0;satoshi kobayashi;masanori arita;the power of sequence design in dna computing;5311;42CC6E2D;2001

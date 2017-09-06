@@ -1,0 +1,43 @@
+0;0;z wang;kenji araki,koji tochinai;word segmentation method using inductive learning for chinese text;16357;42F0CC9A;2000
+1;1;z wang;bidyut gupta,s banerjee;an index based checkpointing recovery approach for distributed systems;7270;46B774B0;2001
+2;2;z wang;peter m maurer;scheduling high level blocks for functional simulation;0027E0B8;46CDFBC4;1989
+3;3;z wang;l s tan,w h sun,yong ping xu,s liw,xinning wang;a bandpass sigma delta modulator employing micro mechanical resonator;5906;471752F4;2003
+4;4;z wang;e arvas,numan s dogan,huseyin s savci,ahmet sula;a 1 v uhf low noise amplifier for ultralow power applications;7054;471752F4;2006
+5;4;z wang;numan s dogan,huseyin s savci;1 v ultra low power cmos lc vco for uhf quadrature signal generation;11484;471752F4;2006
+6;5;z wang;Stan Grygiel,Marek A. Perkowski,miroslawa nowicka,Rahul Malvi,tadeusz luba,jin s zhang,malgorzata marek sadowska,lech jozwiak;decomposition of multiple valued relations ;12781;452527AF;1997
+7;6;z wang;m muthuprasanna,g manimaran;unified defense against ddos attacks;0A5DAC76;463369F3;2007
+8;7;z wang;h k dai,chuin tih yeh;on digital watermarking via public key cryptosystems;18170;474BD8D0;2007
+9;8;z wang;sanjeev bedi,d c weckman;the design and fabrication of welded tubular joints using solid modelling techniques;090B77B3;4566232D;1993
+10;9;z wang;frank chun yat li,jack cao;dc coefficients recovery based error concealment technique for mpeg 2 video streams;18207;1457641;2003
+11;10;z wang;yousheng cheng,david dagan feng,yang luo,senquiang zhou,weifeng bao;ct image of liver cancer enhancement using wavelet transform;7355;1510646;2003
+12;10;z wang;d liang,x fu;wavelt transform application of video coding at very low bit rate;12797;1718761;2003
+13;10;z wang;yunhua huang,chaoxuan shang,heping li;radar detection of minimum altitude flying targets based on wavelet transforms;9247;159905;2003
+14;12;z wang;m van de panne;walk to here a voice driven animation system;0875EA92;4566232D;2006
+15;14;z wang;jingyuan zhang;energy efficiency of two virtual infrastructures for manets;0108016A;44C78644;2005
+16;13;z wang;d r phillips,urtzi ayesta,joanne wolfe,e g coffman,petar momcilovic,visda vokhshoori,j etra,eyjolfur ingi asgeirsson;closed on line bin packing;04AF010A;005AF9C3;2002
+17;16;z wang;;validation and enclosure of solutions of linear complementarity problems;348EB203;021F1B56;2007
+18;15;z wang;vladimir leonov,paolo fiorini,c van hoof;micromachined polycrystalline sige based thermopiles for micropower generation on human body;0508EA45;0B68DB42;2008
+19;18;z wang;dianhua wu,kishore sinha;good equidistant codes constructed from certain combinatorial designs;01C5C92C;01206F2B;2008
+20;17;z wang;d roytenberg,j r sack,c hecker;system development for parallel cellular automata and its applications;17488;0B1B95C6;1999
+21;20;z wang;e garderman,bradford l yates,e haldorsen,a wrong,j siew,n bahroos,siuchung wong,christopher w v hogue,m white,d strumpf,kai zheng,johnna paraiso,s sgro,rui yao,f jack,chunsheng xin,j moniakis,tao shan,r pirone,i ng,ethan lee,michel dumontier,marko bajec,kevin a snyder,r stasiuk,amin m khan,shunyi zhang,k bantoft,shuochien ling,yihong gong,s konopinsky,sean moore,roy f willis,v grytsan,r cavero,sha tao,v earles,ruth isserlin,cris alfarano,cheryl d wolting,brigitte tuekam,jason montojo,kelly boutilier,e gryz,f juma,d dorairajoo,a hrvojic,harold i feldman,benjamin l parker,v gu,c e andrade,doron betel,ian m donaldson,m magidin,c dabreo,a halupa,kristina buzadzija,brenda muskat,elisabeth p j burgess,kira anthony,takahide kon,grigore d pintilie,bff ouellette,vu le,y shu,robin haw,d c skinner,b bobechko,l hurrell,john j salama,tony pawson,r gonzaga,r farrall;the biomolecular interaction network database and related tools 2005 update;2663;0806DF69;2005
+22;19;z wang;z ulanowski,paul h kaye;on solving the inverse scattering problem with rbf neural networks noise free case;087067C3;08D0BBB4;1999
+23;22;z wang;tohru kiryu;a java based enterprise system architecture for implementing a continuously supported and entirely web based exercise solution;04416949;041BE876;2006
+24;21;z wang;xiachui liu;guest editorial foreword to the special issue on intelligent computation for bioinformatics;11904;0489FD27;2008
+25;24;z wang;e de backer,paul m f colson,jan ackaert,p coppens;non contact surface potential measurements for charging reduction during manufacturing of metal insulator metal capacitors;19076;07F74989;2001
+26;9;z wang;changjun jiang,yeon gwi kang,r li;a fixture design system for networked manufacturing;01059CAC;0366B3F8;2007
+27;16;z wang;gotz alefeld;error bounds for complementarity problems with tridiagonal nonlinear functions;348EB203;021F1B56;2008
+28;21;z wang;xiaohui liu,jinling liang,yurong liu;robust synchronization of an array of coupled stochastic discrete time delayed neural networks;19438;02821AB5;2008
+29;25;z wang;boubakeur boufama;using stereo geometry towards accurate 3d reconstruction;046F75BC;42FFB84B;2009
+30;27;z wang;d nandy,jezekiel benarie,nebojsa jojic,raveendra k rao;a generalized expansion matching based feature extractor;0AC9113B;4372EE76;1996
+31;28;z wang;krishnendu chakrabarty,n badereddine,serge pravossoudovitch,patrick girard,christian landrault;power aware test data compression for embedded ip cores;0A2FAFA5;459EF883;2006
+32;14;z wang;john zhang,y j wang;change analysis of land surface temperature based on robust statistics in the estuarine area of pearl river china from 1990 to 2000 by landsat tm etm data;0C309CF2;06FF8E18;2007
+33;26;z wang;yvon lagadec,j gierak,j flicstein,anne bourlange,h launois,christian david,christophe vieu,d larigaldie;gold nanograins deposited from a liquid metal ion source;08DFB63E;096B53DD;1997
+34;30;z wang;hongjie hu,d b schaechter;dynamics of controlled mechanical systems with delayed feedback;19666;04F4B84F;2003
+35;31;z wang;satish chandra,h zhana;implementation of frequency offset correction using cordic algorithm for 5 ghz wlan applications;8266;43D2A5F0;2002
+36;29;z wang;keshab k parhi;decoding metrics and their applications in vlsi turbo decoders;07C34834;42D493FC;2000
+37;13;z wang;d r phillips,urtzi ayesta,joanne wolfe,e g coffman,petar momcilovic,visda vokhshoori,j etra,eyjolfur ingi asgeirsson;closed on line bin packing;04AF010A;005AF9C3;2002
+38;35;z wang;;fast discrete sine transform algorithms;10285;09379623;1990
+39;33;z wang;jeffery l kennington;a shortest augmenting path algorithm for the semi assignment problem;3215;077F2EB9;1992
+40;36;z wang;b e richards;high resolution schemes for steady flow computation;5571;08DD21F7;1991
+41;37;z wang;murali rao,baba c vemuri,yungchang chen,thomas h mareci,tim mcgraw;fiber tract mapping from diffusion tensor mri;10525;471495;2001
+42;27;z wang;z h zhang,l z cheng;fast unified computation of the multi dimensional discrete sinusoidal transforms;05BF2DCA;03009DEA;2002

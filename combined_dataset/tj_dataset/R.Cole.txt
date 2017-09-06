@@ -1,0 +1,16 @@
+0;0;r cole;uzi vishkin;optimal parallel algorithms for expression tree evaluation and list ranking;00FA1C18;0965DDD6;1988
+1;1;r cole;o brooks,wayne ward,c ortega,annie i anton,jose a b fortes,t r kasad,andrea matsunaga,peter j jansen,l de brens,m herrera,mauricio tsugawa,wai chen,violetta cavallisforza,m patil,don towsley,qingfeng he,p taveras,jaime g carbonell,b pineres,c mcsweeney,jose a ventura,shibin su,randy connolly;a prototype system for transnational information sharing and process coordination system demo;0B3CDF24;4385295C;2004
+2;0;r cole;bruce m maggs,ramesh k sitaraman;routing on butterfly networks with random faults;022F9467;448ECA1D;1995
+3;2;r cole;k luddecke,harald richter,gerhard raupp,t zehetbauer,g neu,m fitzek,d zasche,w woyke;the distributed real time control system of a tokamak fusion device;9373;44E5A1B2;1995
+4;0;r cole;ofer zajicek;the apram incorporating asynchrony into the pram model;022F9467;451C38EE;1989
+5;0;r cole;clare foxcroft;an experiment in clock synchronisation;3717;02A934C1;1988
+6;3;r cole;bernard chazelle,cheekeng yap,p preparata;new upper bounds for neighbor searching;6753;03928357;1986
+7;4;r cole;;a method for interconnecting heterogeneous computer networks;02B09E25;07489CC9;1987
+8;0;r cole;;partitioning point sets in arbitrary dimension;0368E8BE;05686292;1987
+9;0;r cole;maxime crochemore,zvi galil,r eariharan,leszek gasieniec,kunsoo park,s muthukrishnan,wojciech rytter;optimally fast parallel algorithms for preprocessing and pattern matching in one and two dimensions;022F9467;448ECA1D;1993
+10;0;r cole;;slowing down sorting networks to obtain faster sorting algorithm;0368E8BE;448ECA1D;1984
+11;0;r cole;arvind u raghunathan;online algorithms for finger searching;022F9467;448ECA1D;1990
+12;0;r cole;ramesh hariharan;tighter bounds on the exact complexity of string matching;022F9467;448ECA1D;1992
+13;1;r cole;john h l hansen,j y zhang,s sandeep pradhan,x yu,kadri hacioglu,bryan l pellom,wayne h ward;university of colorado dialog systems for travel and navigation;0B3CDF24;1663289;2001
+14;0;r cole;clare foxcroft;an experiment on clock synchronisation;11188;02A934C1;1988
+15;0;r cole;uzi vishkin;on the detection of robust curves;2937;08311E31;1994

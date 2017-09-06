@@ -1,0 +1,31 @@
+0;0;yan tang;yuhui qiu,rui chen;a novel stroke extraction model for chinese characters based on steerable filters;2404;4665AEAE;2006
+1;1;yan tang;yang zhang,changquan ai,lin zhang,zhengguo hu;a practical peer performance aware dht;01059CAC;45FD9DD4;2004
+2;2;yan tang;jun wang,hongbo zeng,ge zhang,kun huang;zero efficient buffer design for reliable network on chip in tiled chip multi processor;16687;463BE6FF;2008
+3;3;yan tang;robert meersman;on constructing semantic decision tables;339CD1B3;47169EC5;2007
+4;3;yan tang;jan vanthienen,robert meersman;semantic decision tables self organizing and reorganizable decision tables;00CD8766;47169EC5;2008
+5;2;yan tang;ling feng,liang huai yang;a wavelet approach to extracting contours of document images;16223;448D1E7E;1999
+6;6;yan tang;jian meng,liyi zhang;eirs an intelligent e commerce application system for small retailers in china;023B9EF3;1051630;2008
+7;3;yan tang;robert meersman;judicial support systems ideas for a privacy ontology based case analyzer;0132D2A8;46405877;2005
+8;3;yan tang;robert meersman;organizing meaning evolution supporting systems using semantic decision tables;0132D2A8;446908FE;2007
+9;3;yan tang;;on conducting a decision group to construct semantic decision tables;0132D2A8;447B80D7;2007
+10;7;yan tang;kendra cooper,kun tian,kunwu feng;defining re usable composite aspect patterns an fdaf based approach;09B0BBA7;46405877;2008
+11;3;yan tang;damien trog;model ontological commitments using orm in t lex;0132D2A8;46405877;2008
+12;1;yan tang;zhanhuai li,yang zhang,kebin cui;drc bk mining classification rules with help of svm;01059CAC;463BD859;2004
+13;3;yan tang;robert meersman,damien trog;towards ontological commitments with omega ridl markup language;18560;44DA6608;2007
+14;3;yan tang;robert meersman,peter spyns;towards semantically grounded decision rules using orm ;00CD8766;44DA6608;2007
+15;2;yan tang;atanas rountev,feng qin,guoqing xu;efficient checkpointing of java software using context sensitive capture and replay;031EE95E;477F6C83;2007
+16;3;yan tang;robert meersman;use semantic decision tables to improve meaning evolution support systems;00CD8766;44D4200D;2008
+17;3;yan tang;robert meersman;use semantic decision tables to improve meaning evolution support systems;00CD8766;44D4200D;2009
+18;2;yan tang;feng qin,qi gao;leaksurvivor towards safely tolerating memory leaks for garbage collected languages;031EE95E;451788DE;2008
+19;3;yan tang;stijn christiaens,robert meersman,koen kerremans;profile compiler ontology based community grounded multilingual online services to support collaborative decision making;0132D2A8;436312EA;2008
+20;0;yan tang;rui che,xin fu;3d model simplification method based on roi;08786941;449CDF39;2008
+21;4;yan tang;xiaoming li,tao wang;the design and implementation of lilytask in shared memory;0134B592;02FC069B;2005
+22;3;yan tang;robert meersman,peter spyns;an ontology engineering methodology for dogma;00CD8766;01E27ABF;2008
+23;0;yan tang;yuhui qiu,zhixing huang;auction based resource reservation game in small world;2385;906261;2007
+24;3;yan tang;gang zhao,kevin pudkey,robert meersman,peter de baer;towards a pattern driven topical ontology modeling methodology in elderly care homes;0132D2A8;46405877;2009
+25;3;yan tang;gang zhao,robert meersman,peter de baer;on constructing grouping and using topical ontology for semantic matching;0132D2A8;46405877;2009
+26;2;yan tang;feng qin,qi gao,wenbin zhang;first aid surviving and preventing memory management bugs during production runs;031EE95E;45F09162;2009
+27;7;yan tang;kunwu feng;an expert system based approach to modeling and selecting requirement engineering techniques;09B0BBA7;44D822DB;2009
+28;3;yan tang;pieter de leenheer,peter de baer;an ontology based data matching framework use case competency based hrm;8110;44E12FD1;2008
+29;10;yan tang;linjian tang,guiqiang chen;the parameter optimization of human simulated intelligent controller based on improved genetic algorithm;15154;42CC6E2D;2009
+30;9;yan tang;xiaoli yang,junchao xu,jingtian tang,xiaokai zhang,qing zou;the algorithm of r peak detection in ecg based on empirical mode decomposition;08530CBF;193418;2008

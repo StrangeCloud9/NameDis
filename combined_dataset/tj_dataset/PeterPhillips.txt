@@ -1,0 +1,13 @@
+0;0;peter phillips;j allanson,simon lock;user driven design of a tangible awareness landscape;0404AD5B;45D76B94;2000
+1;1;peter phillips;alfredo moscardini,john macintyre;exponential cluster smearing;14655;181282;2005
+2;0;peter phillips;alex poole,linden j ball;in search of salience a response time and eye movement analysis of bookmark recognition;0404AD5B;45AB6F7C;2004
+3;1;peter phillips;alfredo moscardini,john macintyre;a new technique for improving the classification ability of a neural network;5152;465F7C62;2003
+4;2;peter phillips;ickjai lee;areal aggregated crime reasoning through density tracing;10218;468A7487;2007
+5;2;peter phillips;ickjai lee;mining positive associations of urban criminal activities using hierarchical crime hot spots;0527654D;42E17B30;2006
+6;2;peter phillips;chris christensen,ickjai lee,reece pershouse;what if emergency management system a generalized voronoi diagram approach;5225;47787FB4;2007
+7;2;peter phillips;ickjai lee;criminal cross correlation mining and visualization;0527654D;47787FB4;2009
+8;2;peter phillips;ickjai lee;urban crime analysis through areal categorized multivariate associations mining;0527654D;077B006D;2008
+9;1;peter phillips;george n phillips;no source code no problem ;337496DE;02B7909E;2003
+10;0;peter phillips;james walkerdine,dorothy rachovides;the conductor interaction method;0404AD5B;012B3B79;2007
+11;0;peter phillips;simon lock,james walkerdine;architecting secure mobile p2p systems;0404AD5B;45FFFB88;2008
+12;0;peter phillips;simon lock,jorge santiago,j sheridan,nuno correia,kalle jegers,a lindsay,robert wechsler,frieder weiss,joe finney,s kember,a c scott,eric paulos,j allanson,duncan mccaffery,mikael wiberg,l f romero,stefan schmid;gaming fine art and familiar strangers;087095C7;0171209C;2004

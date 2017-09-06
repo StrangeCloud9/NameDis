@@ -1,0 +1,24 @@
+0;1;mark davis;brian keegan,karol kowalik;rare resource aware routing for mesh;06E3775F;436150FA;2007
+1;1;mark davis;topojit debnath,nicola cranley;an experimental investigation of parallel multimedia streams over ieee 802 11e wlan networks using txop;8702;436150FA;2007
+2;2;mark davis;sujeet shenoi,gavin wylie manes;a network based architecture for storing digital evidence;18191;773549;2005
+3;2;mark davis;sujeet shenoi,gavin wylie manes,pavel gershteyn;extracting concealed data from bios chips;17165;53980;2005
+4;2;mark davis;kristina pyles,sujeet shenoi,richard lee kennedy,amanda strickler;detecting data concealment programs using file system analysis;0532B1F5;159598;2006
+5;2;mark davis;sujeet shenoi,gavin wylie manes,scott piper;detecting hidden data in ext2 ext3 file systems;4286;1122464;2005
+6;2;mark davis;sujeet shenoi,pavel gershteyn;forensic analysis of bios chips;0532B1F5;1290532;2006
+7;2;mark davis;sujeet shenoi,scott piper;countering hostile forensic techniques;0532B1F5;620680;2006
+8;1;mark davis;miroslaw narbutt;the capability of the edca mechanism to support voice traffic in a mixed voice data transmission over 802 11e wlans an experimental investigation;8181;438E31AA;2007
+9;1;mark davis;miroslaw narbutt;experimental investigation on voip performance and the resource utilization in 802 11b wlans;06E3775F;438E31AA;2006
+10;1;mark davis;miroslaw narbutt;an assessment of the audio codec performance in voice over wlan vowlan systems;06E3775F;45F964A3;2005
+11;1;mark davis;;a wireless traffic probe for radio resource management and qos provisioning in ieee 802 11 wlans;06E3775F;47175205;2004
+12;1;mark davis;nicola cranley;performance evaluation of video streaming with background traffic over ieee 802 11 wlan networks;06E3775F;47175205;2005
+13;1;mark davis;tristan raimondi;a novel framework for radio resource management in ieee 802 11 wireless lans;06E3775F;45B4AB31;2005
+14;1;mark davis;miroslaw narbutt;gauging voip call quality from 802 11 wlan resource usage;06E3775F;44ABD1BA;2006
+15;1;mark davis;miroslaw narbutt;experimental tuning of aifsn and cwmin parameters to prioritize voice over data transmission in 802 11e wlan networks;06E3775F;4371D954;2007
+16;1;mark davis;nicola cranley;an experimental investigation of ieee 802 11e txop facility for real time video streaming;10497;43701CEE;2007
+17;0;mark davis;Anton M. Monk,laurence b milstein;a noice whitening approach to multiple access noise rejection part ii implementation issues;8962;0563BD02;1996
+18;3;mark davis;steven landherr,rajesh bordawekar,don capps;experimental evaluation of the hewlett packard exemplar file system;2110;0345BBA5;1997
+19;1;mark davis;brian keegan,k l kowalik,marek bykowski;an evaluation of a conservative transmit power control mechanism on an indoor 802 11 wireless mesh testbed;06E3775F;43B385AB;2008
+20;1;mark davis;k l kowalik,yin chen;meshscan fast and efficient handoff in ieee802 11 mesh networks;06E3775F;45000EEB;2009
+21;4;mark davis;michael everson,j j becker,ken whistler,michel suignard,lisa moore,julie allen,asmus freytag,joan aliprand,rick mcgowan,john h jenkins,mike ksar;the unicode standard version 3 0;9997;894379;1999
+22;3;mark davis;doug felt,john raley;international text in jdk 1 2;4312;685300;2000
+23;5;mark davis;;classical optimizations in ada;3598;02FA8EBB;1981

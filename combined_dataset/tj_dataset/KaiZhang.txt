@@ -1,0 +1,69 @@
+0;0;kai zhang;guoping wang,yuzhou wang;hierarchical stereo matching from foreground to background;13924;46C9E7AF;2006
+1;1;kai zhang;liehuang zhu,lejian liao,yuanda cao;multi media retrieval with semantic web a case study in airport security inspection applications;07802943;4650D622;2006
+2;3;kai zhang;haruhiko takase,terunune hayashi,tsuyoshi shinogi;a method for evaluating upper bound of simultaneous switching gates using circuit partition;0AA4D3ED;43D1CF2E;1999
+3;4;kai zhang;lelin zhang,xiaobo zhou,hongkai xiong;graph theory application in cell nuleus segmentation tracking and identification;0AE9651A;44C5464F;2007
+4;4;kai zhang;xiaobo zhou,hongkai xiong;a simulation based 3d axon axis extraction in confocal fluorescence microscopy images;0AE9651A;44C5464F;2007
+5;0;kai zhang;xu xi,w u guoping,zhang li;stereo matching and 3 d reconstruction for optic disk images;0134B592;45701BF3;2005
+6;7;kai zhang;ming tang,james t kwok;applying neighborhood consistency for fast clustering and kernel density estimation;02AA1FA9;45083D2F;2005
+7;8;kai zhang;jienchung lo,shengli li;the 2nd order analysis of iddq test data;15502;45C56EDC;2000
+8;7;kai zhang;jamesk t kwok,ming tang;accelerated convergence using dynamic mean shift;0BF77E37;43001016;2006
+9;7;kai zhang;ming tang,james t kwok;accelerated convergence using dynamic mean shift;8238;43001016;2006
+10;9;kai zhang;yu wang,yunfa hu;multiple viewpoints based ontology integration;017C99DB;4554E150;2003
+11;10;kai zhang;zhisheng niu,yang yang,sheng zhou;queuing analysis on mimo systems with adaptive modulation and coding;05E79D01;436150FA;2008
+12;10;kai zhang;zheng niu;multiuser mimo downlink transmission over time varying channels;05E79D01;436150FA;2007
+13;10;kai zhang;zhisheng niu,sheng zhou;on the impact of carrier frequency offsets in ofdm sdma systems;05E79D01;436150FA;2007
+14;4;kai zhang;s wong,xiaobo zhou,hongkai xiong;a 3d self adjust region growing method for axon extraction;10654;455477A7;2007
+15;7;kai zhang;james t kwok;block quantized kernel matrix for fast spectral embedding;0BF77E37;465F7C62;2006
+16;7;kai zhang;james t kwok,ivor w tsang;maximum margin clustering made practical;0BF77E37;465F7C62;2007
+17;7;kai zhang;james t kwok,ivor w tsang;maximum margin clustering made practical;08D69EB4;465F7C62;2009
+18;11;kai zhang;jian sun,bin wang;a wordnet based approach to feature selection in text categorization;012E6F4E;43F44683;2004
+19;13;kai zhang;xinming huang;a high sfdr direct digital synthesizer with frequency error free output;12628;471752F4;2008
+20;12;kai zhang;genzhi guan,lin zhang,zhiye du,fangfang chen;improved learning algorithm based on generalized som for dynamic non linear system;023B9EF3;4539ED1E;2006
+21;14;kai zhang;robert j fowler,john mellorcrummey;compilation and runtime optimizations for software distributed shared memory;0474FB72;1768199;2000
+22;4;kai zhang;xiaobo zhou,lei yang,hongkai xiong;a novel coarse to fine adaptation segmentation approach for cellular image analysis;0AE9651A;42F91B89;2007
+23;7;kai zhang;james t kwok;simplifying mixture models through function approximation;16769;43319DD4;2007
+24;7;kai zhang;james t kwok;simplifying mixture models through function approximation;08D69EB4;43319DD4;2010
+25;1;kai zhang;fei xing,weijun liu,xiaofeng shang,tianran wang;intelligent metal powder laser forming system;012E6F4E;1819731;2006
+26;17;kai zhang;weili liu;advanced medical collaborative technologies extending interactivity in grid collaboration tools for long distance biomedical training and research;2031;44BF398F;2006
+27;15;kai zhang;;software defect fractal description;10453;4488779E;2006
+28;20;kai zhang;chunping li,liyan zhang;a topical pagerank based algorithm for recommender systems;05E79D01;43FD776C;2008
+29;14;kai zhang;a tradel;efficient heuristics for solving probabilistic interval algebra networks;05864F21;45A68B5F;2006
+30;21;kai zhang;yan guo,kui li,gang zhang;board forum crawling a web crawling method for web forum;3810;478794CB;2006
+31;10;kai zhang;zhisheng niu;adaptive orthonormal random beamforming for cellular downlink with multiple antennas;19819;43701CEE;2006
+32;20;kai zhang;dou shen,xiaoming jin,xiang wang;mining common topics from multiple asynchronous text streams;05E79D01;42C7B402;2009
+33;22;kai zhang;peter w c chan,xueyuan zhao,d c k lee,z g pan,c m lo;methodology for mode selection in mimo ofdm system;10509;45563B9A;2008
+34;2;kai zhang;jun zou,yanping lin;studies on some perfectly matched layers for one dimensional time dependent systems;0A97E0C1;036686A3;2007
+35;9;kai zhang;frank y shih;locating object contours in complex background using improved snakes;070A58AF;0B07014C;2007
+36;10;kai zhang;zhisheng niu;adaptive receive antenna selection for orthogonal space time block codes with imperfect channel estimation;7327;09F41384;2007
+37;10;kai zhang;zhisheng niu;interference suppression for block diagonalization mimo downlink systems over time varying channels;7610;09F41384;2007
+38;10;kai zhang;zhisheng niu;adaptive orthonormal random beamforming and multi beam selection for cellular systems;14408;09F41384;2007
+39;10;kai zhang;zhisheng niu;joint transmit rate power and antenna allocation for mimo systems with multimedia traffic;5555;09F41384;2006
+40;5;kai zhang;lei wang,shixin sun;a fast approximate algorithm for training l1 svms in primal space;0626251D;02B93B6A;2007
+41;9;kai zhang;f y shih;efficient contour detection based on improved snake model;16895;02790879;2011
+42;9;kai zhang;frank y shih;inter frame interpolation by snake model and greedy algorithm;12051;02790879;2011
+43;9;kai zhang;frank y shih;support vector machine networks for multi class classification;718;02790879;2011
+44;9;kai zhang;frank y shih,yanyu fu;a hybrid two phase algorithm for face recognition;16849;02790879;2011
+45;9;kai zhang;yu wang,frank y shih,marc q ma;a hierarchical refinement algorithm for fully automatic gridding in spotted dna microarray image processing;070A58AF;0B7B9B75;2007
+46;9;kai zhang;frank y shih;a distance based separator representation for pattern classification;070A58AF;0A9361D2;2008
+47;22;kai zhang;r s sherratt,o wilkes;a block coprocessor for user data rate improvements to gprs coding scheme 4;2889;09FD69F0;2007
+48;9;kai zhang;huiyun wang,marc q ma,f y shih;elb q a new method for improving the robustness in dna microarray image quantification;070A58AF;041BE876;2007
+49;13;kai zhang;yunguang yin,shi yu,ran zhang;domain decomposition methods for linear and semilinear elliptic stochastic partial differential equations;0B97151C;03009DEA;2008
+50;13;kai zhang;song wang;pricing options under jump diffusion processes with fitted finite volume method;503;03009DEA;2008
+51;22;kai zhang;r simon sherratt,o wilkes;improving cs 4 user data rate in gprs enabled devices by using a bler co processor;043C2E9C;04DAB717;2005
+52;7;kai zhang;michael small,jie zhang;chaos inducement and enhancement in two particular nonlinear maps using weak periodic quasiperiodic perturbations;14466;04D4239C;2011
+53;7;kai zhang;james t kwok,bahram parvin;prototype vector machine for large scale semi supervised learning;08D69EB4;465F7C62;2009
+54;7;kai zhang;james t kwok,bahram parvin;prototype vector machine for large scale semi supervised learning;12545;465F7C62;2009
+55;13;kai zhang;xinming huang,zhongfeng wang;an area efficient ldpc decoder architecture and implementation for cmmb systems;7269;44D3E57F;2009
+56;13;kai zhang;xinming huang,zhongfeng wang;an area efficient ldpc decoder architecture and implementation for cmmb systems;18363;44D3E57F;2009
+57;13;kai zhang;chen shen,xinming huang;soft decoder architecture of lt codes;18634;46F80578;2008
+58;13;kai zhang;xinming huang,zhongfeng wang;high throughput layered decoder implementation for quasi cyclic ldpc codes;14545;0563BD02;2009
+59;7;kai zhang;james t kwok;density weighted nystrom method for computing large kernel eigensystems;0BF77E37;0C56EDBC;2009
+60;19;kai zhang;wanli li,xiwei chen;study on the biconical antenna in the emc test suitable for engineering machinery;06F892B4;46AB47BD;2009
+61;18;kai zhang;min zhou;the application of two dimensional image reconstruction for relics preservation and administration;3754;454CA326;2009
+62;16;kai zhang;yongling fu,xiaoye qi;fuzzy predictive control in czochralski crystal growth with power input as the unique manipulation;6473;4665AEAE;2009
+63;23;kai zhang;hui li,fei xia,daogang peng,hao zhang;research and development of the remote i o data acquisition system based on embedded arm platform;1436;1063615;2009
+64;9;kai zhang;camel y fu,frank y shih;multi view face identification and pose estimation using b spline interpolation;070A58AF;0B7B9B75;2005
+65;1;kai zhang;liaoying zhao;a new least squares subspace projection approach to unmix hyperspectral data;4255;0691FF8A;2009
+66;1;kai zhang;weijun liu;microstructure evolution of stainless steel during laser metal deposition shaping;0963600E;42CC6E2D;2009
+67;18;kai zhang;hong bao,min zhou;research on the application of industrial ct for relics image reconstruction;04F0A8A0;33212;2009
+68;6;kai zhang;chunjian xie,kuisheng feng,chenjiang guo,jiadong xu;target detecting based on improved wvd ht for radio frequency interference to uwb sar;06ACAD91;07BA2985;2008

@@ -1,0 +1,15 @@
+0;0;m rahman;;fourier transform solution to the problem of steady state transonic motion of a line load across the surface of an elastic half space the corrected cole huth solution ;1310;00738719;2001
+1;1;m rahman;s misbahuddin;effect of a binary symmetric channel on the synchronisations recovery of variable length codes;18247;02A934C1;1989
+2;2;m rahman;zdzislaw jackiewicz,b d welfert;stochastic approximations of perturbed fredholm volterra integro differential equation arising in mathematical neurosciences;00B531C9;03009DEA;2007
+3;3;m rahman;zdzislaw jackiewicz,bruno d welfert;numerical solution of a fredholm integro differential equation modelling theta neural networks;12547;03009DEA;2008
+4;4;m rahman;m b cai,x p li;molecular dynamics simulation of the effect of tool edge radius on cutting forces and cutting region in nanoscale ductile cutting of silicon;1936;08392B49;2005
+5;4;m rahman;y f zhang,m r alam,kwon soon lee;process planning optimization for the manufacture of injection moulds using a genetic algorithm;17115;0366B3F8;2010
+6;5;m rahman;j g williamson,s k murad,m c holland,c d w wilkinson,a r long;method of dry etching evaluation using quantum dots;00784876;096B53DD;1997
+7;6;m rahman;david g meyer;a cost efficient high performance bit serial architecture for robot inverse dynamics computation;0D109F83;0489FD27;1987
+8;7;m rahman;tony ambler,christoph maas,michael wahl;from dft to systems test a model based cost optimization tool;12824;463BE6FF;2001
+9;5;m rahman;stephen f duffy,j g williamson,m j brown,g dick,k mathieson,c d w wilkinson;quantum electron beam probe of sidewall dry etch damage;00784876;096B53DD;2000
+10;4;m rahman;y f zhang,k s lee,m r alam;automated process planning for the manufacture of sliders;10667;039F69FE;2000
+11;4;m rahman;h s lim,a senthil kumar;improvement of form accuracy in hybrid machining of microstructures;09E3EE34;07A0E867;2002
+12;4;m rahman;k fathima,h s lim,a senthil kumar;a study on the grinding of glass using electrolytic in process dressing;09E3EE34;07A0E867;2002
+13;1;m rahman;syed misbahuddin;effect of a binary symmetric channel on the synchronisation recovery of variable length codes;07FDF9F9;02A934C1;1989
+14;8;m rahman;amjad ali soomro;an efficient numerical technique to calculate buffer statistics;13689;057F15AE;1989

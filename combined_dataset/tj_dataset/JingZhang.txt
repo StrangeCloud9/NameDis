@@ -1,0 +1,231 @@
+0;0;jing zhang;barrett r bryant,hui wu,jeff gray,yuehua lin,chuanxi xu,juanqin wang,song zhou;e r modeler a database modeling toolkit for eclipse;01EE3848;44344A0A;2004
+1;2;jing zhang;shungang hua,zongying ou;novel view generation from two reference images based on the same optical axis;01A17328;42C62517;2004
+2;0;jing zhang;diane j cook,les l miller;index support for visualizing large distributed high dimension data sets;12883;44BF398F;2005
+3;4;jing zhang;yuncai liu,fanhuai shi,jianhua wang;camera calibration from a single frame of planar pattern;0AE9651A;46C9E7AF;2006
+4;6;jing zhang;jianjun hu,dongqing yang,changjie tang,jing peng;cacs a novel classification algorithm based on concept similarity;8432;469407EC;2007
+5;7;jing zhang;nuno amalio,fiona a c polack;autonomous objects and bottom up composition in zoo applied to a case study of biological reactivity;0AC72C36;46AC2C9A;2008
+6;4;jing zhang;yuncai liu,fanhuai shi;an adaptive selection of motion for online hand eye calibration;0AE9651A;46EF45E9;2005
+7;9;jing zhang;yang yu,maozu guo;simulations of protein folding process;9687;47784D0E;2007
+8;9;jing zhang;yang yu,maozu guo;methods and simulations for the protein folding;5748;47784D0E;2007
+9;0;jing zhang;diane j cook,les l miller;limn matrix a tool for visualizing large distributed high dimension data sets;4712;42BD758D;2005
+10;10;jing zhang;dunren che,wenchi hou,yu yu feng;enhancing sql with set comparison operators;12417;46B774B0;2009
+11;11;jing zhang;lutz hamel,gongqin sun;toward protein structure analysis with self organizing maps;5994;47796128;2005
+12;12;jing zhang;john strassner,yan liu;a context aware policy model to support autonomic networking;4F799D2F;44233F91;2008
+13;12;jing zhang;john strassner,sven van der meer;mddas 2008 workshop organization;9086;44233F91;2008
+14;12;jing zhang;john strassner,sven van der meer;message from the mdds 2008 workshop organizers;1113;44233F91;2008
+15;13;jing zhang;ming li,xi chen;computing exact p value for structured motif;05E79D01;4718BF06;2007
+16;0;jing zhang;haiyang wang;a composition oriented approach for business process formal design;12611;43520230;2006
+17;0;jing zhang;haiyang wang;a pi calculus based business process formal design method;092F5EFF;43520230;2006
+18;15;jing zhang;lei zhang,yantao wang,shijie fang;research on the optimal transmission design of planar bar mechanism;01198E98;43520230;2007
+19;4;jing zhang;yuncai liu,fanhuai shi,jianhua wang;motion segmentation of multiple translating objects using line correspondences;0AE9651A;45083D2F;2005
+20;13;jing zhang;jie tang,juanzi li;expert finding in a social network;05E79D01;469D149A;2007
+21;16;jing zhang;david f anderson,irak lopez davila,tino demarco,josune arcelus de diego,andrew whitmore,luis f lunareyes,rejean roy,monique charbonneau,karen bryce,gabriel cid;exploring digital government initiatives to expand full information product pricing fipp networks in nafta;07CBA10C;4385295C;2008
+22;16;jing zhang;celene navarrete,j ramon gilgarcia,luis f lunareyes,theresa a pardo;north american digital government working group initial steps in the development of a comparative and transnational agenda;07CBA10C;4385295C;2008
+23;12;jing zhang;david raymer,michael jiang,yan liu,john strassner;a case study a model based approach to retrofit a network fault management system with self healing functionality;4F799D2F;451E8992;2008
+24;19;jing zhang;guojun chen;dynamic terrain lod with region preservation in 3d game engine;05C5D9C3;457CED2E;2006
+25;18;jing zhang;min li;a survey on use of new perspective english learning system among university students case study on jiangxi normal university;0331C355;457CED2E;2008
+26;21;jing zhang;hui zhao,yanbo huang;the f r model of teaching in chinese universities;08530CBF;457CED2E;2008
+27;20;jing zhang;hai huang;federate job mapping strategy in grid based virtual wargame collaborative environment;05C5D9C3;457CED2E;2007
+28;19;jing zhang;xiaoli xu,guojun chen,yuan yin;real time visualization of tire tracks in dynamic terrain with lod;05C5D9C3;457CED2E;2007
+29;22;jing zhang;liangrui tang,bing qi;an improved fuzzy image enhancement algorithm;3529;4665AEAE;2008
+30;24;jing zhang;gufeng gong,xiaofeng huang,lianhong wang;dna sequences classification based on immune evolution network;00FD6FCE;4665AEAE;2008
+31;23;jing zhang;guisheng yin,huaiyou chen;model retrieval based on flattened shape comparison in 3d databases;090B2C79;4665AEAE;2008
+32;28;jing zhang;seok wun ha,Choong-Woong Yoo;roi based natural image retrieval using color and texturefeature;17293;4665AEAE;2007
+33;0;jing zhang;aniruddha gokhale,hui wu,jeff gray,yuehua lin,sandeep neema,feng shi,rajesh sudarsan,suman roychoudhury,ted bapty;model driven program transformation of a large avionics framework;01EE3848;42D98AA6;2004
+34;25;jing zhang;wan zhang,liu wenyin;adaptive noise reduction for engineering drawings based on primitives and noise assessment;0A0E755C;42DA9D26;2005
+35;27;jing zhang;christian bach,salvatore belardo;increase of potential intellectual bandwidth in a scientific community through implementation of an end user information system;783;4569270C;2003
+36;16;jing zhang;sue r faerman;divergent approaches and converging views drawing sensible linkages between knowledge management and organizational learning;257;4569270C;2003
+37;16;jing zhang;sue r faerman;the nature of knowledge and its influence on knowledge sharing practice experiences from building the macros system;0005FC5A;4569270C;2004
+38;16;jing zhang;sue r faerman,anthony m cresswell;the effect of organizational technological factors and the nature of knowledge on knowledge sharing;07CBA10C;4569270C;2006
+39;16;jing zhang;maria a wimmer,michael goul;minitrack e government information and knowledge management;07CBA10C;4569270C;2007
+40;16;jing zhang;rejean roy,deborah lines andersen,andrew whitmore,luis f lunareyes;information strategies to support full information product pricing the role of trust;0A622A44;1798436;2013
+41;16;jing zhang;andrew whitmore,luis f lunareyes,l j a de diego,m j andersen,david f andersen,rejean roy;information strategies to support full information product pricing the role of trust;6392;4569270C;2009
+42;16;jing zhang;luis f luna reyes,josune arcelus de diego,Madeleine Andersen,david f andersen,rejean roy,andy whitmore;information strategies to support full information product pricing the role of trust;4971;4569270C;2009
+43;16;jing zhang;Deborah L. Andersen,david f andersen,andy whitmore,luis f luna reyes,rejean roy;information strategies to support full information product pricing the role of trust;9046;4569270C;2013
+44;28;jing zhang;guili li,seokwun he;texture based image retrieval by edge detection matching glcm;0B4AAA00;447B8E60;2008
+45;31;jing zhang;hajime sawamura,yohsuke takahashi;transforming natural arguments in araucaria to formal arguments in lma;04416949;478794CB;2006
+46;0;jing zhang;ningning wu;factor analysis based anomaly detection;8966;45C7663C;2003
+47;19;jing zhang;guojun chen;exploiting frame to frame coherence for rendering terrain using continuous lod;05C5D9C3;455FBCE1;2006
+48;36;jing zhang;xue qiu,youngchon kim,biswanath mukherjee,debasish datta,yurong huang,hyukkyu park;studies on a class of awg based node architectures for optical burst switched networks;0349EE07;43D2A5F0;2004
+49;36;jing zhang;shuang wang,xue qiu,haejoung lee,youngchon kim,keyao zhu,biswanath mukherjee,debasish datta,yurong huang;explicit routing for traffic engineering in labeled optical burst switched wdm networks;0349EE07;43D2A5F0;2004
+50;34;jing zhang;jilong wang;federation based solution for peer to peer network management;05E79D01;43D2A5F0;2007
+51;39;jing zhang;lalin jiang,ping li,jiayin wu;rsa extended modulus attacks and their solutions in a kind of fair exchange protocols;00FD6FCE;446AF0D7;2005
+52;36;jing zhang;wonho so,youngchon kim,haejoung lee,biswanath mukherjee,kyuyeop song,debasish datta;a hybrid restoration scheme based on threshold reaction time in optical burst switched networks;0349EE07;470B05DE;2004
+53;38;jing zhang;chun chen,yunjun gao,shen liu,gencai chen,qing li;optimal nearest neighbor queries;350410CF;45610CDA;2008
+54;13;jing zhang;jie tang,ruoming jin;a topic modeling approach and its integration into the random walk framework for academic search;05E79D01;468A7487;2008
+55;44;jing zhang;ng bryan,yi zhao,y teng tang,li zhuang;dynamic negotiation for real time manufacturing execution;14313;44A68539;2004
+56;42;jing zhang;jun hu;the cluster distribution of regulatory motifs of transcription in yeast introns;0B47208B;439B9AD2;2005
+57;41;jing zhang;baoshan xu,kai kang;optimizing the selection of partners in collaborative operation networks;0B047E91;439B9AD2;2009
+58;40;jing zhang;guizhong liu;a novel lossless compression for hyperspectral images by adaptive classified arithmetic coding in wavelet domain;05364FE4;455477A7;2006
+59;47;jing zhang;wen wu,jie yang;a multimedia system for route sharing and video based navigation;070A9F1F;432251B5;2006
+60;47;jing zhang;xilin chen,alex waibel,jie yang;a pda based sign translator;0477FFD3;4372B502;2002
+61;46;jing zhang;tiepan li,jinhai liu;an advanced scheme for wireless network authentication system;19671;446AF0D7;2006
+62;46;jing zhang;bo wang;a new scheme for wireless network authentication system;023B9EF3;446AF0D7;2006
+63;52;jing zhang;yiyuan tang,ling yin,guang li,xiaowei tang,faji gu;neuroinformatics research in china current status and future research activities;0489A984;856D618D;2005
+64;50;jing zhang;benyong liu;eigenspectra versus eigenfaces classification with a kernel based nonlinear representor;7589;856D618D;2005
+65;6;jing zhang;changan yuan,changjie tang,jing peng;evolutionary algorithm based on overlapped gene expression;18989;0655F58A;2005
+66;28;jing zhang;seokwun ha;a novel approach using edge detection information for texture based image retrieval;0B4AAA00;0655F58A;2006
+67;57;jing zhang;james t kwok,jinglin peng,shutao li;multimodal registration using the discrete wavelet frame transform;4158;4372EE76;2006
+68;47;jing zhang;xilin chen,alex waibel,andreas hanneman,jie yang;a robust approach for recognition of text embedded in natural scenes;0477FFD3;4372EE76;2002
+69;4;jing zhang;yuncai liu,fanhuai shi;motion segmentation by multibody trifocal tensor using line correspondence;10158;4372EE76;2006
+70;25;jing zhang;rangachar kasturi,dmitry b goldgof;a new edge based text verification approach for video;0027E0B8;4372EE76;2008
+71;54;jing zhang;ronald lumia,john wood,gregory p starr;sharing inertia load between multiple robots with active compliant grippers using trajectory pre shaping;5943;455FBCE1;2004
+72;12;jing zhang;hong zhao,michael jiang,yuanyuan zhou;maintaining software product lines an industrial practice;4F799D2F;4532399F;2008
+73;36;jing zhang;yue zhang,mark panahi,leonardo varela,kweijay lin,sooho chang;the llama middleware support for accountable service oriented architecture;0C2C9DD2;450EACAF;2008
+74;55;jing zhang;lingshuang shao,bing xie,yong wei,hong mei,junfeng zhao;personalized qos prediction forweb services via collaborative filtering;0134B592;47A823DD;2007
+75;61;jing zhang;baikunth nath;processing and analysis of ground penetrating radar landmine detection;09E1988B;43DB3338;2004
+76;62;jing zhang;;on the integration frame of collaborative innovation support system for telecom operators;08548E70;71630;2008
+77;63;jing zhang;han xue;applying virtual reality to web based education;090B2C79;012269E3;2006
+78;9;jing zhang;maozu guo,yanbo li;real time competition simulation system;0C37CBAD;462C0072;2007
+79;0;jing zhang;aniruddha gokhale,swapna s gokhale,jeff gray,paul j vandal,yuehua lin,upsorn praphamontripong,dimple kaul,arundhati kogekar;model driven generative techniques for scalable performability analysis of distributed systems;14080;4708B833;2006
+80;59;jing zhang;zongze wu,yuexin zhu,nanning zheng;approximate treatment for calculation of the rate distortion slope in ebcot;05364FE4;471752F4;2005
+81;61;jing zhang;qun liu,baikunth nath;landmine feature extraction and classification of gpr data based on svm method;090B2C79;4539ED1E;2004
+82;50;jing zhang;xiaowei chen,benyong liu;adaptive training of a kernel based representative and discriminative nonlinear classifier;0A9F9B53;4539ED1E;2007
+83;68;jing zhang;renlai zhou,senqi hu,ling zou,yansong li;single trial evoked potentials study during an emotional processing based on wavelet transform;01815C1D;4539ED1E;2008
+84;12;jing zhang;john strassner,xin meng,yan liu;sequential proximity based clustering for telecommunication network alarm correlation;4F799D2F;4539ED1E;2008
+85;69;jing zhang;yanfang du,yuting su;watermarking for authentication of lz 77 compressed documents;09B52E07;478BCB40;2007
+86;13;jing zhang;zhong su,limin yao,li zhang,jie tang,juanzi li;arnetminer extraction and mining of academic social networks;05E79D01;436976F3;2008
+87;4;jing zhang;yuncai liu,zijian zhao,fanhuai shi;a hand eye robotic model for total knee replacement surgery;0AE9651A;435020A4;2005
+88;0;jing zhang;jeff gray,yuehua lin;levels of independence in aspect oriented modeling;0108016A;47490CF4;2003
+89;40;jing zhang;guizhong liu;hyperspectral images lossless compression by a novel three dimensional wavelet coding;05364FE4;43AA5802;2007
+90;9;jing zhang;yang yu,maozu guo;computer simulation for protein folding;8820;46347866;2007
+91;47;jing zhang;alan w black,alon lavie,monika woszczyna,alex waibel,tanja schultz,dorcas wallace,lori levin,a badran,robert frederking,kevin a lenzo,juergen reichert,laura mayfield tomokiyo,donna gates;speechalator two way speech to speech translation in your hand;0477FFD3;45F914AD;2003
+92;0;jing zhang;jeff gray,ira d baxter,suman roychoudhury;c saw and genaweave a two level aspect weaving toolsuite;01EE3848;43DFAE0A;2004
+93;0;jing zhang;;supporting software evolution through model driven program transformation;01EE3848;43DFAE0A;2004
+94;0;jing zhang;;metamodel driven model interpreter evolution;01EE3848;43DFAE0A;2005
+95;13;jing zhang;liu liu,jie tang,juanzi li;a mixture model for expert finding;05E79D01;436976F3;2008
+96;13;jing zhang;jie tang;a discriminative approach to topic based citation recommendation;05E79D01;436976F3;2009
+97;72;jing zhang;chen wang,yongxi cheng,yanhong a liu,yingchao zhao,tom rothamel,michael gorbovitski;core role based access control efficient implementations by transformations;05E79D01;4484A15D;2006
+98;13;jing zhang;ming li,xin gao,jinbo xu;rapid and accurate protein side chain prediction with local backbone information;0C6703C3;46DE2D44;2008
+99;13;jing zhang;chunlin zhu,limin yao,jie tang,juanzi li,duo zhang;arnetminer an expertise oriented search system for web community;05E79D01;44E12FD1;2007
+100;74;jing zhang;yikun zhang;multi signers strong designated verifier signature scheme;9691;46950273;2008
+101;0;jing zhang;aniruddha gokhale,swapna s gokhale,jeff gray,yuehua lin,steve nordstrom,sandeep neema;replicators transformations to address model scalability;01EE3848;47059E35;2005
+102;47;jing zhang;xilin chen,alex waibel,jie yang;automatic detection of signs with affine transformation;1444;44865A7C;2002
+103;73;jing zhang;jiaguang sun,jianmin wang,huacan he,deyi li;a new heuristic reduct algorithm base on rough sets theory;01059CAC;45F282AE;2003
+104;13;jing zhang;kehong wang,jie tang,feng wang,juanzi li;name disambiguation using atomic clusters;05E79D01;45F282AE;2008
+105;13;jing zhang;bangyong liang,jie tang,zi yang,juanzi li,s wang,jingjing zuo;recommendation over a heterogeneous social network;05E79D01;45F282AE;2008
+106;13;jing zhang;bo gao,jie tang,zi yang,juanzi li;topic level random walk through probabilistic model;05E79D01;45F282AE;2009
+107;13;jing zhang;yunhao liu,jie tang,qiong luo,mingcai hong,juanzi li;eos expertise oriented search using social networks;05E79D01;43ABF249;2007
+108;13;jing zhang;limin yao,jie tang,juanzi li;extraction and mining of an academic social network;05E79D01;43ABF249;2008
+109;13;jing zhang;juanzi li,jie tang,duo zhang;a unified framework for name disambiguation;05E79D01;43ABF249;2008
+110;12;jing zhang;hong zhao,michael jiang,yuanyuan zhou;enhancing software product line maintenance with source code mining;4F799D2F;4401057D;2008
+111;75;jing zhang;anthony t s ho;efficient video authentication for h 264 avc;0A4ACFBD;437D615C;2006
+112;0;jing zhang;kai wang,dacheng yang,mingke li,yafeng wang;study on the co existence of 20ms tti and 5ms tti in e dch of td scdma hsupa;16308;462744F4;2007
+113;0;jing zhang;ping zhang,jin xu,xiaofeng tao,lihua li,juan han;multi user joint doppler spread estimation in generalized distributed antenna system;0134B592;462744F4;2007
+114;0;jing zhang;siqing you,yi zheng,dacheng yang,yongyu chang,yafeng wang;a novel load control strategy for td scdma enhanced uplink;0134B592;462744F4;2008
+115;4;jing zhang;yuncai liu,fanhuai shi,jianhua wang;3d motion segmentation from straight line optical flow;0AE9651A;43AA5802;2007
+116;80;jing zhang;ning zhou,baowen zhang,mingang chen;evaluating the disaster defense ability of information systems;0AE9651A;47787FB4;2007
+117;13;jing zhang;dongming li,y liu,li zhang,bo du;an automatic voice query system for bank based on telephone network;487;1774505;2008
+118;79;jing zhang;monte s buchsbaum,erin a hazlett,kingwai chu;comparison between voxel based morphometry and volumetric analysis in schizophrenia;05E21BC0;46438945;2008
+119;0;jing zhang;haiyang wang,qing yao;business process oriented software architecture for supporting business process change;092F5EFF;46F3DAAB;2008
+120;78;jing zhang;jie ma,xiangyang xue,hong lu;semantic information extraction of video based on ontology and inference;8213;4399020E;2007
+121;12;jing zhang;john strassner,yan liu;model driven adaptive self healing for autonomic computing;4F799D2F;45210AF1;2008
+122;4;jing zhang;yuncai liu,fanhuai shi,jianhua wang;a new calibration model and method of camera lens distortion;0AE9651A;44250E28;2006
+123;12;jing zhang;david raymer,michael jiang,yan liu,john strassner;a model based approach to adding autonomic capabilities to network fault management system;4F799D2F;44F1E491;2008
+124;84;jing zhang;lansun shen,mengkai zhao,li zhuo;a low complexity method for real time gaze tracking;0240B99C;47A1D52F;2008
+125;28;jing zhang;yang liu,seokwun ha;a novel approach of face detection based on skin color segmentation and pca;0B4AAA00;46013AA1;2008
+126;83;jing zhang;charles k chui,s h teoh,z l wang,c h yan,j s k ong,c l teo,s h ong,joseph chee ming teo;biomechanical modeling of bone needle interaction for haptic rendering in needle insertion simulation;09E3EE34;45A0DDC1;2006
+127;0;jing zhang;ningning wu;identification of initial rotor position of a micro pmsm;061A86E7;45A0DDC1;2008
+128;82;jing zhang;weifeng tian,zhihua jin,chunling fan;application of multisensor data fusion based on rbf neural networks for fault diagnosis of sams;0AE9651A;45A0DDC1;2002
+129;82;jing zhang;weifeng tian,zhihua jin,chunling fan;application of neuro fuzzy control for satellite aocs;0AE9651A;45A0DDC1;2002
+130;81;jing zhang;zhao zhanshan,zong qun;robust controller for networked control systems induced noise and long transmission delay;6973;45686500;2008
+131;6;jing zhang;jianjun hu,dongqing yang,changjie tang,jing peng;similarity computing model of high dimension data for symptom classification of chinese traditional medicine;01710C78;0860B8FA;2009
+132;13;jing zhang;jun cai,yanda li,ying huang;atid a web oriented database for collection of publicly available alternative translational initiation events;05E79D01;031F7D94;2005
+133;13;jing zhang;xiaowo wang,xuegong zhang,fei li,tao he,yanda li,jin gu;microrna identification based on sequence and structure alignment;05E79D01;031F7D94;2005
+134;13;jing zhang;michael q zhang,bo jiang,xuegong zhang,ming li,john tromp;computing exact p values for dna motifs;8898;031F7D94;2007
+135;13;jing zhang;tao ma,shao li,yanda li;dbnei2 0 building multilayer network for drug nei disease;18805;031F7D94;2008
+136;13;jing zhang;xuegong zhang,keyue ding,yan shen,kaixin zhou;htsnper1 0 software for haplotype block partition and htsnps selection;05E79D01;012269E3;2005
+137;42;jing zhang;xiufan shi,huai cao,jun hu,weibo liu;detection of potential positive regulatory motifs of transcription in yeast introns by comparative analysis of oligonucleotide frequencies;0B47208B;0641039F;2003
+138;0;jing zhang;jeff gray,yuehua lin;automating change evolution in model driven engineering;0108016A;0AAA0D31;2006
+139;1;jing zhang;yanxun chang;the spectrum of cyclic bsec with block size three;074492CB;01206F2B;2005
+140;0;jing zhang;ningning wu;factor analysis based anomaly detection and clustering;061A86E7;46789D3E;2006
+141;40;jing zhang;taiyi zhang,zhengwei gong;improved blind decodings of stbc with unknown and known channel correlation to transmitter;18900;09F41384;2007
+142;0;jing zhang;robert tairas,jeffrey j gray,yuehua lin;aspect mining from a modelling perspective;01EE3848;07251530;2008
+143;5;jing zhang;bing liu,huizhi zhao,xingpeng jiang,tianzi jiang;systematic benchmarking of microarray data feature extraction and classification;012E6F4E;07715374;2008
+144;0;jing zhang;aniruddha gokhale,jeff gray,yuehua lin,krishnakumar balasubramanian;weaving deployment aspects into domain specific models;17567;07D5A6F3;2011
+145;8;jing zhang;qian geng,kun huang,charles t townley;comparative knowledge management a pilot study of chinese and american universities;4D5DDC8C;04C66E92;2005
+146;36;jing zhang;biswanath mukherjee,keyao zhu;backup reprovisioning to remedy the effect of multiple link failures in wdm mesh networks;4F2861B3;0563BD02;2006
+147;36;jing zhang;shuang wang,youngchon kim,keyao zhu,biswanath mukherjee,debasish datta,lei song;optimized routing for fault management in optical burst switched wdm networks;4F2861B3;0563BD02;2007
+148;36;jing zhang;biswanath mukherjee,lei song;dynamic provisioning with availability guarantee for differentiated services in survivable mesh networks;17842;0563BD02;2007
+149;36;jing zhang;b mukheriee;a review of fault management in wdm mesh networks basic concepts and research challenges;0349EE07;0B1F0EDA;2004
+150;4;jing zhang;yuncai liu,fanhuai shi,jianhua wang;motion segmentation of multiple translating objects from line correspondences;13092;00065366;2005
+151;4;jing zhang;yuncai liu,fanhuai shi,jianhua wang;a new calibration model of camera lens distortion;0AE9651A;00065366;2008
+152;0;jing zhang;aniruddha gokhale,swapna s gokhale,jeff gray,yuehua lin,steve nordstrom,sandeep neema;model replication transformations to address model scalability;01EE3848;07489CC9;2008
+153;47;jing zhang;xilin chen,alex waibel,jie yang;automatic detection and recognition of signs from natural scenes;15000;06DF68B7;2004
+154;36;jing zhang;biswanath mukherjee,norman matloff,keyao zhu,hui zang;availability aware provisioning strategies for differentiated protection services in wavelength convertible wdm mesh networks;13393;03B5AFB2;2007
+155;36;jing zhang;biswanath mukherjee,lei song;a comprehensive study on backup bandwidth reprovisioning after network state updates in survivable telecom mesh networks;5261;03B5AFB2;2008
+156;14;jing zhang;qi yu,wanjing xu,jingchun li,mohua yang,tan kaizhou,dinglei mei;fabrication of strained si channel pmosfet on thin relaxed si1 xgex virtual substrate;3203;05E40B87;2004
+157;78;jing zhang;xiangyang xue,hong lu;efficient sports video retrieval based on index structure;4977;09E66BCD;2006
+158;83;jing zhang;zhenlan wang,cheekong chui,simheng ong,chyehwang yan,shihchang wang,sweehin teoh,limeng bian,jackson shinkiat ong,jeremy choonmeng teo,heekit wong;a component oriented software toolkit for patient specific finite element model generation;09E3EE34;00FC6364;2009
+159;0;jing zhang;jeff gray,yuehua lin;a model driven approach to enforce crosscutting assertion checking;01EE3848;45FFFB88;2005
+160;17;jing zhang;yushun fan,yimin shen;multi index cooperative mixed strategy for service selection problem in service oriented architecture;12247;04A491A1;2008
+161;13;jing zhang;yunhao liu,jie tang,qiong luo,mingcai hong,juanzi li;arnetminer expertise oriented search using social networks;05E79D01;0800285A;2008
+162;4;jing zhang;yuncai liu,fanhuai shi;adaptive motion selection for online hand eye calibration;0AE9651A;057E4E1C;2007
+163;32;jing zhang;yuri owechko,yilu zhang;learning based driver workload estimation;070A9F1F;1352682;2008
+164;16;jing zhang;celene navarrete,j ramon gilgarcia,sehl mellouli,theresa a pardo,luis f lunareyes;research group on digital government in north america developing a comparative and transnational agenda;13416;321348;2009
+165;16;jing zhang;david f anderson,irak lopez davila,tino demarco,josune arcelus de diego,andrew whitmore,luis f lunareyes,rejean roy,monique charbonneau,karen bryce,gabriel cid;exploring digital government initiatives to expand full information product pricing fipp networks in nafta;07CBA10C;4385295C;2008
+166;35;jing zhang;chunwen li,rebing wu,tzyhjong tarn;bath induced control of two qubit entanglement under markovian noises;05E79D01;4773F002;2008
+167;25;jing zhang;r bowers,matthew boonstra,dmitry b goldgof,john garofolo,padmanabhan soundararajan,rangachar kasturi,valentina n korzhova,vasant manohar;framework for performance evaluation of face text and vehicle detection and tracking in video data metrics and protocol;3228;0BEAEA4E;2009
+168;74;jing zhang;zhuobin zhang,junhuai li,yile wang;a web service adapter with contract oriented methodology;18831;46F6F355;2009
+169;33;jing zhang;ying jin,shutong luo,pengfei ma,zepeng li,weiping hao;applying pagerank algorithm in requirement concern impact analysis;13402;44233F91;2009
+170;25;jing zhang;liu wenyin;a pixel level statistical structural descriptor for shape measure and recognition;0027E0B8;448D1E7E;2009
+171;36;jing zhang;kweijay lin,yanlong zhai;soa middleware support for service process reconfiguration with end to end qos constraints;2515;47A823DD;2009
+172;26;jing zhang;kristen lefevre,adriane chapman;do you know where your data s been tamper evident database provenance;01A8C383;4390334E;2009
+173;78;jing zhang;lei cen,zhenzhen shi,xiangyang xue,shile zhang,hui yu,jiahui qi,bin li,wenjian zhou,zichen sun,qian diao,yuejie zhang,yuefei guo,jiaojiao lu,yingbin zheng,hong lu,bolan su,yu jiang;fudan university at trecvid 2008;112;172447;2008
+174;30;jing zhang;wendell v tangborn,craig s lingle,uma s bhatt,lisa m phillips;examining glacier mass balances with a hierarchical modeling approach;086EB1D2;066EC72D;2007
+175;36;jing zhang;yue zhang,mark panahi,kweijay lin,sooho chang;building accountability middleware to support dependable soa;0C2C9DD2;0C45C5F4;2009
+176;29;jing zhang;leenkiat soh,ashok samal;a task based approach to user interface design for a web based hydrologic information systems;06D18AFD;333F609E;2006
+177;25;jing zhang;rangachar kasturi;extraction of text objects in video documents recent progress;0027E0B8;44CCF851;2008
+178;12;jing zhang;willie donnelly,yan liu,srini samudrala,sven van der meer,michael jiang,micheal o foghlu,greg cox,john strassner;the design of a new context aware policy model for autonomic networking;2335;449D545A;2008
+179;36;jing zhang;kweijay lin,yanlong zhai;an efficient approach for service process reconfiguration in soa with end to end qos constraints;5018;478757A6;2009
+180;36;jing zhang;yichin chang,kweijay lin,weiran nie,mark panahi;business process composition with qos optimization;0C2C9DD2;04041934;2009
+181;45;jing zhang;;interweave neural networks with evolutionary algorithms cellular computing bayesian learning and ensemble learning;06CF160C;704813;2009
+182;49;jing zhang;yin qi,hu manyin,hou wenlong;computer simulation of air flow distribution characteristics in inner filtering fabric filters;2622;46AB47BD;2009
+183;51;jing zhang;xiaogang zhang,lihua ding,hua chen;a simplified learning algorithm of incremental bayesian;6095;46AB47BD;2009
+184;48;jing zhang;luqun deng,liguo wang;spectral unmixing technique based on flexibly selected endmembers;090B2C79;46AB47BD;2009
+185;33;jing zhang;ying jin,pengfei ma,weiping hao;concern based approach to generating scr requirement specification a case study;0B97151C;46AB47BD;2009
+186;13;jing zhang;rui ma,zhong su,li zhang,jie tang,zi yang,keke cai,jeffrey xu yu;topic distributions over links on web;18371;468A7487;2009
+187;50;jing zhang;benyong liu;image computing fractional spectra and circular moments via frft;0A9F9B53;33795;2009
+188;37;jing zhang;xiaohao xu,dongxuan wei,fei wang;terminal delay performance evaluation based on piece wise fuzzy linear regression modeling;00962EEC;4665AEAE;2009
+189;22;jing zhang;qiuxia yang,liangrui tang,bing qi;a new fcm based algorithm of hydrophobic image segmentation;13129;4665AEAE;2009
+190;49;jing zhang;yin qi,hu manyin,yu jinxing;numerical simulation of bag type collector flow field in biomass energy power plant;0925D0AE;4665AEAE;2009
+191;43;jing zhang;zhou wenyong;service quality evaluation for brand retailers based on fuzzy comprehensive appraisal;06F892B4;4665AEAE;2009
+192;51;jing zhang;jianhao tan,fu guo;a fuzzy design algorithm in nature inspired computation systems;00FD6FCE;4665AEAE;2009
+193;45;jing zhang;;advances in fuzzy method for natural computing;06CF160C;1339812;2009
+194;2;jing zhang;shunde gao,rumin teng,xin wang;equivalent inertia moment in linear stability calculation of stepped beam;758;449AF10A;2009
+195;60;jing zhang;feng shaowei,cui hanguo;optimized nurbs curve and surface fitting using simulated annealing;16268;449AF10A;2009
+196;64;jing zhang;fenghong xiang,hui rong,chunhong zhang,yunsheng zhang;creditability modeling of distributed embedded system based on real time interaction specification;9411;449AF10A;2009
+197;64;jing zhang;fenghong xiang,feng yan,hui rong,chunhong zhang;high dependability design framework in real time embedded control software;2852;449AF10A;2009
+198;78;jing zhang;;a novel video searching model based on ontology inference and multimodal information fusion;088F1129;1574236;2008
+199;58;jing zhang;xiaoling fu;the application of cultural algorithm in load balancing of hybrid p2p network;5431;462E0862;2009
+200;0;jing zhang;ping zhang,renqing lu;reliability modeling and analysis of service oriented robot management system;05669A68;459777C0;2006
+201;28;jing zhang;seokwun ha;leopard image retrieval using region of interest and texture feature;0B4AAA00;45BA0A3D;2006
+202;9;jing zhang;song li;a simulating algorithm for protein folding process;090B2C79;436D599B;2009
+203;56;jing zhang;ming tang,p shum,ying huang,john h lau;design and analysis of bi directional pumping silicon raman laser;18541;442BD7CD;2008
+204;69;jing zhang;yanfang du,yuting su;watermarking for authentication of lz 77 compressed documents;09B52E07;478BCB40;2007
+205;33;jing zhang;ying jin;implementation technique of unrestricted ll action grammar;0B97151C;1741763;2009
+206;8;jing zhang;qian geng,kun huang,charles t townley;comparative knowledge management a pilot study of chinese and american universities book reviews;4D5DDC8C;1923100;2005
+207;53;jing zhang;xiaoli li,xiaoming niu,weimin zhou,qingkang wang,yanbo liu,yongzhong wan;large area nanosize array stamp for uv based nanoimprint lithography fabricated by size reduction process;0AE9651A;096B53DD;2009
+208;16;jing zhang;celene navarrete,j ramon gilgarcia,sehl mellouli,theresa a pardo,luis f lunareyes;research group on digital government in north america developing a comparative and transnational agenda;18164;817880;2009
+209;38;jing zhang;jingping yang,wulue pan;dynamic equivalents of power system based on extended two particle swarm optimization;0489A984;1651596;2007
+210;6;jing zhang;shaojie qiao,dongqing yang,changjie tang,jing peng;function finding and constants creation method in evolutionary algorithm based on overlapped gene expression;5388;1331699;2007
+211;51;jing zhang;xiaogang zhang,hua chen;the predictive control of sintering temperature in rotary kiln based on image feedback and soft computing;12777;916405;2007
+212;51;jing zhang;xuesong xu;an improved immune evolutionary algorithm for multimodal function optimization;00FD6FCE;203535;2007
+213;28;jing zhang;choongwoong yoo,seokwun ha;roi based natural image retrieval using color and texture feature;0B4AAA00;4665AEAE;2007
+214;33;jing zhang;xiaojuan zheng,ying jin;specification and runtime enforcement of security policies;0B97151C;45827814;2007
+215;70;jing zhang;peiguang wang;monotone iterative technique for initial value problems of nonlinear singular discrete systems;0295457F;09DCED85;2008
+216;71;jing zhang;jicai wei,wenxian yu;flexible feature processing mechanism of radar target signal;13234;06542A1C;2008
+217;18;jing zhang;min li;a survey on use of new perspective english learning system among university students case study on jiangxi normal university;0331C355;457CED2E;2008
+218;33;jing zhang;zhiyi fang,yong feng,zhuang liu;work flow based multi domain certificate in e commerce;0B97151C;1779317;2004
+219;67;jing zhang;jingna gao,lingjun an,ying gao,ge wang,qiang li;numerical simulation of fluid flow in thin slab continuous casting mould;02583013;42CC6E2D;2009
+220;26;jing zhang;kristen lefevre,adriane chapman;do you know where your data s been tamper evident database provenance;01A8C383;4390334E;2009
+221;65;jing zhang;;intelligence computing methods in electronic commerce and security;06CF160C;46F3DAAB;2009
+222;36;jing zhang;zhang jing chairmukherjee biswanath;architectures and algorithms for fault management in optical wdm networks;050513B0;943242;2005
+223;66;jing zhang;jun dong;externality identification and quantification of transmission construction projects;8352;200242;2008
+224;66;jing zhang;lin xiao,jun dong;coordination research on key parameters in generation competition based on dynamic simulation;8336;1597516;2008
+225;77;jing zhang;sunjun liu,yintian liu,cheng zhang;network intrusion active defense model based on artificial immune system;14345;0B68DB42;2008
+226;76;jing zhang;qing he;a square root extended set membership algorithm with applications to nonlinear system estimation;0364C255;955917;2008
+227;28;jing zhang;seokwun ha,xuedong zhang;a novel approach using pca and svm for face detection;06CD4A2C;42F0CC9A;2008
+228;76;jing zhang;maojun li,qing he;design of an automatic control system for coal preparation process;0364C255;602173;2008
+229;66;jing zhang;jun dong;composite evaluation of replacing small generation units with large ones in the electricity sector in china;16088;878271;2008
+230;24;jing zhang;minfang peng,gufeng gong,lianhong wang;application of immune classifier based on increment of diversity in the model species genomes identification;00FD6FCE;1807841;2008

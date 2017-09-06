@@ -1,0 +1,10 @@
+0;0;hong xie;y attikiouzel,wanqing li;an efficient method of volume rendering for medical slices;16849;455477A7;1994
+1;1;hong xie;jianwei ma,gengyin li,guoli zhang;application of weighted ideal point method to environmental economic load dispatch;05C40A1D;42CB1F93;2005
+2;2;hong xie;shamim khan,weiqun zheng;bsp pro a java based bsp performance profiling system;8697;43C40A80;1999
+3;2;hong xie;shamim khan,weiqun zheng;bsp performance analysis and prediction tools and application;0A899CF4;439F03CF;1999
+4;1;hong xie;jianwei ma,gengyin li,guoli zhang;economic load dispatch based on hybrid evolutionary algorithm and fuzzy number ranking method;17568;0424C359;2011
+5;3;hong xie;soo young rieh;analysis of multiple query reformulations on the web the interactive information retrieval context;0298F6CF;0A6BF76B;2006
+6;4;hong xie;;supporting ease of use and user control desired features and structure of web based online ir systems;0298F6CF;0A6BF76B;2003
+7;2;hong xie;k w wong,todsanai chumwatana;non segmented document clustering using self organizing map and frequent max substring technique;0A899CF4;468C0299;2009
+8;5;hong xie;bin xia;blind source separation of temporal correlated signals;05C40A1D;46E77C12;2007
+9;4;hong xie;dietmar wolfram;state digital library usability contributing organizational factors;0298F6CF;04C66E92;2002

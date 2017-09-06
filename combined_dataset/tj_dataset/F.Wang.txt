@@ -1,0 +1,14 @@
+0;0;f wang;r reddy,tanveer syedamahmood,david beymer,m london;characterizing spatio temporal patterns for disease discrimination in cardiac echo videos;4FF45383;435020A4;2007
+1;1;f wang;manki min,dingzhu du,yingshu li;on the construction of stable virtual backbones in mobile ad hoc networks;07C34834;44C78644;2005
+2;2;f wang;l r lu,c s chang;application of differential evolution for harmonic worst case identification of mass rapid transit power supply system;09E3EE34;478757A6;2003
+3;3;f wang;s ahmed,rolando burgos,dushan boroyevich,s rosado;modeling of power electronics for simulation based analysis of power systems;3333E44B;464DFFCB;2007
+4;4;f wang;caroline m eastman,donghai yang,s j you;deployment of an aec industry sector product model;07CA5884;0109D5ED;2005
+5;5;f wang;ram d sriram,r sudarsan,s j fenves;a product information modeling framework for product lifecycle management;4EC16293;0109D5ED;2005
+6;7;f wang;m j brunger,h mackenzieross,l lorne campbell,david a winkler,i e mccarthy;a high resolution electron momentum spectroscopy and density functional theory study into the complete valence electronic structure of allene;09E1988B;01423ABF;2001
+7;8;f wang;s c hui;remote video monitoring over the www;0A4ACFBD;06919ECD;2003
+8;10;f wang;z c cui,m b yi,d m zhang,jie zheng,yunxin zhao,h m zhang,s y liu;study of reactive ion etching process to fabricate the pmma based polymer waveguide;0B97151C;05E40B87;2004
+9;11;f wang;yue zhang,t hesketh,ray eaton,d j clements;fault accommodation for nonlinear systems using fuzzy adaptive sliding control;00C50601;07BA2985;2007
+10;12;f wang;;handling grammatical errors ambiguity and impreciseness in gis natural language queries;04C1EC81;333F609E;2003
+11;13;f wang;erwin bonsma,paul marrow,cefn hoile;diet a scalable robust and adaptable multi agent platform for information management;8092;077BFBDC;2003
+12;13;f wang;;adaptive meeting scheduling for large scale distributed groupware;11464;077BFBDC;2003
+13;14;f wang;curtis w frank,r yang,j chen,philip yuanping zhou,venkataramanan balakrishnan;optimal array pattern synthesis using semidefinite programming;4F799D2F;42D493FC;2001

@@ -1,0 +1,72 @@
+0;1;michael siegel;edward sciore,sharon salveter;rule discovery for query optimization;16699;1789193;1991
+1;2;michael siegel;yassine lakhnech,erich mikk;hierarchical automata as model for statecharts;03376F29;46405877;1997
+2;3;michael siegel;ofer shtrichman,amir pnueli;translation validation from signal to c;03376F29;45B9D64F;1999
+3;3;michael siegel;ofer shtrichman,amir pnueli,yoav rodeh;deciding equality formulas by small domains instantiations;03376F29;4549948F;1999
+4;1;michael siegel;stuart e madnick,cheng hian goh;context interchange overcoming the challenges of large scale interoperable database systems in a dynamic environment;0C026C79;472C6E2D;1994
+5;1;michael siegel;thomas lee,stuart e madnick,melanie chams,robert nado;information integration with attributio support for corporate profiles;10603;472C6E2D;1999
+6;2;michael siegel;;a refinement theory that supports both decrease of nondeterminism and increase of parallelism;7908;444A182D;1995
+7;1;michael siegel;stuart e madnick,allen moulton;context mediation on wall street;3202;446908FE;1998
+8;1;michael siegel;stuart e madnick,anderew s moulton;knowledge representation architecture for context interchange mediation fixed income securities investment examples;5431;47169EC5;2001
+9;1;michael siegel;stuart e madnick,allen moulton;knowledge representation architecture for context interchange mediation fixed income securities investment examples;13847;47169EC5;2001
+10;1;michael siegel;stuart e madnick,allen moulton;semantic interoperability in the securities industry context interchange mediation of semantic differences in enumerated data types;17170;47169EC5;2002
+11;1;michael siegel;stuart e madnick,mark hansen;data integration using web services;0C026C79;4390334E;2003
+12;1;michael siegel;stuart e madnick,mark hansen;data integration using web services;15572;4390334E;2003
+13;1;michael siegel;mark h hansen,stuart e madnick;data integration using web services;0C026C79;4390334E;2002
+14;1;michael siegel;mark h hansen,stuart e madnick;data integration using web services;6416;4390334E;2003
+15;1;michael siegel;stuart e madnick,adil daruwala,k hussein,cheng hian goh,scott hofmeister;the context interchange network prototype;7939;437C7B15;1995
+16;1;michael siegel;;automatic rule derivation for semantic query optimization;11601;1163303;1989
+17;1;michael siegel;;automatic rule derivation for semantic query optimization;11447;1760680;1989
+18;1;michael siegel;stuart e madnick,mark hansen;data integration using web services;0C026C79;4390334E;2003
+19;1;michael siegel;stuart e madnick,mark hansen;data integration using web services;304;4390334E;2003
+20;1;michael siegel;mark h hansen,stuart e madnick;data integration using web services;0C026C79;4390334E;2002
+21;1;michael siegel;mark h hansen,stuart e madnick;data integration using web services;4558;4390334E;2003
+22;1;michael siegel;stephane bressan,stuart e madnick,allen moulton;an active conceptual model for fixed income securities analysis for multiple financial institutions;0C026C79;46202E57;1998
+23;2;michael siegel;jan peleska;from testing theory to test driver implementation;13694;45B9D64F;1996
+24;3;michael siegel;ofer shtrichman,amir pnueli;translation validation from dc to c ;03376F29;45B9D64F;1998
+25;2;michael siegel;frank stomp;extending the limits of sequentially phased reasoning;874;42F73407;1994
+26;2;michael siegel;;formal verification of stabilizing systems;01E89DDF;08041391;1998
+27;1;michael siegel;stuart e madnick,allen moulton;semantic interoperability in the fixed income securities industry a knowledge representation architecture for dynamic integration of web based information;5581;4569270C;2003
+28;1;michael siegel;stuart e madnick,allen moulton;semantic interoperability in the fixed income securities industry a knowledge representation architecture for dynamic integration of web based information;17593;4569270C;2003
+29;1;michael siegel;stuart e madnick,allen moulton;semantic interoperability in the fixed income securities industry a knowledge representation architecture for dynamic integration of web based information;0C026C79;4569270C;2003
+30;1;michael siegel;marwan sabbouh,thomas gannon,stuart e madnick,hongwei zhu,allen moulton;framework for the analysis of the adaptability extensibility and scalability of semantic information integration and the context mediation approach;4287;287645;2009
+31;1;michael siegel;marwan sabbouh,stuart e madnick,thomas gannon,hongwei zhu,allen moulton;framework for the analysis of the adaptability extensibility and scalability of semantic information integration and the context mediation approach;4429;4569270C;2009
+32;3;michael siegel;ofer shtrichman,amir pnueli;translation validation for synchronous languages;03376F29;440ED19A;1998
+33;1;michael siegel;nancy lynch,barbara t blaustein;correctness conditions for highly available replicated databases;03D00B37;43F41A29;1986
+34;1;michael siegel;stuart e madnick,hongwei zhu;reasoning about temporal context using ontology and abductive constraint logic programming;0C026C79;53699;2004
+35;1;michael siegel;m p reddy,amar gupta;towards an active schema integration architecture for heterogeneous database systems;03D00B37;456A8673;1993
+36;1;michael siegel;stuart e madnick,hongwei zhu;representation and reasoning about changing semantics in heterogeneous data sources;0C026C79;44E12FD1;2004
+37;1;michael siegel;patrick deegan,jesse gray,jeff weber,rod grupen,matt berlin,kailas n narendran,john mcbean,cynthia breazeal;mobile dexterous social robots for mobile manipulation and human robot interaction;03D00B37;4566232D;2008
+38;1;michael siegel;k hussein,jilin qu,stephane bressan,k fynn,cheng hian goh,tsungen lee,m jakobisiak,tomas f pena,h kon,stuart e madnick,a shum;the context interchange mediator prototype;0C026C79;460A7036;1997
+39;1;michael siegel;stephane bressan,stuart e madnick,cheng hian goh,tsungen lee;a procedure for mediation of queries to sources in disparate contexts;10130;47977D8C;1997
+40;3;michael siegel;amir pnueli,eli singerman;translation validation;17007;4516081A;1998
+41;1;michael siegel;stuart e madnick,aykut firat;the camaleon web wrapper engine;955;4390334E;2000
+42;1;michael siegel;stuart e madnick,hongwei zhu;effective data integration in the presence of temporal semantic conflicts;0C026C79;056055AD;2004
+43;1;michael siegel;stuart e madnick,hongwei zhu;effective data integration in the presence of temporal semantic conflicts;13005;056055AD;2004
+44;1;michael siegel;stuart e madnick;a metadata approach to resolving semantic conflicts;8680;4390334E;1991
+45;1;michael siegel;stuart e madnick;the context interchange coin project data extraction and interpretation from semi structured web sources;13209;43ABF249;1998
+46;1;michael siegel;stuart e madnick,mark hansen;process aggregation using web services;0C026C79;43820346;2002
+47;2;michael siegel;gerard j holzmann,yassine lakhnech,erich mikk;implementing statecharts in promela spin;6056;45B9D64F;1998
+48;2;michael siegel;yassine lakhnech;deductive verification of stabilizing systems;19924;4789F291;1997
+49;1;michael siegel;cheng goh,stephane bressan,stuart e madnick,natalia levina,ahmed shah;context knowledge representation and reasoning in the context interchange system;03D00B37;04743DEB;2000
+50;1;michael siegel;cheng goh,stuart e madnick,natalia levina,ahmed shah;context knowledge representation and reasoning in the context interchange system;15357;1130784;2000
+51;1;michael siegel;stuart e madnick,y richard wang;the composite information system laboratory cisl project at mit;2005;03B217F8;1990
+52;3;michael siegel;ofer strichman,amir pnueli,yoav rodeh;erratum the small model property how small can it be volume 178 number 1 2002 pages 279 293 ;14867;03928357;2003
+53;3;michael siegel;amir pnueli,ofer strichmann,yoav rodeh;the small model property how small can it be ;03376F29;03928357;2002
+54;1;michael siegel;jacob l lee,stuart e madnick;conceptualizing semantic interoperability a perspective from the knowledge level;8220;0105A839;2012
+55;1;michael siegel;stuart e madnick,edward sciore;context interchange in a client server architecture;5857;0241FF68;1994
+56;1;michael siegel;stuart e madnick;seizing the opportunity exploiting web aggregation;0C026C79;02E13164;2002
+57;1;michael siegel;stuart e madnick;seizing the opportunity exploiting web aggregation;10348;02E13164;2002
+58;4;michael siegel;;a study of singularity formation in the kelvin helmholtz instability with surface tension;8728;0499FE5B;2006
+59;5;michael siegel;darren crowdy;exact solutions for the evolution of a bubble in stokes flow a cauchy transform approach;9062;0499FE5B;2006
+60;1;michael siegel;stuart e madnick;context interchange sharing the meaning of data;17731;02D4EDCF;1991
+61;1;michael siegel;stuart e madnick;context interchange sharing the meaning of data;10065;02D4EDCF;1991
+62;3;michael siegel;ofer shtrichman,amir pnueli;the code validation tool cvt automatic verification of a compilation process;12065;074E39F8;1999
+63;1;michael siegel;edward sciore,arnon rosenthal;using semantic values to falilitate interoperability among heterogeneous information systems;19283;055F1F1C;1994
+64;1;michael siegel;edward sciore,sharon salveter;a method for automatic rule derivation to support semantic query optimization;16315;055F1F1C;1992
+65;1;michael siegel;stephane bressan,stuart e madnick,cheng hian goh;context interchange new features and formalisms for the intelligent integration of information;03D00B37;05308AFD;1999
+66;0;michael siegel;christian pichler,a maggiore;untwist your brain efficient debugging and diagnosis of complex assertions;7195;46CDFBC4;2009
+67;4;michael siegel;saleh tanveer,gregory r baker;a well posed numerical method to track isolated conformal map singularities in hele shaw flow;18144;08DD21F7;1995
+68;1;michael siegel;stuart e madnick,mark hansen;data integration using web services;0C026C79;4390334E;2003
+69;1;michael siegel;stuart e madnick,mark hansen;data integration using web services;4081;4390334E;2003
+70;1;michael siegel;mark h hansen,stuart e madnick;data integration using web services;0C026C79;4390334E;2002
+71;1;michael siegel;mark h hansen,stuart e madnick;data integration using web services;4821;4390334E;2003

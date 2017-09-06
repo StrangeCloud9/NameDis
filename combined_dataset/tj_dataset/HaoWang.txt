@@ -1,0 +1,179 @@
+0;0;hao wang;somesh jha,vinod ganapathy;netspy automatic generation of spyware signatures for nids;0810AAFA;47405592;2006
+1;2;hao wang;wen yang,haijian zhang,yongfeng cao;classification of polarimetric sar data based on multidimensional watershed clustering;023B9EF3;469407EC;2006
+2;3;hao wang;kai li,li tang,zhizhi zhou,jin zhou;a low latency peer to peer approach for massively multiplayer games;05E79D01;45FD9DD4;2005
+3;4;hao wang;beng chin ooi,tweehee ong,kianlee tan;blast a tool for blasting queries in batches;09E3EE34;478E195D;2003
+4;6;hao wang;xiuqin wang,guangsheng ma;web based cooperative design for soc and improved architecture exploration algorithm;714;43F44683;2006
+5;7;hao wang;r a p harrison,william l harrison,x z fu;rna pseudoknot prediction using term rewriting;0AD27695;44C5464F;2005
+6;8;hao wang;jie zhang,zhiying zhou;the algorithms for dynamic scheduling;4458;46B774B0;2000
+7;9;hao wang;jinmei shen;architectural design and implementation of highly available and scalable medical system with ibm websphere middleware;0966B229;45835902;2004
+8;0;hao wang;shai rubin,vinod ganapathy,louis kruger,nicholas kidd,jonathon giffin,mihai christodorescu;an auctioning reputation system based on anomaly;0810AAFA;476F3906;2005
+9;7;hao wang;haejin hu,phang c tai,robert w harrison,y pan;understanding the prediction of transmembrane proteins by support vector machine using association rule mining;9167;47796128;2007
+10;11;hao wang;andr s farag;on line algorithm for server selection of video streaming over p2p networks;15089;457DC158;2006
+11;13;hao wang;hong liu,taoying liu,yizhu tong;application aware interface for soap communication in web services;012E6F4E;43A193B2;2006
+12;0;hao wang;somesh jha,david brumley,dawn song;creating vulnerability signatures using weakest preconditions;18638;45CC165B;2007
+13;16;hao wang;vladimir d tonchev;optimal difference systems of sets with multipliers;00B67360;43940F97;2006
+14;17;hao wang;zhongfu wu,xin tan;a new secure authentication scheme based threshold ecdsa for wireless sensor network;9707;469DDC30;2006
+15;18;hao wang;liqiang geng,larry korba,xin wang;adapting lda model to discover author topic relations for email analysis;0A0D2BAD;433BF259;2008
+16;4;hao wang;tweehee ong,kianlee tan;indexing genomic databases for fast homology searching;09E3EE34;47169EC5;2002
+17;19;hao wang;xiang xu,heqing guoj,jie ling,yuyi ou;a new certified email protocol;08495949;47169EC5;2007
+18;7;hao wang;yanqing zhang,feng tan,xuezheng fu,robert w harrison;feature similarity based redundancy reduction for gene selection;7768;47784D0E;2006
+19;19;hao wang;heqing guo,jianshan xie,manshan lin;solving qos driven web service dynamic composition as fuzzy constraint satisfaction;05669A68;45A68B5F;2005
+20;0;hao wang;somesh jha,stuart g stubblebine,stefan schwoon,thomas reps;reducing the dependence of spki sdsi on pki;0810AAFA;468D8535;2006
+21;23;hao wang;chun chang,junkai zhao,xizhong qin,tao li,zhenhong jia,yanqing yang;an efficient fuzzy kohonen clustering network algorithm;13609;4665AEAE;2008
+22;27;hao wang;wenbo xu,jun sun,shiqin yang;scalability of hybrid fuzzy c means algorithm based on quantum behaved pso;00C90AED;4665AEAE;2007
+23;26;hao wang;yanglan gan,jihong guan;a fast subspace clustering algorithm based on pattern similarity;899;4665AEAE;2007
+24;13;hao wang;zhiwei xu,wei li,yili gong;agora grid community in vega grid;012E6F4E;4554E150;2003
+25;29;hao wang;heng xu,hock hai teo;foundations of sms commerce success lessons from sms messaging and co opetition;09E3EE34;4569270C;2003
+26;29;hao wang;hockhai teo,heng xu;predicting the usage of p2p sharing software the role of trust and perceived risk;12922;4569270C;2005
+27;19;hao wang;heqing guo;fair payment protocols for e commerce;05669A68;271917;2004
+28;32;hao wang;david laurenson,jane hillston;evaluation of rsvp and mobility aware rsvp using performance evaluation process algebra;05E1B1D9;436150FA;2008
+29;11;hao wang;sergey bereg;wiener indices of balanced binary trees;09B0BBA7;43D2A5F0;2005
+30;11;hao wang;sergey bereg;wiener indices of balanced binary trees;0A4F7A16;43D2A5F0;2007
+31;7;hao wang;anu g bourgeois,xuezheng fu,yanqing zhang,feng tan;a hybrid feature selection approach for microarray gene expression data;0AD27695;43D2A5F0;2006
+32;33;hao wang;jing tian,mao yang,yafei dai;understanding the session durability in peer to peer storage system;0134B592;43D2A5F0;2006
+33;19;hao wang;jun zhang,jianfei yin,heqing guo,qi he,manshan lin;dependable transaction for electronic commerce;05669A68;470B05DE;2005
+34;19;hao wang;jun zhang,jianfei yin,heqing guo,qi he,manshan lin;abuse free item exchange;05669A68;470B05DE;2005
+35;35;hao wang;jari kangas;character like region verification for extracting text in scene images;15545;448D1E7E;2001
+36;18;hao wang;ronny ramzi dakdouk,haiyong xie,yang richard yang,semih salihoglu;interdomain routing as social choice;12013;4789F291;2006
+37;38;hao wang;liang liu,qian ma,ke wei sun,ying chen,bo yang;knowledge enhanced it service management;4FF45383;449C9FDE;2007
+38;19;hao wang;guo heqing,manshan lin;new fair payment protocols;5346;460AA0EE;2004
+39;35;hao wang;;automatic character location and segmentation in color scene images;18974;43E7F2AC;2001
+40;3;hao wang;yuzhuo zhong,guobin shen,shipeng li;enhancing multimedia streaming performance through peer paired collaboration;05E79D01;455477A7;2002
+41;35;hao wang;yanming zou;camera readable 2d bar codes design and decoding for mobile phones;9210;455477A7;2006
+42;18;hao wang;hui xu,edward y chang,zhihuan qiu,jian li,hongjie bai,kaihua zhu,hang cui;parallel approximate matrix factorization for kernel methods;14515;432251B5;2007
+43;40;hao wang;ningning han,guozhen tan,jialin li,yi liu;wireless network dynamic topology routing protocol based on aggregation tree model;18363;446AF0D7;2006
+44;18;hao wang;avi silberschatz,yanwen liu,haiyong xie,yang richard yang,li erran li;on the stability of rational heterogeneous interdomain route selection;01F71AD0;44F1AB80;2005
+45;18;hao wang;avi silberschatz,hongwei xie,yang richard yang,li erran li,yang liu;stable egress route selection for interdomain traffic engineering model and analysis;01F71AD0;44F1AB80;2005
+46;38;hao wang;liang liu,zhengwei qi,ying chen,alei liang;an online model checking tool for safety and liveness bugs;4FF45383;43C1EF66;2008
+47;38;hao wang;ying chen,bo yang;management as a service for it service management;4FF45383;450EACAF;2008
+48;38;hao wang;liang liu,qian ma,hui lei,ying chen,bo yang;research and implementation of knowledge enhanced information services;4FF45383;450EACAF;2007
+49;29;hao wang;hock chuan chan,heng xu,ling chen;critical success factors for web based organizational it training systems;7050;44BF6A26;2002
+50;29;hao wang;hock chuan chan,heng xu,ling chen;critical success factors for web based organizational it training systems;09E3EE34;44BF6A26;2002
+51;11;hao wang;chongwei xu;a new lightweight and scalable encryption algorithm for streaming video over wireless networks;0A4F7A16;457D1A50;2007
+52;38;hao wang;guotong xie,feng liu,qian ma,ying li;a semantic qos aware discovery framework for web services;4FF45383;47A823DD;2008
+53;38;hao wang;liang liu,ru fang,zhi le zou,qing bo wang;on synchronizing with web service evolution;4FF45383;47A823DD;2008
+54;4;hao wang;beng chin ooi,hwee hwa pang,limsoon wong,cui yu;fast filter and refine algorithms for subsequence selection;5964;457D0954;2002
+55;18;hao wang;avi silberschatz,lei qiu,yang richard yang,haiyong xie;optimal isp subscription for internet multihoming algorithm design and implication analysis;01F71AD0;442BD7CD;2005
+56;18;hao wang;bill lin;pipelined van emde boas tree algorithms analysis and applications;099D876D;442BD7CD;2007
+57;3;hao wang;yuzhuo zhong,guobin shen,shipeng li;efficient error recovery techniques in a novel multimedia streaming framework with peer paired collaboration;05E79D01;471752F4;2002
+58;3;hao wang;yuzhuo zhong,guobin shen,shipeng li;efficient error recovery techniques in a novel multimedia streaming framework with peer paired collaboration;05E79D01;471752F4;2003
+59;11;hao wang;andras farago,subbarayan venkatesan;video streaming over multi hop wireless networks;06C5AD01;46D76472;2005
+60;26;hao wang;xindong wu,hongliang yao,kui yu;triangulation of bayesian networks using an adaptive genetic algorithm;00F9B76E;449397C9;2006
+61;4;hao wang;zhiyong huang,xiaoyan xie;collaborative and interactive room design on the web;09E3EE34;43C40A80;2000
+62;11;hao wang;;a hierarchical queueing model for streaming video over multi hop wireless networks;0A4F7A16;46CB4466;2008
+63;47;hao wang;jie ma,hai jin,fucheng wang,jiangpei yin,zuoning yin,xudong yang;apple a novel p2p based e learning environment;02D828C1;43701CEE;2004
+64;32;hao wang;david laurenson,jane hillston;pepa analysis of map effects in hierarchical mobile ipv6;05E1B1D9;465EF934;2007
+65;35;hao wang;yingfei liu,lei xu,kongqiao wang;automatic text discovering through stroke based segmentation and text string combination;12446;43AA5802;2008
+66;3;hao wang;kai li,li tang,zhizhi zhou,jun li,jin zhou;freerank implementing independent ranking service for multiplayer online games;05E79D01;433321A4;2005
+67;18;hao wang;hang cui;parallelizing support vector machines on distributed computers;9141;43319DD4;2007
+68;47;hao wang;xiaofei liao,hai jin,song wu;a data storage mechanism for p2p vod based on multi channel overlay;02D828C1;45827814;2008
+69;26;hao wang;xindong wu,kui yu;a parallel algorithm for learning bayesian networks;00F9B76E;463BD859;2007
+70;3;hao wang;xing zhang,guoqing chen;mining a complete set of both positive and negative association rules from large databases;05E79D01;436976F3;2008
+71;9;hao wang;jinmei shen;performance modeling and practical parallel algorithms of cluster computing with applications on distributed platforms;8296;474BD8D0;2003
+72;4;hao wang;zhiyong huang,xiaoyan xie;implementation of a graphics design framework on the web;2107;43F3EBCF;2000
+73;0;hao wang;miron livny,patrick mcdaniel,s jhat;security policy reconciliation in distributed computing environments;0810AAFA;449D545A;2004
+74;5;hao wang;yao zhao,anhong wang;lvq based distributed video coding with ldpc in pixel domain;0143616E;45FD9DD4;2006
+75;14;hao wang;fei peng,andrej pietschker,chao zhang;software project level estimation model framework based on bayesian belief networks;763;46819766;2006
+76;16;hao wang;vladimir d tonchev;an algorithm for optimal comma free codes with isomorphism rejection;00B67360;439F2D27;2009
+77;18;hao wang;yin zhang,albert greenberg,haiyong xie,lili qiu,yang richard yang;cope traffic engineering in dynamic networks;01F71AD0;44B13001;2006
+78;18;hao wang;albert greenberg,yang richard yang,p h liu,alexandre gerber,jia wang;reliability as an interdomain service;01F71AD0;44B13001;2007
+79;10;hao wang;carlos e scheidegger,claudio t silva;optimal bandwidth selection for mls surfaces;0D52D485;45B176DF;2008
+80;6;hao wang;xiuqin wang,guangsheng ma;a novel method for all solutions sat problem;12497;46950273;2008
+81;0;hao wang;somesh jha,david brumley,james newsome,dawn song;towards automatic generation of vulnerability based signatures;13055;455B6732;2006
+82;0;hao wang;somesh jha,stefan schwoon,thomas reps;weighted pushdown systems and trust management systems;0810AAFA;4516081A;2006
+83;24;hao wang;yulan he,deyu zhou,c k kwoh;ant mst an ant based minimum spanning tree for gene expression data clustering;0A4ACFBD;43FA7FA8;2007
+84;5;hao wang;yao zhao,anhong wang;performance comparisons of different channel codes in distributed video coding;0143616E;437D615C;2006
+85;19;hao wang;jianfei yin,heqing guo,manshan lin;a fair item item exchange protocol satisfying newly introduced requirements;05669A68;0397AD64;2005
+86;6;hao wang;yanying wang,jikun guo,dianwu gao;evaluation of signal processing effect in media gateway based on cross correlation;19686;46155D1D;2006
+87;35;hao wang;x chai,luosi wei,kongqiao wang;hand gesture tracking for wearable computing systems;16868;4651E4FA;2008
+88;3;hao wang;shi chen,xiaokang lin;structure analysis and snr variance evolution for parallel concatenated coded idma systems;05E79D01;462744F4;2008
+89;21;hao wang;changcheng huang,james yan;efficient multiple link adaptive bandwidth provisioning for end to end quality of service guarantee;03FED160;47838FAB;2006
+90;20;hao wang;junfang liu,anna wang,ran tao;a novel fault diagnosis of analog circuit algorithm based on incomplete wavelet packet transform and improved balanced binary tree svms;01890740;0655F58A;2007
+91;18;hao wang;bill lin;on the efficient implementation of pipelined heaps for network processing;4339;1726046;2006
+92;3;hao wang;peng wang,li ping,xiaokang lin;on cellular capacity with base station cooperation;05E79D01;43701CEE;2008
+93;35;hao wang;yongbo gai,kongqiao wang;a virtual mouse system for mobile device;562;465EFAEC;2005
+94;19;hao wang;xiang xu,lu liang,jie ling,yuyi ou;certified email delivery with offline ttp;08495949;45F475CA;2007
+95;38;hao wang;zhongqin lin,genliang chen,guimin liu;performance analysis of a forging manipulator based on the composite modeling method;0AE9651A;45737C92;2008
+96;38;hao wang;liang liu,ke wei sun,qian ma,ying chen,ying li;automatic model based service hosting environment migration;4FF45383;44F1E491;2008
+97;38;hao wang;chong wang,zhile zou,ru fang,qian ma;a comprehensive semantic based resource allocation framework for workflow management systems;3036;44F1E491;2008
+98;38;hao wang;liang liu,guosun zeng,peini liu,wei wang,bo yang;a bayesian knowledge engineering framework for service management;16050;44F1E491;2008
+99;39;hao wang;wenzhen sun,xiangang luo;the design of a nanometer biosensor and its microfluidic integration;6005;4351B9E8;2008
+100;37;hao wang;hefei zhang;software productivity analysis with csbsg data set;19918;449CDF39;2008
+101;6;hao wang;xiuqin wang,guangsheng ma;hybrid sat solver considering circuit observability;1452;46013AA1;2008
+102;4;hao wang;beng chin ooi,lei zhou,tweehee ong,kianlee tan;blast blasting queries in batches;2383;031F7D94;2003
+103;36;hao wang;;proving theorems by pattern recognition i;044C0559;062B05D6;1960
+104;19;hao wang;jun zhang,jianfei yin,heqing guo,qi he,manshan lin;a new dependable exchange protocol;05669A68;06DAD4AA;2006
+105;11;hao wang;sergey bereg;wiener indices of balanced binary trees;09B0BBA7;43D2A5F0;2005
+106;11;hao wang;sergey bereg;wiener indices of balanced binary trees;0A4F7A16;43D2A5F0;2007
+107;38;hao wang;jin chen,jian jang huang,zhe xiang,song yi song,xingxin gao;a wireless lan based indoor positioning technology;4FF45383;06576259;2004
+108;38;hao wang;zhongqin lin,guanlong chen;algorithm of integrating qfd and triz for the innovative design process;0AE9651A;07251530;2005
+109;35;hao wang;yanming zou,kongqiao wang;1d bar code reading on camera phones;12593;0394C23D;2011
+110;35;hao wang;kongqiao wang;affective interaction based on person independent facial expression space;16149;02B93B6A;2008
+111;43;hao wang;guojun wang;non fuzzy versions of fuzzy reasoning in classical logics;3311;0B7B9B75;2001
+112;45;hao wang;arthur w burks;the logic of automata part i;1016;0717AE69;1957
+113;45;hao wang;arthur w burks;the logic of automata part ii;01A8C383;0717AE69;1957
+114;41;hao wang;michael o rabin;words in the history of a turing machine with a fixed input;0BC1D058;0717AE69;1963
+115;41;hao wang;;a variant to turing s theory of computing machines;02642F55;0717AE69;1957
+116;16;hao wang;vladimir d tonchev;an algorithm for optimal difference systems of sets;00B67360;066ED013;2007
+117;38;hao wang;shaoying liu;an automated approach to specification animation for validation;0AE9651A;0241FF68;2007
+118;41;hao wang;kenneth r brown;short definitions of the ordinals;081E3F30;0A971BE4;1966
+119;41;hao wang;j barkley rosser;non standard models for formal logics;081E3F30;0A971BE4;1950
+120;41;hao wang;;a note on quine s principles of quantification;081E3F30;0A971BE4;1947
+121;41;hao wang;;a new theory of element and number;18226;0A971BE4;1948
+122;41;hao wang;;a formal system of logic;081E3F30;0A971BE4;1950
+123;41;hao wang;;existence of classes and value specification of variables;081E3F30;0A971BE4;1950
+124;41;hao wang;;set theoretical basis for real numbers;081E3F30;0A971BE4;1950
+125;41;hao wang;;logic of many sorted theories;10298;0A971BE4;1952
+126;41;hao wang;;certain predicates defined by induction schemata;18389;0A971BE4;1953
+127;41;hao wang;;problems;9498;1659796;1953
+128;41;hao wang;;the formalization of mathematics;02642F55;0A971BE4;1954
+129;41;hao wang;;undecidable sentences generated by semantic paradoxes;9771;0A971BE4;1955
+130;41;hao wang;;the axiomatization of arithmetic;02642F55;0A971BE4;1957
+131;41;hao wang;;alternative proof of a theorem of kleene;02642F55;0A971BE4;1958
+132;41;hao wang;;some facts about kurt godel;3253;0A971BE4;1981
+133;18;hao wang;yang richard yang,li erran li,yanbin liu,haiyong xie,avi silberschatz,arvind krishnamurthy;on route selection for interdomain traffic engineering;01F71AD0;0B1F0EDA;2005
+134;15;hao wang;hal l smith,james j elser,yang kuang;dynamics of stoichiometric bacteria algae interactions in the epilimnion;12566;0499FE5B;2007
+135;0;hao wang;somesh jha,david brumley,dawn song,james newsome;theory and techniques for automatic generation of vulnerability based signatures;14827;07F98DD8;2008
+136;7;hao wang;william l harrison,robert w harrison,x z fu;a rule based approach for rna pseudoknot prediction;0AD27695;0221D530;2008
+137;43;hao wang;min xia,ju an wang,minzhe guo;security metrics for software systems;0C4DD345;44344A0A;2009
+138;1;hao wang;weiwei wang,xingguo chen,yang gao,yinghuan shi;apply ant colony optimization to tetris;348EB203;43F3068F;2009
+139;26;hao wang;caizi jiang,hongliang yao,jian chang;junction tree factored particle inference algorithm for multi agent dynamic influence diagrams;00F9B76E;44B16F02;2009
+140;18;hao wang;y richard yang,jun jim xu,jian ni,tongqing qiu,nan hua;packet doppler network monitoring using packet shift detection;01F71AD0;432BB4B8;2008
+141;32;hao wang;david laurenson,jane hillston;an smr based advance resource reservation scheme for combined mobility and qos provisioning;05E1B1D9;44D951AC;2008
+142;38;hao wang;yanfeng zhu,qian ma,nianjun zhou;evaluating service identification with design metrics on business process decomposition;4FF45383;43613D12;2009
+143;13;hao wang;taoying liu,yizhu tong;exploiting request characteristics to improve performance of web services based business applications;012E6F4E;46C53898;2009
+144;35;hao wang;chang liu,kun yu,jianwei niu;interactive storyboard animated story creation on touch interfaces;2194;4650D622;2009
+145;38;hao wang;fred douglis,bo yang;applying knowledge sharing for business intelligence collaboration;584;47A823DD;2009
+146;28;hao wang;;facial expression synthesis and recognition with intensity alignment;15074;44CF28DC;2007
+147;26;hao wang;yanglan gan,jihong guan;discovering pattern based subspace clusters by pattern tree;00F9B76E;009B2AAF;2009
+148;10;hao wang;carlos e scheidegger,claudio t silva;bandwidth selection and reconstruction quality in point based surfaces;0D52D485;050D92AB;2009
+149;23;hao wang;yanfeng tan,chun chang,zhenhong jia,xizhong qin;an improved method of traffic forecasting based on tariff sasvr;7891;42F0CC9A;2009
+150;30;hao wang;derhorng lee,ruey cheu;pdptw based taxi dispatch modeling for booking service;1749;42F0CC9A;2009
+151;31;hao wang;li song,xiaokang yang,wenjun zhang,yi xu;spatiotemporal phase congruency based invariant features for human behavior classification;6763;4459102E;2009
+152;13;hao wang;wei li,xiaosong li,taoying liu;key elements tracing method for parallel xml parsing in multi core system;012E6F4E;45BA2C87;2009
+153;47;hao wang;xu xie,kewei li,furong wang;adaptive multi channel mac protocol for dense vanet using directional antennas;02AA1FA9;1346614;2008
+154;47;hao wang;xu xie,furong wang,laurence t yang;an auxiliary ground station based traffic load balancing scheme for leo satellite systems;5434;1183620;2008
+155;38;hao wang;liang liu,zhengwei qi,ying chen,haibing guan,fuyuan zhang;fltl mc online high level program analysis for web services;13694;647124;2009
+156;38;hao wang;wei wang;general approach for simulating heterogeneity of car following behaviors;04905D15;46AB47BD;2009
+157;35;hao wang;yang ji,kun yu,zhuohong zhu,fan zhang,kui zhang,chunlei fan,nan lin,yangyi wen;requirement and design analysis for the post trauma mobile psychology service;10296;454CA326;2009
+158;22;hao wang;xinning su,fang liu;semantic annotation for cssci academic resources based on ontology;12893;4665AEAE;2009
+159;23;hao wang;xizhong qin,chun chang,rui han,zhenhong jia;application of support vector machine to mobile communications in telephone traffic load of monthly busy hour prediction;9948;0764D17B;2009
+160;25;hao wang;gabriel knezek,jyhcharn liu,shi pu;a modular nfa architecture for regular expression matching;056D3FC6;43C18390;2010
+161;30;hao wang;derhorng lee,ruey cheu;en route security monitoring based on an incident detection algorithm for commercial vehicles;096114D2;4665AEAE;2009
+162;44;hao wang;haiyan hu;the neuro fuzzy identification of mr damper;9553;4665AEAE;2009
+163;42;hao wang;baoyan song,ge yu,pengfei qin,weihong xuan;bspace a data cleaning approach for rfid data streams based on virtual spatial granularity;1525;46C53EEB;2009
+164;3;hao wang;xinggang lin,anbang yao,guijin wang;kernel based articulated object tracking with scale adaptation and model update;4224;42D493FC;2008
+165;19;hao wang;wendy maccaull;verifying real time systems using explicit time description methods;0BC0E906;0A69B77C;2009
+166;19;hao wang;wendy maccaull;an efficient explicit time description method for timed model checking;0BC0E906;0A69B77C;2009
+167;38;hao wang;xing jin,liang liu,ying chen,qing bo wang,xue liu,wen bo he;greencloud a new architecture for green data center;4FF45383;41112;2009
+168;43;hao wang;min xia,ju an wang,minzhe guo,linfeng zhou;ontology based security assessment for software products;0C4DD345;4569270C;2009
+169;19;hao wang;xiang xu,lu liang,jie ling,xiaotao he,yuyi ou;a non repudiable protocol for secure messaging;08495949;45827814;2007
+170;38;hao wang;xingxin gao,jian huang,zhe xiang,jun shen,song song;an approach to security and privacy of rfid system for supply chain;4FF45383;1289023;2004
+171;23;hao wang;chun chang,junkai zhao,zhenhong jia,xizhong qin,tao li,gang yin;research on positioning technology of xinjiang mobile gis;17739;46D5969B;2009
+172;34;hao wang;rui li,shaoming pan;radius restrained distributed breadth first search flooding in large scale multimedia communication;5413;972798;2009
+173;38;hao wang;ying chen,zhiliang zhu,yu dai,bin zhang,dancheng li;low cost mechanism for qos aware re planning of composite service;19679;46F3DAAB;2009
+174;18;hao wang;avi silberschatz,yanwen liu,haiyong xie,yang richard yang,li erran li;on the stability of rational heterogeneous interdomain route selection;01F71AD0;44F1AB80;2005
+175;11;hao wang;;algorithms and qos of video streaming over wireless networks;09B0BBA7;1601798;2005
+176;18;hao wang;avi silberschatz,hongwei xie,yang richard yang,li erran li,yang liu;stable egress route selection for interdomain traffic engineering model and analysis;01F71AD0;44F1AB80;2005
+177;6;hao wang;xiuqin wang,guangsheng ma;variable topology cartesian genetic programming for combinational circuit;359;45777CD3;2008
+178;6;hao wang;ying wang,donghong hu,wei chen,ling zhang;snail identification based on fourier transformation;13442;07BA2985;2008

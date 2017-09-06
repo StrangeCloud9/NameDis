@@ -1,0 +1,155 @@
+0;0;feng liu;sudhir p mudur,s r bhakar,thomas fevens;environment lighting for point sampled geometry;0395F208;455477A7;2006
+1;0;feng liu;sudhir p mudur,s r bhakar,thomas fevens;environment lighting for point sampled geometry;0395F208;455477A7;2006
+2;2;feng liu;qiliang zhu,fengzhan tian;a novel greedy bayesian network structure learning algorithm for limited data;08548E70;469407EC;2007
+3;2;feng liu;qiliang zhu,fengzhan tian;bayesian network structure ensemble learning;08548E70;469407EC;2007
+4;4;feng liu;wu chou,li li;web service for tele communication;17849;466E8FD2;2006
+5;5;feng liu;weihua jiang,jun du;research on system integrative evaluation method based on survivability;6348;46C53898;2008
+6;6;feng liu;bo wen,luoming meng;a novel integrated supporting system for mesh pull based p2p iptv;0143616E;46549128;2008
+7;7;feng liu;yanping yang,yong xiao,jinshan yu,qingping tan;transform bpel workflow into hierarchical cp nets to make tool support for verification;0A254897;43F44683;2006
+8;2;feng liu;qiliang zhu,fengzhan tian;a novel ordering based greedy bayesian network learning algorithm on limited data;08548E70;468A7487;2007
+9;2;feng liu;qiliang zhu,fengzhan tian;a novel ordering based greedy bayesian network learning algorithm on limited data;08548E70;468A7487;2007
+10;2;feng liu;qiliang zhu,fengzhan tian;ensembling bayesian network structure learning on limited data;08548E70;472C6E2D;2007
+11;8;feng liu;lijuan li,zhibin huang;an improved particle swarm optimizer for truss structure optimization;08495949;45E5BC3F;2006
+12;8;feng liu;zhibin huang,lijuan li;an improved particle swarm optimizer for truss structure optimization;08495949;45E5BC3F;2006
+13;4;feng liu;xueshan shan,j jenny li,wu chou;an architecture of wireless web and dialogue system convergence for multimodal service interaction over converged networks;03A194FC;44233F91;2003
+14;10;feng liu;ling chen,gencai chen;collaboration upon heterogeneous platforms from desktop pc to handheld device;0489A984;43520230;2006
+15;6;feng liu;wenhui sun,jinyu zhang;ws sla a framework for web services oriented service level agreements;0143616E;43520230;2006
+16;11;feng liu;yifei chen,bernard manderick;improving the performance of gene mention recognition system using reformed lexicon based support vector machine;3977;47784D0E;2007
+17;10;feng liu;michael gleicher;texture consistent shadow removal;0810AAFA;43001016;2008
+18;14;feng liu;chiying tsui;adaptive spectrum based variable bit truncation of discrete cosine transform dct for energy efficient wireless multimedia communication;0BF77E37;4677BC9C;2004
+19;14;feng liu;chiying tsui;a data discarding framework for reducing the energy consumption of viterbi decoder in decoding broadcasted wireless multi resolution jpeg2000 images;0BF77E37;4677BC9C;2005
+20;10;feng liu;xu cheng,shu shi;a low complexity mpeg video decoder with arbitrary downscaling capability;0134B592;4677BC9C;2006
+21;15;feng liu;mingfeng jiang,guofa shou,stuart crozier,ling xia;forward and inverse solutions of electrocardiography problem using an adaptive bem method;3322;06F2BC9F;2007
+22;15;feng liu;mingfeng jiang,stuart crozier,guofa shou,ling xia;forward and inverse solutions of electrocardiography problem using an adaptive bem method;09D7E4FA;06F2BC9F;2007
+23;7;feng liu;yuxing peng,xicheng lu;an efficient heuristic algorithm for constructing delay and degree bounded application level multicast tree;0A254897;4554E150;2005
+24;6;feng liu;zhen liu,fei ma,bo wen;neighbor relationship and optimization in mesh overlay multicast;0143616E;447B8E60;2008
+25;2;feng liu;qiliang zhu,fengzhan tian;an improved greedy bayesian network learning algorithm on limited data;08548E70;45126447;2007
+26;10;feng liu;minjie zhang,yongzeng shen;a new algorithm of gray watermark embedding;03521AEC;455FBCE1;2006
+27;21;feng liu;peiqian liu,makoto hirano;networking business model in regional medical service case of chikamori medical group in kochi japan;021EBB72;436150FA;2008
+28;19;feng liu;lingge jiang,chen he;low complexity mmse vector precoding using lattice reduction for mimo systems;0AE9651A;436150FA;2007
+29;22;feng liu;yijuan lu,qi tian,yufeng wang,maribel sanchez;a self supervised learning framework for classifying microarray gene expression data;09E439DE;43D2A5F0;2006
+30;10;feng liu;ronghua liang;intelligent crowd simulation;0489A984;470B05DE;2003
+31;23;feng liu;run zhang,ming li,he zhang,zhen xu;remaining delivery time estimation based routing for intermittently connected mobile networks;04F0A8A0;4789F291;2008
+32;2;feng liu;qiliang zhu,fengzhan tian;a novel ordering based greedy bayesian network learning algorithm on limited data;08548E70;468A7487;2007
+33;2;feng liu;qiliang zhu,fengzhan tian;a novel ordering based greedy bayesian network learning algorithm on limited data;08548E70;468A7487;2007
+34;11;feng liu;yifei chen,bernard manderick;named entity recognition in biomedical literature using two layer support vector machines;8916;44A68539;2007
+35;11;feng liu;yifei chen,bernard manderick;named entity recognition in biomedical literature a comparison of support vector machines and conditional random fields;00CD8766;44A68539;2007
+36;11;feng liu;yifei chen,bernard manderick;evaluating and comparing biomedical term identification systems;00CD8766;439B9AD2;2008
+37;10;feng liu;zhongxiang luo,yueting zhuang,yunhe pan;incomplete motion feature tracking algorithm in video sequences;0489A984;455477A7;2002
+38;10;feng liu;michael gleicher;region enhanced scale invariant saliency detection;0810AAFA;432251B5;2006
+39;11;feng liu;bram vanschoenwinkel,bernard manderick;context sensitive kernel functions a distance function viewpoint;00CD8766;42CB1F93;2006
+40;25;feng liu;juan liu,huaibei zhou,jing feng;estimation distribution of algorithm for fuzzy clustering gene expression data;023B9EF3;0655F58A;2006
+41;27;feng liu;shaoqian li,qiang zhi,min liang,cao zhexin;nonlinear adaptive blind source separation based on kernel function;15244;1758329;2005
+42;24;feng liu;vipin chaudhary;extending openmp for heterogeneous chip multiprocessors;0B0DA3DC;44E5A1B2;2003
+43;23;feng liu;jun zhang,guisen deng,zhang xuejun;optimizing the location aided routing protocol in mobile ad hoc networks;10806;457D1A50;2005
+44;4;feng liu;wu chou,li li;web service enablement of communication services;03A194FC;47A823DD;2005
+45;4;feng liu;jenny li,wu chou,li li;wsip web service sip endpoint for converged multimedia multimodal communication over ip;03A194FC;47A823DD;2004
+46;4;feng liu;wu chou,li li;wip web service initiation protocol for multimedia and voice communication over ip;03A194FC;47A823DD;2006
+47;4;feng liu;dan zhuo,wu chou,li li;semantic modeling and design patterns for asynchronous events in web service interaction;03A194FC;47A823DD;2006
+48;4;feng liu;lookman yasin fazal,gesan wang,wu chou,li li;target two way web service router gateway;03A194FC;47A823DD;2006
+49;6;feng liu;guotong xie,qian ma,hao wang,ying li;a semantic qos aware discovery framework for web services;4FF45383;47A823DD;2008
+50;4;feng liu;wu chou,li li;web services methods for communication over ip;03A194FC;47A823DD;2007
+51;23;feng liu;jiadong xu;research on radar targets recognition by extracting 3 d characteristic from isar images;01059CAC;43F44683;2004
+52;30;feng liu;chai quek,tsee foong loh,g s ng;artificial ventilation modeling using neuro fuzzy hybrid system;0A4ACFBD;43F9E08E;2006
+53;21;feng liu;lin dong ge,Hu-cheng An,jia ming li;blind equalization using nu support vector regressor for constant modulus signals;13731;4539ED1E;2008
+54;4;feng liu;wu chou,li li;an extensible three tier xml dialogue system architecture for multimodal interaction and automated agent services;7548;78976;2005
+55;4;feng liu;jeffery li,w e wong,wu chou,xueshan shan;an adaptable architecture for secure delivery of converged services;03A194FC;474EAFD5;2003
+56;14;feng liu;chiying tsui;energy aware optimal workload allocation among the battery powered devices to maximize the co operation life time;0BF77E37;471752F4;2006
+57;7;feng liu;jie huang,yuxing peng,xicheng lu;an efficient distributed algorithm for constructing delay and degree bounded application level multicast tree;15039;43C40A80;2005
+58;10;feng liu;frank he,bo li,jinhua hu,yu chen,yadong tao,wei bian,yan song,xudong niu;tests on symmetry and continuity between bsim4 and bsim5;13924;4565183D;2007
+59;10;feng liu;yue fu,jin he,xing zhang,mansun chan,wei bian,yan song,jinhua hu;generic carrier based core model for four terminal double gate mosfet valid for symmetric asymmetric soi and independent gate operation modes;0134B592;4565183D;2008
+60;10;feng liu;yue fu,chenyue ma,jin he,lining zhang,jie feng;study on the si ge nanowire mosfets with the core shell structure;0134B592;4565183D;2008
+61;10;feng liu;yue fu,jin he,lining zhang,xing zhang,jian zhang,yan song;an analytic model for ge si core shell nanowire mosfets considering drift diffusion and ballistic transport;7548;4565183D;2009
+62;7;feng liu;otmane ait mohamed,qingping tan,xiaoyu song;a case study on system level modeling by aspect oriented programming;13010;4565183D;2009
+63;10;feng liu;li zhang,charles r dyer,yuchi lai;efficient schemes for monte carlo markov chain algorithms in global illumination;0810AAFA;4613D662;2008
+64;10;feng liu;ronghua liang;motion path synthesis for intelligent avatar;0489A984;449E1173;2003
+65;2;feng liu;qiliang zhu;the max relevance and min redundancy greedy bayesian network learning algorithm;08548E70;47A83BFE;2007
+66;10;feng liu;michael gleicher;video retargeting automating pan and scan;0810AAFA;43AA5802;2006
+67;10;feng liu;michael gleicher;re cinematography improving the camera dynamics of casual video;0810AAFA;43AA5802;2007
+68;10;feng liu;yuhen hu,michael gleicher;discovering panoramas in web videos;0810AAFA;43AA5802;2008
+69;10;feng liu;yihong gong,jinjun wang,shenghuo zhu,michael gleicher;noisy video super resolution;0810AAFA;43AA5802;2008
+70;2;feng liu;zhihai wang,jian yu,fengzhan tian;learning bayesian networks with combination of mrmr criterion and emi method;08548E70;436976F3;2007
+71;10;feng liu;zhongxiang luo,yueting zhuang,yunhe pan;a hybrid motion data manipulation wavelet based motion processing and spacetime rectification;0489A984;4459102E;2002
+72;10;feng liu;yunhe pan,yueting zhuang,zhongxiang luo;a robust algorithm for video based human motion tracking;0489A984;4459102E;2002
+73;7;feng liu;yong xiao,yanping yang,jinshan yu,qingping tan;verifying web services composition a transformation based approach;18317;45BA2C87;2005
+74;3;feng liu;guoyin wang;the inconsistency in rough set based rule generation;00A0C1D6;45C7663C;2000
+75;7;feng liu;yanping yang,yong xiao,jinshan yu,qingping tan;exploiting hierarchical cp nets to increase the reliability of web services workflow;0A254897;466431A5;2006
+76;4;feng liu;wu chou,li li;web service for communication service management;5790;45F650F9;2005
+77;7;feng liu;zhoujun li,ti zhou,mengjun li;supremum of agent number needed in analyzing security protocols based on horn logic;14147;45F650F9;2008
+78;12;feng liu;keqin feng;efficient computation of algebraic immunity of symmetric boolean functions;05E79D01;478CDBCA;2007
+79;10;feng liu;michael gleicher;automatic image retargeting with fisheye view warping;0810AAFA;45848F1A;2005
+80;24;feng liu;vipin chaudhary;a practical openmp compiler for system on chips;04592826;46528AF2;2003
+81;2;feng liu;qiliang zhu,fengzhan tian;frequent itemset mining based on heuristic two level counting;0134B592;437D615C;2006
+82;0;feng liu;m r soleymani;a novel chase based multiuser detector for mimo cdma systems;0395F208;462744F4;2007
+83;9;feng liu;mina amin,a hadjiantonis,ha manh tran;an architecture for supporting network fault recovery management;007D2F41;46A1EA1D;2008
+84;17;feng liu;yushun wang,jiaquan gao,guixia he;multi objective scheduling problems subjected to special process constraint;7665;478757A6;2008
+85;25;feng liu;juan liu,huaibei zhou;a projection and search algorithm for the bicluster problem;023B9EF3;449CDF39;2008
+86;25;feng liu;xiao huang,yao qiu;network optimization based on genetic algorithm and estimation of distribution algorithm;023B9EF3;449CDF39;2008
+87;18;feng liu;lei chen,jian jim wang,xuegong deng,anguel nikolov,xiaoming liu,paul sciortino,stephen tai,barry j weinbaum;free space nano optical devices and integration design fabrication and manufacturing;17246;0A902CAD;2005
+88;10;feng liu;yihong gong,jinjun wang,shenghuo zhu,michael gleicher;visual quality optimizing super resolution;0810AAFA;040B05A4;2009
+89;10;feng liu;yunhe pan,fei wu,yueting zhuang;3d motion retrieval with motion index tree;0489A984;0B07014C;2003
+90;16;feng liu;xi jun lin,c k wu;the alignment problem of visual cryptography schemes;012E6F4E;04DD5C8A;2009
+91;16;feng liu;fei hu,yuanhang zhang,jiang zhu;an optimal weather condition dependent approach for emission planning in urban areas;012E6F4E;06C5945E;2007
+92;19;feng liu;lingge jiang,h e chen;joint mmse vector precoding based on gmd method for mimo systems;18375;09F41384;2007
+93;19;feng liu;lingge jiang,h e chen;lattice reduction aided mmse tomlinson harashima precoding for mimo systems;12385;09F41384;2007
+94;27;feng liu;min liang,h u laizhao,l i shaoqian;wideband signal doa estimation based on modified quantum genetic algorithm;12565;09F41384;2006
+95;21;feng liu;tianyi zhang,haidong liu,zhengwei gong;subspace based blind detection of space time coding;2463;09F41384;2006
+96;21;feng liu;taiyi zhang,zhigang chen,yatong zhou;constant modulus based blind channel estimation for ofdm systems;17378;09F41384;2006
+97;21;feng liu;haiyuan liu,taiyi zhang,ruiping zhang;a wavelets network interpolation algorithm for ofdm channel estimation systems;7008;09F41384;2005
+98;21;feng liu;taiyi zhang,zhigang chen;a novel frequency offset estimator over frequency selective fading channels by using correlative coding;1663;09F41384;2005
+99;6;feng liu;l i honghui,zhang jinyu,li liu;quantitative qos management implement mechanism in ip diffserv;0143616E;09A08B9A;2005
+100;10;feng liu;zhongxiang luo,yueting zhuang,yunhe pan;multiple animated characters motion fusion;8556;04DFB869;2002
+101;26;feng liu;mark woon,mei gong,russ b altman,j m hebert,c truong,li gong,teri e klein,tina zhou,ryan p owen,winston gor,tina hernandezboussard,michelle whirlcarrillo,ryan whaley;the pharmacogenetics and pharmacogenomics knowledge base accentuating the knowledge;5758;0806DF69;2008
+102;30;feng liu;chai quek,g s ng;a novel generic hebbian ordering based fuzzy rule base reduction approach to mamdani neuro fuzzy system;0A4ACFBD;0C56EDBC;2007
+103;19;feng liu;xiangfeng li,fuqiao hu,bin wang;color text image binarization based on binary texture analysis;0AE9651A;42D493FC;2004
+104;19;feng liu;xiangfeng li,fuqiao hu,bin wang;color text image binarization based on binary texture analysis;1158;42D493FC;2005
+105;19;feng liu;xiangfeng li,fuqiao hu,bin wang;color text image binarization based on binary texture analysis;0AE9651A;42D493FC;2005
+106;19;feng liu;xiangfeng li,fuqiao hu,bin wang;color text image binarization based on binary texture analysis;0AE9651A;42D493FC;2004
+107;19;feng liu;xiangfeng li,fuqiao hu,bin wang;color text image binarization based on binary texture analysis;13281;42D493FC;2005
+108;19;feng liu;xiangfeng li,fuqiao hu,bin wang;color text image binarization based on binary texture analysis;0AE9651A;42D493FC;2005
+109;22;feng liu;yijuan lu,qi tian,yufeng wang,maribel sanchez;interactive semisupervised learning for microarray analysis;1663;0225C627;2007
+110;4;feng liu;w eric wong,weiping guo,wu chou;an approach to integrating sip in converged multimodal multimedia communication services;03A194FC;08B22D10;2005
+111;7;feng liu;gang chen,xiaoyu song,qingping tan,fei he;a note on a mapping algorithm for computer assisted exploration in the design of embedded systems;11047;0642E126;2007
+112;10;feng liu;michael gleicher;re cinematography improving the camerawork of casual video;0810AAFA;012B3B79;2008
+113;28;feng liu;n y ma;a novel analytical scheme to compute the n fold convolution of exponential sum distribution functions;0D52D485;03009DEA;2004
+114;21;feng liu;xiao e ruan;wavelet based diffusion approaches for signal denoising;05364FE4;09379623;2007
+115;19;feng liu;lingge jiang,chen he;mmse vector precoding with joint transmitter and receiver design for mimo systems;0AE9651A;09379623;2007
+116;22;feng liu;yijuan lu,qi tian,yufeng wang,jennifer neary;adaptive discriminant analysis for microarray based classification;02B554FC;02799AAA;2008
+117;23;feng liu;chuang lin,fengyuan ren,xiaomeng huang;improving tcp throughput over hsdpa networks;18604;03C85075;2008
+118;6;feng liu;liu,feng;stabilization of switched linear systems with bounded disturbances and unobservable switchings;0143616E;05798E5E;2007
+119;10;feng liu;hailin jin,aseem agarwala,michael gleicher;content preserving warps for 3d video stabilization;0810AAFA;4566232D;2009
+120;4;feng liu;mohamed afify,hui jiang,olivier siohan;a new verification based fast match for large vocabulary continuous speech recognition;16397;0C1115B4;2005
+121;7;feng liu;xicheng lu,dongsheng li,ling liu,yiming zhang;dht based range query processing for web service discovery;16058;47A823DD;2009
+122;10;feng liu;yuzhen niu,michael gleicher;using web photos for measuring video frame interestingness;0810AAFA;47C39427;2009
+123;29;feng liu;jie liu;factors affecting software projects budget a case study;8753;45FFFB88;2009
+124;7;feng liu;jiqing wu,yuxing peng;transmission scheduling in data driven peer to peer streaming towards optimal throughput;4802;446AF0D7;2009
+125;6;feng liu;baopeng zhang,ning zhang,kai miao,honghui li;an efficient cloud computing based architecture for freight system application in china railway;0143616E;451788DE;2009
+126;6;feng liu;baopeng zhang,ning zhang,kai miao,honghui li;an efficient cloud computing based architecture for freight system application in china railway;0143616E;451788DE;2009
+127;21;feng liu;hua o wang,yuqing li,zhihong guan;impulsive control of bifurcations;03E10F89;01EA05AA;2009
+128;21;feng liu;zhitang li;a measurement and modeling study of p2p iptv applications;02D828C1;45E5BC3F;2008
+129;8;feng liu;guang qin,lijuan li;a quick group search optimizer with passive congregation and its convergence analysis;08495949;45E5BC3F;2009
+130;8;feng liu;haobin xie,lijuan li;a topology optimization for truss based on improved group search optimizer;15437;45E5BC3F;2009
+131;10;feng liu;michael gleicher;learning color and locality cues for moving object detection and segmentation;0810AAFA;45083D2F;2009
+132;7;feng liu;gang chen,xiaoyu song,otmane ait mohamed,qingping tan,fariborz fereydouni forouzandeh;a comparative study of parallel prefix adders in fpga implementation of eac;14941;42E6BE19;2009
+133;7;feng liu;yuxing peng,xicheng lu;anode alm an aggregation based application level multicast for media streaming;17930;43C40A80;2009
+134;21;feng liu;jun hu,zhitang li,lingyun zhou,junfeng yu;using simulation to characterize topology of peer to peer botnets;10761;4659CB2E;2009
+135;31;feng liu;wei wang,yuguo yu;frequency sensitivity in hodgkin huxley systems;348EB203;0534F6C5;2001
+136;31;feng liu;xixian yao,wei wang;dynamics of the noisy neural network;8473;0534F6C5;1997
+137;22;feng liu;yijuan lu,qi tian,yufeng wang,maribel sanchez,jennifer neary;learning microarray gene expression data by hybrid discriminant analysis;02B554FC;0457F6F5;2007
+138;11;feng liu;bram vanschoenwinkel,yifei chen,bernard manderick;splice site prediction using support vector machines with context sensitive kernel functions;13246;037D9B15;2009
+139;17;feng liu;yuejun liu,jing su;design about real time fault detection information system of the transformer substation;9029;1433496;2009
+140;27;feng liu;chunjing liu,shu zhang;the performance analysis of an improved robust beamforming algorithm;090B2C79;436D599B;2009
+141;16;feng liu;hanqing lu,qingshan liu;robust color based tracking;012E6F4E;458DD1E0;2004
+142;13;feng liu;guojun liao,shanhong ji;an adaptive grid method and its application to steady euler flow calculations;4053;09DD8582;1999
+143;13;feng liu;stanley osher,guojun liao,danping peng,gary c de la pena;level set based deformation methods for adaptive grids;4351;08DD21F7;2000
+144;1;feng liu;jun qu,peng du,fangfei weng;use clustering to improve neural network in financial time series prediction;0B659C39;4539ED1E;2007
+145;2;feng liu;qiliang zhu;max relevance and min redundancy greedy bayesian network learning on high dimensional data;0134B592;45D416DF;2007
+146;31;feng liu;ping xue,shichen sui;whole frame error concealment with improved backward motion estimation for h 264 decoders;348EB203;458DD1E0;2007
+147;3;feng liu;qingsheng zhu,min zhang;sceboost learning algorithm for feature selection;0977BD3A;45D416DF;2007
+148;31;feng liu;ji zhang,hui shao,gang wang;an effective error concealment framework for h 264 decoder based on video scene change detection;348EB203;458DD1E0;2007
+149;8;feng liu;lijuan li,zhibin huang;an improved particle swarm optimizer for truss structure optimization;08495949;45E5BC3F;2006
+150;8;feng liu;zhibin huang,lijuan li;an improved particle swarm optimizer for truss structure optimization;08495949;45E5BC3F;2006
+151;13;feng liu;;truth and absolute truth in neutrosophic logic;19077;376691;2010
+152;13;feng liu;;toward excitation and inhibition in neutrosophic logic a multiagent model based on ying yang philosophy;059C9782;1434060;2004
+153;13;feng liu;florentin smarandache;intentionally and unintentionally on both a and non a in neutrosophy;0A1AB335;898206;2002
+154;8;feng liu;q h wu,xiaotong xu,lijuan li;the group search optimizer and its application on truss structure design;08495949;45777CD3;2008

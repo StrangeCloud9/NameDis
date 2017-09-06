@@ -1,0 +1,41 @@
+0;0;xiaoming wang;xin jin,yu liu,lun wu;on internal cardinal direction relations;0134B592;45B0FD09;2005
+1;1;xiaoming wang;bin zhu,shipeng li;a novel privacy and copyright protection enforced peer to peer network;09889E70;0655F58A;2006
+2;1;xiaoming wang;bin zhu,shipeng li;a novel privacy and copyright protection enforced peer to peer network;16720;0655F58A;2006
+3;1;xiaoming wang;yuzhuo zhong,ming su,chun yuan,shipeng li,bin b zhu;layered access control for mpeg 4 fgs video;8001;455477A7;2003
+4;3;xiaoming wang;derek leonard,dmitri loguinov,zhongmei yao;on static and dynamic partitioning behavior of large scale networks;056D3FC6;44F1AB80;2005
+5;3;xiaoming wang;derek leonard,dmitri loguinov,zhongmei yao;modeling heterogeneous user churn and local resilience of unstructured p2p networks;056D3FC6;44F1AB80;2006
+6;3;xiaoming wang;derek leonard,dmitri loguinov,zhongmei yao;on node isolation under churn in unstructured p2p networks with heavy tailed lifetimes;056D3FC6;442BD7CD;2007
+7;3;xiaoming wang;dmitri loguinov,zhongmei yao;residual based measurement of peer and link lifetimes in gnutella networks;056D3FC6;442BD7CD;2007
+8;3;xiaoming wang;dmitri loguinov;wealth based evolution model for the internet as level topology;056D3FC6;442BD7CD;2006
+9;3;xiaoming wang;dmitri loguinov,xiliang liu;modeling the evolution of degree correlation in scale free topology generators;056D3FC6;442BD7CD;2008
+10;6;xiaoming wang;yuning sun,wanchun shi;an intelligent software integrated environment of ic testing;9629;4579FB5B;1994
+11;3;xiaoming wang;yueping zhang,x li,dmitri loguinov;on zone balancing of peer to peer networks analysis of random node join;056D3FC6;4372AEEF;2004
+12;3;xiaoming wang;derek leonard,hsintsang lee,dmitri loguinov;irlbot scaling to 6 billion pages and beyond;056D3FC6;43ABF249;2008
+13;3;xiaoming wang;derek leonard,hsintsang lee,dmitri loguinov;irlbot scaling to 6 billion pages and beyond;056D3FC6;43ABF249;2009
+14;7;xiaoming wang;qiaoliang li,qing yang,naixue xiong,y pan;a random key management scheme for wireless sensor networks;059F0EEE;4401057D;2008
+15;7;xiaoming wang;qiaoliang li,naixue xiong,yi pan;ant colony optimization based location aware routing for wireless sensor networks;054B7074;4401057D;2008
+16;7;xiaoming wang;qiaoliang li,naixue xiong,yi pan,qiang hu;an optimal algorithm for minimizing cluster overlap of ace;0AD27695;4401057D;2008
+17;8;xiaoming wang;zude zhou,huifu zhang,fangmin li;study on embedded system grid;0BB963EC;43B11EF5;2005
+18;9;xiaoming wang;;large prandtl number behavior of the boussinesq system of rayleigh benard convection;0A5DAC76;00738719;2004
+19;9;xiaoming wang;roger temam;boundary layers in channel flow with injection and suction;1909;00738719;2001
+20;9;xiaoming wang;wenfang cheng;a uniformly dissipative scheme for stationary statistical properties of the infinite prandtl number model;7557;00738719;2008
+21;10;xiaoming wang;michael yu wang;a level set based variational method for design and optimization of heterogeneous objects;01A17328;0109D5ED;2005
+22;7;xiaoming wang;qiaoliang li,sujun li,xingming sun,boqing zhou;an efficient and scalable pairwise key pre distribution scheme for sensor networks using deployment knowledge;00FD6FCE;06DAD4AA;2009
+23;3;xiaoming wang;juan p casas,dmitri loguinov;graph theoretic analysis of structured peer to peer systems routing distances and fault resilience;12095;44B13001;2005
+24;3;xiaoming wang;dmitri loguinov;load balancing performance of consistent hashing asymptotic analysis of random node join;056D3FC6;03B5AFB2;2007
+25;3;xiaoming wang;derek leonard,dmitri loguinov,zhongmei yao;on static and dynamic partitioning behavior of large scale p2p networks;056D3FC6;03B5AFB2;2008
+26;3;xiaoming wang;derek leonard,dmitri loguinov,zhongmei yao;node isolation model and age based neighbor selection in unstructured p2p networks;056D3FC6;03B5AFB2;2009
+27;11;xiaoming wang;jianjun gu,dianchen lu;optimal harvesting problems for an age dependent n dimensional food chain model with diffusion;8999;03009DEA;2007
+28;10;xiaoming wang;yulin mei,gengdong cheng;a feature based topological optimization for structure design;01A17328;00FC6364;2008
+29;3;xiaoming wang;dmitri loguinov,zhongmei yao;residual based estimation of peer and link lifetimes in p2p networks;056D3FC6;03B5AFB2;2009
+30;3;xiaoming wang;derek leonard,hsintsang lee,dmitri loguinov;irlbot scaling to 6 billion pages and beyond;056D3FC6;43ABF249;2008
+31;3;xiaoming wang;derek leonard,hsintsang lee,dmitri loguinov;irlbot scaling to 6 billion pages and beyond;056D3FC6;43ABF249;2009
+32;7;xiaoming wang;shan gao,yingshu li;p percent coverage schedule in wireless sensor networks;18359;43D23988;2008
+33;13;xiaoming wang;shelly cummings,olufunmilayo i olopade,kisha hope,jonathan c silverstein,james d fackenthal,lili liu;translational integrity and continuity personalized biomedical data integration;0267A61E;00B1583F;2009
+34;13;xiaoming wang;shelly cummings,olufunmilayo i olopade,jim fackenthal,kisha hope,jonathan c silverstein,lili liu,maggie cook;translational integrity and continuity personalized biomedical data integration;10705;00B1583F;2008
+35;12;xiaoming wang;huoyan chen;threshold proxy signature scheme with strong real time efficiency;09889E70;45E5BC3F;2008
+36;2;xiaoming wang;wenjun xiao,zhen zhang;general method to build deterministic small world networks based on cayley graph;15508;906113;2009
+37;4;xiaoming wang;;time averaged energy dissipation rate for shear driven flows in rn;09DC92C5;456CDDD6;1997
+38;4;xiaoming wang;charles r doering;attractor dimension estimates for two dimensional shear flows;022F9467;456CDDD6;1998
+39;4;xiaoming wang;;effect of tangential derivative in the boundary layer on time averaged energy dissipation rate;6251;456CDDD6;2000
+40;5;xiaoming wang;shaoshuai miao,jianzhong shang,zheng yang,dapeng fan,zirong luo;resonance characteristic analysis for spur gear servo mechanism;0A254897;215135;2009

@@ -1,0 +1,128 @@
+0;0;bo liu;zhang wenbo,zhang hongbin;rate distortion optimized progressive geometry compression;12149;1892520;2006
+1;0;bo liu;chenming sha,zhanguo ma,hongbin zhang;multi resolution meshes deformation based on pyramid coordinates;0240B99C;455477A7;2007
+2;0;bo liu;yiqiang ni,hongbin zhang;a blind watermarking of 3d triangular meshes using geometry image;0240B99C;455477A7;2007
+3;0;bo liu;zhanguo ma,qiong luo,hongbin zhang;mesh editing in roi with dual laplacian;0240B99C;320776;2007
+4;2;bo liu;wei li,junzhou luo;multi agent based network management task decomposition and scheduling;04905D15;46C53898;2005
+5;2;bo liu;yansheng qu,wei li,laurence t yang,junzhou luo;square a new tcp variant for future high speed and long delay environments;04905D15;46C53898;2008
+6;4;bo liu;yushun fan;research on architecture and key technology for service oriented workflow performance analysis;05E79D01;43F44683;2007
+7;4;bo liu;ling wang,yihui jin;hybrid particle swarm optimization for flow shop scheduling with stochastic processing time;05E79D01;45E5BC3F;2005
+8;2;bo liu;wei li,junzhou luo;distributed intelligent network management model for the large scale computer network;04905D15;43520230;2005
+9;2;bo liu;wei li,junzhou luo;semi online task allocation algorithm among cooperative agents;04905D15;43520230;2006
+10;6;bo liu;long wang,tianguang chu;collective behavior analysis of a class of social foraging swarms;0134B592;4647C10B;2005
+11;6;bo liu;long wang,jie zhang,jietao zou,tianguang chu;controllability of a leader follower dynamic network with interaction time delays;001638B2;4665AEAE;2008
+12;4;bo liu;hannan ma,shangran xie,xuejun zhang;variable weights decision making and its fuzzy inference implementation;05E79D01;4665AEAE;2007
+13;8;bo liu;jiuhui pan;a graph based algorithm for mining maximal frequent itemsets;09889E70;4665AEAE;2007
+14;9;bo liu;qi de yu;codevframe an event drive grid oriented cooperative software development system;18976;1464125;2008
+15;4;bo liu;liqin zhang,yushun fan,dazhe zhao,shuangxi huang;manufacturing grid needs concept and architecture;05E79D01;4554E150;2003
+16;12;bo liu;bin chen,nong xiao;a distributed data server in grid environment;0A254897;4554E150;2004
+17;12;bo liu;xiaoning peng,nong xiao,bin huang;a high performance intelligent integrated data services system in data grid;0A254897;4554E150;2003
+18;14;bo liu;hui liu;wbem based distributed network monitoring;0A254897;4554E150;2004
+19;4;bo liu;yushun fan;a new performance evaluation model and ahp based analysis method in service oriented workflow;05E79D01;4554E150;2007
+20;8;bo liu;bob mckay,hosny abbas;classification rule discovery with ant colony optimization;08FD2313;45A88363;2003
+21;8;bo liu;hussein a abbass,r i mckay;classification rule discovery with ant colony optimization;14906;45A88363;2004
+22;15;bo liu;feiqi deng,shouqiang liu,guohua liang,yanshan xiao,dan luo;a learning process using svms for multi agents decision classification;05669A68;478794CB;2008
+23;18;bo liu;hanying hu,hongyi yu,yunpeng hu;semi data aided nonlinear carrier recovery for bpsk burst mode transmissions;311;436150FA;2008
+24;16;bo liu;behrouz fathi,vassil alexandrov;mixed monte carlo parallel algorithms for matrix computation;043C2E9C;43D2A5F0;2002
+25;16;bo liu;behrouz fathi,vassil alexandrov;mixed monte carlo parallel algorithms for matrix computation;5853;43D2A5F0;2002
+26;16;bo liu;behrouz fathi,vassil alexandrov;numerical experiments with monte carlo methods and spai preconditioner for solving system of linear equations;043C2E9C;43D2A5F0;2002
+27;19;bo liu;jun zhao,jixin qian;design and analysis of test signals for system identification;0489A984;43D2A5F0;2006
+28;15;bo liu;chengqi zhang,philip s yu,longbing cao;multi space mapped svms for multi class classification;4EDF3BB0;468A7487;2008
+29;4;bo liu;ling wang,fuzhuo huang;improved differential evolution with dynamic population size;05E79D01;439B9AD2;2006
+30;4;bo liu;xiong wang,dexian huang,xiaodong yu;de and nlp based qpls algorithm;05E79D01;439B9AD2;2009
+31;4;bo liu;yudong wang,jingchun wang;constrained nonlinear state estimation a differential evolution based moving horizon approach;05E79D01;439B9AD2;2009
+32;0;bo liu;yong li,hongbin zhang;an energy minimizing mesh parameterization;6534;476850;2007
+33;22;bo liu;fang yuan,ge yu;a study on information extraction from pdf files;0295457F;42CB1F93;2005
+34;4;bo liu;yushun fan;research on service oriented workflow and performance evaluation;05E79D01;47A823DD;2007
+35;26;bo liu;jinhua sheng,leslie ying;joint estimation of image and coil sensitivities in parallel mri;6369;46C92457;2006
+36;26;bo liu;jinhua sheng,emad abdelsalam,leslie ying;improved spiral sense reconstruction using a multiscale wavelet model;0298F6CF;46C92457;2008
+37;26;bo liu;jinhua sheng,erik c wiener,leslie ying;joint estimation of image and coil sensitivities in parallel spiral mri;0810AAFA;46C92457;2006
+38;26;bo liu;jinhua sheng,michael steckner,jun xie,leslie ying;regularized sense reconstruction using iteratively refined total variation method;0810AAFA;46C92457;2007
+39;31;bo liu;leonard t bruton;the design of nonuniform band maxmally decimated filter banks;1413;471752F4;1993
+40;31;bo liu;l t bruton;adaptive video coding using mixed domain filter banks having optimal shaped subbands;0A0D2BAD;471752F4;1994
+41;29;bo liu;bin chang,ben gotow,yuan xue,yi cui;bittube case study of a web based peer assisted video on demand system;02D828C1;46D76472;2008
+42;15;bo liu;feng zhao,yanchun liang,zhifeng hao,xiaowei yang;twi map support vector machine for multi classification problems;05669A68;4539ED1E;2005
+43;4;bo liu;dexian huang,ling wang,yihui jin;designing neural networks using hybrid particle swarm optimization;05E79D01;4539ED1E;2005
+44;15;bo liu;xiaowei yang,zhifeng hao;binary tree support vector machine based on kernel fisher discriminant for multi classification;05669A68;4539ED1E;2006
+45;4;bo liu;yunhua wu,ling wang,ying liu,yihui jin,jikun huang;an intelligent differential evolution algorithm for designing trading ratio system of water market;05E79D01;4539ED1E;2007
+46;4;bo liu;dexian huang,ling wang,yihui jin;designing neural networks using pso based memetic algorithm;05E79D01;4539ED1E;2007
+47;16;bo liu;vassil alexandrov;hybrid monte carlo methods for matrix computation;043C2E9C;310244;2003
+48;35;bo liu;fengtao xiao,huaping hu,xin chen;a novel worm detection model based on host packet behavior ranking;0A254897;46405877;2008
+49;8;bo liu;r i mckay,jiuhui pan;incremental clustering based on swarm intelligence;09889E70;42C0465A;2006
+50;8;bo liu;r i mckay,jiuhui pan;incremental clustering based on swarm intelligence;3296;42C0465A;2006
+51;38;bo liu;yansheng lu;a scable peer to peer overlay for applications with time constraints;4954;46950273;2007
+52;35;bo liu;fengtao xiao,huaping hu,xin chen;asg automated signature generation for worm like p2p traffic patterns;05BF2DCA;45F282AE;2008
+53;36;bo liu;xudong lin,hong peng;support vector machines for text categorization in chinese question classification;05669A68;478794CB;2006
+54;0;bo liu;zhanguo ma,hongbin zhang;cut and paste editing over 3d meshes;9614;437D615C;2006
+55;15;bo liu;yanshan xiao,dan luo,longbing cao;multi agent system for custom relationship management with svms tool;05669A68;4574F859;2008
+56;4;bo liu;yan zhou,hannan ma,xuejun zhang;a memetic co evolutionary differential evolution algorithm for constrained optimization;05E79D01;478757A6;2007
+57;4;bo liu;hannan ma,xuejun zhang;hybrid differential evolution for noisy optimization;05E79D01;478757A6;2008
+58;39;bo liu;huiguang li,qingbin zhang,tihua wu;hybrid ant colony algorithm and its application on function optimization;02583013;44C93DEC;2008
+59;6;bo liu;long wang,tianguang chu;flocking of multi vehicle systems with a leader;0134B592;44250E28;2006
+60;43;bo liu;guiling sun,wenhe yue,weixiang li;design and study of distribution map of a general architecture for wireless sensor networks based on gdi ;36742C07;449CDF39;2008
+61;42;bo liu;alei liang,tingtao li,haibing guan;multithreaded optimizing technique for dynamic binary translator crossbit;0AE9651A;449CDF39;2008
+62;41;bo liu;peisheng meng;hybrid algorithm combining ant colony algorithm with genetic algorithm for continuous domain;02D828C1;46013AA1;2008
+63;46;bo liu;yunlong deng,luming yang;a vector matrix iterative self organizing assistant clustering algorithm of xml document;08530CBF;46013AA1;2008
+64;35;bo liu;huaping hu,fengtao xiao,zunguo huang,xin chen;performance analysis of the hllacf;0A254897;46013AA1;2008
+65;8;bo liu;bob mckay,hosny abbas;classification rule discovery with ant colony optimization;08FD2313;45A88363;2003
+66;8;bo liu;hussein a abbass,r i mckay;classification rule discovery with ant colony optimization;14094;45A88363;2004
+67;44;bo liu;wu yang,hongli zhang,binxing fang;intrusion detection system for high speed network;02A66F75;06DAD4AA;2004
+68;4;bo liu;shuangxi huang,yushun fan;a service oriented business performance evaluation model and the performance aware service selection method;05E79D01;00A8D870;2008
+69;4;bo liu;ling wang,yihui jin;an effective hybrid pso based algorithm for flow shop scheduling with limited buffers;05E79D01;0A53AE4E;2008
+70;3;bo liu;xiaoying gan,shiying sun,wentao song;noise analysis based threshold choosing algorithm in motion estimation;1707;09F41384;2005
+71;5;bo liu;shihfu ling,hejun du,min hu;a rotary micromirror for fiber optic switching;14741;06645D82;2012
+72;5;bo liu;shihfu ling,hejun du,min hu;development of an soi based micro check valve;5729;06645D82;2012
+73;1;bo liu;xiaohong pang,xiaoyang yu,zesheng li,miao sun,hui zhang,guiling zhang,yanhong liu;substitution effect on the geometry and electronic structure of the ferrocene;05F8C346;01423ABF;2007
+74;1;bo liu;li wang,guiling zhang,xiaoyang yu,hui zhang,zesheng li;theoretical study on the br ch3sch3 reaction;05F8C346;01423ABF;2007
+75;1;bo liu;guiling zhang,xiaoyang yu,hui zhang,jingyao liu,zesheng li;theoretical study on the oh ch3nhc o och3 reaction;05F8C346;01423ABF;2008
+76;1;bo liu;miao sun,guiling zhang,jingyan liu,hui zhang,zesheng li;theoretical study on the reaction of sih ch3 3 with sih3 radical;05F8C346;01423ABF;2009
+77;7;bo liu;y alp aslandogan,ravishankar mysore,clement t yu;robust content based image indexing using contextual clues and automatic pseudofeedback;6847;06B0FB97;2004
+78;15;bo liu;xiaowei yang,zhifeng hao;nesting algorithm for multi classification problems;05669A68;42F0CC9A;2006
+79;10;bo liu;anna hac;database and location management schemes for mobile communications;14919;03B5AFB2;1998
+80;4;bo liu;ling wang,yihui jin;an effective pso based memetic algorithm for flow shop scheduling;05E79D01;0489FD27;2007
+81;4;bo liu;ling wang,binbin li;an effective pso based hybrid algorithm for multiobjective permutation flow shop scheduling;05E79D01;0489FD27;2008
+82;4;bo liu;hui pan,ling wang;particle swarm optimization for function optimization in noisy environment;05E79D01;03009DEA;2006
+83;44;bo liu;hongli zhang,bin li,zhihong tian,mingzeng hu;defending against distributed denial of service attacks with an auction based method;3510;091877D3;2006
+84;15;bo liu;yanshan xiao,longbing cao;a chinese question classification using one vs one method as a learning tool;11170;01A478A1;2008
+85;39;bo liu;qingbin zhang,tihua wu;a weight based compact genetic algorithm;5308;43F3068F;2009
+86;17;bo liu;xiansheng hua,meng wang,linjun yang;accommodating colorblind users in image search;078A8AE9;43FD776C;2009
+87;4;bo liu;e roca,f v fernandez,georges gielen,r castrolopez;a memetic approach to the automatic design of high performance analog integrated circuits;05EDB3A0;0642E126;2009
+88;11;bo liu;tianping chen;consensus in networks of multiagents with cooperation and competition via stochastically switching topologies;017C99DB;02821AB5;2008
+89;15;bo liu;eric c c tsang,zhifeng hao;nesting one against one algorithm based on svms for pattern classification;7996;02821AB5;2008
+90;13;bo liu;jianqiang li,yu zhao;fully automatic text categorization by exploiting wordnet;070DD5D4;467F57A2;2009
+91;35;bo liu;huaping hu,fengtao xiao,zunguo huang,xin chen;alhacf an anonymity level selected hierarchical anonymous communication framework;0A254897;451FA97C;2008
+92;21;bo liu;yu huang,beihong jin,xianping tao,jiannong cao;an analytical model for broadcasting by self pruning in wireless ad hoc networks;348EB203;451FA97C;2008
+93;0;bo liu;hongbin zhang,wenan chen;boundary constrained manifold unfolding;14628;43DF0F6B;2008
+94;17;bo liu;xiansheng hua,meng wang;accessible image search;078A8AE9;43AA5802;2009
+95;13;bo liu;xiao yu zhao,jianqiang li;repairing inconsistency and uncertainty in dl based ontologies;4833;1762458;2009
+96;39;bo liu;boyuan ma,zhuangwei wang,qingbin zhang,lihong bi;estimation of distribution algorithms for the machine part cell formation;7787;44C93DEC;2009
+97;4;bo liu;leibo liu,zheng wang,miao li,yan wang,f v fernandez,jing lu,zhiping yu;analog circuit optimization system based on hybrid evolutionary algorithms;4199;084EF482;2009
+98;20;bo liu;mihai pop;ardb antibiotic resistance genes database;05B0E89C;0806DF69;2009
+99;35;bo liu;jiawei tian,jianhua huang,xianglong tang,h d cheng,jiafeng liu;fully automatic and segmentation robust classification of breast tumors based on local texture analysis of ultrasound images;0C37CBAD;00065366;2010
+100;30;bo liu;richang hong,xiuqing wu,shanshan li;a quality metric based on color similarity for image fusion;12485;0B1950BF;2011
+101;2;bo liu;wei li,junzhou luo;distributed network self management model based on cscw;04905D15;43520230;2005
+102;27;bo liu;yong he,guohui wang,chenguang jiang,shaohong li,chunqiao yuan,jianguo peng;the design of the gps based surveying robot automatic monitoring system for underground mining safety;08BF94A6;45737C92;2009
+103;28;bo liu;zhong chen,huiping sun,yelu chen,ennan zhai;filtering spam in social tagging system with dynamic behavior analysis;0134B592;47313E98;2009
+104;25;bo liu;haiyong zheng,xiaodong wang,xiangqian ding;design and implementation of control system on embedded downloading server based on c s architecture;0384B5A7;475B8292;2009
+105;6;bo liu;yan yu,jie zhang,huan li;stability analysis of swarm with interaction time delays using nearest neighbors information;001638B2;4665AEAE;2009
+106;23;bo liu;jianhua zhao;non linear correlation techniques in educational data mining;13175;4665AEAE;2009
+107;24;bo liu;anirban mandal,lennart johnsson,ken kennedy,gabriel marin,charles koelbel,john mellorcrummey;scheduling strategies for mapping application workflows onto the grid;8748;440F51B1;2005
+108;15;bo liu;fengzhao yang,zhifeng hao,longbing cao,xindong wu,jie cao,chengqi zhang,yanshan xiao;multi sphere support vector data description for outliers detection on multi distribution data;7185;468A7487;2009
+109;27;bo liu;chunqiao yuan,yong he,chenguang jiang,jianguo peng,guohui wang;prediction and analysis of landslide based on fuzzy theory;3034;4665AEAE;2009
+110;6;bo liu;haili liang,jie zhang,huan li;complex analysis of anisotropic swarms with gaussian profiles;001638B2;4665AEAE;2009
+111;6;bo liu;huan li;collective behavior of dynamic swarm with general topology and complex communication time delays;001638B2;436649AA;2009
+112;33;bo liu;bomy chen,zhitang song,gaoming feng,songlin feng;reactive ion etching of ge2sb2te5 in cf4 ar plasma for non volatile phase change memories;15391;096B53DD;2008
+113;34;bo liu;mingyan jiang,dongfeng yuan;adaptive resource allocation in multiuser ofdm system based on genetic algorithm;092F5EFF;436D599B;2009
+114;32;bo liu;yinping miao,qida zhao;enhanced sensitivity refractive index sensor using tilted fiber bragg grating with thinned cladding;0C3BAC1F;442BD7CD;2008
+115;32;bo liu;haibin zhou,junhao tao,yange liu;temperature wireless sensors network based on fiber bragg grating;0C3BAC1F;442BD7CD;2008
+116;0;bo liu;hongjuan zheng,hongbin zhang;region of interest coding of 3d mesh based on wavelet transform;0134B592;458DD1E0;2004
+117;40;bo liu;walter littman;on the spectral properties and stabilization of acoustic flow;7502;0499FE5B;2006
+118;4;bo liu;hannan ma,xuejun zhang;a co evolutionary differential evolution algorithm for constrained optimization;05E79D01;1736789;2007
+119;38;bo liu;yansheng lu;a scalable peer to peer overlay for applications with time constraints;02D828C1;46950273;2007
+120;39;bo liu;qingbin zhang,tihua wu;a population based incremental learning algorithm with elitist strategy;02583013;709475;2007
+121;37;bo liu;linyan sun,xiting wu;demand flow network;6107;370322;2004
+122;8;bo liu;r i mckay,jiuhui pan;entropy based metrics in swarm clustering;09889E70;0374415A;2009
+123;39;bo liu;huiguang li,tihua wu;neural network identification method applied to the nonlinear system;02583013;0691FF8A;2009
+124;6;bo liu;haili liang,jie zhang,huan li;complex analysis of anisotropic swarms;001638B2;129671;2009
+125;6;bo liu;yan yu,jie zhang,huan li;stability analysis of social foraging swarm with interaction time delays;001638B2;788079;2009
+126;45;bo liu;liang gui tang,can tang;a new parallel segmentation model based on dictionary and mutual information;08AD66D5;916300;2008
+127;4;bo liu;yan wang,jing lu,yang tang;an effective parameter extraction method based on memetic differential evolution algorithm;3276;05E40B87;2008

@@ -1,0 +1,110 @@
+0;0;bin yu;hisami suzuki,jianfeng gao;approximation lasso methods for language modeling;05B090CE;46DAB993;2006
+1;1;bin yu;zhongzheng yang,kwokwing chau,chuntian cheng;application of pga on optimization of distribution of shopping centers;01A17328;45A88363;2005
+2;2;bin yu;munindar p singh;incentive mechanisms for peer to peer systems;083839C7;45FD9DD4;2003
+3;3;bin yu;zhenhua duan,peng men;utilizing fuzzy petri net for choreography based semantic web services discovery;08EAA2CB;47CA3817;2007
+4;2;bin yu;munindar p singh;emergence of agent based referral networks;083839C7;45A88363;2002
+5;2;bin yu;munindar p singh;searching social networks;083839C7;45A88363;2003
+6;2;bin yu;katia sycara,robin glinton,sean owens,paul scerri;synergistic integration of agent technologies for military simulation;0477FFD3;45A88363;2006
+7;2;bin yu;katia sycara,michael lewis,steven okamoto,paul scerri,yang xu;an integrated token based algorithm for scalable coordination;0477FFD3;45A88363;2005
+8;2;bin yu;katia sycara,cuihong li,munindar p singh;a dynamic pricing mechanisms for p2p referral systems;0477FFD3;45A88363;2004
+9;2;bin yu;munindar p singh;an evidential model of distributed reputation management;083839C7;45A88363;2002
+10;2;bin yu;munindar p singh;detecting deception in reputation management;083839C7;45A88363;2003
+11;2;bin yu;katia sycara,michael j lewis,paul scerri,yang xu;scalable and reliable data delivery in mobile ad hoc sensor networks;0477FFD3;45A88363;2006
+12;2;bin yu;donald steiner,srikanth kallurkar,ganesh vaidyanathan;managing the pedigree and quality of information in dynamic information sharing environments;15436;45A88363;2007
+13;2;bin yu;katia sycara,cuihong li;an incentive mechanism for message relaying in unstructured peer to peer systems;0477FFD3;45A88363;2007
+14;2;bin yu;katia sycara,cuihong li;an incentive mechanism for message relaying in unstructured peer to peer systems;04F353DF;45A88363;2009
+15;6;bin yu;yonghua song,omer f rana,chang huang,maozhen li;service matchmaking with rough sets;796;4651456C;2006
+16;2;bin yu;munindar p singh;a social mechanism of reputation management in electronic communities;083839C7;43277916;2000
+17;2;bin yu;munindar p singh;an agent based approach to knowledge management;083839C7;472C6E2D;2002
+18;3;bin yu;zhenhua duan,lihui lei;semantic matching of web services based on choreographies;08EAA2CB;43520230;2006
+19;3;bin yu;zhunhua duan,lihui lei;semantic matching of web services for collaborative business processes;08EAA2CB;43520230;2006
+20;0;bin yu;sean dorward,dawei huang,gerald schuller,serap a savari;low delay perpetually lossless coding of audio signals;3311;46AD78C1;2001
+21;6;bin yu;man qi,maozhen li,masoud rozati;a wsrf based shopping cart system;038AE3AA;46405877;2005
+22;8;bin yu;xiaohui gu,klara nahrstedt;spidernet an integrated peer to peer service composition framework;0966B229;440F51B1;2004
+23;1;bin yu;qingrui zhang,chuntian cheng,jingxin xie;multi step ahead prediction based on b spline interpolation and adaptive time delay neural network;01A17328;45126447;2005
+24;11;bin yu;anil k jain;page segmentation using document model;7252;448D1E7E;1997
+25;11;bin yu;;automatic understanding of symbol connected diagrams;10574;448D1E7E;1995
+26;13;bin yu;ye jiang,gennian tang,weixiang xu;the dynamics mechanism study on interactive development of industry clusters and urbanization;37823082;439B9AD2;2006
+27;15;bin yu;guangbin wang,zunshui cheng,jianlong qiu;hybrid control of hopf bifurcation for an internet congestion model;088C52EE;439B9AD2;2007
+28;0;bin yu;s g chang,martin vetterli;image denoising via lossy compression and wavelet thresholding;5932;455477A7;1997
+29;0;bin yu;s g chang,martin vetterli;spatially adaptive wavelet thresholding with context modeling for image denoising;18873;455477A7;1998
+30;0;bin yu;s g chang,martin vetterli;spatially adaptive wavelet thresholding with context modeling for image denoising;19838;455477A7;2000
+31;0;bin yu;s g chang,martin vetterli;multiple copy image denoising via wavelet thresholding;4468;455477A7;1998
+32;0;bin yu;kannan ramchandran,wei wang,rebecka jornsten;compression of cdna and inkjet microarray images;0349EE07;455477A7;2002
+33;11;bin yu;anil k jain;lane boundary detection using a multiresolution hough transform;0532D181;455477A7;1997
+34;2;bin yu;munindar p singh,mahadevan venkatraman;trust and reputation management in a small world network;6453;474799EB;2000
+35;8;bin yu;yong rai,klara nahrstedt,cha zhang;a three layer virtual director model for supporting automated multi site distributed education;0966B229;432251B5;2006
+36;0;bin yu;tao shi,m a belkin;data spectroscopy learning mixture models using eigenspaces of convolution operators;05B090CE;465F7C62;2008
+37;11;bin yu;xinggang lin,youshou wu;an economical contour extraction aigorithm for understanding large size engineering drawings;9549;4523D0A5;1990
+38;0;bin yu;gang liang;pseudo likelihood estimation in network tomography;0349EE07;442BD7CD;2003
+39;0;bin yu;rebecka jornsten;compression of cdna microarray images;1022;46C92457;2002
+40;8;bin yu;Sang-Hack Jung,jin liang,ruzena bajcsy,klara nahrstedt,yi cui,zhenyu yang;teeve the next generation architecture for tele immersive environment;14278;46D76472;2005
+41;8;bin yu;klara nahrstedt,ruzena bajscy,wanmin wu,ross diankov,zhenyu yang;a study of collaborative dancing in tele immersive environments;0966B229;46D76472;2006
+42;5;bin yu;hong hou,qingyi hua,anliang ning,kegang hao;requirements engineering processes improvement a systematic view;0231D08D;46F7C53A;2005
+43;8;bin yu;jianping wu,yixin zhao;intelligent online bgp 4 analyzer;14721;465EF934;2000
+44;8;bin yu;klara nahrstedt;a scalable overlay video mixing service model;0966B229;43AA5802;2003
+45;8;bin yu;weiying ma,hongjiang zhang,klara nahrstedt;video summarization based on user log enhanced link analysis;0966B229;43AA5802;2003
+46;8;bin yu;ross diankov,ruzena bajscy,wanmin wu,zhenyu yang;collaborative dancing in tele immersive environment;0966B229;43AA5802;2006
+47;8;bin yu;m nahrstedt;a realtime software solution for resynchronizing filtered mpeg2 transport stream;0966B229;46D76472;2002
+48;0;bin yu;pradeep ravikumar,jack l gallant,kendrick n kay,thomas naselaris,vincent q vu;nonparametric sparse hierarchical models describe v1 fmri responses to natural images;17425;43319DD4;2009
+49;8;bin yu;ruzena bajscy,klara nahrstedt,zhenyu yang;a multi stream adaptation framework for bandwidth management in 3d tele immersion;0966B229;43A56762;2006
+50;6;bin yu;yonghua song,man qi,p hobson,maozhen li,wenming guo;service matchmaking and discovery with rough sets;16032;43B11EF5;2006
+51;7;bin yu;haiyan li;research and design of one key agreement scheme in bluetooth;12612;449CDF39;2008
+52;2;bin yu;munindar p singh,mahadevan venkatraman;an adaptive social network for information access theoretical and experimental results;083839C7;077B006D;2010
+53;0;bin yu;rebecka jornsten;simultaneous gene clustering and subset selection for sample classification via mdl;06194FDE;031F7D94;2003
+54;0;bin yu;j rebecka;simultaneous gene clustering and subset selection for sample classification via mdl;2969;638546;2003
+55;2;bin yu;munindar p singh,mahadevan venkatraman;community based service location;083839C7;062B05D6;2001
+56;2;bin yu;munindar p singh;distributed reputation management for electronic commerce;083839C7;42CC6E2D;2002
+57;0;bin yu;robert e kass,vincent q vu;information in the non stationary case;7871;0B68DB42;2009
+58;0;bin yu;robert e kass,vincent q vu;information in the non stationary case;05B090CE;0B68DB42;2008
+59;6;bin yu;man qi,maozhen li;pgga a predictable and grouped genetic algorithm for job scheduling;038AE3AA;0B1B95C6;2006
+60;11;bin yu;xinggang lin,youshou wu;the tree representation of the graph used in binary image processing;9411;08D19590;1991
+61;0;bin yu;peter buhlmann;sparse boosting;14656;07179FAA;2006
+62;0;bin yu;peng zhao;on model selection consistency of lasso;05B090CE;07179FAA;2006
+63;8;bin yu;klara nahrstedt;internet based interactive hdtv;007B93A0;06B0FB97;2003
+64;11;bin yu;anil k jain;document representation and its application to page decomposition;14611;0BEAEA4E;1998
+65;11;bin yu;anil k jain;a generic system for form dropout;0532D181;0BEAEA4E;1996
+66;11;bin yu;anil k jain;automatic text location in images and video frames;7291;4372EE76;1998
+67;11;bin yu;anil k jain;automatic text location in images and video frames;2553;4372EE76;1998
+68;11;bin yu;anil k jain;a robust and fast skew detection algorithm for generic documents;7413;00065366;1996
+69;11;bin yu;baozong yuan;a more efficient branch and bound algorithm for feature selection;8435;00065366;1993
+70;4;bin yu;hua li,luhong diao;a new edge detector based on fresnel diffraction;0AC5ACB1;090C990E;2007
+71;0;bin yu;s g chang,martin vetterli;spatially adaptive wavelet thresholding with context modeling for image denoising;18635;455477A7;1998
+72;0;bin yu;s g chang,martin vetterli;spatially adaptive wavelet thresholding with context modeling for image denoising;17041;455477A7;2000
+73;0;bin yu;s g chang,martin vetterli;adaptive wavelet thresholding for image denoising and compression;6498;06DF68B7;2000
+74;0;bin yu;s g chang,martin vetterli;wavelet thresholding for multiple noisy image copies;9551;06DF68B7;2000
+75;0;bin yu;antonio ortega,youngjun yoo;image subband coding using context based classification and adaptive quantization;8074;06DF68B7;1999
+76;0;bin yu;andrew r barron,jorma rissanen;the minimum description length principle in coding and modeling;839;0044B422;1998
+77;0;bin yu;mark h hansen;wavelet thresholding via mdl for natural images;13707;0044B422;2000
+78;0;bin yu;lei li;iterated logarithmic expansions of the pathwise code lengths for exponential families;1762;0044B422;2000
+79;0;bin yu;gang liang,nina taft;a fast lightweight approach to origin destination ip traffic estimation using partial measurements;7578;03B5AFB2;2006
+80;0;bin yu;gang liang,nina taft;a fast lightweight approach to origin destination ip traffic estimation using partial measurements;05B090CE;03B5AFB2;2006
+81;0;bin yu;jorma rissanen,t p speed;density estimation by stochastic complexity;19019;0044B422;1992
+82;0;bin yu;;lower bounds on expected redundancy for nonparametric classes;0349EE07;0044B422;1996
+83;0;bin yu;t p speed;a rate of convergence result for a universal d semifaithful code;0810AAFA;0044B422;1993
+84;6;bin yu;zidong wang,omer f rana,maozhen li;grid service discovery with rough sets;4490;01D46A2B;2008
+85;0;bin yu;kannan ramchandran,wei wang,rebecka jornsten;microarray image compression sloco and the effect of information loss;05B090CE;09379623;2003
+86;9;bin yu;baozhen yao,zhongzhen yang;an improved ant colony optimization for vehicle routing problem;0294EAD4;06289060;2009
+87;8;bin yu;klara nahrstedt,yi cui,jin liang;hourglass multimedia content and service composition framework for smart room environments;0966B229;08673956;2005
+88;10;bin yu;bin,qiaofang,li,hou,yu,shengbin;genetic polymorphisms of nine x str loci in four population groups from inner mongolia china;6289;094578F6;2007
+89;6;bin yu;man qi,nick antonopoulos,maozhen li;automatically wrapping legacy software into services a grid case study;6379;0A943F68;2008
+90;2;bin yu;joseph a giampapa,m l lewis,katia sycara,sean owens,robin glinton,ltc charles grindle;an integrated approach to high level information fusion;0477FFD3;00735CB3;2009
+91;6;bin yu;man qi,vijay sahota,maozhen li;web services discovery with rough sets;3458;071EF8E7;2009
+92;0;bin yu;dawei huang,gerald schuller,bernd edler;perceptual audio coding using adaptive pre and post filters and lossless compression;8863;0C1115B4;2002
+93;9;bin yu;zhongzhen yang;a dynamic holding strategy in public transit systems with real time information;0294EAD4;04743DEB;2009
+94;16;bin yu;tao jiang,dandan song,b zheng,baoliang lu,yang yang,xuemei chen,zhidong deng;computational prediction of novel non coding rnas in arabidopsis thaliana;062D596B;012269E3;2009
+95;0;bin yu;robert e kass,vincent q vu;information in the nonstationary case;2216;0C56EDBC;2009
+96;2;bin yu;m a o lewis,youngwoo seo,joseph a giampapa,charles e grindle,katia sycara,sean owens,robin glinton;extending the onesaf testbed into a c4isr testbed;04F353DF;01F107E4;2004
+97;14;bin yu;paul glasserman;large sample properties of weighted monte carlo estimators;17807;077F2EB9;2006
+98;14;bin yu;paul glasserman;large sample properties of weighted monte carlo estimators;04AF010A;077F2EB9;2005
+99;12;bin yu;liguo fang,zhengxin fu;a modified multi secret sharing visual cryptography scheme;4965;45E5BC3F;2008
+100;12;bin yu;liguo fang,xiaohui xu;a verifiable visual cryptography scheme;15239;45E5BC3F;2008
+101;15;bin yu;;prediction of transmembrane helical segments in membrane proteins using back propagation neural network with wavelet analysis;6675;559945;2009
+102;3;bin yu;yang zhao,chen zhang;transform from models to service description based on mda;08EAA2CB;459777C0;2006
+103;0;bin yu;peng zhao;stagewise lasso;3452;07179FAA;2007
+104;0;bin yu;guilherme n l veiga da rocha;sparsity and model selection through convex penalties structured selection covariance selection and some theory;12825;497108;2008
+105;0;bin yu;;some results on empirical processes and stochastic complexity;7261;125823;1990
+106;11;bin yu;xinggang lin,youshou wu,baozong yuan;isothetic polygon representation for contours;12450;063DDB3A;1992
+107;0;bin yu;per a mykland;looking at markov samplers through cusum path plots a simple diagnostic idea;05B090CE;0052F9B3;1998
+108;7;bin yu;shichao chen;a new method of realizing fingerprint authentication on smartcard;18767;339838;2008
+109;11;bin yu;xinggang lin,youshou wu;an economical contour extraction algorithm for understanding large size engineering drawings;05E79D01;4523D0A5;1990

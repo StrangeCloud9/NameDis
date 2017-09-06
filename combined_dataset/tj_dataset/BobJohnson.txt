@@ -1,0 +1,9 @@
+0;0;bob johnson;jorg kienzle,bo sanden,stephen michell,andy wellings,thomas wolf;object oriented programming and protected objects in ada 95;07108C52;47987D60;2000
+1;1;bob johnson;robert r johnson;unix metrics is the data in open systems the same from platform to platform ;11910;4372AEEF;1995
+2;1;bob johnson;rob johnson;triad of computing in the 21st century or back to the future again;5880;1721621;1995
+3;2;bob johnson;;user centeredness situatedness and designing the media of computer documentation;04F77DC2;44EACB63;1990
+4;2;bob johnson;;user centeredness situatedness and designing the media of computer documentation;3364;44EACB63;1990
+5;3;bob johnson;;introduction to commentaries on spurious coin a history of science management and technical writing by bernadette longo;00B67360;0573AF00;2001
+6;4;bob johnson;brian lawrence,rob johnson;manager the project scoping gamble;15860;00669F99;1997
+7;2;bob johnson;;the wired neighborhood an extended multimedia conversation;04F77DC2;0A43B81C;1997
+8;2;bob johnson;;introduction to the book commentaries;04F77DC2;0A43B81C;1998

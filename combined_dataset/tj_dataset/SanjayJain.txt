@@ -1,0 +1,342 @@
+0;0;sanjay jain;ganesh baliga,arun sharma;learning from multiple sources of inaccurate data;0527EA39;463119A6;1992
+1;0;sanjay jain;ganesh baliga,arun sharma;learning from multiple sources of inaccurate data;09E3EE34;463119A6;1997
+2;0;sanjay jain;john case,kehjiann chen;strong separation of learning classes;0527EA39;463119A6;1992
+3;0;sanjay jain;john case,kehjiann chen;strong separation of learning classes;050BB43F;463119A6;1992
+4;0;sanjay jain;mark fulk;approximate inference and scientific method;18328;471D649B;1990
+5;0;sanjay jain;mark fulk;approximate inference and scientific method;8853;471D649B;1994
+6;0;sanjay jain;john case,frank stephan,lorenzo carlucci;non u shaped vacillatory and team learning;09E3EE34;471D649B;2005
+7;0;sanjay jain;john case,frank stephan,lorenzo carlucci;non u shaped vacillatory and team learning;09E3EE34;471D649B;2008
+8;0;sanjay jain;john case;synthesizing learners tolerating computable noisy data;09E3EE34;471D649B;1998
+9;0;sanjay jain;john case;synthesizing learners tolerating computable noisy data;3009;471D649B;2001
+10;0;sanjay jain;john case,frank stephan,susanne kaufmann,arun sharma;predictive learning models for concept drift;09E3EE34;471D649B;1998
+11;0;sanjay jain;john case,frank stephan,susanne kaufmann,arun sharma;predictive learning models for concept drift;09E3EE34;471D649B;2001
+12;0;sanjay jain;john case,frank stephan,rudiger reischuk,thomas zeugmann;learning a subclass of regular patterns in polynomial time;09E3EE34;471D649B;2003
+13;0;sanjay jain;john case,rudiger reischuk,frank stephan,thomas zeugmann;learning a subclass of regular patterns in polynomial time;09E3EE34;471D649B;2006
+14;0;sanjay jain;john case,arun sharma;anomalous learning helps succinctness extended abstract ;17377;471D649B;1990
+15;0;sanjay jain;john case,arun sharma;machine induction without revolutionary paradigm shifts;09E3EE34;471D649B;1995
+16;0;sanjay jain;john case,frank stephan;vacillatory and bc learning on noisy data;09E3EE34;471D649B;1996
+17;0;sanjay jain;john case,frank stephan;vacillatory and bc learning on noisy data;09E3EE34;471D649B;2000
+18;0;sanjay jain;john case,arun sharma;synthesizing noise tolerant language learners;09E3EE34;471D649B;1997
+19;0;sanjay jain;john case,arun sharma;synthesizing noise tolerant language learners;09E3EE34;471D649B;2001
+20;0;sanjay jain;;program synthesis in the presence of infinite number of inaccuracies;09E3EE34;471D649B;1994
+21;0;sanjay jain;;program synthesis in the presence of infinite number of inaccuracies;09E3EE34;471D649B;1996
+22;0;sanjay jain;;learning with refutation;09E3EE34;471D649B;1998
+23;0;sanjay jain;;learning with refutation;16549;471D649B;1998
+24;0;sanjay jain;efim kinber;learning languages from positive data and negative counterexamples;09E3EE34;471D649B;2004
+25;0;sanjay jain;efim kinber;learning languages from positive data and negative counterexamples;09E3EE34;471D649B;2008
+26;0;sanjay jain;efim kinber;learning multiple languages in groups;09E3EE34;471D649B;2005
+27;0;sanjay jain;efim kinber;learning multiple languages in groups;09E3EE34;471D649B;2007
+28;0;sanjay jain;efim kinber;learning and extending sublanguages;09E3EE34;471D649B;2006
+29;0;sanjay jain;efim kinber;learning and extending sublanguages;09E3EE34;471D649B;2008
+30;0;sanjay jain;efim kinber;iterative learning from positive data and negative counterexamples;09E3EE34;471D649B;2006
+31;0;sanjay jain;efim kinber;iterative learning from positive data and negative counterexamples;09E3EE34;471D649B;2007
+32;0;sanjay jain;rolf wiehagen,efim kinber;on learning and co learning of minimal programs;09E3EE34;471D649B;1996
+33;0;sanjay jain;thomas zeugmann,rolf wiehagen,efim kinber;learning recursive functions refutably;09E3EE34;471D649B;2001
+34;0;sanjay jain;jochen nessel,steffen lange;learning of r e languages from good examples;09E3EE34;471D649B;1997
+35;0;sanjay jain;sandra zilles,steffen lange;gold style and query learning under various constraints on the target class;09E3EE34;471D649B;2005
+36;0;sanjay jain;sandra zilles,steffen lange;towards a better understanding of incremental learning;09E3EE34;471D649B;2006
+37;0;sanjay jain;frank stephan,wolfram menzel;classes with easily learnable subclasses;09E3EE34;471D649B;2002
+38;0;sanjay jain;frank stephan,wolfram menzel;classes with easily learnable subclasses;09E3EE34;471D649B;2004
+39;0;sanjay jain;frank stephan,eric martin;absolute versus probabilistic classification in a logical setting;09E3EE34;471D649B;2005
+40;0;sanjay jain;frank stephan,eric martin;absolute versus probabilistic classification in a logical setting;09E3EE34;471D649B;2008
+41;0;sanjay jain;tiong seng tay,yen kaow ng;learning languages in a union;09E3EE34;471D649B;2001
+42;0;sanjay jain;tiong seng tay,yen kaow ng;learning languages in a union;09E3EE34;471D649B;2007
+43;0;sanjay jain;frank stephan;learning by switching type of information;09E3EE34;471D649B;2001
+44;0;sanjay jain;frank stephan;learning by switching type of information;09E3EE34;471D649B;2003
+45;0;sanjay jain;frank stephan;learning how to separate;09E3EE34;471D649B;2001
+46;0;sanjay jain;frank stephan;learning how to separate;09E3EE34;471D649B;2004
+47;0;sanjay jain;arun sharma;prudence in vacillatory language identification extended abstract ;0527EA39;471D649B;1992
+48;0;sanjay jain;arun sharma;on aggregating teams of learning machines;09E3EE34;471D649B;1993
+49;0;sanjay jain;arun sharma;on aggregating teams of learning machines;09E3EE34;471D649B;1995
+50;0;sanjay jain;arun sharma;on monotonic strategies for learning r e languages;09E3EE34;471D649B;1994
+51;0;sanjay jain;efim kinber;one shot learners using negative counterexamples and nearest positive examples;09E3EE34;471D649B;2007
+52;0;sanjay jain;efim kinber;one shot learners using negative counterexamples and nearest positive examples;09E3EE34;471D649B;2009
+53;0;sanjay jain;frank stephan;learning in friedberg numberings;09E3EE34;471D649B;2007
+54;0;sanjay jain;frank stephan;learning in friedberg numberings;09E3EE34;471D649B;2008
+55;0;sanjay jain;nan ye,frank stephan;prescribed learning of r e classes;09E3EE34;471D649B;2007
+56;0;sanjay jain;nan ye,frank stephan;prescribed learning of r e classes;09E3EE34;471D649B;2009
+57;0;sanjay jain;john case,frank stephan,leonor becerrabonache;iterative learning of simple external contextual languages;09E3EE34;471D649B;2008
+58;0;sanjay jain;john case,frank stephan,leonor becerrabonache;iterative learning of simple external contextual languages;09E3EE34;05686292;2010
+59;0;sanjay jain;john case,frank stephan,leonor becerra bonache;iterative learning of simple external contextual languages;18720;471D649B;2008
+60;0;sanjay jain;john case,frank stephan,leonor becerra bonache;iterative learning of simple external contextual languages;240;471D649B;2010
+61;0;sanjay jain;frank stephan;numberings optimal for learning;09E3EE34;471D649B;2008
+62;0;sanjay jain;frank stephan;numberings optimal for learning;09E3EE34;471D649B;2010
+63;0;sanjay jain;frank stephan,eric martin;input dependence in function learning;09E3EE34;436B17F2;2007
+64;0;sanjay jain;frank stephan,eric martin;input dependence in function learning;09E3EE34;436B17F2;2009
+65;0;sanjay jain;john case,ganesh baliga;synthesizing enumeration techniques for language learning;09E3EE34;463119A6;1996
+66;0;sanjay jain;john case,frank stephan,lorenzo carlucci;memory limited u shaped learning;09E3EE34;463119A6;2006
+67;0;sanjay jain;frank stephan,lorenzo carlucci,efim kinber;variations on u shaped learning;09E3EE34;463119A6;2005
+68;0;sanjay jain;frank stephan,lorenzo carlucci,efim kinber;variations on u shaped learning;6706;463119A6;2005
+69;0;sanjay jain;frank stephan,lorenzo carlucci,efim kinber;variations on u shaped learning;12804;463119A6;2005
+70;0;sanjay jain;frank stephan,lorenzo carlucci,efim kinber;variations on u shaped learning;09E3EE34;463119A6;2006
+71;0;sanjay jain;john case,kehjiann chen,wolfgang merkle,james s royer;generality s price inescapable deficiencies in machine learned programs;09E3EE34;463119A6;2003
+72;0;sanjay jain;john case,kehjiann chen,wolfgang merkle,james s royer;generality s price inescapable deficiencies in machine learned programs;09E3EE34;463119A6;2006
+73;0;sanjay jain;john case,andrea sorbi,franco montagna,giulia simi;on learning to coordinate random bits help insightful normal forms and competency isomorphisms;4257;463119A6;2003
+74;0;sanjay jain;john case,andrea sorbi,franco montagna,giulia simi;on learning to coordinate random bits help insightful normal forms and competency isomorphisms;09E3EE34;463119A6;2005
+75;0;sanjay jain;john case,frank stephan,matthias ott,arun sharma;robust learning aided by context;09E3EE34;463119A6;1998
+76;0;sanjay jain;john case,frank stephan,matthias ott,arun sharma;robust learning aided by context;3917;463119A6;2000
+77;0;sanjay jain;john case,arun sharma;on learning limiting programs;0527EA39;463119A6;1992
+78;0;sanjay jain;john case,arun sharma;on learning limiting programs;16893;463119A6;2011
+79;0;sanjay jain;john case,frank stephan,rolf wiehagen;robust learning rich and poor;09E3EE34;463119A6;2001
+80;0;sanjay jain;john case,frank stephan,rolf wiehagen;robust learning rich and poor;09E3EE34;463119A6;2004
+81;0;sanjay jain;mark a fulk;learning in the presence of inaccurate information;14263;463119A6;1989
+82;0;sanjay jain;mark fulk;learning in the presence of inaccurate information;09E3EE34;463119A6;1996
+83;0;sanjay jain;efim kinber;intrinsic complexity of learning geometrical concepts from positive data;09E3EE34;463119A6;2001
+84;0;sanjay jain;efim kinber;intrinsic complexity of learning geometrical concepts from positive data;09E3EE34;463119A6;2003
+85;0;sanjay jain;efim kinber;on learning languages from positive data and a limited number of short counterexamples;09E3EE34;463119A6;2007
+86;0;sanjay jain;rolf wiehagen,efim kinber;language learning from texts degrees of instrinsic complexity and their characterizations;8795;463119A6;2000
+87;0;sanjay jain;rolf wiehagen,efim kinber;learning all subfunctions of a function;09E3EE34;463119A6;2003
+88;0;sanjay jain;rolf wiehagen,efim kinber;learning all subfunctions of a function;09E3EE34;463119A6;2004
+89;0;sanjay jain;arun sharma;finite learning by a team ;11409;463119A6;1990
+90;0;sanjay jain;arun sharma;probability is more powerful than team for language identification from positive data;01E46A0B;463119A6;1993
+91;0;sanjay jain;arun sharma;on the intrinsic complexity of language identification;09E3EE34;463119A6;1994
+92;0;sanjay jain;arun sharma;elementary formal systems intrinsic complexity and procrastination;09E3EE34;463119A6;1996
+93;0;sanjay jain;arun sharma;elementary formal systems intrinsic complexity and procrastination;12471;463119A6;1997
+94;0;sanjay jain;arun sharma;on a generalized notion of mistake bounds;09E3EE34;463119A6;1999
+95;0;sanjay jain;arun sharma;on a generalized notion of mistake bounds;16687;463119A6;2001
+96;0;sanjay jain;john case,arun sharma;convergence to nearly minimal size grammars by vacillating learning machines;3252;463119A6;1989
+97;0;sanjay jain;carl h smith,rolf wiehagen;on the power of learning robustly;09E3EE34;463119A6;1998
+98;0;sanjay jain;frank stephan;mitotic classes;1380;463119A6;2007
+99;0;sanjay jain;john case,lorenzo carlucci;learning correction grammars;0527EA39;463119A6;2007
+100;0;sanjay jain;john case,lorenzo carlucci;learning correction grammars;09E3EE34;463119A6;2009
+101;0;sanjay jain;arun sharma,andris ambainis;ordinal mind change complexity of language identification;09E3EE34;463119A6;1997
+102;0;sanjay jain;arun sharma,andris ambainis;ordinal mind change complexity of language identification;09E3EE34;463119A6;1999
+103;0;sanjay jain;john case,mandayam suraj;control structures in hypothesis spaces the influence on learning;09E3EE34;463119A6;1997
+104;0;sanjay jain;john case,mandayam suraj;control structures in hypothesis spaces the influence on learning;4942;463119A6;2001
+105;0;sanjay jain;john case,mandayam suraj;control structures in hypothesis spaces the influence on learning;17256;463119A6;2002
+106;0;sanjay jain;rusins freivalds;kolmogorov numberings and minimal identification;09E3EE34;463119A6;1995
+107;0;sanjay jain;rusins freivalds;kolmogorov numberings and minimal identification;09E3EE34;463119A6;1997
+108;0;sanjay jain;arun sharma;the structure of intrinsic complexity of learning;09E3EE34;463119A6;1995
+109;0;sanjay jain;arun sharma;the structure of intrinsic complexity of learning;09E3EE34;463119A6;1997
+110;0;sanjay jain;arun sharma;mind change complexity of learning logic programs;09E3EE34;463119A6;1999
+111;0;sanjay jain;arun sharma;mind change complexity of learning logic programs;14700;463119A6;2002
+112;0;sanjay jain;arun sharma;mind change complexity of learning logic programs;09E3EE34;463119A6;2002
+113;0;sanjay jain;john case,arun sharma;complexity issues for vacillatory function identification;0527EA39;42F73407;1991
+114;0;sanjay jain;john case,arun sharma;complexity issues for vacillatory function identification;7879;42F73407;1995
+115;0;sanjay jain;lane a hemachandra;on the limitations of locally robust positive reductions;005237C4;42F73407;1989
+116;0;sanjay jain;lane a hemachandra;on the limitations of locally robust positive reductions;16209;42F73407;2011
+117;0;sanjay jain;;branch and bound on the network model;09E3EE34;42F73407;1995
+118;0;sanjay jain;;branch and bound on the network model;09E3EE34;42F73407;2001
+119;0;sanjay jain;efim kinber;learning languages from positive data and a finite number of queries;09E3EE34;42F73407;2004
+120;0;sanjay jain;efim kinber;learning languages from positive data and a finite number of queries;09E3EE34;42F73407;2006
+121;0;sanjay jain;john case,mandayam suraj;not so nearly minimal size program inference;13490;471D649B;1995
+122;0;sanjay jain;arun sharma;on identification by teams and probabilistic machines;09E3EE34;471D649B;1995
+123;0;sanjay jain;arun sharma;language learning by a team extended abstract ;005237C4;440ED19A;1990
+124;0;sanjay jain;john case,frank stephan,arun sharma,eric martin;identifying clusters from positive data;09E3EE34;4366C780;2004
+125;0;sanjay jain;john case,frank stephan,eric martin,arun sharma;identifying clusters from positive data;8111;4366C780;2006
+126;0;sanjay jain;john case,frank stephan,arun sharma,eric martin;identifying clusters from positive data;09E3EE34;4366C780;2004
+127;0;sanjay jain;john case,frank stephan,eric martin,arun sharma;identifying clusters from positive data;2893;4366C780;2006
+128;0;sanjay jain;thomas j leblanc;crowd control coordinating processes in parallel;14960;44E5A1B2;1987
+129;0;sanjay jain;john case,ganesh baliga,mandayam suraj;machine learning of higher order programs;0527EA39;448ECA1D;1992
+130;0;sanjay jain;john case,ganesh baliga,mandayam suraj;machine learning of higher order programs;09E3EE34;448ECA1D;1994
+131;0;sanjay jain;lane a hemachandra,nikolai k vereshchagin;banishing robust turing completeness;0527EA39;448ECA1D;1992
+132;0;sanjay jain;lane a hemaspaandra,nikolai k vereshchagin;banishing robust turing completeness;4588;040E50E5;2011
+133;4;sanjay jain;s y huang,yokehean low,chucheow lim,wen jing hsu,wentong cai,boonping gan;performance prediction tools for parallel discrete event simulation;19190;44A6E67D;1999
+134;4;sanjay jain;stephen john turner,s y huang,yoke hean low,wen jing hsu,boon ping gan,wentong cai;load balancing for conservative simulation on shared memory multiprocessor systems;8862;44A6E67D;2000
+135;1;sanjay jain;cheekong chui,raghu raghavan;topology independent models for parallel computation;7504;897236;1994
+136;0;sanjay jain;arun sharma;team learning of recursive languages;09E3EE34;45FD9DD4;1996
+137;0;sanjay jain;john case,ganesh baliga;language learning with some negative information;09E3EE34;4637EEEA;1993
+138;0;sanjay jain;john case,ganesh baliga;language learning with some negative information;4830;4637EEEA;1995
+139;0;sanjay jain;john case,kehjiann chen;costs of general purpose learning;09E3EE34;4637EEEA;1999
+140;0;sanjay jain;john case,kehjiann chen;costs of general purpose learning;09E3EE34;4637EEEA;2001
+141;0;sanjay jain;jochen nessel,frank stephan;invertible classes;13289;478CDBCA;2006
+142;0;sanjay jain;jochen nessel,frank stephan;invertible classes;18199;478CDBCA;2007
+143;0;sanjay jain;frank stephan;some recent results in u shaped learning;09E3EE34;478CDBCA;2006
+144;0;sanjay jain;arun sharma;hypothesis formation and language acquisition with an infinitely often correct teacher;005237C4;46F3B6B4;1990
+145;4;sanjay jain;peter lendermann,mani s manivannan,steve buckley,jerry banks;supply chain opportunities panel session opportunities for simulation in supply chain management;4FF45383;44815780;2002
+146;4;sanjay jain;stephen john turner,wenjing hsu,boon ping gan,wentong cai,li liu;manufacturing sypply chain management distributed supply chain simulation across enterprise boundaries;6671;44815780;2000
+147;4;sanjay jain;;supply chain management tradeoffs analysis;7786;44815780;2004
+148;4;sanjay jain;;simulation in the next millennium;19314;44815780;1999
+149;4;sanjay jain;k s barber,david osterfeld;expert simulation for on line scheduling;070A9F1F;44815780;1989
+150;4;sanjay jain;k s barber,david osterfeld;expert simulation for on line scheduling;070A9F1F;44815780;1990
+151;4;sanjay jain;stephen chan;experiences with backward simulation based approach for lot release planning;7357;44815780;1997
+152;4;sanjay jain;ngai fong choong,william lee;manufacturing supply chain applications modeling computer assembly operations for supply chain integration;3333E44B;44815780;2002
+153;4;sanjay jain;lisa m collins,eric c ervin,andrew p lathrop,russell w workman;analyzing the supply chain for a large logistics operation using simulation;4E1BB800;44815780;2001
+154;4;sanjay jain;swee leong;stress testing a supply chain using simulation;0B890E85;44815780;2005
+155;4;sanjay jain;boonping gan,chucheow lim,yokehean low;criticality of detailed modeling in semiconductor supply chain simulation;13328;44815780;1999
+156;4;sanjay jain;charles r mclean;simulation for emergency response a framework for modeling and simulation for emergency response;3333E44B;44815780;2003
+157;4;sanjay jain;charles r mclean;integrated simulation and gaming architecture for incident management training;0B890E85;44815780;2005
+158;4;sanjay jain;lisa m collins,eric c ervin,andrew p lathrop,russell w workman;supply chain applications ii development of a high level supply chain simulation model;4E1BB800;44815780;2001
+159;4;sanjay jain;boonping gan,chucheow lim,yokehean low;implementations of dispatch rules in parallel manufacturing simulation;12101;44815780;1998
+160;4;sanjay jain;charles r mclean;a concept prototype for integrated gaming and simulation for incident management;0B890E85;44815780;2006
+161;4;sanjay jain;deogratias kibira,andreas craens,frank riddick;distributed simulation for interoperability testing along the supply chain;0B890E85;44815780;2007
+162;4;sanjay jain;;tradeoffs in building a generic supply chain simulation capability;0B890E85;44815780;2008
+163;4;sanjay jain;y tina lee,charles r mclean,frank riddick;a simulation architecture for manufacturing interoperability testing;4EC16293;464DFFCB;2007
+164;4;sanjay jain;y tina lee,charles r mclean;towards standards for integrated gaming and simulation for incident management;0B890E85;464DFFCB;2007
+165;0;sanjay jain;;hypothesis spaces for learning;09E3EE34;469A7426;2009
+166;0;sanjay jain;;hypothesis spaces for learning;15006;469A7426;2011
+167;0;sanjay jain;arun sharma;generalization and specialization strategies for learning r e languages;09E3EE34;056055AD;1998
+168;0;sanjay jain;theodore a slaman,efim kinber,frank stephan,robert solovay,william gasarch,mark pleszkovich,stuart a kurtz,lance fortnow,martin kummer;extremes in the degrees of inferability;12076;0A47CDBD;1994
+169;0;sanjay jain;arun sharma;characterizing language identification in terms of computable numberings;09E3EE34;0A47CDBD;1997
+170;0;sanjay jain;john case,kehjiann chen,wolfgang merkle,james s royer;generality s price inescapable deficiencies in machine learned programs;09E3EE34;463119A6;2003
+171;0;sanjay jain;john case,kehjiann chen,wolfgang merkle,james s royer;generality s price inescapable deficiencies in machine learned programs;09E3EE34;463119A6;2006
+172;2;sanjay jain;sandeep krishna,shalini singh,areejit samal,nandula raghuram,varun giri;low degree metabolites explain essential reactions and enhance modularity in biological networks;4DFEDD28;012269E3;2006
+173;4;sanjay jain;k s barber,david osterfeld;expert simulation for on line scheduling;070A9F1F;44815780;1989
+174;4;sanjay jain;k s barber,david osterfeld;expert simulation for on line scheduling;070A9F1F;44815780;1990
+175;0;sanjay jain;john case,frank stephan,rudiger reischuk,thomas zeugmann;a polynomial time learner for a subclass of regular patterns;9677;00AABEE3;2004
+176;0;sanjay jain;john case,frank stephan,arun sharma,eric martin;identifying clusters from positive data;09E3EE34;4366C780;2004
+177;0;sanjay jain;john case,frank stephan,eric martin,arun sharma;identifying clusters from positive data;5422;4366C780;2006
+178;0;sanjay jain;john case,frank stephan,arun sharma,eric martin;identifying clusters from positive data;09E3EE34;4366C780;2004
+179;0;sanjay jain;john case,frank stephan,eric martin,arun sharma;identifying clusters from positive data;9331;4366C780;2006
+180;0;sanjay jain;;the intrinsic complexity of learning a survey;09E3EE34;02534959;2003
+181;0;sanjay jain;frank stephan,ye nan;prescribed learning of indexed families;09E3EE34;02534959;2008
+182;0;sanjay jain;john case,ganesh baliga;the synthesis of language learners;09E3EE34;03928357;1999
+183;0;sanjay jain;john case,steffen lange,thomas zeugmann;incremental concept learning for bounded data mining;09E3EE34;03928357;1999
+184;0;sanjay jain;john case,arun sharma;complexity issues for vacillatory function identification;0527EA39;42F73407;1991
+185;0;sanjay jain;john case,arun sharma;complexity issues for vacillatory function identification;7124;42F73407;1995
+186;0;sanjay jain;john case,arun sharma;machine induction without revolutionary changes in hypothesis size;09E3EE34;03928357;1996
+187;0;sanjay jain;mark fulk;approximate inference and scientific method;15623;471D649B;1990
+188;0;sanjay jain;mark fulk;approximate inference and scientific method;2386;471D649B;1994
+189;0;sanjay jain;;robust behaviorally correct learning;09E3EE34;03928357;1999
+190;0;sanjay jain;efim kinber;learning languages from positive data and a finite number of queries;09E3EE34;42F73407;2004
+191;0;sanjay jain;efim kinber;learning languages from positive data and a finite number of queries;09E3EE34;42F73407;2006
+192;0;sanjay jain;carl h smith,christophe papazian,rolf wiehagen,efim kinber;on the intrinsic complexity of learning recursive functions;09E3EE34;03928357;2003
+193;0;sanjay jain;rolf wiehagen,efim kinber;learning all subfunctions of a function;09E3EE34;463119A6;2003
+194;0;sanjay jain;rolf wiehagen,efim kinber;learning all subfunctions of a function;09E3EE34;463119A6;2004
+195;0;sanjay jain;frank stephan,wolfram menzel;classes with easily learnable subclasses;09E3EE34;471D649B;2002
+196;0;sanjay jain;frank stephan,wolfram menzel;classes with easily learnable subclasses;09E3EE34;471D649B;2004
+197;0;sanjay jain;frank stephan;learning by switching type of information;09E3EE34;471D649B;2001
+198;0;sanjay jain;frank stephan;learning by switching type of information;09E3EE34;471D649B;2003
+199;0;sanjay jain;arun sharma;learning in the presence of partial explanations;14940;03928357;1991
+200;0;sanjay jain;arun sharma;learning with the knowledge of an upper bound on program size;909;03928357;1993
+201;0;sanjay jain;arun sharma;computational limits on team identification of languages;11002;03928357;1996
+202;0;sanjay jain;frank stephan,sebastiaan a terwijn;counting extensional differences in bc learning;09E3EE34;03928357;2004
+203;0;sanjay jain;frank stephan,lorenzo carlucci,efim kinber;variations on u shaped learning;09E3EE34;463119A6;2005
+204;0;sanjay jain;frank stephan,lorenzo carlucci,efim kinber;variations on u shaped learning;1096;463119A6;2005
+205;0;sanjay jain;frank stephan,lorenzo carlucci,efim kinber;variations on u shaped learning;15268;463119A6;2005
+206;0;sanjay jain;frank stephan,lorenzo carlucci,efim kinber;variations on u shaped learning;09E3EE34;463119A6;2006
+207;0;sanjay jain;frank stephan;learning in friedberg numberings;09E3EE34;471D649B;2007
+208;0;sanjay jain;frank stephan;learning in friedberg numberings;09E3EE34;471D649B;2008
+209;0;sanjay jain;john case,frank stephan,lorenzo carlucci;results on memory limited u shaped learning;09E3EE34;03928357;2007
+210;0;sanjay jain;sandra zilles,steffen lange;some natural conditions on incremental learning;09E3EE34;03928357;2007
+211;0;sanjay jain;efim kinber;iterative learning from positive data and negative counterexamples;09E3EE34;471D649B;2006
+212;0;sanjay jain;efim kinber;iterative learning from positive data and negative counterexamples;09E3EE34;471D649B;2007
+213;0;sanjay jain;john case,arun sharma;on learning limiting programs;0527EA39;463119A6;1992
+214;0;sanjay jain;john case,arun sharma;on learning limiting programs;3876;463119A6;2011
+215;0;sanjay jain;lane a hemachandra;on the limitations of locally robust positive reductions;005237C4;42F73407;1989
+216;0;sanjay jain;lane a hemachandra;on the limitations of locally robust positive reductions;15148;42F73407;2011
+217;0;sanjay jain;lane a hemachandra,nikolai k vereshchagin;banishing robust turing completeness;0527EA39;448ECA1D;1992
+218;0;sanjay jain;lane a hemaspaandra,nikolai k vereshchagin;banishing robust turing completeness;962;040E50E5;2011
+219;0;sanjay jain;;an infinite class of functions identifiable using minimal programs in all kolmogorov numberings;09E3EE34;040E50E5;1995
+220;0;sanjay jain;;minimal concept identification and reliability;09E3EE34;040E50E5;2011
+221;0;sanjay jain;;on a question about learning nearly minimal programs;09E3EE34;08D19590;1995
+222;0;sanjay jain;;on a question of nearly minimal identification of functions;09E3EE34;08D19590;1999
+223;0;sanjay jain;arun sharma;on the non existence of maximal inference degrees for language identification;8082;08D19590;1993
+224;0;sanjay jain;;on some open problems in reflective inductive inference;09E3EE34;08D19590;2009
+225;4;sanjay jain;lingrui liao,balaji nagarajan,subhash c sarin;analytic evaluation of the expectation and variance of different performance measures of a schedule on a single machine under processing time variability;3333E44B;066ED013;2007
+226;0;sanjay jain;john case,ganesh baliga;language learning with some negative information;09E3EE34;4637EEEA;1993
+227;0;sanjay jain;john case,ganesh baliga;language learning with some negative information;17460;4637EEEA;1995
+228;0;sanjay jain;john case;synthesizing learners tolerating computable noisy data;09E3EE34;471D649B;1998
+229;0;sanjay jain;john case;synthesizing learners tolerating computable noisy data;9171;471D649B;2001
+230;0;sanjay jain;john case,andrea sorbi,franco montagna,giulia simi;on learning to coordinate random bits help insightful normal forms and competency isomorphisms;5826;463119A6;2003
+231;0;sanjay jain;john case,andrea sorbi,franco montagna,giulia simi;on learning to coordinate random bits help insightful normal forms and competency isomorphisms;09E3EE34;463119A6;2005
+232;0;sanjay jain;john case,frank stephan,matthias ott,arun sharma;robust learning aided by context;09E3EE34;463119A6;1998
+233;0;sanjay jain;john case,frank stephan,matthias ott,arun sharma;robust learning aided by context;125;463119A6;2000
+234;0;sanjay jain;john case,arun sharma;vacillatory learning of nearly minimal size grammars;13111;0867CDAD;1994
+235;0;sanjay jain;john case,frank stephan,rolf wiehagen;robust learning rich and poor;09E3EE34;463119A6;2001
+236;0;sanjay jain;john case,frank stephan,rolf wiehagen;robust learning rich and poor;09E3EE34;463119A6;2004
+237;0;sanjay jain;daniel n osherson,mark fulk;open problems in systems that learn;19716;448ECA1D;1994
+238;0;sanjay jain;daniel n osherson,mark a fulk;open problems in systems that learn;18675;0867CDAD;1994
+239;0;sanjay jain;;program synthesis in the presence of infinite number of inaccuracies;09E3EE34;471D649B;1994
+240;0;sanjay jain;;program synthesis in the presence of infinite number of inaccuracies;09E3EE34;471D649B;1996
+241;0;sanjay jain;;learning with refutation;09E3EE34;471D649B;1998
+242;0;sanjay jain;;learning with refutation;918;471D649B;1998
+243;0;sanjay jain;efim kinber;intrinsic complexity of learning geometrical concepts from positive data;09E3EE34;463119A6;2001
+244;0;sanjay jain;efim kinber;intrinsic complexity of learning geometrical concepts from positive data;09E3EE34;463119A6;2003
+245;0;sanjay jain;rolf wiehagen,efim kinber;language learning from texts degrees of intrinsic complexity and their characterizations;1986;0867CDAD;2001
+246;0;sanjay jain;arun sharma;characterizing language identification by standardizing operations;11365;0867CDAD;1994
+247;0;sanjay jain;arun sharma;the intrinsic complexity of language identification;9629;0867CDAD;1996
+248;0;sanjay jain;carl h smith,rolf wiehagen;robust learning is rich;17238;0867CDAD;2001
+249;0;sanjay jain;tiong seng tay,yen kaow ng;learning languages in a union;09E3EE34;471D649B;2001
+250;0;sanjay jain;tiong seng tay,yen kaow ng;learning languages in a union;09E3EE34;471D649B;2007
+251;0;sanjay jain;john case,frank stephan,lorenzo carlucci;non u shaped vacillatory and team learning;09E3EE34;471D649B;2005
+252;0;sanjay jain;john case,frank stephan,lorenzo carlucci;non u shaped vacillatory and team learning;09E3EE34;471D649B;2008
+253;0;sanjay jain;efim kinber;learning languages from positive data and negative counterexamples;09E3EE34;471D649B;2004
+254;0;sanjay jain;efim kinber;learning languages from positive data and negative counterexamples;09E3EE34;471D649B;2008
+255;0;sanjay jain;john case,kehjiann chen;strong separation of learning classes;0527EA39;463119A6;1992
+256;0;sanjay jain;john case,kehjiann chen;strong separation of learning classes;050BB43F;463119A6;1992
+257;0;sanjay jain;;on an open problem in classification of languages;09E3EE34;0925B906;2010
+258;0;sanjay jain;;strong monotonic and set driven inductive inference;09E3EE34;0925B906;2010
+259;0;sanjay jain;john case,ganesh baliga,mandayam suraj;machine learning of higher order programs;0527EA39;448ECA1D;1992
+260;0;sanjay jain;john case,ganesh baliga,mandayam suraj;machine learning of higher order programs;09E3EE34;448ECA1D;1994
+261;0;sanjay jain;jochen nessel;some independence results for control structures in complete numberings;09E3EE34;0A971BE4;2001
+262;0;sanjay jain;arun sharma;the structure of intrinsic complexity of learning;09E3EE34;463119A6;1995
+263;0;sanjay jain;arun sharma;the structure of intrinsic complexity of learning;09E3EE34;463119A6;1997
+264;0;sanjay jain;arun sharma;team learning of computable languages;09E3EE34;07BFDEA5;2000
+265;0;sanjay jain;arun sharma;prudence in vacillatory language identification;09E3EE34;07BFDEA5;1995
+266;0;sanjay jain;ganesh baliga,arun sharma;learning from multiple sources of inaccurate data;0527EA39;463119A6;1992
+267;0;sanjay jain;ganesh baliga,arun sharma;learning from multiple sources of inaccurate data;09E3EE34;463119A6;1997
+268;0;sanjay jain;john case,frank stephan,arun sharma,eric martin;identifying clusters from positive data;09E3EE34;4366C780;2004
+269;0;sanjay jain;john case,frank stephan,eric martin,arun sharma;identifying clusters from positive data;11543;4366C780;2006
+270;0;sanjay jain;john case,frank stephan,arun sharma,eric martin;identifying clusters from positive data;09E3EE34;4366C780;2004
+271;0;sanjay jain;john case,frank stephan,eric martin,arun sharma;identifying clusters from positive data;4486;4366C780;2006
+272;0;sanjay jain;frank stephan;mitotic classes in inductive inference;09E3EE34;092725CB;2008
+273;0;sanjay jain;arun sharma,andris ambainis;ordinal mind change complexity of language identification;09E3EE34;463119A6;1997
+274;0;sanjay jain;arun sharma,andris ambainis;ordinal mind change complexity of language identification;09E3EE34;463119A6;1999
+275;0;sanjay jain;hiroki arimura;preface;8178;05686292;2005
+276;0;sanjay jain;john case,kehjiann chen;costs of general purpose learning;09E3EE34;4637EEEA;1999
+277;0;sanjay jain;john case,kehjiann chen;costs of general purpose learning;09E3EE34;4637EEEA;2001
+278;0;sanjay jain;john case,frank stephan,susanne kaufmann,arun sharma;predictive learning models for concept drift;09E3EE34;471D649B;1998
+279;0;sanjay jain;john case,frank stephan,susanne kaufmann,arun sharma;predictive learning models for concept drift;09E3EE34;471D649B;2001
+280;0;sanjay jain;john case,frank stephan;vacillatory and bc learning on noisy data;09E3EE34;471D649B;1996
+281;0;sanjay jain;john case,frank stephan;vacillatory and bc learning on noisy data;09E3EE34;471D649B;2000
+282;0;sanjay jain;john case,arun sharma;synthesizing noise tolerant language learners;09E3EE34;471D649B;1997
+283;0;sanjay jain;john case,arun sharma;synthesizing noise tolerant language learners;09E3EE34;471D649B;2001
+284;0;sanjay jain;john case,mandayam suraj;control structures in hypothesis spaces the influence on learning;09E3EE34;463119A6;1997
+285;0;sanjay jain;john case,mandayam suraj;control structures in hypothesis spaces the influence on learning;18429;463119A6;2001
+286;0;sanjay jain;john case,mandayam suraj;control structures in hypothesis spaces the influence on learning;19961;463119A6;2002
+287;0;sanjay jain;john case,arun sharma;anomalous learning helps succinctness;09E3EE34;05686292;1996
+288;0;sanjay jain;rusins freivalds;kolmogorov numberings and minimal identification;09E3EE34;463119A6;1995
+289;0;sanjay jain;rusins freivalds;kolmogorov numberings and minimal identification;09E3EE34;463119A6;1997
+290;0;sanjay jain;mark a fulk;learning in the presence of inaccurate information;6775;463119A6;1989
+291;0;sanjay jain;mark fulk;learning in the presence of inaccurate information;09E3EE34;463119A6;1996
+292;0;sanjay jain;;branch and bound on the network model;09E3EE34;42F73407;1995
+293;0;sanjay jain;;branch and bound on the network model;09E3EE34;42F73407;2001
+294;0;sanjay jain;steffen lange,rolf wiehagen,thomas zeugmann,efim kinber;learning languages and functions by erasing;09E3EE34;471D649B;2000
+295;0;sanjay jain;thomas zeugmann,rolf wiehagen,efim kinber;on learning of functions refutably;09E3EE34;05686292;2003
+296;0;sanjay jain;jochen nessel,s lange;on the learnability of recursively enumerable languages from good examples;14354;05686292;1997
+297;0;sanjay jain;jochen nessel,steffen lange;on the learnability of recursively enumerable languages from good examples;09E3EE34;05686292;2001
+298;0;sanjay jain;arun sharma;mind change complexity of learning logic programs;09E3EE34;463119A6;1999
+299;0;sanjay jain;arun sharma;mind change complexity of learning logic programs;7682;463119A6;2002
+300;0;sanjay jain;arun sharma;mind change complexity of learning logic programs;09E3EE34;463119A6;2002
+301;0;sanjay jain;frank stephan;learning how to separate;09E3EE34;471D649B;2001
+302;0;sanjay jain;frank stephan;learning how to separate;09E3EE34;471D649B;2004
+303;0;sanjay jain;arun sharma;program size restrictions in computational learning;7668;05686292;1994
+304;0;sanjay jain;arun sharma;on aggregating teams of learning machines;09E3EE34;471D649B;1993
+305;0;sanjay jain;arun sharma;on aggregating teams of learning machines;09E3EE34;471D649B;1995
+306;0;sanjay jain;john case,frank stephan,rudiger reischuk,thomas zeugmann;learning a subclass of regular patterns in polynomial time;09E3EE34;471D649B;2003
+307;0;sanjay jain;john case,rudiger reischuk,frank stephan,thomas zeugmann;learning a subclass of regular patterns in polynomial time;09E3EE34;471D649B;2006
+308;0;sanjay jain;jochen nessel,frank stephan;invertible classes;19814;478CDBCA;2006
+309;0;sanjay jain;jochen nessel,frank stephan;invertible classes;4808;478CDBCA;2007
+310;0;sanjay jain;efim kinber;learning multiple languages in groups;09E3EE34;471D649B;2005
+311;0;sanjay jain;efim kinber;learning multiple languages in groups;09E3EE34;471D649B;2007
+312;0;sanjay jain;sandra zilles,steffen lange;a general comparison of language learning from examples and from queries;09E3EE34;05686292;2007
+313;0;sanjay jain;efim kinber;learning languages from positive data and a limited number of short counterexamples;09E3EE34;05686292;2007
+314;0;sanjay jain;efim kinber;learning and extending sublanguages;09E3EE34;471D649B;2006
+315;0;sanjay jain;efim kinber;learning and extending sublanguages;09E3EE34;471D649B;2008
+316;0;sanjay jain;frank stephan,eric martin;absolute versus probabilistic classification in a logical setting;09E3EE34;471D649B;2005
+317;0;sanjay jain;frank stephan,eric martin;absolute versus probabilistic classification in a logical setting;09E3EE34;471D649B;2008
+318;0;sanjay jain;nan ye,frank stephan;prescribed learning of r e classes;09E3EE34;471D649B;2007
+319;0;sanjay jain;nan ye,frank stephan;prescribed learning of r e classes;09E3EE34;471D649B;2009
+320;0;sanjay jain;efim kinber;one shot learners using negative counterexamples and nearest positive examples;09E3EE34;471D649B;2007
+321;0;sanjay jain;efim kinber;one shot learners using negative counterexamples and nearest positive examples;09E3EE34;471D649B;2009
+322;0;sanjay jain;frank stephan,qinglong luo,pavel semukhin;uncountable automatic classes and learning;09E3EE34;471D649B;2009
+323;0;sanjay jain;frank stephan,qinglong luo,pavel semukhin;uncountable automatic classes and learning;3061;471D649B;2011
+324;0;sanjay jain;efim kinber;iterative learning from texts and counterexamples using additional information;09E3EE34;471D649B;2009
+325;0;sanjay jain;efim kinber;iterative learning from texts and counterexamples using additional information;09E3EE34;471D649B;2011
+326;0;sanjay jain;nan ye,frank stephan;learning from streams;09E3EE34;471D649B;2009
+327;0;sanjay jain;jason teutsch,frank stephan;index sets and universal numberings;09E3EE34;436B17F2;2009
+328;0;sanjay jain;jason teutsch,frank stephan;index sets and universal numberings;09E3EE34;436B17F2;2011
+329;0;sanjay jain;;on some open problems in monotonic and conservative learning;09E3EE34;08D19590;2009
+330;4;sanjay jain;charles r mclean;components of an incident management simulation and gaming framework and related developments;0C01DCFD;01F107E4;2008
+331;0;sanjay jain;frank stephan,eric martin;input dependence in function learning;09E3EE34;436B17F2;2007
+332;0;sanjay jain;frank stephan,eric martin;input dependence in function learning;09E3EE34;436B17F2;2009
+333;3;sanjay jain;wilfred amaldoss;joint bidding in the name your own price channel a strategic analysis;056D3FC6;01FC784F;2008
+334;0;sanjay jain;arun sharma;elementary formal systems intrinsic complexity and procrastination;09E3EE34;463119A6;1996
+335;0;sanjay jain;arun sharma;elementary formal systems intrinsic complexity and procrastination;1716;463119A6;1997
+336;2;sanjay jain;govindan rangarajan,vivek s borkar;evolutionary games with two timescales;0388650E;0178B751;1999
+337;3;sanjay jain;wilfred amaldoss;david vs goliath an analysis of asymmetric mixed strategy games and experimental evidence;03FD8454;01FC784F;2002
+338;3;sanjay jain;p k kannan;pricing of information products on online servers issues models and analysis;081C015C;01FC784F;2002
+339;0;sanjay jain;nan ye,frank stephan;prescribed learning of r e classes;09E3EE34;471D649B;2007
+340;0;sanjay jain;nan ye,frank stephan;prescribed learning of r e classes;09E3EE34;471D649B;2009
+341;4;sanjay jain;william j foley,jorge haddock;using simulation generators for modeling flexible manufacturing systems;2368;1396614;1994

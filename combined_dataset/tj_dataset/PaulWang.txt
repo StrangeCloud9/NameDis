@@ -1,0 +1,15 @@
+0;0;paul wang;norbert kajler,simon gray;mp a protocol for efficient exchange of mathematical expressions;0B78A057;46FD5AEB;1994
+1;0;paul wang;vilmar trevisan;practical factorization of univariate polynomials over finite fields;08EF72DE;46FD5AEB;1991
+2;1;paul wang;anthony d joseph,wilson hsieh,william e weihl,adrian colbrook,eric brewer,chrysanthos dellarocas,carl a waldspurger;prelude a system for portable parallel software;03D00B37;43DFAE0A;1992
+3;1;paul wang;anthony d joseph,wilson hsieh,william e weihl,adrian colbrook,eric brewer,chrysanthos dellarocas,carl a waldspurger;prelude a system for portable parallel software;7568;43DFAE0A;1992
+4;1;paul wang;wilson c hsieh,william e weihl;computation migration enhancing locality for distributed memory parallel systems;11939;44616FF1;1993
+5;1;paul wang;wilson c hsieh,william e weihl,eric brewer,adrian colbrook;pipes linguistic support for ordered asynchronous invocations;15787;44616FF1;1993
+6;1;paul wang;william e weihl;multi version memory software cache management for concurrent b trees;03D00B37;4708B833;1990
+7;1;paul wang;william e weihl;scalable concurrent b trees using multi version memory;15605;095DDDE1;1996
+8;3;paul wang;tansu alpcan,tamer basar,prashant g mehta;a non equilibrium analysis and control framework for active queue management;0966B229;030FB4D6;2008
+9;0;paul wang;saleh alshomrani;dmas a web based distributed mathematics assessment system abstract only ;08EF72DE;0A80604E;2008
+10;4;paul wang;shani ross,ahmed jendoubi,jianchao zeng,ben lo,otega ejofodomi,mohamed f chouikha;a mammography database and view system for the african american patients;9503;473A73C9;2004
+11;1;paul wang;wilson c hsieh,william e weihl,eric brewer,adrian colbrook;pipes linguistic support for ordered asynchronous invocations;18445;44616FF1;1993
+12;5;paul wang;;understanding online archiving;2950;347768;2000
+13;3;paul wang;tansu alpcan,tamer basar,prashant g mehta;a non equilibrium analysis and control framework for active queue management;0966B229;030FB4D6;2008
+14;6;paul wang;bob churchill,david pulling,bill kronlage,m h darley,dvaid bural,r iwamoto,l yang;the tms390c602a floating point coprocessor for sparc systems;0474BFAF;4499A295;1990

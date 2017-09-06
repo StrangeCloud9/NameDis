@@ -1,0 +1,41 @@
+0;0;rafael alonso;hua li,glena greene;profile based security against malicious mobile agents;11254;469407EC;2006
+1;0;rafael alonso;hua li,jeffrey a bloom;lessons from the implementation of an adaptive parts acquisition eportal;4E13CA1C;472C6E2D;2003
+2;0;rafael alonso;hua li;model guided information discovery for intelligence analysis;4E13CA1C;472C6E2D;2005
+3;0;rafael alonso;daniel barbara,soraya abad,hector garciamolina;quasi copies efficient data sharing for information retrieval systems;01328BF3;43820346;1988
+4;0;rafael alonso;sumit ganguly;query optimization for energy efficiency in mobile environments;16479;45610CDA;1993
+5;0;rafael alonso;kenneth salem,hector garciamolina;altruistic locking a strategy for coping with long lived transactions;01328BF3;439550F3;1987
+6;0;rafael alonso;luis l cova;sharing jobs among independently owned processors;01328BF3;4789F291;1988
+7;0;rafael alonso;matt blaze;dynamic hierarchical caching for large scale distributed file systems;1754;4789F291;1992
+8;0;rafael alonso;daniel barbara;negotiating data access in federated database systems;01328BF3;45610CDA;1989
+9;0;rafael alonso;steve cohn,daniel barbara;data sharing in a large heterogeneous environment;01328BF3;45610CDA;1991
+10;0;rafael alonso;swarup acharya;the computational requirements of mobile machines;5443;4673EE2C;1995
+11;0;rafael alonso;wenjun zeng,ibrahim kamel,yuhlin chang;integrated image and speech analysis for content based video indexing;4C7B64CA;47C35ECC;1996
+12;0;rafael alonso;hua li,jeffrey a bloom,chumki basu;an adaptive nearest neighbor search for a parts acquisition eportal;4E13CA1C;436976F3;2003
+13;0;rafael alonso;eben m haber,henry f korth;a mobile computer interface for heterogeneous databases;01328BF3;456A8673;1993
+14;0;rafael alonso;patricia simpson;data caching in information retrieval systems;11143;43FD776C;1987
+15;0;rafael alonso;andrew w appel;an advisor for flexible working sets;01328BF3;4372AEEF;1990
+16;0;rafael alonso;henry f korth;database system issues in nomadic computing;01328BF3;460A7036;1993
+17;0;rafael alonso;michael j franklin,stanley b zdonik,swarup acharya;broadcast disks data management for asymmetric communications environments;7338;460A7036;1995
+18;0;rafael alonso;luis l cova;resource sharing in a distributed environment;01328BF3;43F41A29;1988
+19;0;rafael alonso;daniel barbara,luis l cova;stashing as a fault tolerant mechanism for distributed systems;01328BF3;43F41A29;1990
+20;0;rafael alonso;daniel barbara,luis l cova;using stashing to increase node autonomy in distributed file systems;01328BF3;43B0793E;1990
+21;0;rafael alonso;kriton kyrimis;a process migration implementation for a unix system;16330;4402B9E5;1988
+22;0;rafael alonso;matt blaze;long term caching strategies for very large distributed file systems;16508;405690;1991
+23;0;rafael alonso;luis l cova;managing replicated copies in very large distributed systems;01328BF3;43F41A29;1990
+24;0;rafael alonso;sven a brueckner,paul nielsen,h van dyke parunak;hybrid multi agent systems integrating swarming and bdi agents;10063;45A88363;2006
+25;0;rafael alonso;jack kent,frank m pittelli,ricardo cordon,daniel barbara,hector garciamolina;distributed computing research at princeton;18923;03B217F8;1985
+26;0;rafael alonso;kenneth salem,hector garciamolina;concurrency control and recovery for global procedures in federated database systems;5940;03B217F8;1987
+27;0;rafael alonso;ayellet tal;integration of commit protocols in hetergeneous databases;465;02243519;1994
+28;0;rafael alonso;abdelsalam helal,ahmed k elmagarmid,jin jing;bit sequences an adaptive cache invalidation method in mobile client server environments;01328BF3;0B7F57E3;1997
+29;1;rafael alonso;;trade press news;8638;02D4EDCF;1994
+30;1;rafael alonso;;trade press news;1265;02D4EDCF;1994
+31;1;rafael alonso;;trade press news announcement and preface;1563;02D4EDCF;1994
+32;1;rafael alonso;;trade press news;15934;02D4EDCF;1994
+33;1;rafael alonso;;trade press news;3431;02D4EDCF;1994
+34;0;rafael alonso;yuhlin chang,liviu iftode,v s mani;managing video data in a mobile environment;01328BF3;02D4EDCF;1995
+35;0;rafael alonso;daniel barbara,hector garciamolina;data caching issues in an information retrieval system;01328BF3;055F1F1C;1990
+36;0;rafael alonso;diane bramsen,hua li,chad hogg,hector munozavila;spatial event prediction by combining value function approximation and case based reasoning;16363;45A86DF6;2009
+37;0;rafael alonso;michael j franklin,stanley b zdonik,swarup acharya;broadcast disks data management for asymmetric communication environments;03FD8454;460A7036;1995
+38;0;rafael alonso;michael j franklin,swarup acharya,stanley b zdonik;broadcast disks data management for asymmetric communication environments;12793;02D4EDCF;1994
+39;0;rafael alonso;michael j franklin,stanley b zdonik,swarup acharya;broadcast disks data management for asymmetric communication environments;03FD8454;460A7036;1995
+40;0;rafael alonso;michael j franklin,swarup acharya,stanley b zdonik;broadcast disks data management for asymmetric communication environments;15855;02D4EDCF;1994

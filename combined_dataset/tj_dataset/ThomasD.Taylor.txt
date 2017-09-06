@@ -1,0 +1,4 @@
+0;0;thomas d taylor;joseph j molitoris;advanced simulation battle managers and visualization;9958;44815780;1995
+1;1;thomas d taylor;c trevathan,r hartenstein,a merwarth,w n stewart;development and application of nasa s first standard spacecraft computer;4DDC0B9D;062B05D6;1984
+2;2;thomas d taylor;richard s hirsh,hwar c ku;pseudospectral methods for solution of the incompressible navier stokes equations;7464;0BAD6C2B;1987
+3;2;thomas d taylor;richard s hirsh,hwar c ku;a pseudospectral method for solution of the three dimensional incompressible navier stokes equations;08A948CC;08DD21F7;1986

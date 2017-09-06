@@ -1,0 +1,323 @@
+0;0;lei wang;xizhao luo,l jin,yanqin zhu;trust mechanism in distributed access control model of p2p networks;003BDEE2;46F6F355;2008
+1;2;lei wang;kui dai,zhiying wang;an approximate method for performance evaluation of asynchronous pipeline rings;0A254897;42C62517;2006
+2;3;lei wang;lin he,ying wang,daniel p oconnor,guoyin feng;a pharmacogenomic study on the polymorphic gene response to risperidone in schizophrenia patients;099D876D;4665AEAE;2008
+3;2;lei wang;kui dai,hongyi lu,zhiying wang;tengyue 1tengyue in chinese means jump over a high performance embedded soc;3357;47405592;2004
+4;2;lei wang;kui dai,zhiying wang;cycle period analysis and optimization of timed circuits;0A254897;47405592;2006
+5;5;lei wang;;feature subset selection for multi class svm based image classification;070DD774;4603A79F;2007
+6;5;lei wang;yuhang zhang,hongdong li,richard hartley;where s the weet bix ;070DD774;4603A79F;2007
+7;7;lei wang;qiaoming zhu,peifeng li;recognizing chinese proper nouns with transformation based learning and ontology;003BDEE2;45A88363;2007
+8;2;lei wang;kui dai,zhiying wang,gang jin;an optimal design method for de synchronous circuit based on control graph;0A254897;476951FF;2007
+9;9;lei wang;yan wang,xiyang liu,wen du,miao zhang,zhiwen bai;function call flow based fitness function design in evolutionary testing;08EAA2CB;43A1990D;2007
+10;10;lei wang;dongqing yang,lvan tang,jianjun wang,meimei li,baojun qiu,shiwei tang,hongyan li,bin zhou;wise a prototype for ontology driven development of web information systems;0134B592;43F44683;2006
+11;11;lei wang;padmanabhan krishnan;a framework for checking behavioral compatibility for component selection;0728F66E;447B80D7;2006
+12;13;lei wang;sandeep k gupta,melvin a breuer;modeling and simulation for crosstalk aggravated by weak bridge defects between on chip interconnects;0011EAC4;459EF883;2004
+13;14;lei wang;yingjie wu,xiaodong wang;an efficient algorithm for the longest pattern subsequence problem;07CA5884;47784D0E;2008
+14;15;lei wang;santosh pande,waibhav tembe;a framework for loop distribution on limited on chip memory processors;03C3607B;45465CC4;2000
+15;16;lei wang;bibo tu,jianfeng zhan,yang li,yi jin,dan meng,yan hao,ninghui sun,gengpu liu,xuehai hong;phoenixg a unified management framework for industrial information grid;012E6F4E;4651456C;2006
+16;20;lei wang;xiaoming li,lianen huang;achieving both high precision and high recall in near duplicate detection;0134B592;472C6E2D;2008
+17;18;lei wang;jiaguang sun,beiji zou;facial features location by analytic boosted cascade detector;00FD6FCE;45E5BC3F;2005
+18;16;lei wang;bibo tu,wei zhou,yu wen,jianfeng zhan,yuansheng chen,zhihong zhang,ninghui sun,dan meng;a layered design methodology of cluster system stack;012E6F4E;43A193B2;2007
+19;21;lei wang;mario szegedy,xiaomin chen;optimally balanced forward degree sequence;06194FDE;43C40A80;2005
+20;25;lei wang;zhaohui wu,mingde zhao;worst case response time analysis for osek vdx compliant real time distributed control systems;0489A984;44233F91;2004
+21;23;lei wang;fuqing yang,ying pan,bing xie,lu zhang;an extended approach to improving the semantic interoperation among reuse repositories;17497;44233F91;2005
+22;25;lei wang;kougen zheng,zhaohui wu;a reliable os kernel for smart sensors;0489A984;44233F91;2004
+23;27;lei wang;huangju chen,jyhming huang;efficient and secure authentication protocols for mobile voip communications;2894;469DDC30;2006
+24;30;lei wang;noboru kunihiro,kazuo ohta,yu sasaki;security of md5 challenge and response extension of apop password recovery attack;0139433B;436E482B;2008
+25;5;lei wang;eam khwang teoh,hui kong,jiangang wang,ronda venkateswarlu;a framework of 2d fisher discriminant analysis application to face recognition with small number of training samples;0A4ACFBD;45083D2F;2005
+26;5;lei wang;zhihua zhang,kap luk chan;bootstrapping svm active learning by incorporating unlabelled images for image retrieval;0A4ACFBD;45083D2F;2003
+27;5;lei wang;;toward a discriminative codebook codeword selection across multi resolution;070DD774;45083D2F;2007
+28;33;lei wang;beat hirsbrunner;pn based security design for data storage;093304A4;1637093;2004
+29;5;lei wang;hongdong li,richard hartley;auto calibration of a compound type omnidirectional camera;4331;46BD07AF;2005
+30;5;lei wang;chunhua shen,hongdong li,richard hartley,yifan lu;multi view human motion capture with an improved deformation skin model;070DD774;46BD07AF;2008
+31;5;lei wang;junae kim,chunhua shen;learning cascaded reduced set svms using linear programming;070DD774;46BD07AF;2008
+32;5;lei wang;luping zhou,chunhua shen;a fast algorithm for creating a compact and discriminative visual codebook;070DD774;43001016;2008
+33;37;lei wang;fengying xie,zhiguo jiang;skew detection algorithm for form document based on elongate feature;7191;44376BCB;2007
+34;35;lei wang;nicholas j dingle,william j knottenbelt;natural language specification of performance trees;02D4EDF8;1983397;2008
+35;30;lei wang;noboru kunihiro,kazuo ohta;new key recovery attacks on hmac nmac md4 and nmac md5;0139433B;44C16141;2008
+36;30;lei wang;noboru kunihiro,kazuo ohta,yu sasaki;new message difference for md4;0139433B;477F6C83;2007
+37;40;lei wang;anhui wang,shijun wang,minghan hu;feature extraction based on the independent component analysis for text classification;00C50601;4665AEAE;2008
+38;38;lei wang;huizhen jia,zhiying lu,hongmin ma,qimeng zhang;hailstone detection based on image mining;09B52E07;4665AEAE;2008
+39;39;lei wang;;mu maqas a p2p based model updatable mobile automatic q a system;09F4A24A;4665AEAE;2008
+40;42;lei wang;xinyu liu,takashi nanya,wen gao;a reconfigurable high availability infrastructure in cluster for grid;012E6F4E;4554E150;2003
+41;43;lei wang;kun huang,dafang zhang,yongwei liu;a dynamic quota based peer selection strategy in bittorrent;7325;4554E150;2007
+42;9;lei wang;xiyang liu,x zhu,miao zhang,hehui liu,zhiwen bai;fitness calculation approach for nested if else construct in evolutionary testing;08EAA2CB;43F3068F;2007
+43;41;lei wang;andrea pacelli,bhaskar mukherjee;a practical approach to modeling skin effect in on chip interconnects;038CB6F6;434A76CE;2004
+44;45;lei wang;michele courant;a novel neural network based on immunity;093304A4;295363;2002
+45;25;lei wang;peiyu li,zhaohui wu,shangjian chen;a service oriented implementation of distributed status monitoring and fault diagnosis systems;0489A984;43D2A5F0;2005
+46;44;lei wang;shuo wang;exploiting soft redundancy for error resilient on chip memory design;085ADB71;433DEF3A;2006
+47;44;lei wang;;error tolerance memory microarchitecture via dynamic multithreading;085ADB71;46BFF4BF;2005
+48;44;lei wang;shuo wang;joint performance improvement and error tolerance for memory design based on soft indexing;085ADB71;46BFF4BF;2006
+49;44;lei wang;fan zhang,zhijie jerry shi,jianwei dai,shuo wang;making register file resistant to power analysis attacks;085ADB71;46BFF4BF;2008
+50;47;lei wang;shaoli liu,xinhua jiang,zhiping chen;dna based algorithm for 0 1 planning problem;04FE8EDC;0655F58A;2005
+51;5;lei wang;yan gao,ping xue,kap luk chan,weiyun yau;retrieval with knowledge driven kernel design an approach to improving svm based cbir with relevance feedback;0A4ACFBD;45701BF3;2005
+52;11;lei wang;padmanabhan krishnan;supporting partial component matching;02191A3B;438FC436;2004
+53;49;lei wang;licheng jiao;an immune neural network used for classification;08EAA2CB;468A7487;2001
+54;11;lei wang;padmanabhan krishnan;an approach to provisioning e commerce applications with commercial components;0728F66E;449C9FDE;2006
+55;11;lei wang;padmanabhan krishnan;an approach to provisioning e commerce applications with commercial components;7053;449C9FDE;2006
+56;47;lei wang;x h jiang,z p chen;ringed petersen spheres connected hypercube interconnection networks;04FE8EDC;4673EE2C;2005
+57;25;lei wang;zhaohui wu,minde zhao,guoqing yang;an osek com compliant communication model for smart vehicle environment;0489A984;4385AB9B;2005
+58;25;lei wang;minde zhao,zhaohui wu,wei chen,guoqing yang;smartosek a real time operating system for automotive electronics;0489A984;4385AB9B;2004
+59;25;lei wang;zhaohui wu,minde zhao,wei chen,guoqing yang;smartosek a real time operating system for automotive electronics;6618;4385AB9B;2005
+60;52;lei wang;xinbo gao,hongbing ji;image segmentation by a robust clustering algorithm using gaussian estimator;08EAA2CB;4678AD74;2004
+61;51;lei wang;x yuan,miaoliang zhu;car plate localization using modified pcnn in complicated environment;0489A984;439B9AD2;2006
+62;57;lei wang;panfeng huang,ying huang,yunjian ge,min wang;the finite element analysis based on ansys pressure sensitive conductive rubber three dimensional tactile sensor;10377;439B9AD2;2007
+63;5;lei wang;xuchun li,eric sung;multi label svm active learning for image classification;15918;455477A7;2004
+64;54;lei wang;james j clark;active shape and depth extraction from shadow images;081E3F30;455477A7;1994
+65;5;lei wang;y p tan,kap luk chan;image retrieval with svm active learning embedding euclidean search;0A4ACFBD;455477A7;2003
+66;23;lei wang;steve lin,xu liu,guangyou xu,heungyeung shum;generic slow motion replay detection in sports video;05E79D01;455477A7;2004
+67;23;lei wang;lirong xia,alfred m bruckstein,guangyou xu,xu liu;image orientation detection with integrated human perception cues or which way is up ;05E79D01;455477A7;2003
+68;60;lei wang;b s manjunath;a semantic representation for image retrieval;0349EE07;455477A7;2003
+69;61;lei wang;qing zhuo,ming wen,wenyuan wang;background subtraction using incremental subspace learning;05E79D01;455477A7;2007
+70;49;lei wang;jiaji wu,li zhang,guangming shi,licheng jiao;lossy to lossless image compression based on reversible integer dct;08EAA2CB;455477A7;2008
+71;5;lei wang;qi tian,ping xue,xiaodong yu,hai gao;robust multi level video representation using mean shift analysis;0A4ACFBD;432251B5;2004
+72;58;lei wang;haizhou li,eng siong chng;a vector based approach to broadcast audio database indexing and retrieval;0A4ACFBD;432251B5;2007
+73;59;lei wang;xiaofeng tong,yimin zhang;body detection and tracking with hierarchical scheme in dynamic scenes;500F4F9C;432251B5;2007
+74;63;lei wang;leiwang,shenghu,bo xu,shenhuang,hongchen jiang;query by humming via multiscale transportation distance in random query occurrence context;012E6F4E;432251B5;2008
+75;64;lei wang;maoqing lin,yujun zhang,zhenhao jin,fengfu li;synthesis and characteration of phenolic resin montmorillonite nanocomposites;19695;4509AF66;2004
+76;65;lei wang;duwu cui,zhurong wang,chaoxue wang;a novel genetic algorithm based on cure mechanism of traditional chinese medicine;15323;0655F58A;2005
+77;49;lei wang;yinling nie,weike nie,licheng jiao;artificial immune strategies improve the security of data storage;2105;0655F58A;2005
+78;49;lei wang;yinling nie;a novel artificial immune network model and analysis on its dynamic behavior and stabilities;19802;1197941;2006
+79;62;lei wang;michael franz;automatic partitioning of object oriented programs for resource constrained mobile devices with multiple distribution objectives;0C2C9DD2;43C1EF66;2008
+80;5;lei wang;aize cao,qing song,xulei yang;breast mass segmentation based on information theory;0A4ACFBD;4372EE76;2004
+81;5;lei wang;hongdong li,richard hartley;video local pattern based image matching for visual mapping;070DD774;4372EE76;2006
+82;5;lei wang;ping xue,kap luk chan;incorporating prior knowledge into svm for image retrieval;0A4ACFBD;4372EE76;2004
+83;5;lei wang;yiming wu,kap luk chan;face recognition based on discriminative manifold learning;0A4ACFBD;4372EE76;2004
+84;16;lei wang;fang lu,zhiyuan li,zhaoqing zhang,xiaobing feng;exploiting idle register classes for fast spill destination;012E6F4E;43C08A77;2008
+85;5;lei wang;kap luk chan;bayesian learning for image retrieval using multiple features;0A4ACFBD;44788D44;2000
+86;67;lei wang;qi kang,qidi wu,jing an;a turbo codes optimization method using particle swarm algorithm;06F892B4;4539ED1E;2008
+87;66;lei wang;manoj pandey,qiuyi duan,roger pack,daniel zappala;to repair or not to repair helping ad hoc routing protocols to distinguish mobility from congestion;05F5F76A;442BD7CD;2007
+88;62;lei wang;matt chu,roxana e diaconescu,zachary mouri;a compiler and runtime infrastructure for automatic program distribution;1177;4708B833;2005
+89;16;lei wang;dan meng,linping wu,zhihong zhang,wei huang,jianfeng zhan;easy and reliable cluster management the self management experience of fire phoenix;012E6F4E;4708B833;2006
+90;69;lei wang;lars s nyland,hyechung kum,jan f prins,r h yun,jan hermans;modeling dynamic load balancing in molecular dynamics to achieve scalable parallel execution;06CBEAA9;44BF398F;1998
+91;44;lei wang;;an energy efficient skew compensation technique for high speed skew sensitive signaling;085ADB71;471752F4;2005
+92;71;lei wang;s h k embabi;low voltage 2 path sc bandpass spl delta spl sigma modulator without bootstrapper;02D7054C;471752F4;2003
+93;70;lei wang;naresh r shanbhag;noise tolerant dynamic circuit design;0966B229;471752F4;1999
+94;68;lei wang;junyan ren,wenjing yin,jun xu,t chen;a high speed high resolution low distortion cmos bootstrapped switch;017C99DB;471752F4;2007
+95;44;lei wang;shuo wang;adaptive timing for analysis of skew tolerance;085ADB71;471752F4;2006
+96;44;lei wang;niral patel;reducing error accumulation effect in multithreaded memory systems;085ADB71;471752F4;2006
+97;44;lei wang;shuo wang;design of error tolerant cache memory for multithreaded computing;085ADB71;471752F4;2008
+98;44;lei wang;f c jain,elsayed hasaneen,jianwei dai,shuo wang;programmable threshold voltage using quantum dot transistors for low power mobile computing;6060;471752F4;2008
+99;25;lei wang;zhaohui wu,zengwei zheng,mingde zhao;exact best case end to end response time analysis for hard real time distributed systems;0489A984;431CE69C;2005
+100;58;lei wang;changhuai you,hanwu sun,minghui dong,bin ma,donglai zhu,tomi kinnunen,rong tong,chinwei eugene koh,engsiong chng,haizhou li,kongaik lee;the iir submission to cslp 2006 speaker recognition evaluation;0A4ACFBD;470659EF;2006
+101;73;lei wang;xiaoyuan wang,haihong liu,derong tan;study on traffic information fusion algorithm based on support vector machines;071AE4C7;45D416DF;2006
+102;70;lei wang;naresh r shanbhag;low power aec based mimo signal processing for gigabit ethernet 1000base t transceivers;0966B229;42CCF5DE;2001
+103;70;lei wang;naresh r shanbhag;low power aec based mimo signal processing for gigabit ethernet 1000base t transceivers;0966B229;42CCF5DE;2001
+104;44;lei wang;shuo wang;thread associative memory for multicore and multithreaded computing;085ADB71;42CCF5DE;2006
+105;72;lei wang;zhongxing duan,peng fu,deyun zhang;intelligent hierarchical intrusion detection system for secure wireless ad hoc network;05364FE4;4539ED1E;2005
+106;72;lei wang;zhongxing duan,peng fu,deyun zhang;intelligent hierarchical intrusion detection system for secure wireless ad hoc network;32;0655F58A;2005
+107;43;lei wang;gaogang xie,wenwei li,jinmin yang,dafang zhang;a resource allocating neural network based approach for detecting end to end network performance anomaly;00FD6FCE;4539ED1E;2006
+108;76;lei wang;yong yang,shixin sun;a new approach of network intrusion detection using hvdm based som;08F452CF;4539ED1E;2005
+109;49;lei wang;yinling nie,weike nie,licheng jiao;a novel classifier with the immune training based wavelet neural network;18324;4539ED1E;2005
+110;49;lei wang;yinling nie,weike nie,licheng jiao;a novel model of artificial immune network and simulations on its dynamics;18059;4539ED1E;2006
+111;75;lei wang;qinglei chi,bangchun wen,chunyu zhao;a model predictive control of a grain dryer with four stages based on recurrent fuzzy neural network;00C50601;4539ED1E;2007
+112;76;lei wang;huading jia,shixin sun;a fast and accurate progressive algorithm for training transductive svms;08F452CF;4539ED1E;2007
+113;74;lei wang;latifur khan;object detection for hierarchical image classification;09B0BBA7;436976F3;2002
+114;74;lei wang;latifur khan;object detection for hierarchical image classification;4732;436976F3;2003
+115;74;lei wang;latifur khan;object detection for hierarchical image classification;09B0BBA7;436976F3;2002
+116;74;lei wang;casey breen,latifur khan;object boundary detection for ontology based image classification;19938;436976F3;2002
+117;15;lei wang;santosh pande;data i o minimization for loops on limited onchip memory processors;03C3607B;4769FF98;1999
+118;77;lei wang;carl mccrosky;performance comparison of control schemes for abr service in atm lans;01F1D439;465EF934;1997
+119;5;lei wang;paulette lieby,luping zhou,richard hartley,nick barnes;regularized discriminative direction for shape difference analysis;070DD774;435020A4;2008
+120;23;lei wang;michael lew,guangyou xu;offense based temporal segmentation for event detection in soccer video;05E79D01;46F58A2E;2004
+121;74;lei wang;latifur khan;automatic ontology derivation using clustering for image classification;09B0BBA7;45A1082E;2002
+122;74;lei wang;latifur khan,yohan jin;improving image annotations using wordnet;09B0BBA7;45A1082E;2005
+123;74;lei wang;mamoun awad,latifur khan,yohan jin;image annotations by combining multiple evidence wordnet;09B0BBA7;43AA5802;2005
+124;5;lei wang;ping xue,xuchun li,kap luk chan;a novel framework for svm based image retrieval on large databases;070DD774;43AA5802;2005
+125;74;lei wang;latifur khan,li liu;automatic image annotation and retrieval using subspace clustering algorithm;09B0BBA7;472C6E2D;2004
+126;5;lei wang;qi tian,ping xue,xiao dong yu;multi level video representation with application to keyframe extraction;18961;42F91B89;2004
+127;5;lei wang;a h welsh,chunhua shen;psdboost matrix generation linear programming for positive semidefinite matrices learning;5696;43319DD4;2008
+128;5;lei wang;nianjun liu,huidong jin,terry caelli,robert lesslie,ke zhang,zhouyu fu;discovering prediction model for environmental distribution maps;070DD774;436976F3;2007
+129;27;lei wang;hongyang hsu,yusheng wang,chinghsi lu;a platform implementation for real time image processing;004A76EA;4459102E;2008
+130;16;lei wang;bibo tu,ming zou,jianping fan,jianfeng zhan;design patterns of scalable cluster system software;012E6F4E;45BA2C87;2006
+131;79;lei wang;iming lin,xueqi cheng,jing ye,qing jiang,tieying zhang,jianming lv;livebt providing video on demand streaming service over bittorrent systems;11565;45BA2C87;2007
+132;16;lei wang;ming zou,yulei ding,hui wang,jianfeng zhan,shuang gao;grid unit a self managing building block for grid system;012E6F4E;45BA2C87;2007
+133;78;lei wang;richard g lahusen,wenzhan song,b shirazit,f yuan,yang peng,n peterson;a lightweight sensor network management system design;3702;43AEF2F9;2008
+134;51;lei wang;x yuan,ming guo;car plate localization using pulse coupled neural network in complicated environment;0489A984;45FD9DD4;2006
+135;61;lei wang;qing zhuo,ming wen,wenyuan wang;object class recognition using snow with a part vocabulary;05E79D01;42F0CC9A;2009
+136;81;lei wang;leiwang,weili;real time solution in petroleum industry s cyber data acquisition simulation system;0134B592;44AB61E1;2005
+137;25;lei wang;zhaohui wu,guoqing yang,mingde zhao;fault tolerant scheduling for fixed priority tasks with preemption threshold;0489A984;44AB61E1;2005
+138;82;lei wang;xikun sun;escape analysis for synchronization removal;04F0A8A0;439F2D27;2006
+139;79;lei wang;binh pham,paul roe,dian tjondronegoro;an audio wiki supporting mobile collaboration;12001;439F2D27;2008
+140;79;lei wang;dian tjondronegoro,binh pham,paul roe;an audio wiki supporting mobile collaboration;09989277;439F2D27;2008
+141;25;lei wang;zhaohui wu,zengwei zheng,mingde zhao;end to end worst case response time analysis for hard real time distributed systems;0489A984;433E69C4;2005
+142;16;lei wang;bibo tu,yu wen,jianfeng zhan,yuansheng chen,yi jin,bizhu qiu,zhihong zhang,hui wang,ninghui sun,dan meng,peng wang;the design methodology of phoenix cluster system software stack;012E6F4E;44BF398F;2007
+143;82;lei wang;pengchao zhao,qiang zhang;automated detection of code vulnerabilities based on program analysis and model checking;0134B592;45AEE573;2008
+144;11;lei wang;daniela mehandjiskastavreva;an initial framework for collaboration based component selection;17869;45FFFB88;2004
+145;23;lei wang;fuqing yang,ying pan,bing xie,lu zhang;relevancy based semantic interoperation of reuse repositories;05E79D01;477F6C83;2004
+146;80;lei wang;zeng xianwen,yin zhongcheng,hu shaobin,li zhengdong;the design and optimization of h 264 encoder based on the nexperia platform;7106;46950273;2007
+147;82;lei wang;ya nan shen,rong cai zhao;eliminating redundant communication of code generation for distributed memory machines;7866;46950273;2007
+148;79;lei wang;yue liu,xueqi cheng,wenjing bi,huawei shen;research on enterprise track of trec 2008;012E6F4E;462F772C;2008
+149;47;lei wang;minsheng tan,yaping lin,chunyi shi;research on pairwise key establishment model and algorithm for sensor networks;00FD6FCE;44D4200D;2006
+150;47;lei wang;haowei shen,yaping lin,zhe chen;voronoi tessellation based rapid coverage decision algorithm for wireless sensor networks;00FD6FCE;44D4200D;2007
+151;79;lei wang;yuee liu,dian tjondrongoro;clustering and visualizing audiovisual dataset on mobile devices in a topic oriented manner;02191A3B;45F650F9;2007
+152;79;lei wang;yuee liu,dian tjondronegoro;clustering and visualizing audiovisual dataset on mobile devices in a topic oriented manner;11993;45F650F9;2007
+153;13;lei wang;shahin nazarian,shahdad irajpour,melvin a breuer,sandeep k gupta;analyzing crosstalk in the presence of weak bridge defects;0011EAC4;4300CAC5;2003
+154;67;lei wang;zhengping zuo,yunshi xiao,qiusheng wu;the research of complex system modeling based on fractal conception;1386;820352;2003
+155;10;lei wang;huaqiang zhang,hongyan li,meimei li,bin zhou;pase a prototype for ad hoc process aware information system declaratively constructing environment;0134B592;45F282AE;2008
+156;86;lei wang;james r cordy,thomas r dean;enhancing security using legality assertions;0C33D1B1;43750ABA;2005
+157;20;lei wang;xin sui,ning zhang,song zhang,zhuoqun xu,jie yang;building domain ontology based on web data and generic ontology;18214;478794CB;2004
+158;20;lei wang;ning zhang,song zhang,zhuoqun xu,jie yang;offer group generation and delayed processing in multi issue negotiation;7206;478794CB;2004
+159;74;lei wang;latifur khan,bhavani thuraisingham;an effective evidence theory based k nearest neighbor knn classification;09B0BBA7;478794CB;2008
+160;14;lei wang;gagan goel,changyuan yu,vijay v vazirani,deeparnab chakrabarty;efficiency fairness and competitiveness in nash bargaining games;07CA5884;455982FB;2008
+161;47;lei wang;yonghe liu,yaping lin;key distribution for group based sensor deployment using a novel interconnection graph;00FD6FCE;44ABD1BA;2007
+162;66;lei wang;qiuyi duan,daniel zappala,charles d knutson;link quality prediction for wireless devices with multiple radios;05F5F76A;44ABD1BA;2008
+163;82;lei wang;qiang ye,wuman luo,andrew reddin,yuxing huang;multi path gem for routing in wireless sensor networks;04F0A8A0;4401057D;2008
+164;83;lei wang;shi an,he huang;analysis on appearance reasons of the positive feedback traders;16113;437D615C;2006
+165;84;lei wang;keying wu,liyu cai;joint multiuser precoding and scheduling with imperfect channel state information at the transmitter;4ECD74BC;462744F4;2008
+166;33;lei wang;beat hirsbrunner;an evolutionary algorithm with population immunity and its application on autonomous robot control;14735;478757A6;2003
+167;85;lei wang;m thaker,yuhua chen;virtual burst assembly a solution to out of sequence delivery in optical burst switching networks;02A66F75;43701CEE;2008
+168;90;lei wang;guanjun gao,wanyi gu,xiuzhong chen,jie zhang,yongjun liu;a hybrid control architecture for connection management in translucent wdm networks;0134B592;43701CEE;2008
+169;89;lei wang;gaoyou xiang,xiaodong zhu,zhiqiu huang,guohua shen;using description logics reasoner for ontology matching;348EB203;4429872D;2007
+170;39;lei wang;shulin chen;a pattern matching algorithm in p2p mobile qa system answer extracting process;09F4A24A;639070;2008
+171;79;lei wang;dian tjondronegoro;mining and visualizing multimedia dataset on mobile devices in a topic oriented manner;5121;47A8116F;2006
+172;79;lei wang;dian tjondronegoro;mining and visualizing multimedia dataset on mobile devices in a topic oriented manner;1137;47A8116F;2006
+173;92;lei wang;zhenhua duan,bo wang;kapa a file sharing system based on hp2p;08EAA2CB;4565989B;2008
+174;91;lei wang;weichang du;context aware application programming for mobile devices;065FC05B;449CDF39;2008
+175;30;lei wang;noboru kunihiro,kazuo ohta,yu sasaki;password recovery on challenge and response impossible differential attack on hash function;0139433B;1065886;2008
+176;39;lei wang;shulin chen;the algorithm of obtaining best rules based on rough set;09F4A24A;46F3DAAB;2008
+177;87;lei wang;xinhong hei,song ma;an ais based service match model;15069;449CDF39;2008
+178;16;lei wang;yi liang,ruihua di,jianfeng zhan;a performance model for domino mail server;012E6F4E;449CDF39;2008
+179;87;lei wang;xinhong hei,song ma;research on an immune mechanism based intelligent spam filter;9523;449CDF39;2008
+180;82;lei wang;changhai zhao,xiaohua shi,haihua yan;decf a coarse grained data parallel programming framework for seismic processing;04F0A8A0;449CDF39;2008
+181;10;lei wang;chao li,huaqiang zhang,hongyan li,bin zhou;a hybrid method for constructing semi structural process in knowledge intensive information system;0134B592;449CDF39;2008
+182;2;lei wang;kui dai,zhiying wang;performance bound analysis and retiming of timed circuits;0A254897;46013AA1;2008
+183;88;lei wang;yong bai,qixun zhang,lan chen,zhiyong feng,yifan yu,litao liang;research on neighboring aps discovery methods in pnp wlan;0134B592;45563B9A;2008
+184;84;lei wang;keying wu,liyu cai;a cci feedback aided scheduling technique for mu mimo;4ECD74BC;45563B9A;2008
+185;67;lei wang;qi kang,qidi wu,hui xiao;evaluation mode research on particle swarm optimization algorithm;11477;45686500;2007
+186;67;lei wang;qi kang,qidi wu,hui xiao;traffic intelligent optimization and local traffic flow control inside shanghai expo area;19629;45686500;2007
+187;85;lei wang;subhash kak,yuhua chen;hybrid neural network architecture for on line learning;11113;08A09B46;2010
+188;85;lei wang;subhash kak,yuhua chen;hybrid neural network architecture for on line learning;3959;0B68DB42;2008
+189;96;lei wang;l i feng,shihua zhu;low complex equalization for single carrier systems employing cyclic prefix over time variant channels;5856;09F41384;2007
+190;30;lei wang;kazuki yoneyama,kazuo ohta,noboru kunihiro,mitsugu iwamoto;visual secret sharing schemes for multiple secret images allowing the rotation of shares;15220;09F41384;2006
+191;82;lei wang;mike h macgregor;round robin with virtualclock scheduling algorithm in multiservice packet networks;12097;09F41384;2006
+192;96;lei wang;jason tsongli wang,yan zeng,suyun zhu;khatri rao unitary space time modulation;18100;09F41384;2006
+193;30;lei wang;noboru kunihiro,kazuo ohta,yu sasaki;new message differences for collision attacks on md4 and md5;18336;09F41384;2008
+194;93;lei wang;sang kyu park,dongweon yoon;exact distribution of the amplitude of adaptively selected ofdm signal samples;1330;09F41384;2008
+195;54;lei wang;james j clark;active shape from shadows with controlled illuminant trajectories;013CF852;0185ADDC;2001
+196;5;lei wang;xuejian xiong,kap luk chan;a sub vector weighting scheme for image retrieval with relevance feedback;015BDFDA;0394C23D;2002
+197;76;lei wang;kai zhang,shixin sun;a fast approximate algorithm for training l1 svms in primal space;08F452CF;02B93B6A;2007
+198;79;lei wang;dian tjondronegoro,adrien joly;delivering a fully interactive mobile tv;02191A3B;08A6F3B8;2013
+199;79;lei wang;dian tjondronegoro,adrien joly;delivering a fully interactive mobile tv;17066;08A6F3B8;2006
+200;95;lei wang;bin xu,yueming lu,depei qian;active network supports for mobile ip;10490;09A08B9A;2001
+201;95;lei wang;bin xu,yueming lu,depei qian;active network supports for mobile ip;12633;09A08B9A;2001
+202;94;lei wang;guanghong wang,yantai shu,oliver w w yang,yongjie fan;provisioning qos guarantee by multipath routing and reservation in ad hoc networks;09299093;09A08B9A;2004
+203;44;lei wang;f c jain,shuo wang;towards achieving reliable and high performance nanocomputing via dynamic redundancy allocation;085ADB71;05BBDE5F;2009
+204;69;lei wang;lars s nyland,hyechung kum,jan f prins,r h yun,jan hermans;achieving scalable parallel molecular dynamics using dynamic spatial domain decomposition techniques;06CBEAA9;095DDDE1;1997
+205;74;lei wang;weili wu,latifur khan,li liu;automatic image annotation and retrieval using weighted feature selection;10937;46D76472;2004
+206;74;lei wang;latifur khan;automatic image annotation and retrieval using weighted feature selection;09B0BBA7;46D76472;2006
+207;5;lei wang;eam khwang teoh,xuchun li,hui kong,jiangang wang,ronda venkateswarlu;generalized 2d principal component analysis for face image representation and recognition;015BDFDA;07552028;2005
+208;5;lei wang;kap luk chan;a dynamic sub vector weighting scheme for image retrieval with relevance feedback;015BDFDA;02B63C29;2003
+209;23;lei wang;sing bing kang,guangyou xu,heungyeung shum;error analysis of pure rotation based self calibration;05E79D01;45701BF3;2001
+210;23;lei wang;sing bing kang,heungyeung shum,guangyou xu;error analysis of pure rotation based self calibration;05E79D01;45701BF3;2004
+211;77;lei wang;carl mccrosky;an approximate solution for queuing network models of a burst level traffic control scheme in atm wan;01F1D439;02AEB332;1998
+212;99;lei wang;jun liu,stan z li;mrf parameter estimation by mcmc method;015BDFDA;00065366;2000
+213;99;lei wang;jun liu;texture segmentation based on mrmrf modeling;6661;090C990E;2000
+214;99;lei wang;jun liu;texture classification using multiresolution markov random field models;386;090C990E;1999
+215;44;lei wang;shuo wang;analysis of deskew signaling via adaptive timing;085ADB71;0602A23F;2009
+216;98;lei wang;weihua zhuang,yu cheng,chi wa leong;call admission control for integrated on off voice and best effort data services in mobile cellular communications;090B77B3;0BB89C05;2004
+217;98;lei wang;weihua zhuang,yu cheng;calculation of loss probability in a finite size partitioned buffer for quantitative assured service;090B77B3;0BB89C05;2007
+218;97;lei wang;tilak ratnanather,john g csernansky,laurent younes,michael i miller,john c morris,can ceritoglu,faisal beg;large deformation diffeomorphism and momentum based hippocampal shape discrimination in dementia of the alzheimer type;013CF852;037612B1;2007
+219;49;lei wang;licheng jiao;a novel genetic algorithm based on immunity;271;0489FD27;2000
+220;5;lei wang;ping xue,kap luk chan;a criterion for optimizing kernel parameters in kbda for image retrieval;0A4ACFBD;0489FD27;2005
+221;5;lei wang;ping xue,kap luk chan;two criteria for model selection in multiclass support vector machines;070DD774;0489FD27;2008
+222;103;lei wang;j p de gyvez,edgar sanchezsinencio;time multiplexed color image processing based on a cnn with cell state outputs;056D3FC6;023CCC5C;1998
+223;70;lei wang;naresh r shanbhag;energy efficiency bounds for deep submicron vlsi systems in the presence of noise;4EF77785;023CCC5C;2003
+224;70;lei wang;naresh r shanbhag;low power mimo signal processing;4EF77785;023CCC5C;2003
+225;44;lei wang;niral patel;improving error tolerance for multithreaded register files;085ADB71;023CCC5C;2008
+226;5;lei wang;qi tian,ping xue,xiaodong yu;a novel multi resolution video representation scheme based on kernel pca;0A4ACFBD;045AD05D;2006
+227;67;lei wang;qi kang,qidi wu;a novel ecological particle swarm optimization algorithm and its population dynamics analysis;06F892B4;03009DEA;2008
+228;2;lei wang;kui dai,yong li,zhiying wang,rui gong;research and implementation of a 32 bit asynchronous multiplier;7469;09E66BCD;2006
+229;98;lei wang;weihua zhuang;a call admission control scheme for packet data in cdma cellular communications;090B77B3;03C85075;2006
+230;44;lei wang;niral patel;low complexity analysis of repetitive regularities for biometric applications;085ADB71;04A491A1;2007
+231;74;lei wang;latifur khan,bhavani thuraisingham,balakrishnan prabhakaran;managing and mining multimedia data animations and annotations;09B0BBA7;1726141;2009
+232;101;lei wang;jing si,qingzheng xu;association based immune network for multimodal function optimization;11105;43F3068F;2009
+233;102;lei wang;tibiao wang,jianhao xu;chaos control of lorenz system using small gain theorem;0486263A;4539ED1E;2009
+234;102;lei wang;yong xu;synchronization between two different hyperchaotic dynamical systems using nonlinear control;0486263A;4539ED1E;2009
+235;76;lei wang;yong yang;selective ensemble algorithms of support vector machines based on constraint projection;08786941;4539ED1E;2009
+236;100;lei wang;michael d kuo,luca benini,hesen peng,christine nardini;mm correction meta analysis based multiple hypotheses correction in omic studies;6520;44A2A3CC;2008
+237;66;lei wang;daniel zappala,daniel scofield;hxh a hop by hop transport protocol for multi hop wireless networks;3518;45ABA571;2008
+238;106;lei wang;yong ren,shuhang wu,yipeng li,shiji song;measurement and statistics of application business in complex internet;05E79D01;370653;2009
+239;105;lei wang;enmin feng,zhilong xiu,yaqin sun,jianxiong ye;modeling and robustness analysis of biochemical networks of glycerol metabolism by klebsiella pneumoniae;01A17328;25011;2009
+240;105;lei wang;enmin feng,zhilong xiu,jianxiong ye;modeling and properties of nonlinear stochastic dynamical system of continuous culture;01A17328;1942736;2009
+241;16;lei wang;bibo tu,wei zhou,jianfeng zhan,yong li,peng wang,dan meng;phoenix cloud consolidating heterogeneous workloads of large organizations on cloud computing platforms;012E6F4E;0B68DB42;2009
+242;96;lei wang;takeshi ikenaga,jun wang,satoshi goto;variable block size motion vector retrieval schemes for h 264 inter frame error concealment;9838;09F41384;2008
+243;96;lei wang;takeshi ikenaga,jun wang,satoshi goto;standard deviation and intra prediction mode based adaptive spatial error concealment sec in h 264 avc;15806;09F41384;2008
+244;30;lei wang;noboru kunihiro,kazuo ohta;near collision attacks on md4 applied to md4 based protocols;7038;09F41384;2009
+245;30;lei wang;noboru kunihiro,kazuo ohta,yu sasaki;extended password recovery attacks against apop sip and digest authentication;2831;09F41384;2009
+246;93;lei wang;sang kyu park,dongweon yoon;side information inserted pilot tone transmission for papr reduction in ofdm;19979;09F41384;2009
+247;5;lei wang;;feature selection with kernel class separability;070DD774;0BEAEA4E;2008
+248;104;lei wang;;a new algorithm for solving classical blasius equation;7190;03009DEA;2004
+249;104;lei wang;;a novel method for a class of nonlinear singular perturbation problems;16856;03009DEA;2004
+250;5;lei wang;ping xue,kap luk chan,luping zhou;a kernel induced space selection approach to model selection in klda;9986;02821AB5;2008
+251;20;lei wang;peng chen,lianen huang;an efficient clustering algorithm for large scale topical web pages;0134B592;472C6E2D;2009
+252;82;lei wang;qiang ye,chen yang,li zhang,zheng wang;linux kernels as complex networks a novel method to study evolution;04F0A8A0;4532399F;2009
+253;44;lei wang;jianwei dai;way tagged cache an energy efficient l2 cache architecture under write through policy;085ADB71;42CCF5DE;2009
+254;30;lei wang;kazuo ohta,kazuo sakiyama,yu sasaki;bit free collision application to apop attack;0139433B;469324BE;2009
+255;16;lei wang;weisong shi,jianfeng zhan,y y lin,yi wen liang;in cloud do mtc or htc service providers benefit from the economies of scale ;012E6F4E;44BF398F;2009
+256;16;lei wang;lin yuan,yi liang,jianfeng zhan,weisong shi;in cloud do mtc or htc service providers benefit from the economies of scale ;012E6F4E;44BF398F;2009
+257;110;lei wang;hao yin,liaojun pang,qingqi pei,hong tang;layer key management scheme on wireless sensor networks;08EAA2CB;45E5BC3F;2009
+258;111;lei wang;yan zhang,lei shu,manfred hauswirth,jong hyuk park;cross layer optimized data gathering in wireless multimedia sensor networks;16708;462C0072;2009
+259;44;lei wang;weiguo tang;cooperative ofdm for energy efficient wireless sensor networks;085ADB71;46F80578;2008
+260;44;lei wang;jianwei dai,shuo wang;defect tolerant digital filtering with unreliable molecular electronics;085ADB71;46F80578;2008
+261;96;lei wang;takeshi ikenaga,jun wang,satoshi goto;an adaptive spatial error concealment for h 264 avc video stream;16227;44CF28DC;2008
+262;5;lei wang;junae kim,anton van den hengel,chunhua shen;positive semidefinite metric learning with boosting;6006;43319DD4;2009
+263;5;lei wang;junae kim,anton van den hengel,chunhua shen;positive semidefinite metric learning with boosting;070DD774;43319DD4;2009
+264;44;lei wang;f c jain,elsayed hasaneen,jianwei dai,shuo wang;utilizing quantum dot transistors with programmable threshold voltages for low power mobile computing;085ADB71;05BBDE5F;2009
+265;109;lei wang;diwakar gupta;revenue management for a primary care clinic in the presence of patient choice;07C34834;077F2EB9;2008
+266;109;lei wang;diwakar gupta;capacity management for contract manufacturing;10232;077F2EB9;2007
+267;108;lei wang;jun gao,zhiguo fan,mei bo;information acquisition in desert ant navigation;6600;0B1950BF;2011
+268;30;lei wang;krystian matusiewicz,kazumaro aoki,jian guo,yu sasaki;preimages for step reduced sha 2;0139433B;44C16141;2009
+269;107;lei wang;huidong ma,xu li,guohua liu;the representation of chinese semantic knowledge and its application in the document copy detection;6164;45E5BC3F;2007
+270;44;lei wang;jianwei dai;a study of side channel effects in reliability enhancing techniques;085ADB71;45C56EDC;2009
+271;22;lei wang;li yang,manling ge,guoya dong,tingting wang,xuelian pang;the application of non linear regression method to the functional connectivity during the encoding and the retrieval of chinese semantic memory;0B047E91;42F0CC9A;2009
+272;19;lei wang;ruiqing zhang;fault diagnosis of regenerative water heater based on multi class support vector machines;067DC020;42F0CC9A;2009
+273;14;lei wang;vijay v vazirani;continuity properties of equilibria in some fisher and arrow debreu market models;1608;455982FB;2008
+274;14;lei wang;vijay v vazirani;continuity properties of equilibria in some fisher and arrow debreu market models;07CA5884;455982FB;2009
+275;26;lei wang;g liu,yuanting zhang;a robust closed loop control algorithm for mean arterial blood pressure regulation;16523;4668332C;2009
+276;28;lei wang;zhijun xie,tongsen wang,ronghua yang;data compression algorithm based on hierarchical cluster model for sensor networks;04FE8EDC;295882;2008
+277;111;lei wang;chun wu,lei shu,jiming chen,manfred hauswirth,yan zhang;nettopo beyond simulator and visualizer for wireless sensor networks;01A17328;050B1D9F;2008
+278;24;lei wang;hang yin,hejin yang,guoqing zhang,ming xie;planning and control of biped walking along curved paths on unknown and uneven terrain;0A4ACFBD;45737C92;2009
+279;31;lei wang;jinchun liang,peiyu guo,jinhui xie,yingying yao;a new rights processing method for drm systems;8125;43E4D7A4;2009
+280;23;lei wang;yue wang,jian yuan,yong ren,xiuming shan,shiji song;traffic localizing strategy for peer to peer systems;05E79D01;46AB47BD;2009
+281;29;lei wang;aimin luo;service view description of a service oriented c4isr architecture framework;15759;454CA326;2009
+282;2;lei wang;zhiying wang,gang jin;a new description language for data driven asynchronous circuits and its design flow;1255;475B8292;2009
+283;5;lei wang;yuhang zhang,hongdong li,richard hartley;handling significant scale difference for object retrieval in a supermarket;070DD774;46BD07AF;2009
+284;40;lei wang;ying liu,debin ren,minghan hu;a new text feature conversion method for text classification;00C50601;4665AEAE;2009
+285;102;lei wang;xuhui chen,yong xu;a symmetric orthogonal fastica algorithm and applications in eeg;11984;1666477;2009
+286;32;lei wang;yuwen zhou,weiwei zhao;comparative study on bionic optimization algorithms for sewer optimal design;12238;0764D17B;2009
+287;0;lei wang;xuan wang;p2p recommendation trust model;0C37CBAD;45D416DF;2008
+288;14;lei wang;p c tripathi,gagan goel,chinmay karande;approximability of combinatorial problems with multi agent submodular cost functions;3397;448ECA1D;2009
+289;14;lei wang;pushkar tripathi,gagan goel,chinmay karande;approximability of combinatorial problems with multi agent submodular cost functions;07CA5884;448ECA1D;2010
+290;10;lei wang;qiang qu,gaoshan miao,hongyan li,xin wei;online constrained pattern detection over streams;0134B592;4665AEAE;2009
+291;1;lei wang;fuhua shang;svm model based on signal transformation and its applications in oil water flooded identification;4CAC5385;4665AEAE;2009
+292;8;lei wang;zhai yuyi,liu liang,gong zhenbang;fuzzy control strategy of sub mini underwater robots in rectifying control;06CA964A;4665AEAE;2009
+293;90;lei wang;wei gu,xiaomeng chen,g gao,j zhang;noise aware wavelength assignment for wavelength switched optical networks;0134B592;436150FA;2009
+294;6;lei wang;yukio horiguchi,yajie tian,tetsuo sawaragi;integrating case based reasoning and explanation based learning in an apprentice agent;14231;47957C42;2010
+295;4;lei wang;lei li,jiancheng yang,liangchao cong,y q liu,xiaoqin han;the research on controlling method of loom warp tension;12819;449AF10A;2009
+296;12;lei wang;yunlong cai,r c de lamare;low complexity adaptive step size constrained constant modulus sg based algorithms for blind adaptive beamforming;031AFA6D;42D493FC;2008
+297;14;lei wang;pushkar tripathi,gagan goel;optimal approximation algorithms for multi agent combinatorial problems with discounted price functions;15632;0B68DB42;2009
+298;44;lei wang;fabrizio lombardi,weiguo tang;a defect error tolerant nanosystem architecture for dsp;085ADB71;05BBDE5F;2009
+299;12;lei wang;rodrigo c de lamare,yun long cai;low complexity adaptive step size constrained constant modulus sg algorithms for adaptive beamforming;031AFA6D;09379623;2009
+300;17;lei wang;rui fa,r c de lamare;adaptive reduced rank lcmv beamforming algorithms based on joint iterative optimization of filters design and analysis;031AFA6D;09379623;2010
+301;51;lei wang;x yuan,liping deng,miaoliang zhu;automatic pectoral muscle boundary detection in mammograms based on markov chain and active contour model;0489A984;0BDD85B1;2010
+302;47;lei wang;zhiping chen,yihong tan;clustering research based on density gradient;04FE8EDC;45F282AE;2006
+303;13;lei wang;sandeep k gupta,melvin a breuer;diagnosis of delay faults due to resistive bridges delay variations and defects;0011EAC4;459EF883;2006
+304;5;lei wang;eric sung,xuchun li;adaboost with svm based component classifiers;015BDFDA;35B3BE90;2008
+305;46;lei wang;jun chen;improved hierarchical network model based on pastry scheme;12512;43F5AF1B;2009
+306;76;lei wang;yong yang;training one class support vector machines in the primal space;13780;1406177;2009
+307;16;lei wang;yuelu duan,chao zhang,xiaobing feng,penchung yew;detecting and eliminating potential violations of sequential consistency for concurrent c c programs;18007;43555C32;2009
+308;48;lei wang;leiqiang zhang,weiguo wu,zhenghua xue;a rm based static deployment system for cluster;11837;03D6EF79;2009
+309;47;lei wang;zhiping chen,yaping lin;a distributed tokens based distance vector routing algorithm for mobile ad hoc networks;00FD6FCE;1176804;2003
+310;50;lei wang;james m stichnoth,siddhartha chatterjee;runtime performance of parallel array assignment an empirical study;4D56FE9E;44BF398F;1996
+311;82;lei wang;chen yang;tldfs a distributed file system based on the layered structure;0134B592;45827814;2007
+312;16;lei wang;yu wen,jianfeng zhan,yi jin,zhihong zhang,hui wang,dan meng;gingko correlating causal paths in distributed systems;012E6F4E;45827814;2007
+313;20;lei wang;ning zhang,song zhang,jie yang;a new method in multi issue negotiation;0134B592;1278352;2004
+314;111;lei wang;weiping sun,zhuxiu yuan,cuiyao xue,lei shu,yuanfang chen;a backoff copying scheme for contention resolution in wireless sensor networks;01A17328;42F4F2CC;2009
+315;53;lei wang;junyan qi;the real time networked data gathering systems based on ethercat;6946;46D5969B;2009
+316;111;lei wang;zhuxiu yuan,yuanfang chen,manfred hauswirth,lei shu;visualizing simulation and testbed of wireless sensor networks with nettopo;01A17328;42F4F2CC;2009
+317;55;lei wang;tianzhong sui;research on multi objective parameter optimization based on the experimental design and ann ga in the digital environment;6896;924445;2009
+318;56;lei wang;li xie,bing mao,chen fang;tmac taint based memory protection via access control;348EB203;1922854;2009
+319;36;lei wang;hong ni,chao gao;software design methodology for set top box;17531;1950537;2009
+320;34;lei wang;lingling gao,wenlin yao,jianxin dong;chinese deterministic dependency parser considering prepositional phrase;8236;42CC6E2D;2009
+321;63;lei wang;shijin wang,bo xu,shen huang,jiaen liang;music genre classification based on multiple classifier fusion;012E6F4E;1430893;2008
+322;105;lei wang;enmin feng,an li;impulsive optimal control model for the trajectory of horizontal wells;5681;09DCED85;2009

@@ -1,0 +1,132 @@
+0;0;ning zhang;qi shi;security issues in an edi environment;00B6DA1D;47405592;1996
+1;2;ning zhang;joshua zhexue huang,zhuoqun xu,jie yang;c3 a new learning scheme to improve classification of rare category emails;0134B592;46EF45E9;2003
+2;3;ning zhang;zhixiong chen,guozhen xiao;pseudo randomness of discrete log sequences from elliptic curves;08EAA2CB;45D7DDA8;2007
+3;0;ning zhang;qi shi;a general approach to evaluation of secure systems;3346;44233F91;1995
+4;0;ning zhang;qi shi;applying composable security properties to assessment of information systems;10119;44233F91;1996
+5;0;ning zhang;yao li,carole goble,jay chin,alan rector;towards an authentication middleware to support ubiquitous web access;01B1760F;44233F91;2004
+6;0;ning zhang;jeannette shiawyuan chin,john brooke,aleksandra nenadic,li yao;towards context constrained authorisation for pervasive grid computing;01B1760F;43C176E6;2007
+7;4;ning zhang;lin song,jihai cao;a fast algorithm for the chirp rate estimation;0C37CBAD;465670BF;2008
+8;0;ning zhang;jay chin,aleksandra nenadic,carole goble;fame adding multi level authentication to shibboleth;01B1760F;46405877;2006
+9;6;ning zhang;;xml query processing and optimization;090B77B3;43820346;2004
+10;0;ning zhang;omaima bamasak;a distributed reputation management scheme for mobile agent based e commerce applications ;01B1760F;45A68B5F;2005
+11;0;ning zhang;carole goble,aleksandra nenadic,qi shi;dsa based verifiable and recoverable encryption of signatures and its application in certified e goods delivery;01B1760F;45A68B5F;2005
+12;8;ning zhang;yutian liu,hua ye;fuzzy comprehensive evaluation for power network operating schemes;092F5EFF;4665AEAE;2007
+13;9;ning zhang;li hongbo,ronghua xu;on miquel s five circle theorem;012E6F4E;132318;2004
+14;9;ning zhang;hongbo li,ronghua xu;on miquel s five circle theorem;012E6F4E;1962423;2004
+15;6;ning zhang;edward p f chan;finding shortest paths in large network systems;090B77B3;43F8572D;2001
+16;0;ning zhang;qi shi;a general approach to secure components composition;18802;45F753AE;1996
+17;10;ning zhang;;generators bidding behavior in the nyiso day ahead wholesale electricity market;15440;4569270C;2009
+18;10;ning zhang;richard n boisvert,timothy d mount;generators bidding behavior in the nyiso day ahead wholesale electricity market;0C4400FF;4569270C;2007
+19;2;ning zhang;yu wang,mingfeng xiong,shijun cheng,hong chen;odaies ontology driven adaptive web information extraction system;0134B592;45A88363;2003
+20;6;ning zhang;huaxin zhang,kenneth salem,donghui zhuo;compact access control labeling for efficient secure xml query evaluation;19289;45610CDA;2005
+21;6;ning zhang;huaxin zhang,kenneth salem,donghui zhuo;compact access control labeling for efficient secure xml query evaluation;090B77B3;45610CDA;2007
+22;6;ning zhang;m t ozsu,sunil k agrawal;blossomtree evaluating xpaths in flwor expressions;090B77B3;45610CDA;2005
+23;6;ning zhang;varun kacholia,m t ozsu;a succinct physical storage scheme for efficient evaluation of path queries in xml;090B77B3;45610CDA;2004
+24;6;ning zhang;ihab f ilyas,m t ozsu,a a aboulnaga;xseed accurate and fast cardinality estimation for xpath queries;090B77B3;45610CDA;2006
+25;0;ning zhang;omaima bamasak;towards a secure mobile agent based m commerce system;15396;44A68539;2003
+26;0;ning zhang;aleksandra nenadi;non repudiation and fairness in electronic data exchange;01B1760F;44A68539;2004
+27;12;ning zhang;guangze xiong,yuqiang xian;concurrent garbage collection implementation in a standard jvm for real time purposes;08F452CF;4385AB9B;2004
+28;14;ning zhang;xiaolin wu;primary consistent soft decision color demosaic for digital cameras;05DB33D4;455477A7;2003
+29;14;ning zhang;xiaolin wu;lossless compression of color mosaic images;05DB33D4;455477A7;2004
+30;14;ning zhang;xiaolin wu;lossless compression of color mosaic images;05DB33D4;455477A7;2006
+31;15;ning zhang;yoshihiko ebihara,manhee jo,shigetomo kimura;a study of fairness for atm abr service based on cell delay;08B9DFEF;43F6AF91;2001
+32;0;ning zhang;doug edwards,omaima bamasak;disigncryption an integration of agent based signature delegation with distributed reputation management schem;4873;4708B833;2005
+33;0;ning zhang;carole goble,aleksandra nenadic,qi shi;certified e mail delivery with dsa receipts;01B1760F;4708B833;2005
+34;14;ning zhang;xiaolin wu,li zhang,debin zhao,qiang wang,wen gao;context based arithmetic coding reexamined for dct video compression;17564;471752F4;2007
+35;0;ning zhang;lisha he;an asymmetric authentication protocol for m commerce applications;01B1760F;45277557;2003
+36;0;ning zhang;omaima bamasak;a secure proxy signature protocol for agent based m commerce applications;01B1760F;45277557;2004
+37;0;ning zhang;d l critchlow;revocation invocation for accountable anonymous pki certificate trees;01B1760F;45277557;2004
+38;0;ning zhang;s k barton,aleksandra nenadic;a secure and fair dsa based signature exchange protocol;01B1760F;45277557;2004
+39;17;ning zhang;zhuo song,tao zhang,zhuo yang;prediction of helix strand segments from primary protein sequences by a set of neural networks;0C3BAC1F;4539ED1E;2007
+40;0;ning zhang;chen guo,zhipeng shen;a general fuzzified cmac controller with eligibility;0294EAD4;4539ED1E;2008
+41;0;ning zhang;omaima bamasak;achieving distributed trusted services;01B1760F;449CDF39;2004
+42;0;ning zhang;s p barton,aleksandra nenadic;a security protocol for certified e goods delivery;01B1760F;449CDF39;2004
+43;19;ning zhang;;an analysis framework of factors influencing china software and information service offshore outsourcing;0837B2CF;46CB4466;2008
+44;20;ning zhang;zhixiu han,gang feng;dynamic output feedback hinfinity controller design of fuzzy dynamic systems using lmi techniques;18926;46405877;1998
+45;0;ning zhang;weili wu,feng zou,my t thai,incheol shin;trade off scheme for fault tolerant connected dominating sets on size and diameter;01FACAD8;449D19CC;2008
+46;0;ning zhang;ian featherstone;a mobility monitoring based advance reservation protocol;01B1760F;47175205;2006
+47;23;ning zhang;;characteristics of the group interest network;08D443A2;292267;2008
+48;25;ning zhang;ling guan;graph cuts in content based image classification and retrieval with relevance feedback;16455;45A1082E;2007
+49;0;ning zhang;lisha he;a new signature scheme joint signature;01B1760F;439F2D27;2004
+50;0;ning zhang;omaima bamasak;a secure method for signature delegation to mobile agents;01B1760F;439F2D27;2004
+51;0;ning zhang;s k barton,aleksandra nenadic;fair certified e mail delivery;01B1760F;439F2D27;2004
+52;0;ning zhang;d l critchlow;an insight into user privacy and accountable anonymity for mobile e commerce transactions;01B1760F;464F6958;2002
+53;0;ning zhang;lirong he;a new end to end authentication protocol for mobile users to access internet services;01B1760F;464F6958;2002
+54;0;ning zhang;jianli duan;research on visualization techniques for web usability analysis;6363;46950273;2007
+55;30;ning zhang;debin pang;analysis of sidelobe elevation for polyphase complementary codes through the non ideal system;0C37CBAD;46950273;2007
+56;6;ning zhang;ihab f ilyas,m t ozsu,david phillips;interjoin exploiting indexes and materialized views in xpath evaluation;11389;44E8D4B3;2006
+57;28;ning zhang;jose l encarnacao,georg koberle;distributed supercomputing for graphics applications a case study on an implementation of the radiosity approach;4322;939052;1989
+58;6;ning zhang;m tamer ozsu,ashraf aboulnaga,ihab f ilyas;fix feature based indexing technique for xml documents;090B77B3;4390334E;2006
+59;6;ning zhang;guy m lohman,chun zhang,vanja josifovski,peter j haas;statistical learning techniques for costing xml queries;090B77B3;4390334E;2005
+60;2;ning zhang;xin sui,song zhang,lei wang,zhuoqun xu,jie yang;building domain ontology based on web data and generic ontology;12546;478794CB;2004
+61;2;ning zhang;song zhang,lei wang,zhuoqun xu,jie yang;offer group generation and delayed processing in multi issue negotiation;0134B592;478794CB;2004
+62;32;ning zhang;chunnian liu,ning zhong,junzhong ji;an ant colony optimization algorithm for learning classification rules;0240B99C;478794CB;2006
+63;10;ning zhang;jenyao chung,jia zhang;assisting seller pricing strategy selection for electronic auctions;2182;478757A6;2004
+64;0;ning zhang;qi shi,j chin,aleksandra nenadic,l yao,andrew mcnab,carole goble,alan rector;plugging a scalable authentication framework into shibboleth;01B1760F;466DD17F;2005
+65;0;ning zhang;ravi tiwari,cem boyaci,bo li,incheol shin,my t thai;new approximation for minimum weight routing backbone in wireless sensor network;01FACAD8;4401057D;2008
+66;0;ning zhang;terry morrow,aleksandra nenadic,li yao;levels of authentication assurance an investigation;01B1760F;45F475CA;2007
+67;0;ning zhang;howard barringer,naikuo yang;a purpose based access control model;01B1760F;45F475CA;2007
+68;0;ning zhang;howard barringer,naikuo yang;a purpose based access control model;19320;45F475CA;2008
+69;0;ning zhang;ian rogers,lisha he;secure m commerce transactions a third party based signature protocol;01B1760F;45F475CA;2007
+70;5;ning zhang;hong bao;e learning and its information technology;06CF160C;449CDF39;2008
+71;1;ning zhang;ruedi aebersold,eugene yi,inyoul y lee,daehee hwang,hookeun lee,hui zhang,leroy hood;ms bid a java package for label free lc ms based comparative proteomic analysis;3266;031F7D94;2008
+72;0;ning zhang;qi shi;achieving non repudiation of receipt;5216;02A934C1;1996
+73;0;ning zhang;madjid merabti,qi shi;a flexible approach to secure and fair document exchange;00B6DA1D;02A934C1;1999
+74;0;ning zhang;d l critchlow;security enhanced accountable anonymous pki certificates for mobile e commerce;01B1760F;03C7498F;2004
+75;0;ning zhang;madjid merabti,qi shi;an efficient protocol for anonymous and fair document exchange;01B1760F;03C7498F;2003
+76;0;ning zhang;madjid merabti,robert askwith,qi shi;autonomous mobile agent based fair exchange;01B1760F;03C7498F;2004
+77;0;ning zhang;li yao,qi shi,david w chadwick,alan rector,aleksandra nenadic,carole goble,jay chin,sassa otenko;achieving fine grained access control in virtual organizations;0A32FA39;00A8D870;2007
+78;17;ning zhang;tao zhang,jishou ruan,jie wu;sheetspair a database of amino acid pairs in protein sheet structures;0C3BAC1F;03C0D517;2007
+79;17;ning zhang;q yan,tao zhang,jie wu;erpdb an integrated database of erp data for neuroinformatics research;9774;03C0D517;2007
+80;6;ning zhang;huaxin zhang,kenneth salem,donghui zhuo;compact access control labeling for efficient secure xml query evaluation;17008;45610CDA;2005
+81;6;ning zhang;huaxin zhang,kenneth salem,donghui zhuo;compact access control labeling for efficient secure xml query evaluation;090B77B3;45610CDA;2007
+82;0;ning zhang;omaima bamasak;reputation management and signature delegation a distributed approach;01B1760F;0C463D7D;2006
+83;3;ning zhang;zhixiong chen,guozhen xiao;efficient elliptic curve scalar multiplication algorithms resistant to power analysis;04A642AB;0B7B9B75;2007
+84;0;ning zhang;aleksandra nenadic,qi shi;rsa based verifiable and recoverable encryption of signatures and its application in certified e mail delivery;0A32FA39;066092F1;2005
+85;20;ning zhang;gang feng;h2 control design for fuzzy dynamic systems via lmi;1130;0AADB995;2000
+86;0;ning zhang;qi shi;an effective model for composition of secure systems;00B6DA1D;0241FF68;1998
+87;0;ning zhang;madjid merabti,qi shi;a unified approach to a fair document exchange system;01B1760F;0241FF68;2004
+88;0;ning zhang;madjid merabti,qi shi;revocation of privacy enhanced public key certificates;01B1760F;0241FF68;2005
+89;0;ning zhang;carole goble,b m g cheetham,aleksandra nenadic;rsa based certified delivery of e goods using verifiable and recoverable signature encryption;0A32FA39;037D9B15;2005
+90;10;ning zhang;liangjie zhang,jia zhang;auction based pricing model for web service providers;0C4400FF;071EF8E7;2006
+91;11;ning zhang;anneliese von mayrhauser;automated regression testing using dbt and sleuth;0582A04E;03BE339E;1999
+92;0;ning zhang;ravi tiwari,xiaochun xu,my t thai;on approximation algorithms of k connected m dominating sets in disk graphs;01FACAD8;05686292;2007
+93;14;ning zhang;xiaolin wu;primary consistent soft decision color demosaicking for digital cameras patent pending ;05DB33D4;06DF68B7;2004
+94;14;ning zhang;xiaolin wu,sorina dumitrescu;on multirate optimality of jpeg2000 code stream;05DB33D4;06DF68B7;2005
+95;14;ning zhang;xiaolin wu;lossless compression of color mosaic images;05DB33D4;455477A7;2004
+96;14;ning zhang;xiaolin wu;lossless compression of color mosaic images;05DB33D4;455477A7;2006
+97;13;ning zhang;solomon w golomb;sixty phase generalized barker sequences;4D76ACCE;0044B422;1989
+98;13;ning zhang;solomon w golomb;a limit theorem for n phase barker sequences corresp ;11648;0044B422;1990
+99;13;ning zhang;solomon w golomb;uniqueness of the generalized barker sequence of length 6;07CC18F3;0044B422;1990
+100;13;ning zhang;solomon w golomb;on the crosscorrelation of generalized barker sequences;07CC18F3;0044B422;1990
+101;13;ning zhang;solomon w golomb;polyphase sequence with low autocorrelations;07CC18F3;0044B422;1993
+102;0;ning zhang;madjid merabti,robert askwith,qi shi;practical and efficient fair document exchange over networks;01B1760F;01CBB785;2006
+103;23;ning zhang;nannan li;the bipartite network study of the library book lending system;08D443A2;665563;2009
+104;23;ning zhang;;topological structure and interest spectrum of the group interest network;08D443A2;317509;2009
+105;1;ning zhang;david campbell,miyoun brusniak,hollis lau,lukas n mueller,andrew garbutt,olga vitek,kelly cooke,simon letarte,james s eddes,julian d watts,vagisha sharma,bernd bodenmiller,ruedi aebersold;corra computational framework and tools for lc ms discovery and targeted mass spectrometry based proteomics;4F199ADC;012269E3;2008
+106;16;ning zhang;yuan zhang,jie tang;a tag recommendation system for folksonomy;05E79D01;472C6E2D;2009
+107;25;ning zhang;ling guan,lingyu duan,jun du,lingfang li,qingming huang;automatic sports genre categorization and view type classification over large scale dataset;00081A17;43AA5802;2009
+108;0;ning zhang;li yao;a generic authentication loa derivation model;01B1760F;464F6958;2009
+109;25;ning zhang;alagan anpalagan;a comprehensive simulation study of swan qos model in manets with proactive and reactive routing;00081A17;47838FAB;2009
+110;24;ning zhang;feng liu,baopeng zhang,kai miao,honghui li;an efficient cloud computing based architecture for freight system application in china railway;0143616E;451788DE;2009
+111;24;ning zhang;feng liu,baopeng zhang,kai miao,honghui li;an efficient cloud computing based architecture for freight system application in china railway;0143616E;451788DE;2009
+112;21;ning zhang;kai qian,zhiwei guo,huiling wei,zhengjie liu;under development ucd in chinese it enterprises;0294EAD4;0449514C;2008
+113;22;ning zhang;sam idicula,sivasankaran chandrasekar,nipun agarwal,balasubramanyam sthanikam,vijay medi,sabina petride;binary xml storage and query processing in oracle 11g;500B3463;0215FD76;2009
+114;0;ning zhang;andy carpenter,osama elshakankiry;a new secure binding management protocol for mobile ipv6 networks;0A32FA39;45E5BC3F;2008
+115;5;ning zhang;hong bao;research on distributed data mining technology based on grid;06CF160C;46C53EEB;2009
+116;8;ning zhang;yutian liu,dong yang;fuzzy comprehensive evaluation for electromagnetic loop in china ultra high voltage grid;7932;4665AEAE;2009
+117;18;ning zhang;ronghua liu;analysis and simulation protocols based on slotted aloha for plastic optical fiber network;19233;596136;2008
+118;0;ning zhang;kitisak osathanunkul;a flexible routing decision framework to support diversified application level data types in manets;0A32FA39;46BF2DF2;2009
+119;29;ning zhang;bing sun,yaping zhang;self protection model based on intelligent agent;8665;4492538C;2009
+120;6;ning zhang;m tamer ozsu,ashraf aboulnaga,ihab f ilyas;fix feature based indexing technique for xml documents;090B77B3;4390334E;2006
+121;26;ning zhang;shufen chen,wenfa xie,yanlong meng,jiang li,wei hu,jingying hou,yi zhao,shiyong liu;effective hole injection layer for non doped inverted top emitting organic light emitting devices;7850;05E40B87;2008
+122;23;ning zhang;;characteristics of the group interest network;08D443A2;119843;2008
+123;2;ning zhang;chengjun li,chi zhang,guoping wang;marker controlled perception based mesh segmentation;0134B592;458DD1E0;2004
+124;8;ning zhang;yutian liu,hua ye;fuzzy comprehensive evaluation for power network operating schemes;092F5EFF;4665AEAE;2007
+125;5;ning zhang;hong bao,aibo liu;analysis on routing convergence in optical network;06CF160C;45827814;2007
+126;0;ning zhang;qiang yang,yang li;segmentation of spectrum map for hfswr based on feature extraction;0C37CBAD;06542A1C;2008
+127;2;ning zhang;song zhang,lei wang,jie yang;a new method in multi issue negotiation;0134B592;126755;2004
+128;28;ning zhang;jose l encarnacao,georg koberle;distributed supercomputing to achieve real time representation and manipulation of complex scenes;3964;039F69FE;1990
+129;0;ning zhang;feng zheng,li yang,guan nan li;a new time domain detection approach with blind separation based on neural network;7067;46F3DAAB;2009
+130;0;ning zhang;mu qing wu,wei ma,guan nan li;interference temperature estimation based on the detection and estimation of angles of arrival of multiple wide band sources in cognitive radio sensor networks;8336;46F3DAAB;2009
+131;31;ning zhang;zhendong qian,hui chen;vissim based simulation of the left turn waiting zone at signalized intersection;04905D15;231508;2008

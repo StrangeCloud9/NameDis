@@ -1,0 +1,27 @@
+0;0;john collins;wolfgang ketter,paul r schrater,alok gupta,maria gini;a predictive empirical model for pricing and resource allocation decisions;07C34834;4565F956;2007
+1;0;john collins;maria gini;research applications of the magnet multi agent contracting testbed;07C34834;46A05BB0;2002
+2;0;john collins;maria gini,wolfgang ketter,eric sodomka,amrudin agovic;strategic sales management in an autonomous trading agent for tac scm;07C34834;46A05BB0;2006
+3;0;john collins;eric sodomka,maria gini;efficient statistical methods for evaluating trading agent performance;07C34834;46A05BB0;2007
+4;0;john collins;corey bilot,maria gini;mixed initiative decision support in agent based automated contracting;07C34834;45A88363;2000
+5;0;john collins;maria gini;exploring decision processes in multi agent automated contracting;07C34834;45A88363;2001
+6;0;john collins;bamshad mobasher,maksim tsvetovat,rashmi sundareswara,joshua van tonder,maria gini;evaluating risk flexibility and feasibility in multi agent contracting;07C34834;45A88363;1999
+7;0;john collins;bamshad mobasher,maria gini,ben youngdahl,scott jamison;a market architecture for multi agent contracting;07C34834;45A88363;1998
+8;0;john collins;guleser k demir,maria gini;bidtree ordering in ida combinatorial auction winner determination with side constraints;07C34834;4607C954;2002
+9;0;john collins;erik steinmetz,bamshad mobasher,rashmi sundareswara,scott jamison,maria gini;bid evaluation and selection in the magnet automated contracting system;07C34834;1910592;1998
+10;0;john collins;stefan botman,mark hoogendoorn,janice l pearce,vasile bud,espen sigvartsen,yelena kryzhnyaya,ashutosh jaiswal,maria gini,anne schoolcraft,steve hawkins;design of supplier agents for an auction based market;3791;45A88363;2007
+11;0;john collins;alexander babanov,maria gini;risk and expectations in a priori time allocation in multi agent contracting;07C34834;45A88363;2002
+12;0;john collins;alexander babanov,maria gini;scheduling tasks with precedence constraints to solicit desirable bid combinations;07C34834;45A88363;2003
+13;0;john collins;alexander babanov,maria gini;multi attribute dynamic pricing for online markets using intelligent agents;17624;1231669;2004
+14;0;john collins;elena kryzhnyaya,steven damer,maria gini,colin mcmillen,wolfgang ketter,amrudin agovic;minnetac sales strategies for supply chain tac;18936;45A88363;2004
+15;0;john collins;brett j borghetti,eric sodomka,maria gini;a market pressure based performance evaluator for tac scm;07C34834;45A88363;2006
+16;1;john collins;charles lashmar,terry smith,ronald f green;the bbc television management information system;18727;45878F67;1971
+17;0;john collins;bamshad mobasher,rashmi sundareswara,maria gini;bid selection strategies for multi agent contracting in the presence of scheduling constraints;11978;47C39427;1999
+18;0;john collins;bamshad mobasher,rashmi sundareswara,maria gini;bid selection strategies for multi agent contracting in the presence of scheduling constraints;07C34834;47C39427;1999
+19;2;john collins;brian farrimond;dimensional inference using symbol lives;8189;44679532;2007
+20;0;john collins;alexander babanov,maria gini;asking the right question risk and expectation in multiagent contracting;07C34834;05D6D059;2003
+21;0;john collins;bamshad mobasher,corey bilot,maria gini;decision processes in agent based automated contracting;07C34834;0C45C5F4;2001
+22;0;john collins;william groves,maria gini;visualization and analysis methods for comparing agent behavior in tac scm;17082;45A88363;2009
+23;0;john collins;dickens nyabuti,wolfgang ketter,andrew c nelson,maria gini;ontology driven decision support in dynamic supply chains;15150;478757A6;2009
+24;3;john collins;mark beckerleg,christopher keith coyte;spike a six legged cube style robot;026022A6;45737C92;2009
+25;5;john collins;;outline or bitmap type;9619;303860;1986
+26;6;john collins;;the abc s of digital type;10703;0C38368F;1989

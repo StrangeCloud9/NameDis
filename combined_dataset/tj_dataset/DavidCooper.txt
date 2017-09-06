@@ -1,0 +1,18 @@
+0;0;david cooper;brian r von konsky,m robey,benjamin khoo;java implementation verification using reverse engineering;0C41D2F4;443A5863;2004
+1;0;david cooper;gautam mehra,michael harding,b r von konsky,moses w chan,paul r woodward,m robey;using dependence graphs to assist manual and automated object oriented software inspections;0C41D2F4;447B80D7;2006
+2;1;david cooper;bo ewald;president s information technology advisory committee pitac subcommittee on transforming the government;6785;4385295C;2000
+3;2;david cooper;marcos rodrigues,yonghuai liu;using geometric properties of correspondence vectors for the registration of free form shapes;13251;4372EE76;2000
+4;3;david cooper;randi j rost,jim bushnell,jerry schneble,lynn thorsenjensen;reading the fine print what benchmarks don t tell you;4FF45383;4566232D;1994
+5;4;david cooper;susan stepney;segregation with communication;0A599FD9;0655F58A;2000
+6;4;david cooper;rosalind barden,susan stepney;the use of z;0A599FD9;45B9D64F;1991
+7;4;david cooper;susan stepney;formal methods for industrial products;0A599FD9;0655F58A;2000
+8;4;david cooper;susan stepney,j c p woodcock;more powerful z data refinement pushing the state of the art in industrial refinement;0A599FD9;43DFAE0A;1998
+9;5;david cooper;nedelina tchangalova;e publishing portal a new approach to faculty outreach;13105;43254BF9;2006
+10;4;david cooper;dave whitely,susan stepney,colin grant;a demonstrably correct compiler;0A599FD9;07A4F1E7;1991
+11;4;david cooper;john a clark,jim woodcock,jeremy l jacob,susan stepney;the certification of the mondex electronic purse to itsec level e6;031AFA6D;07A4F1E7;2007
+12;2;david cooper;mary e dicker,michael f lynch;sorting of textual data bases a variety generation approach to distribution sorting;18759;0A6BF76B;1980
+13;2;david cooper;michael f lynch;the use of binary search trees in external distribution sorting;18402;0A6BF76B;1984
+14;2;david cooper;michael f lynch;compression of wiswesser line notations using variety generation;15238;09F837EB;1979
+15;6;david cooper;beverly park woolf,ivon arroyo,toby dragon,winslow burleson,kasia muldner;recognizing and responding to student affect;01776B6C;43331058;2009
+16;0;david cooper;allan loh,brian r von konsky,susan j gribble,m robey,jim ivins;the benefit of information technology in managing outcomes focused curriculum development across related degree programs;0C41D2F4;1532411;2006
+17;4;david cooper;rosalind barden,susan stepney;z in practice;0A599FD9;736311;1995

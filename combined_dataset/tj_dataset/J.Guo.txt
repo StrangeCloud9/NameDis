@@ -1,0 +1,12 @@
+0;0;j guo;ann christine catlin,moustafa a hammad,salil prabhakar,x q zhu,evimaria terzi,abdelmounaam rezgui,athena vakali,yongqiang tu,walid g aref,mirette marzouk,s teoh,ihab f ilyas,jianping fan,ahmed k elmagarmid;a distributed database server for continuous media;11539;45610CDA;2002
+1;1;j guo;wei hu,qunxiu chen,shanying xu;nonlinear generalized predictive control based on inverse system using wavelet networks;9200;1961953;2003
+2;2;j guo;jianfu teng,qiang li;research of the gyro signal de noising method based on stationary wavelets transform;15704;1957108;2003
+3;3;j guo;w c yuan;generic programming with reusable wavelet transforms;1662;940527;2003
+4;1;j guo;g f zhao,w l hu,g l ma;adaptive synchronous control of servo system driven by two motors;022B685F;45A0DDC1;2004
+5;4;j guo;ching y suen,zi cai li;hierarchical model for analysis and recognition of handwritten characters;1018;056055AD;1993
+6;5;j guo;kwabena a narh;buckling analysis of a building stud spacer assembly and simulation of spacer punching process;12642;01F107E4;2000
+7;6;j guo;xiaoqing wen,zhigang jiang,jiunlang huang,yu zhang,s wu,j c li,wenben jone,l yu,yu hu,l tan,laungterng wang,michael s hsiao;using launch on capture for testing bist designs containing synchronous and asynchronous clock domains;012E6F4E;0602A23F;2010
+8;7;j guo;yu hu,s qi,yu xue,g cai,s zhong,yanli wang,chen wu,y luo;soil moisture retrieval from modis data in northern china plain using thermal inertia model;012E6F4E;06FF8E18;2007
+9;8;j guo;;business to business electronic market place selection;0C309CF2;017B5A12;2007
+10;7;j guo;yongfeng hu,s qi,yajun wang,ying xue,g cai;quantitative study of net radiation from modis data in the lower boundary layer in poyang lake area of jiangxi province china;01815C1D;06FF8E18;2007
+11;9;j guo;m harber,siegfried d schubert,k ekers,r d ferraro,meta sienkiewicz,m p lyster,robert t rood,ricardo todling,chris h q ding,james a stobie,robert lucchesi,j w larson,w k sawyer,david j lamich,arlindo da silva,j zero,lawrence l takacs;parallel computing at the nasa data assimilation office dao ;6269;44BF398F;1997

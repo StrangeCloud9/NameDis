@@ -1,0 +1,43 @@
+0;0;fei su;krishnendu chakrabarty;system level design automation tools for digital microfluidic biochips;0A2FAFA5;45462B39;2005
+1;0;fei su;krishnendu chakrabarty,william l hwang;automated design of pin constrained digital microfluidic arrays for lab on a chip applications ;0A2FAFA5;46CDFBC4;2006
+2;0;fei su;krishnendu chakrabarty;unified high level synthesis and module placement for defect tolerant microfluidic biochips;0A2FAFA5;46CDFBC4;2005
+3;0;fei su;krishnendu chakrabarty;design of fault tolerant and dynamically reconfigurable microfluidic biochips;0A2FAFA5;463BE6FF;2005
+4;0;fei su;krishnendu chakrabarty;design of fault tolerant and dynamically reconfigurable microfluidic biochips;17651;463BE6FF;2007
+5;0;fei su;vamsee k pamula,krishnendu chakrabarty;yield enhancement of digital microfluidics based biochips using space redundancy and local reconfiguration;0A2FAFA5;463BE6FF;2005
+6;0;fei su;vamsee k pamula,krishnendu chakrabarty;yield enhancement of digital microfluidics based biochips using space redundancy and local reconfiguration;10577;463BE6FF;2007
+7;0;fei su;krishnendu chakrabarty,william hwang;droplet routing in the synthesis of digital microfluidic biochips;0A2FAFA5;463BE6FF;2006
+8;2;fei su;xiaohui xie,anni cai;ridge based fingerprint recognition;6717;45E3CA1B;2006
+9;2;fei su;xiaohui xie,j a sun,anni cai;a robust fingerprint minutiae matching algorithm based on the support model;08548E70;1067348;2004
+10;0;fei su;krishnendu chakrabarty;architectural level synthesis of digital microfluidics based biochips;0A2FAFA5;433DEF3A;2004
+11;2;fei su;jianjiang feng,zhengyu ouyang,anni cai;fingerprint matching with rotation descriptor texture features;4185;4372EE76;2006
+12;2;fei su;dequn zhao,anni cai;fingerprint registration using minutia clusters and centroid structure 1;12977;4372EE76;2006
+13;0;fei su;krishnendu chakrabarty,sule ozev;concurrent testing of droplet based microfluidic systems for multiplexed biomedical assays;0A2FAFA5;4579FB5B;2004
+14;0;fei su;krishnendu chakrabarty,sule ozev;testing of droplet based microelectrofluidic systems;0A2FAFA5;4579FB5B;2003
+15;2;fei su;jianjiang feng,zhengyu ouyang,anni cai;an exact ridge matching algorithm for fingerprint verification;08548E70;44689F98;2005
+16;2;fei su;jianjiang feng,anni cai;robust ridge following in fingerprints;08548E70;0655F58A;2004
+17;2;fei su;anni cai;an adaptive fingerprint post processing algorithm based on mathematical morphology;08548E70;419926;2004
+18;2;fei su;dequn zhao,anni cai;a hierarchical fingerprint matching method based on rotation invariant features;08548E70;0655F58A;2004
+19;0;fei su;tao xu,krishnendu chakrabarty;defect aware synthesis of droplet based microfluidic biochips;19153;444CACB9;2007
+20;0;fei su;krishnendu chakrabarty;defect tolerance for gracefully degradable microfluidics based biochips;0A2FAFA5;4300CAC5;2005
+21;0;fei su;vamsee k pamula,krishnendu chakrabarty;yield enhancement of digital microfluidics based biochips using space redundancy and local reconfiguration;0A2FAFA5;463BE6FF;2005
+22;0;fei su;vamsee k pamula,krishnendu chakrabarty;yield enhancement of digital microfluidics based biochips using space redundancy and local reconfiguration;18238;463BE6FF;2007
+23;0;fei su;krishnendu chakrabarty;design of fault tolerant and dynamically reconfigurable microfluidic biochips;0A2FAFA5;463BE6FF;2005
+24;0;fei su;krishnendu chakrabarty;design of fault tolerant and dynamically reconfigurable microfluidic biochips;6018;463BE6FF;2007
+25;0;fei su;jun zeng;computer aided design and test for digital microfluidics;500F4F9C;046010A6;2007
+26;0;fei su;krishnendu chakrabarty;yield enhancement of reconfigurable microfluidics based biochips using interstitial redundancy;0A2FAFA5;05BBDE5F;2006
+27;0;fei su;tao xu,krishnendu chakrabarty,william l hwang;automated design of pin constrained digital microfluidic biochips under droplet interference constraints;500F4F9C;05BBDE5F;2007
+28;0;fei su;krishnendu chakrabarty;high level synthesis of digital microfluidic biochips;500F4F9C;05BBDE5F;2008
+29;0;fei su;krishnendu chakrabarty;defect tolerance based on graceful degradation and dynamic reconfiguration for digital microfluidics based biochips;0A2FAFA5;0602A23F;2006
+30;0;fei su;krishnendu chakrabarty,richard b fair;microfluidics based biochips technology issues implementation platforms and design automation challenges;0A2FAFA5;0602A23F;2006
+31;0;fei su;krishnendu chakrabarty;module placement for fault tolerant microfluidics based biochips;0A2FAFA5;46CDFBC4;2004
+32;0;fei su;krishnendu chakrabarty;module placement for fault tolerant microfluidics based biochips;0A2FAFA5;46CDFBC4;2006
+33;0;fei su;krishnendu chakrabarty,sule ozev;concurrent testing of digital microfluidics based biochips;0A2FAFA5;0642E126;2006
+34;3;fei su;k s chian,sung yi;an optical characterization technique for hygroscopic expansion of polymers and plastic packages;16744;07F74989;2006
+35;0;fei su;krishnendu chakrabarty,sule ozev;test planning and test resource optimization for droplet based microfluidic systems;0A2FAFA5;432DDB7E;2004
+36;0;fei su;krishnendu chakrabarty,sule ozev;test planning and test resource optimization for droplet based microfluidic systems;0A2FAFA5;432DDB7E;2006
+37;0;fei su;krishnendu chakrabarty,william hwang,arindam mukherjee;testing and diagnosis of realistic defects in digital microfluidic biochips;500F4F9C;0BF8148F;2007
+38;2;fei su;vishnu naresh boddeti,bhagavatula vijaya kumar;a biometric key binding and template protection framework using correlation filters;08548E70;45E3CA1B;2009
+39;1;fei su;lincheng shen,hui peng,yuan li;multi ucav cooperative path planning using improved coevolutionary multi ant colony algorithm;0A254897;439B9AD2;2009
+40;2;fei su;quan yuan feng,anni cai;encrypted fuzzy vault based on fingerprint;13553;45E5BC3F;2009
+41;2;fei su;feifei zhao,quan yuan feng,anni cai;cracking cancelable fingerprint template of ratha;1099;496358;2008
+42;2;fei su;geng du,anni cai;eye location under various illumination conditions;3334;0B68DB42;2006

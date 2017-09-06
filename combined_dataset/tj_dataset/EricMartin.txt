@@ -1,0 +1,112 @@
+0;0;eric martin;;quantification over names and modalities;10443;443880FD;2006
+1;0;eric martin;frank stephan,sanjay jain;absolute versus probabilistic classification in a logical setting;01E46A0B;471D649B;2005
+2;0;eric martin;frank stephan,sanjay jain;absolute versus probabilistic classification in a logical setting;01E46A0B;471D649B;2008
+3;0;eric martin;frank stephan,arun sharma;learning logic and topology in a common framework;01E46A0B;471D649B;2002
+4;0;eric martin;frank stephan,arun sharma;on ordinal vc dimension and some notions of complexity;09989277;471D649B;2006
+5;0;eric martin;arun sharma,fran stephan;on ordinal vc dimension and some notions of complexity;5541;05686292;2006
+6;0;eric martin;frank stephan,arun sharma;on the data consumption benefits of accepting increased uncertainty;1129;471D649B;2004
+7;0;eric martin;f stephan,arun sharma;on the data consumption benefits of accepting increased uncertainty;6225;05686292;2007
+8;0;eric martin;frank stephan,arun sharma;on the data consumption benefits of accepting increased uncertainty;01E46A0B;05686292;2007
+9;0;eric martin;jane brennan;foundations for a formalism of nearness;01E46A0B;46EF45E9;2002
+10;0;eric martin;jane brennan;membership functions for spatial proximity;01E46A0B;46EF45E9;2006
+11;0;eric martin;frank stephan,sanjay jain;input dependence in function learning;01E46A0B;436B17F2;2007
+12;0;eric martin;frank stephan,sanjay jain;input dependence in function learning;01E46A0B;436B17F2;2009
+13;1;eric martin;eric senn,nathalie julien,pierre bomel,gwenole corre;memory accesses management during high level synthesis;3405;47765112;2004
+14;0;eric martin;arun sharma;on a syntactic characterization of classification with a mind change bound;01E46A0B;463119A6;2005
+15;0;eric martin;arun sharma;on a syntactic characterization of classification with a mind change bound;17891;198461;2005
+16;1;eric martin;adel baganne,mehrez elmarzougui,riadh gaiech,imed bennour;a multi level design flow for incorporating ip cores case study of 1d wavelet ip integration;11574;463BE6FF;2003
+17;1;eric martin;emmanuel boutillon,pierre bomel;synchronization processor synthesis for latency insensitive systems;497;463BE6FF;2005
+18;1;eric martin;emmanuel boutillon,pierre bomel;synchronization processor synthesis for latency insensitive systems;14131;463BE6FF;2007
+19;1;eric martin;johann laurent,eric senn,nathalie julien;functional level power analysis an efficient approach for modeling the power consumption of complex processors;8316;463BE6FF;2004
+20;0;eric martin;tri m cao,paul compton;on the convergence of incremental knowledge base construction;01E46A0B;437C7B15;2004
+21;0;eric martin;f stephan,arun sharma;a general theory of deduction induction and learning;01E46A0B;437C7B15;2001
+22;0;eric martin;christopher dartnell,jean sallantin;learning from each other;01E46A0B;437C7B15;2008
+23;1;eric martin;jeangabriel cousin,dominique houzet,nathalie julien,david elleouet;power consumption characterization and modeling of embedded memories in xilinx virtex 400e fpga;7031;42E6BE19;2004
+24;1;eric martin;a m fouilliart,emmanuel boutillon,philippe kajfasz,n abdelli,pierre bomel;high level synthesis in latency insensitive system methodology;5744;42E6BE19;2005
+25;1;eric martin;nathalie julien,eric senn,gwenole corre;memory aware hls and the implementation of ageing vectors;3201;42E6BE19;2004
+26;1;eric martin;nathalie julien,eric senn,florian marteil;a complete methodology for memory optimization in dsp applications;2169;42E6BE19;2004
+27;0;eric martin;daniel osherson;a note on the use of probabilities by mechanical learners;11111;463119A6;1995
+28;1;eric martin;adel baganne,j l philippe;hardware interface design for real time embedded systems;783;434A76CE;1997
+29;1;eric martin;eric senn,nathalie julien,gwenole corre;a memory aware behavioral synthesis tool for real time vlsi circuits;08AAFCDD;434A76CE;2004
+30;1;eric martin;adel baganne,nathalie julien,S. Gailhard;low power design of an acoustic echo canceller gmdf a algorithm on dedicated vlsi architectures;12752;434A76CE;1999
+31;1;eric martin;nathalie julien,stephane gailhard,j p diguet;how to transform an architectural synthesis tool for low power vlsi designs;7486;434A76CE;1998
+32;1;eric martin;pascal urard,cyrille chavet,philippe coussy;a design methodology for space time adapter;07DB88BD;434A76CE;2007
+33;1;eric martin;pascal urard,cyrille chavet,philippe coussy;a design methodology for space time adapter;07D3E88F;434A76CE;2007
+34;2;eric martin;marc sauget,jacques m bahi,l makovicka,sylvain contassotvivier;neural network based algorithm for radiation dose evaluation in heterogeneous environments;0A2233D7;45126447;2006
+35;1;eric martin;pascal urard,philippe coussy,emmanuel casseau,caaliph andriamisaina,cyrille chavet,emmanuel juin;a design flow dedicated to multi mode architectures for dsp applications;14294;433DEF3A;2007
+36;0;eric martin;john case,frank stephan,sanjay jain,arun sharma;identifying clusters from positive data;01E46A0B;4366C780;2004
+37;0;eric martin;john case,frank stephan,sanjay jain,arun sharma;identifying clusters from positive data;13281;4366C780;2006
+38;0;eric martin;john case,frank stephan,sanjay jain,arun sharma;identifying clusters from positive data;01E46A0B;4366C780;2004
+39;0;eric martin;john case,frank stephan,sanjay jain,arun sharma;identifying clusters from positive data;8347;4366C780;2006
+40;0;eric martin;patrick caldon;limiting resolution from foundations to implementation;01E46A0B;47977D8C;2004
+41;0;eric martin;phuong nguyen,frank stephan,arun sharma;learning in logic with richprolog;01E46A0B;47977D8C;2002
+42;3;eric martin;ioannis rekleitis,regent larcheveque,kourosh parsa,eric dupuis,guy rouleau;autonomous capture of a tumbling satellite;8928;0904A534;2007
+43;1;eric martin;eric senn;a vision system on chip for industrial control;08AAFCDD;476510B9;2001
+44;1;eric martin;emmanuel casseau,christophe jego;architectural synthesis with interconnection cost control;07D3E88F;057EDBCB;2000
+45;0;eric martin;arun sharma;on sufficient conditions for learnability of logic programs from positive data;01E46A0B;4786A6E3;1999
+46;1;eric martin;n le heno,emmanuel casseau,christophe jego,b le gal;reed solomon behavioral virtual component for communication systems;14924;471752F4;2004
+47;1;eric martin;pierre bomel,eric senn,gwenole corre,philippe coussy;high level synthesis under i o timing and memory constraints;07D3E88F;471752F4;2005
+48;1;eric martin;pierre bomel,eric senn,gwenole corre,philippe coussy;high level synthesis under i o timing and memory constraints;07D3E88F;471752F4;2006
+49;1;eric martin;adel baganne,philippe coussy;a design methodology for ip integration;4686;471752F4;2002
+50;1;eric martin;pascal urard,cyrille chavet,philippe coussy;a methodology for efficient space time adapter design space exploration a case study of an ultra wide band interleaver;3538;471752F4;2007
+51;1;eric martin;johann laurent,eric senn,nathalie julien;power estimation of a c algorithm based on the functional level power analysis of a digital signal processor;08AAFCDD;44BF398F;2002
+52;1;eric martin;nathalie julien,eric senn,gwenole corre;a memory aware high level synthesis tool ;10758;434A76CE;2004
+53;1;eric martin;emmanuel casseau,sylvain huet,b le gal;pipelined memory controllers for dsp applications handling unpredictable data accesses;19013;434A76CE;2005
+54;1;eric martin;johann laurent,nathalie julien,eric senn;power consumption estimation of a c program for data intensive applications;08AAFCDD;469683B8;2002
+55;1;eric martin;johann laurent,nathalie julien,eric senn;softexplorer estimation characterization and optimization of the power and energy consumption at the algorithmic level;08AAFCDD;469683B8;2004
+56;1;eric martin;a m fouilliart,n abdelli,philippe kajfasz,emmanuel boutillon,pierre bomel;dvb dsng modem high level synthesis in an optimized latency insensitive system context;4D2B1EE6;461982D8;2005
+57;1;eric martin;adel baganne,philippe coussy;communication and timing constraints analysis for ip design and integration;1171;476510B9;2003
+58;1;eric martin;s pajaniardja,reda nouacer,sergio adriano,a m fouilliart,emmanuel vaumorin,dominique heller,lobna kriaa,philippe coussy,f blanc,farhat thabet;systemcmantic a high level modelling and co design framework;1844;46FC8289;2005
+59;1;eric martin;pascal urard,cyrille chavet,philippe coussy;a methodology for efficient space time adapter design space exploration a case study of an ultra wide band interleaver;8642;471752F4;2007
+60;1;eric martin;pascal urard,cyrille chavet,philippe coussy;a design methodology for space time adapter;07DB88BD;434A76CE;2007
+61;1;eric martin;pascal urard,cyrille chavet,philippe coussy;a design methodology for space time adapter;07D3E88F;434A76CE;2007
+62;1;eric martin;pascal urard,cyrille chavet,philippe coussy;methodologie de modelisation et d implementation d adaptateurs spatio temporels;12296;0B68DB42;2005
+63;1;eric martin;pascal urard,cyrille chavet,philippe coussy;application of a design space exploration tool to enhance interleaver generation;07D3E88F;42D493FC;2007
+64;1;eric martin;eric senn,nathalie julien,gwenole corre;integration de la synthese memoire dans l outil de synthese d architecture gaut low power;14993;650881;2006
+65;1;eric martin;pierre bomel,eric senn,gwenole corre,philippe coussy;high level synthesis under i o timing and memory constraints;07D3E88F;471752F4;2005
+66;1;eric martin;pierre bomel,eric senn,gwenole corre,philippe coussy;high level synthesis under i o timing and memory constraints;07D3E88F;471752F4;2006
+67;1;eric martin;nathalie julien,eric senn,gwenole corre;a memory aware high level synthesis too;08AAFCDD;0B68DB42;2006
+68;1;eric martin;nathalie julien,eric senn,gwenole corre;memory aware high level synthesis for embedded systems;187;0B68DB42;2006
+69;1;eric martin;eric senn,pierre bomel,philippe coussy,gwenole corre;synthese comportementale sous contraintes de communication et de placement memoire pour les composants du tdsi;3427;0B68DB42;2005
+70;1;eric martin;emmanuel boutillon,pierre bomel;synchronization processor synthesis for latency insensitive systems;16339;463BE6FF;2005
+71;1;eric martin;emmanuel boutillon,pierre bomel;synchronization processor synthesis for latency insensitive systems;3859;463BE6FF;2007
+72;0;eric martin;john case,frank stephan,sanjay jain,arun sharma;identifying clusters from positive data;01E46A0B;4366C780;2004
+73;0;eric martin;john case,frank stephan,sanjay jain,arun sharma;identifying clusters from positive data;15518;4366C780;2006
+74;0;eric martin;john case,frank stephan,sanjay jain,arun sharma;identifying clusters from positive data;01E46A0B;4366C780;2004
+75;0;eric martin;john case,frank stephan,sanjay jain,arun sharma;identifying clusters from positive data;6861;4366C780;2006
+76;0;eric martin;daniel osherson;induction by enumeration;01E46A0B;03928357;2001
+77;1;eric martin;adel baganne,emmanuel casseau,pierre bomel,philippe coussy;constrained algorithmic ip design for system on chip;07D3E88F;084EF482;2007
+78;4;eric martin;sandy wong;sensitivity analysis and other improvements to tailored combinatorial library design;4464;09F837EB;2000
+79;0;eric martin;daniel osherson;scientific discovery based on belief revision;16612;0A971BE4;1997
+80;1;eric martin;johann laurent,eric senn,nathalie julien;power consumption modeling and characterization of the ti c6201;08AAFCDD;4499A295;2003
+81;0;eric martin;john case,frank stephan,sanjay jain,arun sharma;identifying clusters from positive data;01E46A0B;4366C780;2004
+82;0;eric martin;john case,frank stephan,sanjay jain,arun sharma;identifying clusters from positive data;9016;4366C780;2006
+83;0;eric martin;john case,frank stephan,sanjay jain,arun sharma;identifying clusters from positive data;01E46A0B;4366C780;2004
+84;0;eric martin;john case,frank stephan,sanjay jain,arun sharma;identifying clusters from positive data;5220;4366C780;2006
+85;0;eric martin;f stephan,arun sharma;learning power and language expressiveness;13254;05686292;2003
+86;0;eric martin;frank stephan,arun sharma;learning power and language expressiveness;01E46A0B;05686292;2003
+87;0;eric martin;frank stephan,arun sharma;unifying logic topology and learning in parametric logic;15558;1665414;2006
+88;0;eric martin;frank stephan,arun sharma;unifying logic topology and learning in parametric logic;01E46A0B;05686292;2006
+89;0;eric martin;frank stephan,arun sharma;on ordinal vc dimension and some notions of complexity;09989277;471D649B;2006
+90;0;eric martin;arun sharma,fran stephan;on ordinal vc dimension and some notions of complexity;15391;05686292;2006
+91;0;eric martin;frank stephan,arun sharma;on the data consumption benefits of accepting increased uncertainty;15332;471D649B;2004
+92;0;eric martin;f stephan,arun sharma;on the data consumption benefits of accepting increased uncertainty;2216;05686292;2007
+93;0;eric martin;frank stephan,arun sharma;on the data consumption benefits of accepting increased uncertainty;01E46A0B;05686292;2007
+94;0;eric martin;frank stephan,sanjay jain;absolute versus probabilistic classification in a logical setting;01E46A0B;471D649B;2005
+95;0;eric martin;frank stephan,sanjay jain;absolute versus probabilistic classification in a logical setting;01E46A0B;471D649B;2008
+96;1;eric martin;adel baganne,emmanuel casseau,pierre bomel,philippe coussy;a formal method for hardware ip design and integration under i o and timing constraints;07D3E88F;081DA4C2;2006
+97;1;eric martin;emmanuel casseau,christophe jego;synthese architecturale d applications temps reel pour technologies submicroniques;10238;0ADA8C52;2004
+98;1;eric martin;nathalie julien,eric senn,gwenole corre;estimation et optimisation de la consommation des memoires;17350;1961376;2008
+99;1;eric martin;emmanuel casseau,guillaume savaton;design of a flexible 2 d discrete wavelet transform ip core for jpeg2000 image coding in embedded imaging systems;07D3E88F;09379623;2006
+100;1;eric martin;adel baganne,j l philippe;a co design methodology for telecommunication systems a case study of an acoustic echo canceller;3355;46F80578;1997
+101;1;eric martin;nathalie julien,stephane gailhard;low power synthesis methodology with data format optimization applied on a dwt;8172;46F80578;2003
+102;0;eric martin;christopher dartnell,helene hagege,jean sallantin;human discovery and machine learning;01E46A0B;0965C46A;2008
+103;3;eric martin;ioannis rekleitis,regent larcheveque,kourosh parsa,eric dupuis,guy rouleau;autonomous capture of a tumbling satellite;4667;0904A534;2007
+104;0;eric martin;jean sallantin;a dialectic approach to problem solving;01E46A0B;437C7B15;2009
+105;1;eric martin;farhat thabet,dominique heller,philippe coussy;design space exploration of dsp applications based on behavioral description models;4D2B1EE6;46F80578;2006
+106;1;eric martin;farhat thabet,dominique heller,philippe coussy;exploration and rapid prototyping of dsp applications using systemc behavioral simulation and high level synthesis;07891B5A;00ABCA5F;2009
+107;1;eric martin;pascal urard,cyrille chavet,philippe coussy;static address generation easing a design methodology for parallel interleaver architectures;4131;42D493FC;2010
+108;0;eric martin;frank stephan,sanjay jain;input dependence in function learning;01E46A0B;436B17F2;2007
+109;0;eric martin;frank stephan,sanjay jain;input dependence in function learning;01E46A0B;436B17F2;2009
+110;1;eric martin;johann laurent,eric senn,nathalie julien;power estimation of a c algorithm based on the functional level power analysis of a digital signal processor;08AAFCDD;44BF398F;2002
+111;0;eric martin;christopher dartnell,jean sallantin;learning from each other;01E46A0B;437C7B15;2008

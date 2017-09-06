@@ -1,0 +1,69 @@
+0;0;david c wilson;andrew kinley,david leake;acquiring case adaptation knowledge a hybrid approach;17673;46A05BB0;1996
+1;0;david c wilson;andrew kinley,david leake;case based similarity assessment estimating adaptability from experience;16251;46A05BB0;1997
+2;0;david c wilson;kenneth godwin,jayakrishnan andaparambil,nadia najjar,jamie smart,andrew baxter,ashley levy,suzanne leland;the law of choice and the decision not to decide;0616AB9C;46A05BB0;2008
+3;0;david c wilson;dympna o sullivan,eoin mcloughlin,michela bertolotto;adaptive presentation and navigation for geospatial imagery tasks;0616AB9C;47A8116F;2004
+4;0;david c wilson;dympna o sullivan,eoin mcloughlin,michela bertolotto;contextual media integration and recommendation for mobile medical diagnosis;0616AB9C;47A8116F;2006
+5;0;david c wilson;derry osullivan,barry smyth;data mining support for case based collaborative recommendation;06041575;133092;2002
+6;0;david c wilson;okan pala,heather richter lipford,pamela karr wisniewski;grounding geovisualization interface design a study of interactive map use;0616AB9C;4558D729;2009
+7;0;david c wilson;anne drummond,ruichao wang,john dunnion,joe carthy;using t ret system to improve incident report retrieval;06041575;4321CC25;2004
+8;0;david c wilson;dympna o sullivan,eoin mcloughlin,michela bertolotto;a knowledge management system for intelligent retrieval of geo spatial imagery;0616AB9C;448AC690;2004
+9;0;david c wilson;dympna o sullivan,eoin mcloughlin,michela bertolotto;context oriented image retrieval;0616AB9C;587794;2005
+10;0;david c wilson;joe weakliam;using data mining for modeling personalized maps;0616AB9C;46202E57;2005
+11;0;david c wilson;james d carswell,michela bertolotto;digital image similarity for geo spatial knowledge management;06041575;0655F58A;2002
+12;0;david c wilson;derry o sullivan,barry smyth;analysing similarity essence for case based recommendation;0616AB9C;1853594;2004
+13;0;david c wilson;david leake;remembering why to remember performance guided case base maintenance;00090A43;42CC6E2D;2000
+14;0;david c wilson;david leake;categorizing case base maintenance dimensions and directions;00090A43;42CC6E2D;1998
+15;0;david c wilson;derry o sullivan,barry smyth;improving case based recommendation a collaborative filtering approach;1323;1089196;2002
+16;0;david c wilson;dympna o sullivan,eoin mcloughlin,michela bertolotto;a case based approach to managing geo spatial imagery tasks;0616AB9C;1082649;2004
+17;0;david c wilson;derry o sullivan,barry smyth;in depth analysis of similarity knowledge and metric contributions to recommender performance;15790;472D3001;2004
+18;0;david c wilson;derry osullivan,barry smyth;using collaborative filtering data in case based recommendation;06041575;472D3001;2002
+19;0;david c wilson;derry o sullivan,barry smyth;preserving recommender accuracy and diversity in sparse datasets;18485;472D3001;2003
+20;0;david c wilson;derry o sullivan,barry smyth;preserving recommender accuracy and diversity in sparse datasets;2339;472D3001;2011
+21;0;david c wilson;joe weakliam,michela bertolotto;implicit interaction profiling for recommending spatial content;0616AB9C;43F8572D;2005
+22;0;david c wilson;michela bertolotto,eoin mac aoidh;analysis of implicit interest indicators for spatial data;0616AB9C;43F8572D;2007
+23;0;david c wilson;erin a carroll,nadia najjar,pamela karr,heather richter lipford;charting new ground modeling user behavior in interactive geovisualization;0616AB9C;43F8572D;2008
+24;0;david c wilson;kevin mccarthy,lorraine mcginty,derry o sullivan,barry smyth,james reilly;case studies in association rule mining for recommender systems;1503;465F7C62;2005
+25;0;david c wilson;gareth hurley;dublet an online cbr system for rental property recommendation;06041575;45A86DF6;2001
+26;0;david c wilson;gareth hurley;dublet an online cbr system for rental property recommendation;10347;45A86DF6;2001
+27;0;david c wilson;andrew kinley,david leake;learning to improve case adaption by introspective reasoning and cbr;12295;45A86DF6;1995
+28;0;david c wilson;andrew kinley,david leake;a case study of case based cbr;00090A43;45A86DF6;1997
+29;0;david c wilson;david leake;combining cbr with interactive knowledge acquisition manipulation and reuse;00090A43;45A86DF6;1999
+30;0;david c wilson;david leake;when experience is wrong examining cbr for changing tasks and environments;00090A43;45A86DF6;1999
+31;0;david c wilson;s woodlawn ave,arijit sengupta,david leake;constructing and transforming cbr implementations techniques for corporate memory management;1490;45A86DF6;1999
+32;0;david c wilson;eoin mac aoidh,michela bertolotto;implicit profiling for contextual reasoning about users spatial preferences;5829;45A86DF6;2007
+33;0;david c wilson;dympna o sullivan,eoin mcloughlin,michela bertolotto;knowledge capture and reuse for geo spatial imagery tasks;06041575;45A86DF6;2003
+34;0;david c wilson;joe carthy,john w sheppard,ruichao wang,john dunnion,anne drummond,karl abbey;textual cbr for incident report retrieval;06041575;470B05DE;2003
+35;0;david c wilson;julie doyle,joe weakliam,michela bertolotto;a multimodal interface for personalising spatial data in mobile gis;14086;44A68539;2006
+36;0;david c wilson;andrew kinley,david leake;learning to integrate multiple knowledge sources for case based reasoning;09DC92C5;47C39427;1997
+37;0;david c wilson;dympna o sullivan,eoin mcloughlin,michela bertolotto;capturing and reusing case based context for image retrieval;0616AB9C;47C39427;2005
+38;0;david c wilson;derry o sullivan,barry smyth;explicit vs implicit profiling a case study in electronic programme guides;13606;47C39427;2003
+39;3;david c wilson;janardhan kamath,fred l bookstein,david kwon,david dean,krishnamurthy subramanyan,peter f buckley;comparison of traditional brain segmentation tools with 3d self organizing maps;03839B48;4367C1B4;1997
+40;0;david c wilson;eoin mcloughlin,dympna osullivan,michela bertolotto;capturing task knowledge for geo spatial imagery;0616AB9C;45876312;2003
+41;0;david c wilson;dympna o sullivan,eoin mcloughlin,michela bertolotto;capturing task knowledge for geo spatial imagery;11790;45876312;2003
+42;0;david c wilson;helen min zhou,michela bertolotto,julie doyle,joe weakliam,daniel lynch,eoin mac aoidh;managing spatial knowledge for mobile personalized applications;0616AB9C;47169EC5;2005
+43;0;david c wilson;dympna osullivan,eoin mcloughlin,michela bertolotto;task based image annotation and retrieval;0616AB9C;45302733;2009
+44;0;david c wilson;eoin mcloughlin,dympna osullivan,michela bertolotto;medic mobile diagnosis for improved care;0616AB9C;439F2D27;2006
+45;0;david c wilson;julie doyle,joe weakliam,qiang han,michela bertolotto;developing non proprietary personalized maps for web and mobile environments;0616AB9C;454CC982;2004
+46;0;david c wilson;julie doyle,michela bertolotto,daniel lynch,joe weakliam;delivering personalized context aware spatial information to mobile devices;0616AB9C;454CC982;2005
+47;0;david c wilson;julie doyle,joe weakliam,daniel lynch,michela bertolotto;delivering personalized context aware spatial information to mobile devices;14674;454CC982;2005
+48;0;david c wilson;julie doyle,michela bertolotto;multimodal interaction improving usability and efficiency in a mobile gis context;17455;45266923;2008
+49;0;david c wilson;david leake;a case based framework for interactive capture and reuse of design knowledge;00090A43;04743DEB;2001
+50;0;david c wilson;david leake,qiang yang,barry smyth;introduction to the special issue on maintaining case based reasoning systems;00090A43;42CC6E2D;2001
+51;0;david c wilson;david b leake;maintaining cased based reasoners dimensions and directions;3212;035F0F42;2001
+52;2;david c wilson;zohra z manseur;decomposition methods for convolution operators;10318;08311E31;1991
+53;3;david c wilson;fred l bookstein,amir a amini;biomedical image analysis;11717;0B07014C;1997
+54;1;david c wilson;robert a procter;interpretation of a basic hypergeometric identity with lie characters and young tableaux;01E46A0B;01206F2B;1995
+55;0;david c wilson;derry o sullivan,barry smyth;preserving recommender accuracy and diversity in sparse datasets;13390;472D3001;2003
+56;0;david c wilson;derry o sullivan,barry smyth;preserving recommender accuracy and diversity in sparse datasets;4872;472D3001;2011
+57;0;david c wilson;derry o sullivan,barry smyth;understanding case based recommendation a similarity knowledge perspective;12989;0AA7F8E4;2011
+58;0;david c wilson;derry o sullivan,barry smyth;sparsity reduction in collaborative recommendation a case based approach;18023;02790879;2011
+59;0;david c wilson;julie doyle,michela bertolotto,daniel lynch,joe weakliam;personalised maps in multimodal mobile gis;0616AB9C;052933E2;2007
+60;0;david c wilson;derry osullivan,kieran mcdonald,barry smyth,alan f smeaton;improving the quality of the personalized electronic program guide;06041575;099300C1;2004
+61;0;david c wilson;christopher g wilson,daniel j osullivan,james d carswell,eoin mcloughlin,michela bertolotto;using sketches and knowledge bases for geo spatial image retrieval;06E3775F;03954A60;2006
+62;0;david c wilson;derry o sullivan;medical imagery in case based reasoning;0616AB9C;806052;2008
+63;0;david c wilson;eoin mac aoidh,michela bertolotto;personalizing location aware applications;17699;684749;2008
+64;0;david c wilson;eoin mac aoidh,michela bertolotto;a study of spatial interaction behaviour for improved delivery of web based maps;0616AB9C;454CC982;2009
+65;0;david c wilson;diane osullivan,eoin mcloughlin,michela bertolotto;mobile case based decision support for intelligent patient knowledge management;0616AB9C;0C073BAA;2007
+66;2;david c wilson;bryn david,b a mair,zoltan reti,edward a geiser;a q series approach to deblurring the discrete gaussian;10967;0B07014C;1997
+67;4;david c wilson;robert j smith;an analytic technique for router comparison;9614;46CDFBC4;1976
+68;4;david c wilson;r j smith;an experimental comparison of force directed placement techniques;16803;46CDFBC4;1974

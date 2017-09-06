@@ -1,0 +1,191 @@
+0;0;bin li;jason tsongli wang,dennis shasha;a framework for biological pattern discovery on networks of workstations;8841;825063;1999
+1;1;bin li;shuang liang,zhengxing sun;sketch retrieval based on spatial relations;348EB203;455477A7;2005
+2;3;bin li;yuzhuo zhong,lifeng sun,feng huang;supporting live video on ad hoc wireless networks unbalanced multiple description coding single path transport and recursive error concealment;05E79D01;46C53898;2008
+3;4;bin li;guoyong huang,yizheng ye,liyi xiao;cluggs and clucr two matrix solution methods for general circuit simulation;14869;450B99F2;2001
+4;4;bin li;ye yizheng,guoyong huang,jinjun guo,peng zhang,liyi xiao;a mixed signal simulator for vhdl ams;12214;43D1CF2E;2001
+5;5;bin li;zhengquan zhuang,xianji wang,xin li,hong chen;full space lda with evolutionary selection for face recognition;4CE6FC2D;45E5BC3F;2006
+6;5;bin li;zhengquan zhuang,xianji wang,xin li,hong chen;full space lda with evolutionary selection for face recognition;4CE6FC2D;45E5BC3F;2006
+7;5;bin li;peng yao,zhenquan zhuang,wencong zhang,hong chen;precise eye localization with adaboost and fast radial symmetry;4CE6FC2D;45E5BC3F;2006
+8;5;bin li;peng yao,zhenquan zhuang,wencong zhang,hong chen;precise eye localization with adaboost and fast radial symmetry;4CE6FC2D;45E5BC3F;2007
+9;1;bin li;jiandong wang,junwu zhu;on dynamic and concurrent model of web service components;8777;43520230;2007
+10;1;bin li;jiandong wang,junwu zhu;ssoa a semantic service oriented architecture based on fuzzy assertion system;19595;43520230;2007
+11;9;bin li;zemao zhao,longhai zhu,xiangxong tang;an id based anonymous proxy signature from bilinear pairings;8943;469DDC30;2006
+12;10;bin li;shuo sheng,michael s hsiao;a novel sat all solutions solver for efficient preimage computation;3333E44B;463BE6FF;2004
+13;1;bin li;guihuan feng,qiang wang,zhengxing sun;dynamic user modeling for sketch based user interface;348EB203;457CED2E;2006
+14;12;bin li;yin bai,jinlan liu;a new approach to forecast crude oil price based on fuzzy neural network;09B52E07;4665AEAE;2007
+15;13;bin li;lu peng,lide duan;versatile prediction and fast estimation of architectural vulnerability factor from processor performance metrics;0742D5C5;43226B44;2009
+16;14;bin li;xiaojun ye,jingmin xie,feng xie;a configurable web service performance testing framework;16758;447B8E60;2008
+17;15;bin li;weiguang qu,xuri tang;personal name recognition based on categorized linguistic knowledge;090FD2EB;478794CB;2008
+18;18;bin li;aning du,binxing fang;a biased support vector machine approach to web filtering;0C37CBAD;4372EE76;2005
+19;18;bin li;kuanquan wang,david zhang;minimizing spatial deformation method for online signature matching;0C37CBAD;45E3CA1B;2007
+20;18;bin li;kuanquan wang,david zhang;on line signature verification based on pca principal component analysis and mca minor component analysis ;0C37CBAD;1145514;2004
+21;20;bin li;wen tong,rui wang;a new block detection receiver for noncoherent orthogonal cdma system;092C7553;436150FA;2000
+22;21;bin li;yongming huang,daofeng xu,luxi yang;linear transceiver design for multiuser mimo downlink;18213;436150FA;2008
+23;21;bin li;weiping zhu,min lin,luxi yang,min li;a new transmit scheme combining beamforming with space time block coding;19868;436150FA;2008
+24;21;bin li;yinggang du,yongming huang,daofeng xu,luxi yang;limited feedback precoding based on hierarchical codebook and linear receiver;14747;436150FA;2008
+25;22;bin li;lishiuan peh,hangsheng wang,noel a eisley,vassos soteriou;polaris a system level roadmap for on chip interconnection networks;01328BF3;46BFF4BF;2006
+26;18;bin li;yao wang,boru yan,mingzeng hu;authoritative server s impact on domain name system s performance and security;0C37CBAD;439B9AD2;2006
+27;3;bin li;shiqiang yang,peihe wang,rui cai;a pinhole camera modeling of motion vector field for tennis video analysis;05E79D01;455477A7;2004
+28;24;bin li;fangjun huang,jiwu huang;steganalysis of lsb greedy embedding algorithm for jpeg images using coefficient symmetry;09676E2E;455477A7;2007
+29;24;bin li;fangjun huang,jiwu huang;attack lsb matching steganography by counting alteration rate of the number of neighbourhood gray levels;09676E2E;455477A7;2007
+30;24;bin li;fangjun huang,jiwu huang;universal jpeg steganalysis based on microscopic and macroscopic calibration;09676E2E;455477A7;2008
+31;3;bin li;lifeng sun,feng huang,shiqiang yang;an unbalanced multiple description coding scheme for video transmission over wireless ad hoc networks;05E79D01;432251B5;2006
+32;3;bin li;jiang zhang,shiqiang yang,jianguang luo;sikas a scalable distributed key management scheme for dynamic collaborative groups;05E79D01;432251B5;2006
+33;3;bin li;feng huang,shiqiang yang,lifeng shu;optimized rate allocation for unbalanced multiple description video coding over unreliable packet network;05E79D01;432251B5;2006
+34;3;bin li;li zhao,jiang zhang,shiqiang yang;license management scheme with anonymous trust for digital rights management;05E79D01;432251B5;2005
+35;30;bin li;mingmin chi,xiangyang xue,jianping fan;support cluster machine;017C99DB;465F7C62;2007
+36;27;bin li;qiao wang,qiming qin,shihong du;fuzzy description of topological relations i a unified fuzzy 9 intersection model;0018DB89;397171;2005
+37;28;bin li;supin wang,yujin zong,mingxi wan;detection of individual microbubbles using wavelet transform based on a theoretical bubble oscillation model;05364FE4;0655F58A;2006
+38;5;bin li;zhenquan zhuang,xianji wang,bin lin,runtian zhong;continuous optimization based on boosting gaussian mixture model;078A8AE9;4372EE76;2006
+39;5;bin li;zhenquan zhuang,haifeng gong,xianji wang,hao zhang;palmprint identification using boosting local binary pattern;10937;4372EE76;2006
+40;5;bin li;zhenquan zhuang,xueyi ye,peng yao,jun li;analysis and improvement of an iris identification algorithm;13163;4372EE76;2006
+41;5;bin li;zhenquan zhuang,xueyi ye,peng yao,jun li;iris recognition algorithm using modified log gabor filters;16617;4372EE76;2006
+42;33;bin li;kanryu inoue,y ohmameuda,shugen ma;control of a 3 dimensional snake like robot;4786;455FBCE1;2003
+43;33;bin li;n tadokoro,kenji inoue,shugen ma;analysis of creeping locomotion of a snake robot on a slope;1525;455FBCE1;2003
+44;33;bin li;changlong ye,yuechao wang,shugen ma;turning and side motion of snake like robot;9370;455FBCE1;2004
+45;33;bin li;li chen,yuechao wang,shugen ma;studies on lateral rolling locomotion of a snake robot;3266;455FBCE1;2004
+46;33;bin li;liping zhang,minghui wang,zheng zhang,binggang cao,guowei zhang,xinyuan he,shugen ma;locomotion analysis and experiment for climbing motion of rprs;7881;455FBCE1;2005
+47;33;bin li;yuechao wang,peng li,shugen ma;design of a mobile mechanism possessing driving ability and detecting function for in pipe inspection;16680;455FBCE1;2008
+48;34;bin li;shenquan liu,xundong liang;the deformed cube a visualization technique for 3d velocity vector field;050BB43F;4399020E;1995
+49;35;bin li;congwu tao,fei li;construct teacher community in e learning system;05E79D01;44BF6A26;2008
+50;5;bin li;zhenquan zhuang;genetic algorithm based on the quantum probability representation;078A8AE9;44788D44;2002
+51;38;bin li;daxin tian,yanheng liu;a wireless intrusion detection method based on dynamic growing neural network;0B97151C;118341;2006
+52;37;bin li;yu lin,y thomas hou,chongyng wang,kazem sohraby;lred a robust active queue management scheme based on packet loss ratio;10978;442BD7CD;2004
+53;36;bin li;zhao sun,yongduan song,xiaohong liao,yao li,liguo weng;adaptive neural network path tracking of unmanned ground vehicle;19685;4539ED1E;2006
+54;33;bin li;shugen ma,jinguo liu,yuechao wang;rbf neural network based shape control of hyper redundant manipulator with constrained end effector;0877F335;4539ED1E;2006
+55;33;bin li;binggang cao,shugen ma,liping zhang,guowei zhang,zheng zhang;bp networks based trajectory planning and inverse kinematics of a reconfigurable mars rover;0877F335;4539ED1E;2005
+56;33;bin li;shugen ma,jinguo liu,yuechao wang;neural network based kinematic control of the hyper redundant snake like manipulator;012E6F4E;4539ED1E;2007
+57;39;bin li;yong song,yibin li,jingming wang;an improved on line sequential learning algorithm for extreme learning machine;9831;4539ED1E;2007
+58;18;bin li;yao wang,boru yan,mingzeng hu;tracking anomalous behaviors of name servers by mining dns traffic;0C37CBAD;44BF398F;2006
+59;38;bin li;daxin tian,yanheng liu;a distributed hebb neural network for network anomaly detection;0B97151C;4737FD14;2007
+60;41;bin li;zhengfeng yang,kartik krishnan sivaramakrishnan,lihong zhi,erich kaltofen;lower bounds for approximate factorizations via semidefinite programming extended abstract ;083839C7;46FD5AEB;2007
+61;41;bin li;lihong zhi,jiawang nie;approximate gcds of polynomials and sos relaxation;012E6F4E;46FD5AEB;2007
+62;41;bin li;zhengfeng yang,lihong zhi,erich kaltofen;exact certification of global optimality of approximate factorizations via rationalizing sums of squares with floating point scalars;083839C7;46FD5AEB;2008
+63;45;bin li;carol smidts,ming li,s ghose;integrating software into pra;03FD8454;4503201D;2003
+64;43;bin li;wen li,xiaoyuan zhang,guoqiang han,kun zou;an e government platform based on multi tier architecture;05669A68;46CB4466;2008
+65;24;bin li;jiwu huang,fangjun huang,shunquan tan,yun q shi;effect of different coding patterns on compressed frequency domain based universal jpeg steganalysis;09676E2E;478BCB40;2007
+66;5;bin li;min xu,shiming xiang,stan z li,xiaotong yuan;a set theoretical method for video synopsis;078A8AE9;46F58A2E;2008
+67;48;bin li;dong li,yalou huang,fanghao wu,jingjing liu;a web based aggregated platform for user contributed interactive media broadcasting;0C3BAC1F;43AA5802;2007
+68;48;bin li;dong li,yalou huang,fanghao wu,jingjing liu;dj dreamfactory;16930;43AA5802;2007
+69;3;bin li;lifeng sun,shiqiang yang;bit rate reduction of h 264 avc video coding for mobile applications;05E79D01;42F91B89;2006
+70;46;bin li;kongfa hu,ling chen,yisheng dong,qi gu;a parallel and distributed method for computing high dimensional molap;04B51E34;45827814;2005
+71;47;bin li;xueping zhang,zhongshan fan,jiayao wang;spatial clustering with obstacles constraints using ant colony and particle swarm optimization;0A1D4047;463BD859;2007
+72;1;bin li;shuang liang,bo yuan,zhengxing sun,yaoye zhang;relevance feedback for sketch retrieval based on linear programming classification;348EB203;4459102E;2006
+73;18;bin li;jinqiao shi,binxing fang;towards an analysis of source rewriting anonymous systems in a lossy environment;0C37CBAD;45BA2C87;2004
+74;33;bin li;binggang cao,liping zhang,shugen ma;multiagent reinforcement learning for a planetary exploration multirobot system;05364FE4;443CBAC4;2006
+75;51;bin li;t c ting;an event state approach to handling temporal queries in an extended relational database system;085ADB71;982734;1992
+76;13;bin li;balachandran ramadass,lu peng;efficient mart aided modeling for microarchitecture design space exploration and performance prediction;0742D5C5;4372AEEF;2008
+77;0;bin li;dennis shasha;free parallel data mining;022F9467;460A7036;1998
+78;1;bin li;maolin xing,pingping lu,liang li;d s theory based trust model fire in multi agent systems;5654;46950273;2007
+79;1;bin li;jianxin li,liang li,tongsheng che;a policy language for adaptive web services security framework;7079;46950273;2007
+80;49;bin li;quan shi,zhijun ma;battle damage assessment based on bayesian network;9297;46950273;2007
+81;50;bin li;feifan liu,yang liu;utdallas at trec 2008 blog track;09B0BBA7;462F772C;2008
+82;22;bin li;lishiuan peh,priyadarsan patra;impact of process and temperature variations on network on chip design exploration;01328BF3;451BB32E;2008
+83;5;bin li;zhenquan zhuang,ronghua guo,yi zou;hybrid quantum probabilistic coding genetic algorithm for large scale hardware software co synthesis of embedded systems;078A8AE9;478757A6;2007
+84;5;bin li;yu wang;a restart univariate estimation of distribution algorithm sampling under mixed gaussian and levy probability distribution;078A8AE9;478757A6;2008
+85;5;bin li;yu wang;understand behavior and performance of real coded optimization algorithms via nk linkage model;078A8AE9;478757A6;2008
+86;24;bin li;jiwu huang,yun q shi;steganalysis of yass;09676E2E;478C2CAA;2008
+87;24;bin li;jiwu huang,yun q shi;steganalysis of yass;09676E2E;478C2CAA;2009
+88;52;bin li;kaikuang ma;unequal arm adaptive rood pattern search with early terminations for fast block matching motion estimation on h 264;015BDFDA;4392C40B;2006
+89;1;bin li;maolin xing,junwu zhu,tongsheng che;a dynamic trust model for the multi agent systems;01710C78;1084825;2008
+90;3;bin li;yuzhuo zhong,lifeng sun,feng huang;joint error concealment and error recovery for consecutive frame losses under the unbalanced multiple description coding architecture;05E79D01;4726B6D2;2007
+91;3;bin li;yuzhuo zhong,lifeng sun,feng huang;joint error concealment and error recovery for consecutive frame losses under the unbalanced multiple description coding architecture;05E79D01;4726B6D2;2007
+92;14;bin li;xiaojun ye,lijie jin;a multi dimensional k anonymity model for hierarchical data;13769;46F3DAAB;2008
+93;53;bin li;rong yan,fangyu peng;a method of general stiffness modeling for multi axis machine tool;02D828C1;45737C92;2008
+94;53;bin li;yong zhou,fangyu peng;adaptive notch filter control for the torsion vibration in lead screw feed drive system based on neural network;02D828C1;45737C92;2008
+95;53;bin li;yong zhou,xubin chen,li li,fangyu peng;look ahead scheme for high speed consecutive micro line interpolation based on dynamics of machine tool;02D828C1;45737C92;2008
+96;33;bin li;yuechao wang,peng li,shugen ma;multifunctional mobile units with a same platform for in pipe inspection robots;11197;44250E28;2008
+97;33;bin li;changlong ye,yuechao wang,peng li,shugen ma;an in pipe inspection robot based on adaptive mobile mechanism mechanical design and basic experiments;15126;44250E28;2007
+98;33;bin li;minghui wang,shugen ma,yuechao wang;configuration analysis for reconfigurable modular planetary robots based on msv and csm;012E6F4E;44250E28;2006
+99;33;bin li;zhenli lu,yuechao wang,shugen ma;3d locomotion of a snake like robot controlled by cyclic inhibitory cpg model;0877F335;44250E28;2006
+100;33;bin li;changlong ye,shugen ma;design and basic experiments of a shape shifting mobile robot for urban search and rescue;0877F335;44250E28;2006
+101;35;bin li;jing du,fei li;the case of interactive web based course development;05E79D01;1685437;2008
+102;24;bin li;jiwu huang,yun q shi;detecting doubly compressed jpeg images by using mode based first digit features;09676E2E;47A1D52F;2008
+103;3;bin li;lifeng sun,meng zhang,shiqiang yang,jingyuan wang;ccl svc optimizing user experience of broadcasting video on computation capability limited handheld devices;05E79D01;47A1D52F;2008
+104;33;bin li;changlong ye,shugen ma,xinyuan he,yuechao wang;analysis of locomotion of a planetary rover on a slope;012E6F4E;4351B9E8;2004
+105;30;bin li;zhenyuan zhang,xiangyang xue,hong lu;scene segmentation based on video structure and spectral methods;017C99DB;45A0DDC1;2008
+106;33;bin li;binggang cao,shugen ma,liping zhang,zheng zhang;development of an opengl based multi robot simulating platform;8932;45A0DDC1;2004
+107;33;bin li;binggang cao,liping zhang,shugen ma,zheng zhang,zaili dong;position sensing based a new docking system of rprs;2149;45A0DDC1;2004
+108;33;bin li;li chen,yang lv;development of a snake like robot adapting to the ground;0877F335;45A0DDC1;2004
+109;56;bin li;brij masand,d r mani,piew datta;automated cellular modeling and prediction on a large scale;12553;0752020E;2000
+110;5;bin li;yiguo zhang,xufa wang,zeming zhang,wenjian luo;a hardware software partitioning algorithm based on artificial immune principles;078A8AE9;42F0CC9A;2008
+111;55;bin li;warren j gallin;vkcdb voltage gated potassium channel database;093456D7;012269E3;2004
+112;56;bin li;brij masand,d r mani,piew datta;champ a prototype for automated cellular churn prediction;11850;07445D32;1999
+113;54;bin li;li zhang;distributed spatial catalog service on the corba object bus;0018DB89;0637196F;2000
+114;5;bin li;wencong zhang,zhenquan zhuang,yi zou,wenlong wei;a multi objective hw sw co synthesis algorithm based on quantum inspired evolutionary algorithm;3365;0C559B34;2011
+115;18;bin li;kuanquan wang,david zhang;online signature verification by combining shape contexts and local features;14801;0394C23D;2011
+116;3;bin li;lifeng sun,danian zheng,shiqiang yang;exploiting multi scale support vector regression for image compression;15640;02B93B6A;2007
+117;5;bin li;wencong zhang,xueyi ye,zhenquan zhuang,kongqiao wang;a robust iris localization algorithm via radial symmetry for nonideal capturing condition;1121;02790879;2009
+118;5;bin li;weilin du;multi strategy ensemble particle swarm optimization for dynamic optimization;10780;0B7B9B75;2008
+119;4;bin li;yizheng ye,liyi xiao;a new synchronization algorithm for vhdl ams simulation;10306;09A08B9A;2002
+120;37;bin li;lizhong li,krishna m sivalingam,xiren cao;call admission control for voice data integrated cellular networks performance analysis and comparative study;0BF77E37;0563BD02;2004
+121;18;bin li;kuanquan wang,david zhang;online signature verification based on null component analysis and principal component analysis;0C37CBAD;02B63C29;2005
+122;30;bin li;xiangyang xue,jianping fan;a robust incremental learning framework for accurate skin region segmentation in color images;017C99DB;00065366;2007
+123;1;bin li;xian xiao,wujia zhu,zhaohui zhu,shifu chen;a representation theorem for recovering contraction relations satisfying wci;348EB203;05686292;2003
+124;41;bin li;jiawang nie,lihong zhi;approximate gcds of polynomials and sparse sos relaxations;0229448F;05686292;2008
+125;59;bin li;zhijun liang,mark r wax,arie kaufman,d chen,li li;a novel approach to extract colon lumen from ct images for virtual colonoscopy;4558;037612B1;2000
+126;22;bin li;lishiuan peh,hangsheng wang,noel a eisley,vassos soteriou;polaris a system level roadmapping toolchain for on chip interconnection networks;13223;023CCC5C;2007
+127;37;bin li;imrich chlamtac,lizhong li,hailiang wu,li yin;on handoff performance for an integrated voice data cellular system;0BF77E37;44D951AC;2002
+128;37;bin li;Xi-Ren Cao,lizhong li,bo li;on handoff performance for an integrated voice data cellular system;12680;0C3FA903;2003
+129;13;bin li;qingzhao yu;classification of functional data a segmentation approach;0742D5C5;07E3B233;2008
+130;18;bin li;hongli zhang,zhihong tian,mingzeng hu,bo liu;defending against distributed denial of service attacks with an auction based method;9924;091877D3;2006
+131;58;bin li;hongxing bai,xi chen,dianfei han;a location free algorithm of energy efficient connected coverage for high density wireless sensor networks;05E79D01;08041391;2007
+132;57;bin li;yuguang fang,xiang chen;a dynamic multiple threshold bandwidth reservation dmtbr scheme for qos provisioning in multimedia wireless networks;18163;03C85075;2005
+133;33;bin li;bin,ma,wang,shugen,dalong,li,yuechao,liu,tan,jinguo;center configuration selection technique for the reconfigurable modular robot;0877F335;05798E5E;2007
+134;33;bin li;bin,ma,wang,shugen,zhenli,yuechao,li,lu;gaits transferable cpg controller for a snake like robot;0877F335;05798E5E;2008
+135;33;bin li;bin,ma,wang,shugen,yuechao,li,liu,jinguo;network based reconfiguration routes for a self reconfigurable robot;012E6F4E;05798E5E;2008
+136;11;bin li;xiaowei dong,tigang ning,shuisheng jian,shaohua lu,ou xu;theoretical analysis of transmission characteristics for all fiber multi cavity fabry perot filters based on fiber bragg gratings;9373;05798E5E;2008
+137;21;bin li;bin,min,lin,luxi,li,yang;combined adaptive beamforming with space time block coding for multi antenna communications;04905D15;05798E5E;2008
+138;1;bin li;liang li,junwu zhu;towards a coordination infrastructure for pervasive computing environment based on tuplespace and semantic web;04B51E34;06B775A5;2008
+139;16;bin li;;information services geography;0018DB89;1868244;2008
+140;30;bin li;qiang yang,xiangyang xue;transfer learning for collaborative filtering via a rating matrix generative model;017C99DB;465F7C62;2009
+141;2;bin li;;a forward secrecy wtls handshake protocol based on xtr;08EAA2CB;44F7644F;2009
+142;5;bin li;yu wang;a self adaptive mixed distribution based uni variate estimation of distribution algorithm for large scale global optimization;078A8AE9;688654;2009
+143;22;bin li;lishiuan peh,andrew b kahng,kambiz samadi;orion 2 0 a fast and accurate noc power and area model for early stage design space exploration;01328BF3;463BE6FF;2009
+144;22;bin li;lishiuan peh,andrew b kahng,kambiz samadi;orion 2 0 a fast and accurate noc power and area model for early stage design space exploration;18915;255588;2009
+145;30;bin li;qiang yang,xiangyang xue;can movies and books collaborate cross domain collaborative filtering for sparsity reduction;017C99DB;47C39427;2009
+146;6;bin li;yuehmin huang,j morris chang,chihheng ke;enhanced high performance distributed coordination function for ieee 802 11 multi rate lans;3008;0A730631;2009
+147;33;bin li;bin,ma,wang,shugen,yuechao,li,minghui;configuration representation and reconfiguration optimization for the reconfigurable robots with independent manipulation;012E6F4E;05798E5E;2009
+148;8;bin li;yunfei zhou,xiaoqi tang;a research on open cnc system based on architecture component software reuse technology;16430;039F69FE;2004
+149;7;bin li;lee gillam;risk informed computer economics;01AFAF1B;4651456C;2009
+150;14;bin li;xiaojun ye,feng xie,zude li;trust and privacy in dissemination control;17609;449C9FDE;2009
+151;33;bin li;qiquan quan,rongqiang liu,shugen ma;posture control of a dual crawler driven robot;0877F335;455FBCE1;2009
+152;33;bin li;zhifeng wang,shugen ma,yuechao wang;dynamic modeling for locomotion manipulation of a snake like robot by using geometric methods;0877F335;44250E28;2009
+153;23;bin li;wei mingliang,ruanyue qiang;the consequences of work family conflicts to female entrepreneurs within the travel agenices;1568;454CA326;2009
+154;25;bin li;jiping liu,liang wang,lihong shi;a method of raster data mining based on multi dimension data set;023B9EF3;4665AEAE;2009
+155;33;bin li;tonglin liu,jinguo liu,chengdong wu;the adaptive path planning research for a shape shifting robot using particle swarm optimization;012E6F4E;0764D17B;2009
+156;26;bin li;dandan wang,wufan chen;an improved fcm algorithm incorporating spatial information for image segmentation;2519;122810;2008
+157;33;bin li;zhenli lu,yuechao wang,shugen ma;locomotion of a snake like robot controlled by the bidirectional cyclic inhibitory cpg model;0877F335;45E2ADDB;2006
+158;33;bin li;chengdon wu,hongwei gao;study on epipolar geometry restoration of parallel binocular vision;0877F335;45E2ADDB;2006
+159;17;bin li;yuehong yang,ping ning,xiwu lu;nitrogen and phosphate removal by zeolite rare earth adsorbents;8281;46D5969B;2009
+160;19;bin li;lee sael,david la,juan esquivelrodriguez,vishwesh venkatraman,steven ahrendt,daisuke kihara,stephen ueng;3d surfer software for high throughput protein surface comparison and analysis;12060;031F7D94;2009
+161;13;bin li;balachandran ramadass,lu peng;accurate and efficient processor performance prediction via regression tree based modeling;0742D5C5;079BF13C;2009
+162;6;bin li;derjiunn deng,yuehmin huang,lianfen huang,chihheng ke;saturation throughput analysis of multi rate ieee 802 11 wireless networks;0B659C39;00039752;2009
+163;54;bin li;li zhang,hui lin;a model of gis virtual machine;0018DB89;04A7112B;1998
+164;24;bin li;jiwu huang,yun q shi;steganalysis of yass;09676E2E;478C2CAA;2008
+165;24;bin li;jiwu huang,yun q shi;steganalysis of yass;09676E2E;478C2CAA;2009
+166;6;bin li;huihuang chen,haiying liu,lianfen huang,minghao yu;performance analysis of multi channel dca mac protocol in cognitive wireless mesh networks;0B659C39;436D599B;2009
+167;24;bin li;jiwu huang,fangjun huang,shunquan tan,yun q shi;effect of different coding patterns on compressed frequency domain based universal jpeg steganalysis;09676E2E;478BCB40;2007
+168;32;bin li;wim magnus,f m peeters,b partoens;dielectric mismatch effect on coupled impurity states in a freestanding nanowire;08E4D2D6;05E40B87;2009
+169;59;bin li;xiang li,hongbing lu,xin liu,zhengrong liang,jie meng;mixture based bone segmentation and its application in computer aided diagnosis and treatment planning;192;458DD1E0;2004
+170;37;bin li;chonggang wang,kazem sohraby;an effective collision resolution mechanism for wireless lan;16486;629871;2003
+171;3;bin li;lifeng sun,danian zheng,shiqiang yang;letters exploiting multi scale support vector regression for image compression;05E79D01;02B93B6A;2007
+172;38;bin li;daxin tian,yanheng liu;anomaly intrusion detection methods for peer to peer system;6670;45827814;2007
+173;5;bin li;zhongqian fu,lejun fan,zhenquan zhuang;an approach for dynamic hardware software partitioning based on dpbil;078A8AE9;864667;2007
+174;1;bin li;jianxin li,liang li,tongsheng che;an agent based policy aware framework for web services security;19236;45827814;2007
+175;29;bin li;yunde jia,liuxin zhang;a practical calibration method for multiple cameras;07802943;458DD1E0;2007
+176;38;bin li;wei liu,tongyan qi,chunyu zhang,mianshu chen;kernel based global folley sammon discriminate analysis;0B97151C;458DD1E0;2007
+177;1;bin li;maolin xing,tongsheng che,xingshen wu;encouraging good interactions in open agent systems;04B51E34;462E0862;2008
+178;5;bin li;peng yao,zhenquan zhuang,wencong zhang,hong chen;precise eye localization with adaboost and fast radial symmetry;4CE6FC2D;45E5BC3F;2006
+179;5;bin li;peng yao,zhenquan zhuang,wencong zhang,hong chen;precise eye localization with adaboost and fast radial symmetry;4CE6FC2D;45E5BC3F;2007
+180;5;bin li;zhengquan zhuang,xianji wang,xin li,hong chen;full space lda with evolutionary selection for face recognition;4CE6FC2D;45E5BC3F;2006
+181;5;bin li;zhengquan zhuang,xianji wang,xin li,hong chen;full space lda with evolutionary selection for face recognition;4CE6FC2D;45E5BC3F;2006
+182;1;bin li;liang li,junwu zhu,xiaowei zhang;a tuplespace based middleware for semantic web services using swrl;04B51E34;462E0862;2008
+183;31;bin li;weihua lian,pei luo,wanyi gu,shanguo huang;novel routing algorithms for hierarchical architecture in ason;16642;1766128;2009
+184;48;bin li;gang an,xu ma;design and implementation of an automated microscope stage;4250;1993322;2009
+185;42;bin li;xiaoling yu,xuebin li;influence of incomplete linkage between marked and functional gene on estimating gene effect by molecular marker regression model;9336;1123905;2009
+186;42;bin li;yu xiaoling,xuebin li;influence of incomplete linkage between marked and functional gene on estimating gene effect by molecular marker regression model;13100;34197;2009
+187;30;bin li;xiangyang xue,shile zhang;semi automatic dynamic auxiliary tag aided image annotation;017C99DB;00065366;2010
+188;40;bin li;fangfang jiang,guohua xie,qin xue,mingjun liu,jingying hou,yi zhao,liying zhang,ping chen;influence of connecting units thicknesses on tandem organic devices performances;0B97151C;05E40B87;2008
+189;25;bin li;liang wang;design and application of gis software platform integrating with dss oriented to e government;11249;233554;2008
+190;44;bin li;feng wang;a data collection system in high energy detection;1215;996232;2008

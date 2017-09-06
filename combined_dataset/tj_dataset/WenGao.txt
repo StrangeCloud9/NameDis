@@ -1,0 +1,523 @@
+0;0;wen gao;xin liu,hongxun yao;an adaptive dandelion model for reconstructing spherical terrain like visual hull surfaces;7488;4482B3A4;2005
+1;0;wen gao;yanfeng zheng;randomized parallel scheduling algorithm for input queued crossbar switches;012E6F4E;42C62517;2005
+2;0;wen gao;dawei liang,yang liu,qingming huang;self calibration based 3d information extraction and application in broadcast soccer video;0C37CBAD;4603A79F;2006
+3;0;wen gao;feng zhao,qingming huang;image matching by multiscale oriented corner correlation;012E6F4E;4603A79F;2006
+4;0;wen gao;xin liu,jingcai fan,yazhou liu,hongxun yao;the bunch active shape model;0C37CBAD;45D6911A;2005
+5;0;wen gao;feng jiang,guilin yao,hongxun yao,chenxi zhang;static gesture quantization and dct based sign language generation;0C37CBAD;45D6911A;2005
+6;0;wen gao;feng jiang,hongxun yao,guilin yao,chenxi zhang;static gesture quantization and dct based sign language generation;10262;45D6911A;2005
+7;0;wen gao;chong huang,tiejun huang,yonghong tian;semantic scoring based on small world phenomenon for feature selection in text mining;012E6F4E;469407EC;2006
+8;0;wen gao;tiejun huang,yonghong tian;robust collective classification with contextual dependency network models;012E6F4E;469407EC;2006
+9;0;wen gao;changshui yang,zhaoqi wang,yiqiang chena,gaolin fang;cslds chinese sign language dialog system;6834;44CCC1CE;2003
+10;0;wen gao;changshui yang,zhaoqi wang,yiqiang chen,gaolin fang;cslds chinese sign language dialog system;7252;44CCC1CE;2003
+11;0;wen gao;xilin chen,shengye yan,shiguang shan,jie chen,ruiping wang;how to train a classifier based on the huge face database ;0C37CBAD;44CCC1CE;2005
+12;0;wen gao;xilin chen,shengye yan,shiguang shan,jie chen,ruiping wang;how to train a classifier based on the huge face database ;5768;0655F58A;2005
+13;0;wen gao;debin zhao,shiguang shan,bo cao;illumination normalization for robust face recognition against varying lighting conditions;2328;44CCC1CE;2003
+14;0;wen gao;xilin chen,peng yang,shiguang shan;adaboost gabor fisher classifier for face recognition;0C37CBAD;44CCC1CE;2005
+15;0;wen gao;zhaoqi wang,dalong jiang,zhiguo li;animating 3d facial models with mpeg 4 facedeftables;012E6F4E;450B99F2;2002
+16;0;wen gao;jiyong mat;text independent speaker identification based on spectral weighting functions;0C37CBAD;1432672;1997
+17;0;wen gao;jiyong ma;text independent speaker identification based on spectral weighting functions;6054;471752F4;1997
+18;0;wen gao;xilin chen,x chai,shiguang shan,laiyun qing;pose invariant face recognition under arbitrary illumination based on 3d face reconstruction;0C37CBAD;471752F4;2005
+19;0;wen gao;shengye yan,jie chen,ruiping wang;face detection based on the manifold;0C37CBAD;0655F58A;2005
+20;0;wen gao;hongxun yao,minghui xu,wei shan;visual features extracting selecting for lipreading;0C37CBAD;471752F4;2003
+21;0;wen gao;xilin chen,baochang zhang;discriminant analysis based on kernelized decision boundary for face recognition;0C37CBAD;471752F4;2005
+22;0;wen gao;baochang zhang,wei wang,shiguang shan;constraint shape model using edge constraint and gabor wavelet based search;012E6F4E;471752F4;2003
+23;0;wen gao;xilin chen,hongming zhang,shiguang shan,wenchao zhang;multi resolution histograms of local variation patterns mhlvp for robust face recognition;18321;471752F4;2005
+24;0;wen gao;simin he,xiang chen,dongbo bu,runsheng chen;a flexible stem based local search algorithm for predicting rna secondary structures including pseudoknots;9229;44C5464F;2007
+25;0;wen gao;baocai yin;sequence decomposition method for computing a grobner basis and its application to bivariate spline;0C37CBAD;43C40A80;1995
+26;0;wen gao;;compunication from concept to practice;0C37CBAD;44233F91;1997
+27;0;wen gao;zhenzhou ji,mingzeng hu,lei deng;an efficient vlsi architecture for mc interpolation in avc video coding;5090;44C93DEC;2004
+28;0;wen gao;xilin chen,jianyu wang;online selecting discriminative tracking features using particle filter;0C37CBAD;45083D2F;2005
+29;0;wen gao;xilin chen,baochang zhang,shiguang shan;nonlinear face recognition based on maximum average margin criterion;4215;45083D2F;2005
+30;0;wen gao;xilin chen,shengye yan,shiguang shan,jie chen;matrix structural learning msl of cascaded classifier from enormous training set;19922;45083D2F;2007
+31;0;wen gao;xilin chen,shengye yan,shiguang shan;locally assembled binary lab feature with feature centric cascade for fast and accurate face detection;17733;45083D2F;2008
+32;0;wen gao;xilin chen,shiguang shan,yu su;classifiability based optimal discriminatory projection pursuit;8749;45083D2F;2008
+33;0;wen gao;xilin chen,shiguang shan,ruiping wang;manifold manifold distance with application to face recognition based on image set;1123;45083D2F;2008
+34;0;wen gao;xilin chen,matti pietikainen,shiguang shan,jie chen,guoying zhao;a robust descriptor based on weber s law;12971;45083D2F;2008
+35;0;wen gao;xilin chen,shiguang shan,bo cao,laiyun qing,yu su;unified principal component analysis with generalized covariance matrix for face recognition;8020;45083D2F;2008
+36;0;wen gao;feng wu,datong chen,xiang yangzhou,peng gao;on line sprite encoding with large global motion estimation;9714;46AD78C1;1998
+37;0;wen gao;longshe huo,qingming huang;bandwidth adaptive quality smoothing for unequal error protected scalable video streaming;012E6F4E;46AD78C1;2005
+38;0;wen gao;debin zhao,y k chan;morphological representation of dct data for image coding;15044;46AD78C1;2001
+39;0;wen gao;debin zhao,y k chan;facola face coder based on location and attention;4082;46AD78C1;1998
+40;0;wen gao;debin zhao,y k chan;extending daclic for near lossless compression with postprocessing of greyscale images;3012;46AD78C1;1999
+41;0;wen gao;debin zhao,qiang wang,siwei ma;an enhanced robust entropy coder for video codecs based on context adaptive reversible vlc;8497;46AD78C1;2007
+42;0;wen gao;debin zhao,zhi bian,xiaobin zhu,da liu,xiangyang ji;performance analysis of dual frame motion compensation;10944;46AD78C1;2008
+43;0;wen gao;jintao li,shi wang;discovering sequence association rules with user access transaction grammars;15120;47169EC5;2000
+44;0;wen gao;xilin chen,hongming zhang,shiguang shan,debin zhao;robust multi view face detection using error correcting output codes;0C37CBAD;43001016;2006
+45;0;wen gao;xilin chen,hongming zhang,shiguang shan,debin zhao;robust multi view face detection using error correcting output codes;15121;43001016;2006
+46;0;wen gao;guangyu zhu,qingming huang,changsheng xu;action recognition in broadcast tennis video using optical flow and support vector machine;0C37CBAD;43001016;2006
+47;0;wen gao;yiqiang chen,debin zhao,gaolin fang;transition movement models for large vocabulary continuous sign language recognition;0C37CBAD;4566232D;2004
+48;0;wen gao;xilin chen,jie chen;expand training set for face detection by ga re sampling;0C37CBAD;4566232D;2004
+49;0;wen gao;gaolin fang;a srn hmm system for signer independent continuous sign language recognition;0C37CBAD;4566232D;2002
+50;0;wen gao;chunli wang,jiangqin wu,jiyong ma;a continuous chinese sign language recognition system;9240;43001016;2000
+51;0;wen gao;shiguang shan,laiyun qing;eigen harmonics faces face recognition under generic lighting;7772;4566232D;2004
+52;0;wen gao;peng yang,shiguang shan,bo cao,yizheng chang;curse of mis alignment in face recognition problem and a novel mis alignment learning solution;5505;4566232D;2004
+53;0;wen gao;chunli wang,shiguang shan;an approach based on phonemes to large vocabulary chinese sign language recognition;1953;4566232D;2002
+54;0;wen gao;dong zhang,shiguang shan,peng yang,stan z li;face recognition using ada boosted gabor features;012E6F4E;4566232D;2004
+55;0;wen gao;xilin chen,chunli wang;expanding training set for chinese sign language recognition;15206;43AA5802;2006
+56;0;wen gao;xilin chen,hu han,shiguang shan;illumination transfer using homomorphic wavelet filtering and its application to light insensitive face recognition;0134B592;432251B5;2008
+57;0;wen gao;xilin chen,shiguang shan,yu su;hierarchical ensemble of gabor fisher classifier for face recognition;7162;43AA5802;2006
+58;0;wen gao;xilin chen,x chai,shiguang shan,annan li;recovering 3d facial shape via coupled 2d 3d space learning;0134B592;432251B5;2008
+59;0;wen gao;xilin chen,x chai,shiguang shan;local linear regression llr for pose invariant face recognition;11229;43AA5802;2006
+60;0;wen gao;xilin chen,jun miao,fang fang,laiyun qing,zhiguo ma;face reconstruction using fixation positions and foveated imaging;0134B592;432251B5;2008
+61;0;wen gao;xilin chen,tianfu wu,shiguang shan,jinli suo,songchun zhu;design sparse features for age estimation using hierarchical face model;0134B592;432251B5;2008
+62;0;wen gao;xilin chen,shiguang shan,bingpeng ma;discriminant analysis for perceptionally comparable classes;012E6F4E;432251B5;2008
+63;6;wen gao;lei wang,xinyu liu,takashi nanya;a reconfigurable high availability infrastructure in cluster for grid;012E6F4E;4554E150;2003
+64;0;wen gao;jiangqin wu;the recognition of finger spelling for chinese sign language;9739;45C028EA;2001
+65;0;wen gao;jiangqin wu;the recognition of finger spelling for chinese sign language;3213;45C028EA;2002
+66;0;wen gao;xilin chen,chunli wang,gaolin fang,jiyong ma;signer independent continuous sign language recognition based on srn hmm;0C37CBAD;45C028EA;2001
+67;0;wen gao;xilin chen,chunli wang;re sampling for chinese sign language recognition;012E6F4E;45C028EA;2005
+68;0;wen gao;xilin chen,chunli wang;a comparison between etymon and word based chinese sign language recognition systems;012E6F4E;45C028EA;2005
+69;0;wen gao;chunli wang,jiyong ma;a real time large vocabulary recognition system for chinese sign language;6438;45C028EA;2001
+70;0;wen gao;feng jiang,chunli wang,han liu,hongxun yao,xiaolin yang;visual sign language recognition based on hmms and auto regressive hmms;012E6F4E;45C028EA;2005
+71;0;wen gao;xilin chen,chunli wang;generating data for signer adaptation;0134B592;45C028EA;2009
+72;0;wen gao;jun cheng,tiejun huang,ling zhang,bin liu;a cache based distributed terabyte text retrieval system in cadal;012E6F4E;47CD5392;2002
+73;0;wen gao;x chai,shiguang shan,laiyun qing;pose estimation based on gaussian error models;0C37CBAD;45E3CA1B;2006
+74;0;wen gao;baochang zhang,fei yang,bingpeng ma;the application of extended geodesic distance in head poses estimation;012E6F4E;45E3CA1B;2006
+75;0;wen gao;xiangrong chen,josef kittler,y su,sebastien marcel,shiguang shan,yann rodriguez,james short,kieron messer,guillaume heusch,fabien cardinaux;performance characterisation of face recognition algorithms and their sensitivity to severe illumination changes;012E6F4E;45E3CA1B;2006
+76;0;wen gao;sanqiang zhao,baocai yin,shiguang shan;enhance the alignment accuracy of active shape models using elastic graph matching;012E6F4E;1033630;2004
+77;4;wen gao;jing lei;a backward compatible solution for next generation dvb c system;3941;436150FA;2008
+78;4;wen gao;houshin chen,david g daut;spectrum sensing for ofdm systems employing pilot tones and application to dvb t ofdm;19837;436150FA;2008
+79;4;wen gao;houshin chen,david g daut;spectrum sensing for dmb t systems using pn frame headers;13542;436150FA;2008
+80;4;wen gao;houshin chen,david g daut;signature based spectrum sensing algorithms for ieee 802 22 wran;06194FDE;436150FA;2007
+81;0;wen gao;xiaojun han,guozhen tan;network tree model and shortest path algorithm;012E6F4E;43D2A5F0;2003
+82;0;wen gao;guozhen tan,xiangfu xia;reliability theory model and expected life shortest path in stochastic and time dependent networks;012E6F4E;43D2A5F0;2003
+83;0;wen gao;xilin chen,hong liu,jun miao,gang deng,hongming zhang;facetracker a human face tracking and facial organ localizing system;15052;45701BF3;2001
+84;0;wen gao;xilin chen,hongming zhang,shiguang shan,wenchao zhang;local gabor binary pattern histogram sequence lgbphs a novel non statistical model for face representation and recognition;9186;45701BF3;2005
+85;0;wen gao;xilin chen,shiguang shan,yu su;hierarchical ensemble of global and local classifiers for face recognition;19578;45701BF3;2007
+86;0;wen gao;xilin chen,shiguang shan,yu su;hierarchical ensemble of global and local classifiers for face recognition;0C37CBAD;45701BF3;2009
+87;0;wen gao;xilin chen,shengfu dong;a system for automatic chinese seal imprint verification;03D00B37;448D1E7E;1995
+88;0;wen gao;weongeun oh,xingyuan li,jiarong hong;recognizing components of handwritten characters by attributed relational graphs with stable features;16909;448D1E7E;1997
+89;0;wen gao;weongeun oh,david doermann,li xingyuan;a robust method for unknown forms analysis;8711;448D1E7E;1999
+90;0;wen gao;shaohui liu,lijun wang,yazhou liu,hongxun yao;fast moving region detection scheme in ad hoc sensor network;6430;4678AD74;2004
+91;0;wen gao;shaohui liu,lijun wang,yazhou liu,hongxun yao;inter frame differential energy video watermarking algorithm based on compressed domain;0C37CBAD;4678AD74;2004
+92;0;wen gao;shaohui liu,dingguo yang,hongxun yao;minimizing the distortion spatial data hiding based on equivalence class;677;439B9AD2;2007
+93;0;wen gao;shaohui liu,yongliang liu,zhao wang;a lattice based general blind watermark scheme;012E6F4E;43B0EC38;2003
+94;2;wen gao;peter c doerschuk;reconstruction problems in 3d for viral cryo electron microscopy;0D109F83;455477A7;1998
+95;0;wen gao;yan lu,debin zhao,siwei ma,xiangyang ji;new scaling technique for direct mode coding in b pictures;6241;455477A7;2004
+96;0;wen gao;wei zeng,yang liu,weiqiang wang;a novel compressed domain shot segmentation algorithm on h 264 avc;8361;455477A7;2004
+97;0;wen gao;feng wu,siwei ma,yan lu;rate control for jvt video coding scheme with hrd considerations;012E6F4E;455477A7;2003
+98;0;wen gao;feng wu,yun lu;sprite generation for frame based video coding;14620;455477A7;2001
+99;0;wen gao;feng wu,yan lu;high efficient sprite coding with directional spatial prediction;18466;455477A7;2002
+100;0;wen gao;hongming zhang,xlin chen,shiguang shan,jie yan;individual 3d face synthesis based on orthogonal photos and speech driven facial animation;10711;455477A7;2000
+101;0;wen gao;bin sheng,di wu;an implemented architecture of deblocking filter for h 264 avc;0C37CBAD;455477A7;2004
+102;0;wen gao;feng wu,xiaoyan sun,john shen,shipeng li;the improved sp frame coding technique for the jvt standard;11446;455477A7;2003
+103;0;wen gao;feng wu,xiaoyan sun,yaqin zhang,shipeng li;macroblock based progressive fine granularity scalable pfgs video coding with flexible temporal snr scalablilities;9810;455477A7;2001
+104;0;wen gao;peng yang,shiguang shan,bo du;a novel pupil localization method based on gaboreye model and radial symmetry operator;15509;455477A7;2004
+105;0;wen gao;qixiang ye,qingming huang;automatic text segmentation from complex background;012E6F4E;455477A7;2004
+106;0;wen gao;yan lu,yuan zhang,qingming huang,h sun;error resilience video coding in h 264 encoder with potential distortion tracking;012E6F4E;455477A7;2004
+107;0;wen gao;peng zhang,qingming huang,yan lu;mode mapping method for h 264 avc spatial downscaling transcoding;10438;455477A7;2004
+108;0;wen gao;wei zeng,debin zhao;video indexing by motion activity maps;0C37CBAD;455477A7;2002
+109;0;wen gao;yilin chen,xin liu,hongxun yao;an active volumetric model for 3d reconstruction;0C37CBAD;455477A7;2005
+110;0;wen gao;guangyu zhu,dawei liang,yang liu,qingming huang;improving particle filter with support vector regression for efficient visual tracking;9492;455477A7;2005
+111;0;wen gao;debin zhao,xun guo;motion vector prediction in multiview video coding;7633;455477A7;2005
+112;0;wen gao;mingji zhang;an adaptive skin color detection algorithm with confusing backgrounds elimination;012E6F4E;455477A7;2005
+113;0;wen gao;xiangyangji,feng wu,jiali zheng,guangnan ni;extended direct mode for hierarchical b picture coding;012E6F4E;455477A7;2005
+114;0;wen gao;lei qin;image matching based on a local invariant descriptor;012E6F4E;455477A7;2005
+115;0;wen gao;xilin chen,chunli wang,qi wang,liangguo zhang;viewpoint invariant sign language recognition;4490;455477A7;2005
+116;0;wen gao;xilin chen,chunli wang,qi wang,liangguo zhang;viewpoint invariant sign language recognition;0C37CBAD;455477A7;2007
+117;0;wen gao;feng wu,yanyan zheng,debin zhao,xiangyang ji;an efficient fgs coding scheme for interlaced scalable video coding;9972;455477A7;2006
+118;0;wen gao;feng wu,yan lu,debin zhao,mei guo;practical wyner ziv switching scheme for multiple bit rate video streaming;0C37CBAD;455477A7;2006
+119;0;wen gao;xilin chen,xin liu,hongxun yao;visual hull embossment by graph cuts;9325;455477A7;2006
+120;0;wen gao;feng wu,yan lu,xun guo,shipeng li;wyner ziv video coding based on set partitioning in hierarchical tree;0134B592;455477A7;2006
+121;0;wen gao;xiaoming li,debin zhao,qiang wang,xiangyang ji;a fast inter frame prediction algorithm for multi view video coding;905;455477A7;2007
+122;0;wen gao;dawei liang,shuqiang jiang,hongxun yao,qingming huang;mean shift blob tracking with adaptive feature selection and scale adaptation;14954;455477A7;2007
+123;0;wen gao;zhigang yang,debin zhao,yan liu;software pipelines design for variable block size motion estimation with large search range;0C37CBAD;455477A7;2007
+124;0;wen gao;x xiang,debin zhao,qiang wang,xiangyang ji;a novel error concealment method for stereoscopic video coding;17;455477A7;2007
+125;0;wen gao;junbiao pang,qingming huang,laiyun qing,shuqiang jiang;monocular tracking 3d people by gaussian process spatio temporal variable model;14822;455477A7;2007
+126;0;wen gao;yuanning li,weiqiang wang;object recognition based on dependent pachinko allocation model;1691;455477A7;2007
+127;0;wen gao;zhigang yang,debin zhao,yan liu;dsp implementation of deblocking filter for avs;0C37CBAD;455477A7;2007
+128;0;wen gao;qingming huang,lei hu,shuqiang jiang;people re detection using adaboost with sift and color correlogram;012E6F4E;455477A7;2008
+129;0;wen gao;shuhui wang,qingming huang,shuqiang jiang;shot classification for action movies based on motion characteristics;012E6F4E;455477A7;2008
+130;0;wen gao;junbiao pang,qingming huang,shuqiang jiang;pedestrian detection via logistic multiple instance boosting;012E6F4E;455477A7;2008
+131;0;wen gao;guorong li,dawei liang,qingming huang,shuqiang jiang;object tracking using incremental 2d lda learning and bayes inference;0134B592;455477A7;2008
+132;0;wen gao;tiejun huang,yonghong tian,jia li;multi polarity text segmentation using graph theory;012E6F4E;455477A7;2008
+133;0;wen gao;xiaojun li,weiqiang wang,qingming huang,shuqiang jiang;fast and effective text detection;012E6F4E;455477A7;2008
+134;0;wen gao;xiangyung ji,siwei mal,yun lu,debin zhao,wen gaol,qingmin huang;new bi prediction techniques for b pictures coding;17016;432251B5;2004
+135;0;wen gao;liu yongliang;secure watermark verification scheme;0C37CBAD;432251B5;2004
+136;0;wen gao;yaxiao song,hongxun yao,liu yongliang;secure watermark verification scheme;0C37CBAD;4459102E;2002
+137;0;wen gao;yongliang liu;secure watermark verification scheme;7174;4459102E;2004
+138;0;wen gao;yaxiao song,yongliang liu,hongxun yao;secure watermark verification scheme;10395;4459102E;2002
+139;0;wen gao;feng wu,xiaoyan sun,yaqin zhang,shipeng li;macroblock based progressive fine granularity scalable video coding;6134;432251B5;2001
+140;0;wen gao;li su,yuan zhang,qingming huang,yan lu;improved error concealment algorithms based on h 264 avc non normative decoder;11602;432251B5;2004
+141;0;wen gao;yan lu,wen ga,siwei ma,qiang wang,debin zhao,qingming huang;context based 2d vlc for video coding;11004;432251B5;2004
+142;0;wen gao;peng zhang,debin zhao,siwei ma,yan lu;multiple modes intra prediction in intra coding;012E6F4E;432251B5;2004
+143;0;wen gao;xilin chen,chunli wang,qi wang;sign language recognition from homography;15553;432251B5;2006
+144;0;wen gao;debin zhao,qian huang;an edge based median filtering algorithm with consideration of motion vector reliability for adaptive video deinterlacing;012E6F4E;432251B5;2006
+145;0;wen gao;songnan li,debin zhao,qian huang,jianguo du;an adaptive de interlacing algorithm based on texture and motion vector analysis;5699;432251B5;2006
+146;0;wen gao;li zhang;complexity distortion optimized motion estimation algorithm with fine granular scalable complexity;012E6F4E;432251B5;2006
+147;0;wen gao;debing liu,debin zhao,yuwen he,shipeng li;motion aligned spatial scalable video coding;012E6F4E;432251B5;2006
+148;0;wen gao;zhihang wang,debin zhao,qingming huang;a fast intra mode decision algorithm for avs to h 264 transcoding;012E6F4E;432251B5;2006
+149;0;wen gao;feng wu,bo wu,debin zhao,xun guo;an optimal non uniform scalar quantizer for distributed video coding;012E6F4E;432251B5;2006
+150;0;wen gao;zhigang yang,yan liu;performance complexity analysis of high resolution video encoder and its memory organization for dsp implementation;0C37CBAD;432251B5;2006
+151;0;wen gao;honggang qi,debin zhao,siwei ma,xiangyang ji;low complexity adaptive block size transform based on extended transforms;012E6F4E;432251B5;2006
+152;0;wen gao;guangyu zhu,qingming huang,changsheng xu;automatic multi player detection and tracking in broadcast sports video using support vector machine and particle filter;16186;432251B5;2006
+153;0;wen gao;peng zhang,di wu,don xie;an efficient reference frame storage scheme for h 264 hdtv decoder;012E6F4E;432251B5;2006
+154;0;wen gao;feng wu,jizheng xu,tiantian sun;an effective mode decision scheme in macroblock based pfgs;11180;432251B5;2006
+155;0;wen gao;weigang zhang,qingming huang,liyuan xing;a system for automatic generation of music sports video;7746;432251B5;2005
+156;0;wen gao;li zhang;hybrid algorithm with adaptive complexity for integer pel motion estimation of h 264;3209;432251B5;2005
+157;0;wen gao;huiying liu,zhao zhao,qingming huang,shuqiang jiang;generating video sequence from photo image for mobile screens by content analysis;012E6F4E;432251B5;2007
+158;0;wen gao;xilin chen,shiguang shan,yazhou liu,xinyi cui;3d haar like features for pedestrian detection;12689;432251B5;2007
+159;0;wen gao;jun sun,debin zhao;statistical analysis and modeling of rate distortion function in svc fine granular snr scalable videos;0134B592;432251B5;2007
+160;0;wen gao;jun sun,debin zhao,da liu;direct mode coding for b pictures using virtual reference picture;6644;432251B5;2007
+161;0;wen gao;guangyi miao,guangyu zhu,xu changsheng,qingming huang,shuqiang jiang;a real time score detection and recognition approach for broadcast basketball video;17916;432251B5;2007
+162;0;wen gao;guangyu zhu,guangyi miao,qingming huang,changsheng xu,shuqiang jiang;the demo a real time score detection and recognition approach in broadcast basketball sports video;882;432251B5;2007
+163;0;wen gao;guangyu zhu,yijia zheng,qingming huang,shuqiang jiang;highlight ranking for racquet sports video in user attention subspaces based on relevance feedback;7150;432251B5;2007
+164;0;wen gao;dong zhang,weiqiang wang,shuqiang jiang;an effective local invariant descriptor combining luminance and color information;012E6F4E;432251B5;2007
+165;0;wen gao;qingming huang,shuqiang jiang;mining information of attack defense status from soccer video based on scene analysis;012E6F4E;432251B5;2007
+166;0;wen gao;xiangyang jil,li zhang,debin zhao;adaptive spatial and transform domain fgs coding;18522;432251B5;2007
+167;0;wen gao;xilin chen,yu zhou,debin zhao,hongxun yao;mahalanobis distance based polynomial segment model for chinese sign language recogniton;1582;432251B5;2008
+168;0;wen gao;shiliang zhang,qi tian,qingming huang,shuqiang jiang;affective mtv analysis based on arousal and valence features;9447;432251B5;2008
+169;0;wen gao;guangyi miao,qingming huang,shuqiang jiang;coarse to fine video text detection;19274;432251B5;2008
+170;0;wen gao;jiangqin wu,hongming zhang,wei zheng,shiguan shan,jie yan,xilin chen,jiyong ma;handtalker a multimodal dialog system using sign language and 3 d virtual human;0C37CBAD;4372B502;2000
+171;0;wen gao;jiangqin wang;a fast sign word recognition method for chinese sign language;012E6F4E;4372B502;2000
+172;0;wen gao;debin zhao,gaolin fang;large vocabulary sign language recognition based on hierarchical decision trees;0C37CBAD;4372B502;2003
+173;0;wen gao;zhiguo li,dalong jiang,zhaoqi wang;animating arbitrary topology 3d facial model using the mpeg 4 facedeftables;14719;4372B502;2002
+174;0;wen gao;rui wang,jiyong ma;a parallel multistream model for integration of sign language recognition and lip motion;012E6F4E;4372B502;2000
+175;0;wen gao;jun miao,yiqiang chen,jie lu;gravity center template based human face feature detection;012E6F4E;4372B502;2000
+176;0;wen gao;rui wang,jiyong ma;an approach to robust and fast locating lip motion;0C37CBAD;4372B502;2000
+177;0;wen gao;baocai yin,wei wang,shiguang shan,bo cao;an improved active shape model for face alignment;12858;4372B502;2002
+178;0;wen gao;xilin chen,yiqiang chen,gaolin fang,liangguo zhang;a vision based sign language recognition system using tied mixture density hmm;012E6F4E;4372B502;2004
+179;0;wen gao;xilin chen,chunli wang,yiqiang chen,liangguo zhang;recognition of sign language subwords based on boosted hidden markov models;012E6F4E;4372B502;2005
+180;0;wen gao;xilin chen,hongming zhang,debin zhao;combining skin color model and neural network for rotation invariant face detection;0C37CBAD;4372B502;2000
+181;0;wen gao;shaohui liu,hongxun yao,tianhang chen;spatial video watermarking based on stability of dc coefficients;012E6F4E;42CB1F93;2005
+182;0;wen gao;simin he,shutao sun,yanfeng zheng;scheduling algorithms for input queued switches using local search technique;012E6F4E;446AF0D7;2005
+183;6;wen gao;dan meng,ying jiang,yi liang,limin xiao,qinghua ye;appmanager a powerful service based application management system for clusters;11345;44E5A1B2;2002
+184;0;wen gao;xilin chen,jie chen;resampling for face detection by self adaptive genetic algorithm;0C37CBAD;4372EE76;2004
+185;0;wen gao;shengye yang,xilin chen,shiguang shan,jie chen;modification of the adaboost based detector for partially occluded faces;13437;4372EE76;2006
+186;0;wen gao;xilin chen,shiguang shan,jie chen,ruiping wang;isomap based on the image euclidean distance;10715;4372EE76;2006
+187;0;wen gao;guoqin cui;support vector machines for face recognition with two layer generated virtual data;012E6F4E;4372EE76;2004
+188;0;wen gao;yiqiang chen,xiujuan gao,gaolin fang;a novel approach to automatically extracting basic units from chinese sign language;0C37CBAD;4372EE76;2004
+189;0;wen gao;xilin chen,baochang zhang,shiguang shan,yi li;bagging based efficient kernel fisher discriminant analysis for face recognition;4728;4372EE76;2006
+190;0;wen gao;xilin chen,debin zhao,yazhou liu,hongxun yao;nonparametric background generation;252;4372EE76;2006
+191;0;wen gao;xilin chen,debin zhao,yazhou liu,hongxun yao;nonparametric background generation;012E6F4E;4372EE76;2007
+192;0;wen gao;xin liu,guilin yao,hongxun yao;a novel volumetric shape from silhouette algorithm based on a centripetal pentahedron model;5225;4372EE76;2006
+193;0;wen gao;xilin chen,shiguang shan,wenchao zhang,bingpeng ma;robust head pose estimation using lgbp;9520;4372EE76;2006
+194;0;wen gao;xilin chen,shiguang shan,xin meng;local visual primitives lvp for face modelling and recognition;11477;4372EE76;2006
+195;0;wen gao;xilin chen,shengye yan,shiguang shan,zhiheng niu;2d cascaded adaboost for eye localization;759;4372EE76;2006
+196;0;wen gao;lei qin,qingming huang,weiqiang wang;unsupervised texture classification automatically discover and classify texture patterns;14330;4372EE76;2006
+197;0;wen gao;qingfang zheng,lei qin,qingming huang,shuqiang jiang;unsupervised texture classification automatically discover and classify texture patterns;012E6F4E;4372EE76;2008
+198;0;wen gao;xilin chen,shiguang shan,laiyun qing;face recognition under varying lighting based on the probabilistic model of gabor phase;7343;4372EE76;2006
+199;0;wen gao;yizheng chang,shiguang shan,bo cao,pang yang;review the strength of gabor features for face recognition from the angle of its robustness to mis alignment;012E6F4E;4372EE76;2004
+200;0;wen gao;fan zhang,edwin r hancock;a riemannian weighted filter for edge sensitive image smoothing;0B78A521;4372EE76;2006
+201;0;wen gao;xilin chen,shiguang shan,wenchao zhang,yu su;ensemble of piecewise fda based on spatial histograms of local gabor binary patterns for face recognition;5752;4372EE76;2006
+202;0;wen gao;xilin chen,shiguang shan,yu su;patch based gabor fisher classifier for face recognition;7418;4372EE76;2006
+203;0;wen gao;xilin chen,shiguang shan,jie chen,ruiping wang;enhancing training set for face detection;7003;4372EE76;2006
+204;0;wen gao;xilin chen,chunli wang,qi wang;a verification method for viewpoint invariant sign language recognition;5674;4372EE76;2006
+205;0;wen gao;quan yuan,hongxun yao;robust frontal face detection in complex environment;1220;4372EE76;2002
+206;0;wen gao;chunli wang,wen geo,quan yuan,hongxun yao;recognition of strong and weak connection models in continuous sign language;66;4372EE76;2002
+207;0;wen gao;bo cao,peng yang,shiguang shan,wenchao zhang,yizheng chang;information fusion in face identification;11888;4372EE76;2004
+208;0;wen gao;wei zeng;semantic object segmentation by a spatio temporal mrf model;0C37CBAD;4372EE76;2004
+209;0;wen gao;yaowen zhan,weiqiang wang;a robust split and merge text segmentation approach for images;012E6F4E;4372EE76;2006
+210;0;wen gao;guangyu zhu,qingming huang,changsheng xu;action recognition in broadcast tennis video;19005;4372EE76;2006
+211;0;wen gao;xilin chen,shaohui liu,hongxun yao,shengping zhang;a covariance based method for dynamic background subtraction;0C37CBAD;4372EE76;2008
+212;0;wen gao;xilin chen,shufu xie,shiguang shan;v lgbp volume based local gabor binary patterns for face representation and recognition;3118;4372EE76;2008
+213;0;wen gao;qingming huang,lei hu,yizhou wang,shuqiang jiang;human reappearance detection based on on line learning;012E6F4E;4372EE76;2008
+214;0;wen gao;dong zhang,weiqiang wang,qingming huang,shuqiang jiang;matching images more efficiently with local descriptors;5599;4372EE76;2008
+215;0;wen gao;xilin chen,shiguang shan,hongxun yao,bineng zhong;hierarchical background subtraction using local pixel clustering;0C37CBAD;4372EE76;2008
+216;0;wen gao;xilin chen,hong chang,bo li,shiguang shan;hallucinating facial images and features;4FA09039;4372EE76;2008
+217;0;wen gao;shugao ma,weiqiang wang,qingming huang,shuqiang jiang;effective scene matching with local feature representatives;18542;4372EE76;2008
+218;0;wen gao;wei wang,longshe huo,qingming huang,yizhou wang;symmetric segment based stereo matching of motion blurred images with illumination variations;0134B592;4372EE76;2008
+219;0;wen gao;xilin chen,hong chang,youhan fang,shiguang shan;parzen discriminant analysis;9365;4372EE76;2008
+220;0;wen gao;shuanglin wang;independent hand gesture recognition in handtalker;86;4399020E;1995
+221;0;wen gao;tiejun huang,yonghong tian;context based classification for link data;012E6F4E;44BF6A26;2008
+222;0;wen gao;laiyun qing,weiqiang wang;illumination invariant shot boundary detection;012E6F4E;44788D44;2003
+223;0;wen gao;jintao li,shouxun lin,weiqiang wang;news content highlight via fast caption text detection on compressed video;18520;44788D44;2000
+224;0;wen gao;wei zeng,qixiang ye,yang liu,tao zhang,weiqiang wang;objectionable image recognition system in compression domain;012E6F4E;44788D44;2003
+225;0;wen gao;jun miao,yiqiang chen,lijuan duan,laiyun qing;learning and memory of spatial relationship by a neural network with sparse features;8091;4539ED1E;2007
+226;0;wen gao;xilin chen,jun miao,yiqiang chen;a visual perceiving and eyeball motion controlling neural network for object searching and locating;15506;43F9E08E;2006
+227;0;wen gao;xilin chen,jun miao,laiyun qing,lijuan duan;visual context representation using a combination of feature driven and object driven mechanisms;0134B592;4539ED1E;2008
+228;0;wen gao;timothy j li,xicheng liu;vbmar virtual network load balanced minimal adaptive routing;13595;43F41A29;1999
+229;6;wen gao;dan meng,linping wu,jianfeng zhan;a proactive fault detection mechanism in large scale cluster systems;12520;4708B833;2006
+230;0;wen gao;simin he,yuan zhang,kui gao,peng gao;real time scheduling on scalable media stream delivery;473;471752F4;2003
+231;0;wen gao;xiangyang ji,debin zhao,siwei ma,yan lu;enhanced direct mode coding for bi predictive pictures;13351;471752F4;2004
+232;0;wen gao;yuwen he,debing liu,qingming huang,shipeng li;linear transform based motion compensated prediction for luminance intensity changes;3636;471752F4;2005
+233;0;wen gao;peng gao,siwei ma,yan lu;rate control for advance video coding avc standard;5050;471752F4;2003
+234;0;wen gao;yaowei wang,yong xue;a regularized simultaneous autoregressive model for texture classification;5329;471752F4;2003
+235;0;wen gao;feng wu,lujun yuan,qi chen,shipeng li;the fast close loop video transcoder with limited drifting error;11359;471752F4;2004
+236;0;wen gao;wei zeng,debin zhao;automatic moving object extraction in mpeg video;0C37CBAD;471752F4;2003
+237;0;wen gao;shaohui liu,jie chen,hongxun yao;a robust watermarking method based on wavelet and zernike transform;0C37CBAD;471752F4;2004
+238;0;wen gao;shaohui liu,yazhou liu,hongxun yao;a texture based tamper detection scheme by fragile watermark;0C37CBAD;471752F4;2004
+239;0;wen gao;feng wu,xiaoyan sun,yaqin zhang,shipeng li;seamless switching of scalable video bitstreams for efficient streaming;6645;471752F4;2002
+240;0;wen gao;feng wu,xiaoyan sun,yaqin zhang,shipeng li;seamless switching of scalable video bitstreams for efficient streaming;11105;471752F4;2004
+241;0;wen gao;honggang qi;high accuracy and low complexity fixed point inverse discrete cosine transform based on aan s fast algortihm;012E6F4E;471752F4;2007
+242;0;wen gao;li zhang,debin zhao,qiang wang;macroblock level adaptive scan scheme for discrete cosine transform coefficients;012E6F4E;471752F4;2007
+243;0;wen gao;feng wu,mei guo,shipeng li,yan lu;distributed video coding with spatial correlation exploited only at the decoder;0C37CBAD;471752F4;2007
+244;0;wen gao;xilin chen,qiang hao,debin zhao,qingming huang,xiangyang ji;macroblock level reduced resolution video coding allowing adaptive dct coefficients selection;5880;471752F4;2007
+245;0;wen gao;xiaolin wu,ning zhang,li zhang,debin zhao,qiang wang;context based arithmetic coding reexamined for dct video compression;8326;471752F4;2007
+246;0;wen gao;debin zhao,yanwei liu,qingming huang;low delay view random access for multi view video coding;11758;471752F4;2007
+247;0;wen gao;long xu,debin zhao,xiangyang ji;rate control for hierarchical b picture coding with scaling factors;6352;471752F4;2007
+248;0;wen gao;feng wu,tiantian sun;accurately weighting subbands in temporal wavelet transform;18610;471752F4;2006
+249;0;wen gao;feng wu,jizheng xu,debin zhao,xiangyang ji;an efficient snr scalability coding framework hybrid open close loop fgs coding;012E6F4E;471752F4;2006
+250;0;wen gao;feng wu,xun guo,yan lu;distributed video coding using wavelet;3201;471752F4;2006
+251;0;wen gao;wei zeng;shot change detection on h 264 avc compressed video;5435;471752F4;2005
+252;0;wen gao;yan lu,xun guo,qingming huang;viewpoint switching in multiview video streaming;7642;471752F4;2005
+253;0;wen gao;yuanzhi zou;a novel algorithm of spatial scalability for scrambled video;012E6F4E;471752F4;2005
+254;0;wen gao;debin zhao,qiang wang,siwei ma;low complexity rdo mode decision based on a fast coding bits estimation model for h 264 avc;0C37CBAD;471752F4;2005
+255;0;wen gao;bo wu,debin zhao,xiangyang ji;wavelet based distributed video coding with spatial scalability;19910;471752F4;2008
+256;8;wen gao;zhe lei xia,xi zhong lou,hai bing yin;an efficient vlsi architecture for rate disdortion optimization in avs video encoder;11372;471752F4;2008
+257;0;wen gao;yushi wang,weiqiang wang;research on the discrimination of pornographic and bikini images;18546;46D76472;2005
+258;0;wen gao;yiqiang chen,lijuan duan,charles x ling,xiang chen;intelligent protein 3d structure retrieval system;0C37CBAD;449397C9;2003
+259;0;wen gao;baocai yin,wei wang,shiguang shan,debin zhao;enhanced active shape models with global texture constraints for image analysis;012E6F4E;449397C9;2003
+260;0;wen gao;jun miao,laiyun qing,lijuan duan;searching eye centers using a context based neural network;012E6F4E;4539ED1E;2007
+261;0;wen gao;shaohui liu,hongxun yao;steganalysis of data hiding techniques in wavelet domain;0C37CBAD;449CDF39;2004
+262;0;wen gao;xiaolin yang,tiejun huang,hongxun yao,liu yongliang;watermark detection schemes with high security;10182;1251608;2005
+263;0;wen gao;xilin chen,shiguang shan,zhiheng niu,bingpeng ma;enhance asms based on adaboost based salient landmarks localization and confidence constraint shape modeling;0C37CBAD;44689F98;2005
+264;0;wen gao;xilin chen,bingpeng ma,shiguang shan,fei yang;using score normalization to solve the score variation problem in face authentication;012E6F4E;44689F98;2005
+265;0;wen gao;zhenzhou ji,mingzeng hu,lei deng;an efficient vlsi implementation of mc interpolation for mpeg 4;2928;1095012;2004
+266;0;wen gao;l zhou,hsuehhua chen,vonwun soo,ching s chen;different cultures meet lessons learned in global digital library development panel session ;18396;45B176DF;2001
+267;0;wen gao;jun cheng,tiejun huang,ling zhang,xiaoming zhang,bin liu;toward a distributed terabyte text retrieval system in china us million book digital library;012E6F4E;45B176DF;2002
+268;0;wen gao;tiejun huang,yonghong tian;quantitatively evaluating the influence of online social interactions in the community assisted digital library;012E6F4E;45B176DF;2002
+269;0;wen gao;liu hong,jun miao,jintao li;a novel method to compensate variety of illumination in face detection;012E6F4E;106215;2002
+270;0;wen gao;shaohui liu,yaxiao song,yongliang liu,hongxun yao;system identification for nonlinear control using lifted wavelet;14205;43C1EF66;2002
+271;0;wen gao;shan wei,hongxun yao,x chai;mouth shape classification and recognition for lipreading;19716;43C1EF66;2002
+272;0;wen gao;yiqiang chen,tingshao zhu;learning prosodic patterns for mandarin speech synthesis;543;436976F3;2000
+273;0;wen gao;yiqiang chen,charles ling,tingshao zhu;learning prosodic patterns for mandarin speech synthesis;012E6F4E;436976F3;2002
+274;0;wen gao;tiejun huang,qixiang ye,shuqiang jiang;a new method to segment playfield and its applications in match analysis in sports video;012E6F4E;43AA5802;2004
+275;0;wen gao;tiejun huang,qixiang ye,shuqiang jiang;a new method to segment playfield and its applications in match analysis in sports video;9461;43AA5802;2004
+276;0;wen gao;guangyu zhu,yang liu,dawei liang,shuqiang jiang,zhebin zhang,qingming huang;video2cartoon generating 3d cartoon from broadcast soccer video;0C37CBAD;43AA5802;2005
+277;0;wen gao;qixiang ye,qingming huang,shuqiang jiang;exciting event detection in broadcast soccer video with mid level description and incremental learning;012E6F4E;43AA5802;2005
+278;0;wen gao;xilin chen,chunli wang,liangguo zhang;hierarchical voting classification scheme for improving visual sign language recognition;012E6F4E;43AA5802;2005
+279;0;wen gao;qingfang zheng,weiqiang wang;effective and efficient object based image retrieval using visual phrases;012E6F4E;43AA5802;2006
+280;0;wen gao;junfa liu,yiqiang chen;mapping learning in eigenspace for harmonious caricature generation;012E6F4E;43AA5802;2006
+281;0;wen gao;kai song,tiejun huang,yonghong tian;diversifying the image retrieval results;012E6F4E;43AA5802;2006
+282;0;wen gao;guangyu zhu,liyuan xing,changsheng xu,qingming huang;player action recognition in broadcast tennis video with applications to semantic analysis of sports game;0C37CBAD;43AA5802;2006
+283;0;wen gao;guangyu zhu,yong rui,shuqiang jiang,hongxun yao,changsheng xu,qingming huang;trajectory based event tactics analysis in broadcast sports video;0C37CBAD;43AA5802;2007
+284;0;wen gao;huiying liu,qingming huang,changsheng xu,shuqiang jiang;region based visual attention analysis with its application in image browsing on small displays;012E6F4E;43AA5802;2007
+285;0;wen gao;shiliang zhang,qi tian,qingming huang,shuqiang jiang;i mtv an integrated system for mtv affective analysis;012E6F4E;43AA5802;2008
+286;0;wen gao;;sports video analysis;012E6F4E;42F91B89;2006
+287;0;wen gao;jinjing xie,junfa liu,yiqiang chen,xingyu gao;semi supervised learning of caricature pattern from manifold regularization;012E6F4E;42F91B89;2009
+288;0;wen gao;lingyu duan,jingjing yang,yonghong tian,yuanning li;a new multiple kernel approach for visual concept learning;012E6F4E;42F91B89;2009
+289;0;wen gao;mingbao liu;a human face detection and tracking system for complex backgrounds;13167;1405705;1996
+290;0;wen gao;junfa liu,yiqiang chen;open issues on intelligent sensor networks;012E6F4E;45827814;2004
+291;0;wen gao;zhiwei xu,lionel ni;blossoms a cas hkust joint project to build lightweight optimized sensor systems on a massive scale;012E6F4E;45827814;2004
+292;0;wen gao;guojun mao,lijuan duan;correlation learning method based on image internal semantic model for cbir;012E6F4E;45A1082E;2004
+293;0;wen gao;baocai yin,yuemin li,jie chen,laiyun qing;face samples re lighting for detection based on the harmonic images;0C37CBAD;4459102E;2004
+294;0;wen gao;zhenzhou ji,mingzeng hu,lei deng;an efficient vlsi implementation for mc interpolation of avs standard;012E6F4E;45A1082E;2004
+295;0;wen gao;zhaoqi wang,yiqiang chen,l zuo;speech driven mpeg 4 based face animation via neural network;012E6F4E;4459102E;2001
+296;0;wen gao;wei zeng,xiujuan gao,hongxun yao;fusion of biometrics based on d s theory;012E6F4E;4459102E;2001
+297;0;wen gao;bo hu,peng zhang,qingming huang;reducing spatial resolution for mpeg 2 to h 264 avc transcoding;012E6F4E;45A1082E;2005
+298;0;wen gao;cliff reader,debin zhao,qian huang;a real time video deinterlacing scheme for mpeg 2 to avs transcoding;012E6F4E;4459102E;2006
+299;0;wen gao;debin zhao,huifang sun,qian huang;adaptive deinterlacing for real time applications;012E6F4E;4459102E;2005
+300;0;wen gao;weiqiang wang,ting liu,jia li;a broadcast model for web image annotation;8491;4459102E;2006
+301;0;wen gao;yuanning li,weiqiang wang;a robust approach for object recognition;012E6F4E;45A1082E;2006
+302;0;wen gao;dawei liang,hongxun yao,qingming huang;online selection of discriminative features using bayes error rate for visual tracking;0134B592;45A1082E;2006
+303;0;wen gao;dawei liang,yang liu,qingming huang;a scheme for ball detection and tracking in broadcast soccer video;0C37CBAD;4459102E;2005
+304;0;wen gao;xilin chen,li shen,pin liao,shiguang shan,wenbing zeng;classification of facial images using gaussian mixture models;11569;4459102E;2001
+305;0;wen gao;rong fu,renqin zhou,junfa liu,yiqiang chen;creative cartoon face synthesis system for mobile entertainment;012E6F4E;45A1082E;2005
+306;0;wen gao;qingming huang,debin zhao,yanwei liu,xiangyang ji;multi view video coding with flexible view temporal prediction structure for fast random access;0134B592;4459102E;2006
+307;0;wen gao;debin zhao,yazhou liu,hongxun yao;illumination invariant feature selection for face recognition;012E6F4E;45A1082E;2005
+308;0;wen gao;debin zhao,qiang wang,da liu;an improved motion vector prediction scheme for video coding;012E6F4E;4459102E;2006
+309;0;wen gao;feng wu,yan lu;fast and robust sprite generation for mpeg 4 video coding;0C37CBAD;4459102E;2001
+310;0;wen gao;debin zhao,siwei ma,yan lu;a study on the quantization scheme in h 264 avc and its application to rate control;012E6F4E;4459102E;2004
+311;0;wen gao;tiejun huang,laiyun qing,weiqiang wang;a framework for background detection in video;012E6F4E;4459102E;2002
+312;0;wen gao;tiejun huang,laiyun qing,weiqiang wang;a framework for background detection in video;2492;4459102E;2002
+313;0;wen gao;xilin chen,shiguang shan,bo cao,wenbin zeng;a face unlock screen saver by using face verification based on identity specific subspaces;0C37CBAD;4459102E;2001
+314;0;wen gao;weiqiang wang;automatic segmentation of news items based on video and audio features;012E6F4E;4459102E;2001
+315;0;wen gao;weiqiang wang;automatic segmentation of news items based on video and audio features;012E6F4E;4459102E;2002
+316;0;wen gao;Wangqiang Wei;automatic segmentation of news items based on video and audio features;2638;09A08B9A;2002
+317;0;wen gao;weiqiang wang;a fast anchor shot detection algorithm on compressed video;012E6F4E;4459102E;2001
+318;0;wen gao;w q wang;an index model for mpeg 2 streams;012E6F4E;4459102E;2002
+319;0;wen gao;chunli wang,zhaoguo xuan;a real time large vocabulary continuous recognition system for chinese sign language;0C37CBAD;4459102E;2001
+320;0;wen gao;feng wu,xiaoyan sun,yaqin zhang,shipeng li;flexible and efficient switching techniques between scalable video bitstreams;0C37CBAD;4459102E;2002
+321;0;wen gao;feng wu,xiaoyan sun,yaqin zhang,shipeng li;flexible and efficient switching techniques between scalable video bitstreams;6169;4459102E;2002
+322;0;wen gao;shaohui liu,lijun wang,hongxun yao;mapping energy video watermarking algorithm based on compressed domain;0C37CBAD;4459102E;2004
+323;0;wen gao;debin zhao,qiang wang,siwei ma;high efficient context based variable length coding with parallel orientation;0C37CBAD;4459102E;2005
+324;0;wen gao;jianyu wang,shiguang shan,debin zhao;approximating inference on complex motion models using multi model particle filter;0C37CBAD;4459102E;2004
+325;0;wen gao;xilin chen,yiqiang chen,gaolin fang,liangguo zhang;vision based sign language recognition using sign wise tied mixture hmm;012E6F4E;45A1082E;2004
+326;0;wen gao;peng zhang,qingming huang;key techniques of bit rate reduction for h 264 streams;012E6F4E;4459102E;2004
+327;0;wen gao;zhigang yang,debin zhao,yan liu;adaptive search range scaling for b pictures coding;0C37CBAD;4459102E;2006
+328;0;wen gao;yuan zhang,qingming huang,yan lu;optimum end to end distortion estimation for error resilient video coding;012E6F4E;4459102E;2004
+329;0;wen gao;xiangyang ji,debin zhao,yongbing zhang;video coding by texture analysis and synthesis using graph cut;0C37CBAD;4459102E;2006
+330;0;wen gao;shiguang shan,debin zhao,y k chan;llec an image coder with low complexity and low memory requirement;0C37CBAD;4459102E;2001
+331;0;wen gao;qingfang zheng;fast adaptive skin detection in jpeg images;012E6F4E;4459102E;2005
+332;0;wen gao;junhao zheng,di wu,don xie,lei deng;a motion vector predictor architecture for avs and mpeg 2 hdtv decoder;0C37CBAD;4459102E;2006
+333;0;wen gao;liu yongliang;secure watermark verification scheme;0C37CBAD;432251B5;2004
+334;0;wen gao;yaxiao song,hongxun yao,liu yongliang;secure watermark verification scheme;0C37CBAD;4459102E;2002
+335;0;wen gao;yongliang liu;secure watermark verification scheme;5483;4459102E;2004
+336;0;wen gao;yaxiao song,yongliang liu,hongxun yao;secure watermark verification scheme;12030;4459102E;2002
+337;0;wen gao;libo fu,weiqiang wang;text segmentation in complex background based on color and scale information of character strokes;012E6F4E;4459102E;2007
+338;0;wen gao;shiliang zhang,qi tian,qingming huang,shuqiang jiang;personalized mtv affective analysis using user profile;012E6F4E;4459102E;2008
+339;0;wen gao;d wu,junhao zheng,don xie;a novel pipeline design for h 264 cabac decoding;012E6F4E;45A1082E;2007
+340;0;wen gao;xilin chen,chunli wang,wen translatorgao,yu zhou,liangguo zhang;signer adaptation based on etyma for large vocabulary chinese sign language recognition;012E6F4E;45A1082E;2007
+341;0;wen gao;luhong liang,ronggang wang,jianhua chen,siwei ma,yongbing zhang;a no reference blocking artifacts metric using selective gradient and plainness measures;012E6F4E;4459102E;2008
+342;0;wen gao;weiqiang wang,qingming huang,yu gong,shuqiang jiang;detecting violent scenes in movies by auditory and visual cues;012E6F4E;4459102E;2008
+343;0;wen gao;long xu,debin zhao,xiangyang ji;laplacian distortion model ldm for rate control in video coding;012E6F4E;45A1082E;2007
+344;0;wen gao;cliff reader,siwei ma;an end to end application system of avs avs iptv in china;0134B592;45A1082E;2007
+345;5;wen gao;hongqi liu,zhifeng jiang;an avs based iptv system network trial;427;45A1082E;2007
+346;0;wen gao;feng wu,lin ma,debin zhao,siwei ma;learning based image restoration for compressed image through neighboring embedding;0134B592;4459102E;2008
+347;0;wen gao;jinjing xie,junfa liu,yiqiang chen,xingyu gao;aaml based avatar animation with personalized expression for online chatting system;012E6F4E;4459102E;2008
+348;0;wen gao;yue wang,jun sun,siwei ma;theoretic analysis of inter frame dependency in video coding;0134B592;4459102E;2008
+349;6;wen gao;xinyu liu,ninghui sun;ncpn a simulation tool for coloured petri nets;11309;4777163F;2002
+350;0;wen gao;haipeng wang,ruixiang sun,rong zeng,charles x ling,yan fu,hu zhou,yiqiang chen,dequan li,simin he,qiang yang;a kernel based case retrieval algorithm with application to bioinformatics;012E6F4E;45FD9DD4;2004
+351;0;wen gao;yan fu,rong zeng,simin he,haipeng wang,ruixiang sun;an svm scorer for more sensitive and reliable peptide identification via tandem mass spectrometry;012E6F4E;468CDFB4;2006
+352;0;wen gao;yan fu,hu zhou,rong zeng,simin he,ruixiang sun;mining tandem mass spectral data to develop a more accurate mass error model for peptide identification;0134B592;468CDFB4;2007
+353;0;wen gao;lixin sun;the discretization of continuous attributes based on compatibility rough set and generic algorithm;973;42F0CC9A;1999
+354;0;wen gao;wei zhao,shutao sun,yanfeng zheng,simin he;smooth switching problem in buffered crossbar switches;012E6F4E;4372AEEF;2005
+355;0;wen gao;shiguang shan,bo cao,xiaohua zhang;baseline evaluations on the cas peal r1 face database;012E6F4E;0655F58A;2004
+356;0;wen gao;shiguang shan,bo cao,xiaohua zhang;baseline evaluations on the cas peal r1 face database;7821;0655F58A;2004
+357;0;wen gao;bo cao,yizheng chang,shiguang shan,wenchao zhang;component based cascade linear discriminant analysis for face recognition;0C37CBAD;0655F58A;2004
+358;0;wen gao;x chai,shiguang shan,xin liu;pose normalization using generic 3d face model as a priori for pose insensitive face recognition;0C37CBAD;0655F58A;2004
+359;0;wen gao;xilin chen,peng yang,shiguang shan,jie chen,shengye yan;novel face detection method based on gabor features;0C37CBAD;0655F58A;2004
+360;0;wen gao;shiguang shan,laiyun qing;face recognition under varying lighting based on derivates of log image;14620;0655F58A;2004
+361;0;wen gao;yongliang liu;an overview of streaming video;5424;46950273;2004
+362;0;wen gao;simin he,yuan zhang,kui gao;real time scheduling and online resource allocation on scalable streaming media server;012E6F4E;46173BF7;2003
+363;0;wen gao;jiyong ma,lijuan duan;a rich get richer strategy for content based image retrieval;012E6F4E;45F650F9;2000
+364;0;wen gao;shaohui liu,xiaopen fan,hongxun yao;steganalysis of images created in wavelet domain using quantization modulation;0C37CBAD;608536;2003
+365;0;wen gao;jiyong ma;a fast globally supervised learning algorithm for gaussian mixture models;012E6F4E;45F282AE;2000
+366;0;wen gao;tiejun huang,shi wang,jintao li,jiyong ma,hui xie;adaptive online retail web site based on hidden markov model;012E6F4E;45F282AE;2000
+367;0;wen gao;tiejun huang,shi wang,jintao li,hui xie;web clustering and association rule discovery for web broadcast;012E6F4E;45F282AE;2000
+368;0;wen gao;lijuan duan;iism an image internal semantic model for image database based on relevance feedback;11289;478794CB;2003
+369;0;wen gao;tiejun huang,shuqiang jiang;an ontology based approach to retrieve digitized art images;15639;478794CB;2004
+370;0;wen gao;jun cheng,tiejun huang,yonghong tian,pingbo kang;two phase web site classification based on hidden markov tree models;012E6F4E;478794CB;2003
+371;0;wen gao;tiejun huang,yonghong tian;two phase web site classification based on hidden markov tree models;012E6F4E;478794CB;2004
+372;0;wen gao;changshui yang,baocai yin,chunbao ge,yiqiang chen;motion retargeting for the hand gesture;5929;43904F00;2005
+373;0;wen gao;simin he,shutao sun,yanfeng zheng;parallelized scheduling algorithm for input queued switches using local search technique;14828;44C78644;2005
+374;0;wen gao;rui guo,shuangjia chen,longshe huo,qiang fu;fbsa a self adjustable multi source data scheduling algorithm for p2p media streaming;0134B592;43AA5802;2007
+375;0;wen gao;longshe huo;challenges on peer to peer live media streaming;0134B592;43AA5802;2007
+376;0;wen gao;rui guo,shuangjia chen,longshe huo,qiang fu;an optimized topology maintenance framework for p2p media streaming;0134B592;43AA5802;2007
+377;0;wen gao;rui guo,shuangjia chen,longshe huo,qiang fu;qos adaptive data organizing and delivery framework for p2p media streaming;0134B592;43AA5802;2007
+378;0;wen gao;simin he,youjian zhao,yi wang,qiang zheng;practical algorithms of bandwidth regulation for rate based switching;8051;43701CEE;2007
+379;4;wen gao;houshin chen,david g daut;spectrum sensing using cyclostationary properties and application to ieee 802 22 wran;16918;43701CEE;2007
+380;4;wen gao;jing lei;fast identification of error prone patterns for ldpc codes under message passing decoding;4FEDAA01;43701CEE;2008
+381;1;wen gao;yueqin zhang,qingsheng wang;application research of design patterns in virtual trade platform;008AA581;43F5AF1B;2009
+382;0;wen gao;chunli wang,dalong jiang,chunbao ge,yiqiang chen,gaolin fang,changsui yang;handtalker ii a chinese sign language recognition and synthesis system;012E6F4E;45A0DDC1;2004
+383;0;wen gao;ruixiang sun,rong zeng,charles x ling,yan fu,dequan li,qiang yang;exploiting the kernel trick to correlate fragment ions for peptide identification via tandem mass spectrometry;012E6F4E;031F7D94;2004
+384;0;wen gao;ruixiang sun,rong zeng,charles x ling,yan fu,hu zhou,dequan li,yonggang wei,simin he,qiang yang;pfind a novel database searching software system for automated peptide and protein identification via tandem mass spectrometry;012E6F4E;031F7D94;2005
+385;0;wen gao;charles x ling,simin he,dequan li,xiaobiao wang,ruixiang sun;indextoolkit an open source toolbox to index protein databases for high throughput proteomics;12314;031F7D94;2006
+386;0;wen gao;dongbo bu,runsheng chen,xiang chen,zhiyong wang,fa zhang,simin he;flexstem improving predictions of rna secondary structures with pseudoknots by reducing the search space;15700;031F7D94;2008
+387;9;wen gao;youjian liu,wei dai,brian rider;how many users should be turned on in a multi antenna broadcast channel ;2470;460D43CF;2008
+388;0;wen gao;xin liu,hongxun yao;shape from silhouette outlines using an adaptive dandelion model;0C37CBAD;0B07014C;2007
+389;0;wen gao;xilin chen,chunli wang,qi wang,liangguo zhang;viewpoint invariant sign language recognition;12745;455477A7;2005
+390;0;wen gao;xilin chen,chunli wang,qi wang,liangguo zhang;viewpoint invariant sign language recognition;0C37CBAD;455477A7;2007
+391;0;wen gao;chunxi liu,qingming huang,qixiang ye,liyuan xing,shuqiang jiang;a framework for flexible summarization of racquet sports video using multiple modalities;0134B592;0B07014C;2009
+392;0;wen gao;shi wang,bin liu;a dynamic recommendation system based on log mining;13090;525172;2002
+393;0;wen gao;hong liu,hongming zhang,jun miao,gang deng,xilin chen;a system for human face and facial feature location;012E6F4E;0394C23D;2011
+394;0;wen gao;wei zeng,weiqiang wang,qingfang zheng;shape based adult image detection;9134;0394C23D;2011
+395;0;wen gao;xilin chen,shiguang shan,wenchao zhang;local gabor binary patterns based on mutual information for face recognition;8821;0394C23D;2011
+396;0;wen gao;xilin chen,yuan yuan,jun miao,lijuan duan,laiyun qing;spatial relationship representation for visual object searching;012E6F4E;02B93B6A;2008
+397;0;wen gao;chunli wang,jiangqin wu,jiyong ma;sign language recognition based on hmm ann dp;10911;02790879;2011
+398;0;wen gao;shiguang shan,laiyun qing,bo du;face recognition under generic illumination based on harmonic relighting;4582;02790879;2008
+399;3;wen gao;mark k hinders;mobile robot sonar backscatter algorithm for automatically distinguishing walls fences and hedges;8054;498250;2006
+400;3;wen gao;mark k hinders;mobile robot sonar backscatter algorithm for automatically distinguishing walls fences and hedges;00F87E5D;04614745;2006
+401;0;wen gao;qixiang ye,debin zhao,qingming huang;fast and robust text detection in images and video frames;012E6F4E;0A9361D2;2005
+402;0;wen gao;xilin chen,hongming zhang,debin zhao;object detection using spatial histogram features;0C37CBAD;0A9361D2;2006
+403;0;wen gao;dawei liang,yang liu,qingming huang;extracting 3d information from broadcast soccer video;0C37CBAD;0A9361D2;2006
+404;0;wen gao;lei qin,qingming huang,weiqiang wang;unsupervised texture classification automatically discover and classify texture patterns;18288;4372EE76;2006
+405;0;wen gao;qingfang zheng,lei qin,qingming huang,shuqiang jiang;unsupervised texture classification automatically discover and classify texture patterns;012E6F4E;4372EE76;2008
+406;0;wen gao;huairong shao,bin pang;an admission control scheme for end to end statistical qos provision in ip networks;012E6F4E;09A08B9A;2003
+407;0;wen gao;zhiweixu,qiongluo,wengao,s c cheung,licui;blossoms building lightweight optimized sensor systems on a massive scale;012E6F4E;09A08B9A;2005
+408;0;wen gao;zhaoqi wang,gaolin fang;incorporating linguistic structure into maximum entropy language models;0C37CBAD;09A08B9A;2003
+409;0;wen gao;qingming huang,jun du,tiejun huang,shuqiang jiang;visual ontology construction for digitized art image retrieval;012E6F4E;09A08B9A;2005
+410;0;wen gao;jiqing han;robust speech recognition method based on discriminative environment feature extraction;012E6F4E;09A08B9A;2001
+411;0;wen gao;lin xu;study on translating chinese into chinese sign language;0C37CBAD;09A08B9A;2000
+412;0;wen gao;xu lin;study on translating chinese into chinese sign language;13715;09A08B9A;2000
+413;0;wen gao;weiqiang wang;automatic segmentation of news items based on video and audio features;012E6F4E;4459102E;2001
+414;0;wen gao;weiqiang wang;automatic segmentation of news items based on video and audio features;012E6F4E;4459102E;2002
+415;0;wen gao;Wangqiang Wei;automatic segmentation of news items based on video and audio features;16624;09A08B9A;2002
+416;0;wen gao;siwei ma;low complexity integer transform and adaptive quantization optimization;012E6F4E;09A08B9A;2006
+417;0;wen gao;debin zhao,qiang wang;context based 2d vlc entropy coder in avs video coding standard;012E6F4E;09A08B9A;2006
+418;0;wen gao;yiqiang chen,tingshao zhu;learning prosodic patterns for mandarin speech synthesis;11071;436976F3;2000
+419;0;wen gao;yiqiang chen,charles ling,tingshao zhu;learning prosodic patterns for mandarin speech synthesis;012E6F4E;436976F3;2002
+420;0;wen gao;tiejun huang,yonghong tian;latent linkage semantic kernels for collective classification of link data;0134B592;0225D581;2006
+421;9;wen gao;youjian liu,wei dai,brian rider;how many users should be turned on in a multi antenna broadcast channel ;19866;460D43CF;2008
+422;0;wen gao;zhihang wang,debin zhao,qingming huang,xiangyang ji;effective algorithms for fast transcoding of avs to h 264 avc in the spatial domain;0134B592;06919ECD;2007
+423;0;wen gao;yiqiang chen,debin zhao,gaolin fang;a chinese sign language recognition system based on sofm srn hmm;0C37CBAD;00065366;2004
+424;0;wen gao;jiqing han;robust telephone speech recognition based on channel compensation;0C37CBAD;00065366;1999
+425;0;wen gao;lei zhang,dalong jiang,yuxiao hu,hongjiang zhang,shuicheng yan;efficient 3d reconstruction for face recognition;012E6F4E;00065366;2005
+426;0;wen gao;hongxun yao;face detection and location based on skin chrominance and lip chrominance transformation from color images;0C37CBAD;00065366;2001
+427;0;wen gao;wenjian cai,qingming huang;thresholding technique with adaptive window selection for uneven lighting image;012E6F4E;090C990E;2005
+428;0;wen gao;qixiang ye,qingming huang,shuqiang jiang;an effective method to detect and categorize digitized traditional chinese paintings;012E6F4E;090C990E;2006
+429;0;wen gao;xilin chen,feng jiang,debin zhao,hongxun yao;synthetic data generation technique in signer independent sign language recognition;0C37CBAD;090C990E;2009
+430;0;wen gao;xilin chen,c liu,yazhou liu,hongxun yao,xinyi cui;contour motion feature cmf a space time approach for robust pedestrian detection;012E6F4E;090C990E;2009
+431;3;wen gao;mark k hinders;mobile robot sonar interpretation algorithm for distinguishing trees from poles;7659;907202;2005
+432;3;wen gao;mark k hinders;mobile robot sonar interpretation algorithm for distinguishing trees from poles;00F87E5D;07F923B3;2005
+433;0;wen gao;simin he,yuan zhang,kui gao;real time scheduling based on imprecise computation for scalable streaming media system over the internet;012E6F4E;012D3C87;2004
+434;0;wen gao;longshe huo,qingming huang;robust real time transmission of scalable multimedia for heterogeneous client bandwidths;012E6F4E;012D3C87;2005
+435;0;wen gao;wei zeng,jun du,qingming huang;robust moving object segmentation on h 264 avc compressed video using the block based mrf model;012E6F4E;012D3C87;2005
+436;0;wen gao;chunli wang,qiang yang,ruixiang sun,shiguang shan,yan fu,haipeng wang,simin he,junfa liu;a block based support vector machine approach to the protein homology prediction task in kdd cup 2004;012E6F4E;057D97D4;2004
+437;0;wen gao;jinjin cai,rong zeng,simin he,jingfen zhang,runsheng chen;predicting molecular formulas of fragment ions with isotope patterns in tandem mass spectra;012E6F4E;0225C627;2005
+438;0;wen gao;rui wang,dalong jiang,shiguang shan,yiqiang chen;learning and synthesizing mpeg 4 compatible 3 d face animation from video sequence;012E6F4E;06DD66F4;2003
+439;0;wen gao;feng wu,yan lu;efficient background video coding with static sprite generation and arbitrary shape spatial prediction techniques;6349;06DD66F4;2003
+440;0;wen gao;siwei ma,yan lu;rate distortion analysis for h 264 avc video coding and its application to rate control;012E6F4E;06DD66F4;2005
+441;0;wen gao;jun sun,debin zhao,qingming huang;statistical model analysis and approximation of rate distortion function in mpeg 4 fgs videos;14017;46173BF7;2005
+442;0;wen gao;jun sun,debin zhao,qingming huang;statistical model analysis and approximation of rate distortion function in mpeg 4 fgs videos;7467;06DD66F4;2006
+443;0;wen gao;guobin shen,xiaoyan sun,shipeng li,feng wu;drift free switching of compressed video bitstreams at predictive frames;14513;06DD66F4;2006
+444;0;wen gao;debin zhao,y k chan;low complexity and low memory entropy coder for image compression;9408;06DD66F4;2001
+445;0;wen gao;debin zhao,y k chan;morphological representation of dct coefficients for image compression;0C37CBAD;06DD66F4;2002
+446;0;wen gao;debin zhao,xiangyang ji;block wise adaptive motion accuracy based b picture coding with low complexity motion compensation;11327;06DD66F4;2007
+447;0;wen gao;feng wu,yan lu,debin zhao,mei guo;wyner ziv switching scheme for multiple bit rate video streaming;6912;06DD66F4;2008
+448;0;wen gao;feng wu,debin zhao,xun guo,yan lu;wyner ziv based multiview video coding;15504;06DD66F4;2008
+449;0;wen gao;weiqiang wang,jie yang;modeling background and segmenting moving objects from compressed video;9970;06DD66F4;2008
+450;0;wen gao;feng wu,yanyan zheng,debin zhao,xiangyang ji;fgs coding using cycle based leaky prediction through multiple leaky factors;1800;06DD66F4;2008
+451;0;wen gao;xilin chen,x chai,shiguang shan;locally linear regression for pose invariant face recognition;12465;06DF68B7;2007
+452;7;wen gao;joon ho cho;continuous time equivalents of welch bound equality sequences;5827;436150FA;2004
+453;7;wen gao;joon ho cho;continuous time equivalents of welch bound equality sequences;19649;436150FA;2005
+454;0;wen gao;tiejun huang,qiang yang,yonghong tian,charles x ling;learning contextual dependency network models for link based classification;19619;01D46A2B;2006
+455;0;wen gao;feng wu,xiaoyan sun,yaqin zhang,shipeng li;seamless switching of scalable video bitstreams for efficient streaming;14045;471752F4;2002
+456;0;wen gao;feng wu,xiaoyan sun,yaqin zhang,shipeng li;seamless switching of scalable video bitstreams for efficient streaming;15803;471752F4;2004
+457;0;wen gao;yuan zhang,debin zhao,qingming huang,yan lu;joint source channel rate distortion optimization for h 264 video coding over error prone networks;18249;082AEBB5;2007
+458;0;wen gao;changsheng xu,guangyu zhu,hongxun yao,liyuan xing,qingming huang;human behavior analysis for highlight ranking in broadcast racket sports video;9837;082AEBB5;2007
+459;0;wen gao;qingfang zheng;constructing visual phrases for effective and efficient object based image retrieval;012E6F4E;012B3B79;2008
+460;0;wen gao;youjian zhao,shutao sun,hongtao guan,simin he,qiang zheng;on guaranteed smooth switching for buffered crossbar switches;8369;03B5AFB2;2008
+461;0;wen gao;debin zhao,gaolin fang;large vocabulary sign language recognition based on fuzzy decision trees;16721;0489FD27;2004
+462;0;wen gao;xilin chen,shengye yan,shiguang shan,jie chen,ruiping wang;enhancing human face detection by resampling examples through manifolds;10573;0489FD27;2007
+463;0;wen gao;debin zhao,gaolin fang;large vocabulary continuous sign language recognition based on transition movement models;1057;0489FD27;2007
+464;0;wen gao;delong zhou,shiguang shan,bo cao,debin zhao,xilin chen,xiaohua zhang;the cas peal large scale chinese face database and baseline evaluations;012E6F4E;0489FD27;2008
+465;0;wen gao;xilin chen,shiguang shan,bingpeng ma;head yaw estimation from asymmetry of facial appearance;6866;0489FD27;2008
+466;0;wen gao;simin he,yuan zhang,kui gao;real time smoothing for network adaptive video streaming;012E6F4E;0648A7E5;2005
+467;0;wen gao;xilin chen,debin zhao,yazhou liu,hongxun yao;nonparametric background generation;11241;4372EE76;2006
+468;0;wen gao;xilin chen,debin zhao,yazhou liu,hongxun yao;nonparametric background generation;012E6F4E;4372EE76;2007
+469;0;wen gao;h q lu,xiaolin lin,s w ma,yifan lu,z g li,susanto rahardja,g n feng,k p lim,feng pan;adaptive rate control for h 264;012E6F4E;455477A7;2006
+470;0;wen gao;shaohui liu,yongliang liu,hongxun yao;an image fragile watermark scheme based on chaotic image pattern and pixel pairs;012E6F4E;03009DEA;2007
+471;0;wen gao;wei zeng,debin zhao,lijuan duan;adaptive relevance feedback based on bayesian inference for image retrieval;012E6F4E;09379623;2005
+472;0;wen gao;jun cheng,tiejun huang,yonghong tian,pingbo kang;two phase web site classification based on hidden markov tree models;012E6F4E;478794CB;2003
+473;0;wen gao;tiejun huang,yonghong tian;two phase web site classification based on hidden markov tree models;012E6F4E;478794CB;2004
+474;0;wen gao;tiejun huang,yongliang liu,hongxun yao;security on aydos et al s elliptic curve cryptography based wireless authentication protocol;1092;09E66BCD;2006
+475;0;wen gao;zhenzhou ji,mingzeng hu,lei deng;a high efficient architecture for motion estimation based on avc avs coding standard;11107;09E66BCD;2006
+476;0;wen gao;nan zhang,yanwei liu,debin zhao,qingming huang,siwei ma;compression induced rendering distortion analysis for texture depth rate allocation in 3d video compression;18916;46AD78C1;2009
+477;0;wen gao;weiping li,jun sun,debin zhao;on rate distortion modeling and extraction of h 264 svc fine granular scalable video;0134B592;06DD66F4;2009
+478;0;wen gao;yuanning li,tiejun huang,yonghong tian,zhi zhou;large scale cross media retrieval of wikipediamm images with textual and visual query expansion;0134B592;44F01D7B;2008
+479;0;wen gao;wenping wang,chao liu,you li,ruixiang sun,zuofei yuan,wei jia,xiaohong qian,yan fu,zhuang lu,leheng wang,hao chi,haipeng wang,simin he,liyun xiu;efficient discovery of abundant post translational modifications and spectral pairs using peptide mass and retention time differences;012E6F4E;012269E3;2009
+480;0;wen gao;xilin chen,xin liu,hongxun yao;shape from silhouettes based on a centripetal pentahedron model;0C37CBAD;08311E31;2008
+481;0;wen gao;xilin chen,shiguang shan,jie chen,ruiping wang,jie yang;optimization of a training set for more robust face detection;0C37CBAD;00065366;2009
+482;0;wen gao;xiaolin yang,yongliang liu,hongxun yao;novel secure communication protocol for conditional access system;0C37CBAD;0B4CB45D;2007
+483;0;wen gao;xinghua yu,hongxun yao,liu yongliang;elliptic curve cryptography based wireless authentication protocol;9903;557118;2007
+484;0;wen gao;xilin chen,shiguang shan;face misalignment problem;0134B592;479994;2009
+485;0;wen gao;xilin chen,shiguang shan;performance evaluation overview;012E6F4E;1344853;2009
+486;0;wen gao;xilin chen,wenchao zhang,shiguang shan,yazhou liu;granularity tunable gradients partition ggp descriptors for human detection;0134B592;45083D2F;2009
+487;0;wen gao;xilin chen,shiguang shan,annan li;maximizing intra individual correlations for face recognition across pose differences;0134B592;45083D2F;2009
+488;0;wen gao;xilin chen,hong chang,shiguang shan,xiaopeng hong;sigma set a small second order statistical region descriptor;0C37CBAD;45083D2F;2009
+489;0;wen gao;marta kwiatkowska,zhenyu liu;a biologically inspired energy aware routing algorithm for communications in cyberworlds;0134B592;46E0467E;2008
+490;0;wen gao;xinfeng zhang,li zhang,siwei ma,yongbing zhang;nonlocal edge directed interpolation;0134B592;4459102E;2009
+491;0;wen gao;luhong liang,debin zhao,jun sun,xianguo zhang,zhenyu wang;a novel macro block group based avs coding scheme for many core processor;0134B592;4459102E;2009
+492;0;wen gao;luhong liang,xianguo zhang,zhenyu wang,jun sun,debin zhao,guolei yang;a novel macro block group based avs coding scheme for many core processor;0134B592;46F80578;2011
+493;0;wen gao;xinfeng zhang,li zhang,siwei ma;block adaptive super resolution video coding;0134B592;4459102E;2009
+494;0;wen gao;guangyu zhu,yijia zheng,qingming huang,shuqiang jiang;visual aural attention modeling for talk show video highlight detection;8833;42D493FC;2008
+495;0;wen gao;nan zhang,ge guo,longshe huo;2d to 3d convertion based on edge defocus and segmentation;012E6F4E;42D493FC;2008
+496;0;wen gao;xingyu gao,jinjing xie,charles x ling,yiqiang chen,junfa liu,chunyan miao;semi supervised learning in reconstructed manifold space for 3d caricature generation;0134B592;040B05A4;2009
+497;0;wen gao;xilin chen,shiguang shan,wenchao zhang,laiyun qing;are gabor phases really useless for face recognition ;012E6F4E;02B63C29;2008
+498;0;wen gao;xilin chen,shiguang shan,yu su;hierarchical ensemble of global and local classifiers for face recognition;17301;45701BF3;2007
+499;0;wen gao;xilin chen,shiguang shan,yu su;hierarchical ensemble of global and local classifiers for face recognition;0C37CBAD;45701BF3;2009
+500;0;wen gao;xilin chen,shufu xie,shiguang shan,xin meng;learned local gabor patterns for face representation and recognition;012E6F4E;09379623;2009
+501;0;wen gao;lujun yuan,yan lu;latest arrival time leaky bucket for hrd constrained video coding;012E6F4E;432251B5;2003
+502;0;wen gao;xiaopeng fan,yan lu;a novel coefficient scanning scheme for directional spatial prediction based image compression;16153;432251B5;2003
+503;0;wen gao;wei zeng,qixiang ye;color image segmentation using density based clustering;012E6F4E;432251B5;2003
+504;0;wen gao;wei zeng,qixiang ye;color image segmentation using density based clustering;3941;42D493FC;2003
+505;0;wen gao;xilin chen,chunli wang;generating data for signer adaptation;0134B592;45C028EA;2009
+506;0;wen gao;baocai yin;radial basis function interpolation surface on space mesh;2764;4566232D;1997
+507;0;wen gao;baocai yin,jian zhou,lin xu,haito chen,yibo song,ying liu,jie yan;text driven deaf mute sign language synthesis system;15032;4566232D;1997
+508;0;wen gao;longshe huo,qingming huang,ying cai;fec based multiple description coding for heterogeneous client bandwidths;012E6F4E;458DD1E0;2004
+509;0;wen gao;jun sun,qingming huang;a novel fgs base layer encoding model and weight based rate adaptation for constant quality streaming;012E6F4E;458DD1E0;2004
+510;0;wen gao;jianyu wang,shiguang shan,debin zhao;interacting multiple model particle filter to adaptive visual tracking;0C37CBAD;458DD1E0;2004
+511;0;wen gao;qingfang zheng,mingji zhang,weiqiang wang;skin color detection based on adaptive thresholds;012E6F4E;458DD1E0;2004
+512;0;wen gao;xiaolin yang,tiejun huang,hongxun yao,liu yongliang;watermark detection schemes with high security;11583;1550553;2005
+513;0;wen gao;feng zhao;singular value decomposition based image matching;012E6F4E;458DD1E0;2004
+514;0;wen gao;xiaolin tong,qingming huang;a novel rate control scheme for video streaming over wireless networks;012E6F4E;458DD1E0;2004
+515;0;wen gao;bin pang;design and performance evaluation of differentiated services router for next generation internet;5425;1296669;2001
+516;0;wen gao;yangzhao xiang,xicheng liu,bin pang;a novel red based hop by hop congestion control;3216;1235325;2001
+517;0;wen gao;liu yongliang;secure watermark verification scheme;0C37CBAD;432251B5;2004
+518;0;wen gao;yaxiao song,hongxun yao,liu yongliang;secure watermark verification scheme;0C37CBAD;4459102E;2002
+519;0;wen gao;yongliang liu;secure watermark verification scheme;5787;4459102E;2004
+520;0;wen gao;yaxiao song,yongliang liu,hongxun yao;secure watermark verification scheme;7986;4459102E;2002
+521;0;wen gao;feng wu,xiangyang ji,debin zhao,yan lu;b picture coding in avs video compression standard;012E6F4E;024537E8;2008
+522;0;wen gao;datong chen,weiqiang wang,jie yang;modeling background from compressed video;3049;43D23988;2005

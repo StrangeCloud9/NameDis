@@ -1,0 +1,32 @@
+0;0;jeffrey parsons;brian dobing;use cases and the uml;17104;86416;2005
+1;0;jeffrey parsons;brian dobing;the role of use cases in the uml a review and research agenda;07C6567A;301253;2003
+2;0;jeffrey parsons;linda cole;an experimental evaluation of property precedence in conceptual modelling;18166;4603CA00;2004
+3;0;jeffrey parsons;brian dobing;current practices in the use of uml;07C6567A;46202E57;2005
+4;0;jeffrey parsons;geert poels,visvanathan ramesh,andrew burtonjones,andrew gemino;experimental research on conceptual modeling what should we be doing and why ;07C6567A;46202E57;2006
+5;0;jeffrey parsons;jianmin su;iql a query language for the instance based data model;07C6567A;46202E57;2006
+6;0;jeffrey parsons;yair wand;property based semantic reconciliation of heterogeneous information sources;07C6567A;46202E57;2002
+7;0;jeffrey parsons;v ramesh,glenn j browne;what is the role of cognition in conceptual modeling a report on the first workshop on cognition and conceptual modeling;16614;0655F58A;1999
+8;0;jeffrey parsons;v ramesh,glenn j browne;what is the role of cognition in conceptual modeling a report on the first workshop on cognition and conceptual modeling;07C6567A;0655F58A;1999
+9;0;jeffrey parsons;xueming li;ontological semantics for the use of uml in conceptual modeling;07C6567A;46202E57;2007
+10;0;jeffrey parsons;xueming li;an ontological metamodel of classifiers and its application to conceptual modelling and database design;07C6567A;46202E57;2007
+11;0;jeffrey parsons;katherine gallagher;framework for targeting banner advertising on the internet;11832;4569270C;1997
+12;0;jeffrey parsons;;a graphical technique for modeling multi user data requirements;07C6567A;4569270C;1995
+13;0;jeffrey parsons;kevin p gallagher,kevin d foster;messages in the medium an experimental investigation of web advertising effectiveness and attitudes toward web content;07C6567A;4569270C;2000
+14;0;jeffrey parsons;dinesh batra,yair wand,eckhard d falkenberg;conceptual modeling in systems development should it be driven by user s or designer s needs ;7237;43F65246;1995
+15;0;jeffrey parsons;aimao zhang,b jeffrey parsons,ritu agarwal;experimental research in systems development methodologies opportunities and challenges;15812;43F65246;1994
+16;0;jeffrey parsons;yair wand;guidelines for evaluating classes in data modeling;16805;43F65246;1992
+17;0;jeffrey parsons;yair wand;choosing classes in conceptual modeling;07C6567A;062B05D6;1997
+18;0;jeffrey parsons;yair wand;using objects for systems analysis;07C6567A;062B05D6;1997
+19;0;jeffrey parsons;brian dobing;how uml is used;07C6567A;062B05D6;2006
+20;0;jeffrey parsons;linda cole;what do the pictures mean guidelines for experimental evaluation of representation fidelity in diagrammatical conceptual modeling techniques;07C6567A;45A68B5F;2005
+21;0;jeffrey parsons;brian dobing;understanding the role of use cases in uml a review and research agenda;07C6567A;045A441A;2000
+22;0;jeffrey parsons;brian dobing;dimensions of uml diagram use a survey of practitioners;07C6567A;045A441A;2008
+23;0;jeffrey parsons;yair wand;attribute based semantic reconciliation of multiple data sources;07C6567A;0A1565CE;2003
+24;1;jeffrey parsons;aniruddha gokhale,douglas c schmidt,gan deng,jaiganesh balasubramanian,emre turkay,george edwards,arvind s krishna,krishnakumar balasubramanian;model driven middleware a new paradigm for developing distributed real time and embedded systems;0BF6BC56;0140E2D3;2008
+25;0;jeffrey parsons;yair wand;emancipating instances from the tyranny of classes in information modeling;07C6567A;055F1F1C;2000
+26;0;jeffrey parsons;c saunders;cognitive heuristics in software engineering applying and extending anchoring and adjustment to artifact reuse;07C6567A;007F6F5E;2004
+27;0;jeffrey parsons;;instance based data management is it useful for biodiversity informatics applications ;07C6567A;47169EC5;2009
+28;0;jeffrey parsons;v ramesh,glenn j browne;what is the role of cognition in conceptual modeling a report on the first workshop on cognition and conceptual modeling;2319;0655F58A;1999
+29;0;jeffrey parsons;v ramesh,glenn j browne;what is the role of cognition in conceptual modeling a report on the first workshop on cognition and conceptual modeling;07C6567A;0655F58A;1999
+30;0;jeffrey parsons;brian dobing;the role of use cases in the uml a review and research agenda;07C6567A;1224826;2003
+31;0;jeffrey parsons;carson c woo,david e monarchi,yair wand;theoretical foundations for conceptual modelling in information systems development;07C6567A;46789D3E;1995

@@ -1,0 +1,77 @@
+0;0;yang yu;zhihua zhou;a new approach to estimating the expected first hitting time of evolutionary algorithms;348EB203;46A05BB0;2006
+1;0;yang yu;zhihua zhou;a new approach to estimating the expected first hitting time of evolutionary algorithms;348EB203;46A05BB0;2008
+2;2;yang yu;tzicker chiueh,fanglu guo;automated and safe vulnerability assessment;038CB6F6;47405592;2005
+3;4;yang yu;yun peng;learning the semantic meaning of a concept from the web;04B999C0;46A3F844;2008
+4;6;yang yu;hideki hara,kenji sugawara,brian ragsdale,tetsuo kinoshita;design of an agent based middleware for job matchmaking in teleworking community;00818482;45A88363;2003
+5;7;yang yu;maozu guo,jing zhang;simulations of protein folding process;19252;47784D0E;2007
+6;7;yang yu;maozu guo,jing zhang;methods and simulations for the protein folding;11928;47784D0E;2007
+7;2;yang yu;tzicker chiueh;display only file server a solution against information theft due to insider attack;038CB6F6;476F3906;2004
+8;10;yang yu;lu liang,xiaoping ye,yong tang,na tang;a meta model of temporal workflow and its formalization;09676E2E;4554E150;2004
+9;10;yang yu;teng zhang,zejian lin,yiyu tang,weibin zhang;research on dynamic task assignment in grid workflow system;09676E2E;4554E150;2006
+10;10;yang yu;xiaohui li;a workflow model with temporal logic constraints and its automated verification;09676E2E;4554E150;2007
+11;12;yang yu;s m murphy,liam j murphy;a clustering approach to planning base station and relay station locations in ieee 802 16j multi hop relay networks;06041575;436150FA;2008
+12;13;yang yu;sol m shatz,shourui tian;a framework for querying sensor networks using mobile devices;5600;43D23988;2007
+13;13;yang yu;hua xu,yichiun chen,larry shi,zhu li;network aware state update for large scale mobile games;4F799D2F;43D23988;2007
+14;14;yang yu;ting wang,huowang chen;representing wholes by structure;0A254897;43D2A5F0;2006
+15;0;yang yu;zhihua zhou,kai ming ting;cocktail ensemble for regression;348EB203;468A7487;2007
+16;0;yang yu;yuan jiang,zhihua zhou,liping liu;tefe a time efficient approach to feature extraction;348EB203;468A7487;2008
+17;13;yang yu;viktor k prasanna;power aware resource allocation for independent tasks in heterogeneous real time systems;0011EAC4;43C1EF66;2002
+18;13;yang yu;bhaskar krishnamachari,viktor k prasanna;energy latency tradeoffs for data gathering in wireless sensor networks;0011EAC4;442BD7CD;2004
+19;13;yang yu;loren j rittle;utility driven spatiotemporal sampling using mobile sensors;4F799D2F;442BD7CD;2008
+20;13;yang yu;j k kimy,sheeraz aliy,shriram b gundala,anthony a maciejewski,viktor k prasanna,sethavidh gertphol,howard jay siegel;utilization based heuristics for statically mapping real time applications onto the hiper d heterogeneous computing system;211;4708B833;2002
+21;13;yang yu;jongkook kim,shriram b gundala,shoukat ali,anthony a maciejewski,viktor k prasanna,sethavidh gertphol,howard jay siegel;utilization based heuristics for statically mapping real time applications onto the hiper d heterogeneous computing system;3785;4708B833;2001
+22;13;yang yu;ammar h alhusaini,sethavidh gertphol,viktor k prasanna;an integer programming approach for static mapping onto heterogeneous real time systems;11795;4708B833;2001
+23;13;yang yu;jongkook kim,shriram b gundala,shoukat ali,anthony a maciejewski,viktor k prasanna,sethavidh gertphol,howard jay siegel;a metric and mixed integer programming based approach for resource allocation in dynamic real time systems;17657;4708B833;2002
+24;13;yang yu;jongkook kim,shriram b gundala,anthony a maciejewski,syed amjad ali,viktor k prasanna,sethavidh gertphol,howard jay siegel;a metric and mixed integer programming based approach for resource allocation in dynamic real time systems;10267;4708B833;2001
+25;13;yang yu;bo hong,viktor k prasanna;communication models for algorithm design in networked sensor systems;0011EAC4;4708B833;2005
+26;16;yang yu;jingpeng xu,yulu yang,xirong ma,peng li,tao li;practical routing and torus assignment for rdt;11471;43C40A80;2004
+27;16;yang yu;yulu yang;performance analysis of practical rdt interconnection networks with sinomp;0C3BAC1F;43C40A80;2005
+28;16;yang yu;tao li,yulu yang,xiaoshe dong;fault tolerant routing algorithm for rdt structure;0C3BAC1F;43C40A80;2005
+29;16;yang yu;mei yang,yulu yang,yingtao jiang;a rdt based interconnection network for scalable network on chip designs;0C3BAC1F;1049797;2005
+30;16;yang yu;yulu yang;rdt properties and evaluations;9312;46CB4466;2006
+31;13;yang yu;viktor k prasanna;energy balanced task allocation for collaborative processing in networked embedded systems;0011EAC4;4373F5A0;2003
+32;2;yang yu;lapchung lam,tzicker chiueh;secure mobile code execution service;3023;454034E3;2006
+33;7;yang yu;maozu guo,jing zhang;computer simulation for protein folding;8625;46347866;2007
+34;0;yang yu;zhihua zhou;a framework for modeling positive class expansion with single snapshot;348EB203;463BD859;2008
+35;0;yang yu;zhihua zhou;a framework for modeling positive class expansion with single snapshot;348EB203;463BD859;2009
+36;5;yang yu;xuelong zhu;dynamic multi reference prediction in video coding for improved error resilience over internet;05E79D01;4459102E;2001
+37;13;yang yu;shriram b gundala,shoukat ali,sethavidth gertphol,anthony a maciejewski,viktor k prasanna,howard jay siegel,jongkook kim;greedy heuristics for resource allocation in dynamic distributed real time heterogeneous computing systems;19280;474BD8D0;2002
+38;4;yang yu;yun peng,rong pan,zhongli ding;a bayesian network approach to ontology mapping;04B999C0;44E12FD1;2005
+39;13;yang yu;loren j rittle,jason lebrun,vartika bhandari;supporting concurrent applications in wireless sensor networks;4F799D2F;43DCE876;2006
+40;14;yang yu;ting wang,ji wang,jinhong liu,rui shen,huowang chen;metadata pro ontology based metadata processing for web resources;11228;433F0094;2004
+41;2;yang yu;susanta nanda,lapchung lam,tzicker chiueh,fanglu guo;a feather weight virtual machine for windows applications;038CB6F6;470EFF91;2006
+42;2;yang yu;lapchung lam,hariharan kolam,tzicker chiueh;applications of a feather weight virtual machine;038CB6F6;470EFF91;2008
+43;9;yang yu;luo zhong,jingling yuan;the dynamic grey radial basis function prediction model and its applications;1678;437D615C;2006
+44;10;yang yu;jun zhang,weineng chen;workflow scheduling in grids an ant colony optimization approach;09676E2E;478757A6;2007
+45;0;yang yu;zhihua zhou;on the usefulness of infeasible solutions in evolutionary search a theoretical study;348EB203;478757A6;2008
+46;13;yang yu;bogdan carbunar,michael pearce,larry shi,venu vasudevan;query privacy in wireless sensor networks;4F799D2F;43A23F32;2007
+47;13;yang yu;bogdan carbunar,michael pearce,weidong shi,venu vasudevan;query privacy in wireless sensor networks;4F799D2F;43A23F32;2010
+48;11;yang yu;yuanlin chen,sili gao,xinyi tang,haijiao cai;3d simulation of real time infrared scene based on dsp;03FE5E00;449CDF39;2008
+49;0;yang yu;zhihua zhou;a new approach to estimating the expected first hitting time of evolutionary algorithms;348EB203;46A05BB0;2006
+50;0;yang yu;zhihua zhou;a new approach to estimating the expected first hitting time of evolutionary algorithms;348EB203;46A05BB0;2008
+51;15;yang yu;jeff kahn;log concave functions and poset probabilities;06194FDE;0450388C;1998
+52;0;yang yu;zhihua zhou;adapt bagging to nearest neighbor classifiers;348EB203;09A08B9A;2005
+53;0;yang yu;;the permanent rank of a matrix;2764;07A99D26;1999
+54;13;yang yu;viktor k prasanna;resource allocation for independent real time tasks in heterogeneous systems for energy minimization;0011EAC4;06542A1C;2003
+55;13;yang yu;viktor k prasanna;energy balanced task allocation for collaborative processing in wireless sensor networks;0011EAC4;0B7F57E3;2005
+56;4;yang yu;kyongil yoon,larry s davis,david harwood;human appearance modeling for matching across video sequences;03FD8454;44DF880B;2007
+57;13;yang yu;bhaskar krishnamachari,viktor k prasanna;issues in designing middleware for wireless sensor networks;0011EAC4;0B1F0EDA;2004
+58;13;yang yu;viktor k prasanna,bhaskar krishnamachari;data gathering with tunable compression in sensor networks;4F799D2F;05CA192B;2008
+59;0;yang yu;zhihua zhou;ensembling local learners throughmultimodal perturbation;348EB203;0489FD27;2005
+60;13;yang yu;v k prassana,bhaskar krishnamachari;energy minimization for real time data gathering in wireless sensor networks;4F799D2F;03C85075;2006
+61;13;yang yu;bo hong,viktor k prasanna;on communication models for algorithm design in networked sensor systems a case study ;0011EAC4;08673956;2005
+62;0;yang yu;zhihua zhou;weak evolvability equals strong evolvability;19369;0B68DB42;2009
+63;0;yang yu;zhihua zhou,kai ming ting,fei tony liu;spectrum of variable random trees;348EB203;08572D61;2008
+64;0;yang yu;ming li,zhihua zhou,xuying liu,dechuan zhan;predicting future customers via ensembling gradually expanded trees;6606;0336F05E;2007
+65;17;yang yu;liang chen,ben niu,hongwei gao;an improved two stage camera calibration method based on particle swarm optimization;06EA9474;439B9AD2;2009
+66;4;yang yu;jeff heflin,donald j hillman,basuki setio;a case study in integrating multiple e commerce standards via semantic web technology;0B185497;44E12FD1;2009
+67;13;yang yu;sol m shatz,shourui tian,juzheng li;querying sensor networks using ad hoc mobile devices a two layer networking approach;0259891E;42D65D01;2009
+68;18;yang yu;hongsheng xu,jianhua zhang,zhi wei;fem based numerical analysis on the temperature field in grind hardening;6052;45E5BC3F;2009
+69;10;yang yu;yong tang,yan pan,wei dao,na tang;a workflow model based on fuzzy timing petri nets;09676E2E;43520230;2005
+70;0;yang yu;zhihua zhou,nan li;semi naive exploitation of one dependence estimators;5772;468A7487;2009
+71;8;yang yu;shaohui sun,xiaoming dai,changguo sun,yingming wang;shedding new light on sequence design criteria for multipath channels;5914;436150FA;2009
+72;13;yang yu;;information processing and routing in wireless sensor networks;11456;1327228;2007
+73;2;yang yu;tzicker chiueh,zhiyong shan;confining windows inter process communications for os level virtual machine;038CB6F6;45F09162;2009
+74;9;yang yu;jingling yuan,xuan xiao,xiaoyan li;svm based classification mapping for user navigation;2582;03D6EF79;2009
+75;1;yang yu;yan zhang;cotton variety selection model and application design;37823082;127243;2009
+76;3;yang yu;hong zhao;medical segmentation using sobolev optical flow;008CC234;458DD1E0;2007

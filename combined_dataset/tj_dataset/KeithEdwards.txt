@@ -1,0 +1,25 @@
+0;0;keith edwards;graham farr;an algorithm for finding large induced planar subgraphs;0A968F8B;470B5A7A;2002
+1;1;keith edwards;ban alani;an empirical study of a qualitative systematic approach to requirements analysis qsara ;17483;363937;2004
+2;0;keith edwards;;detachments of complete graphs;0A968F8B;006F40C7;2005
+3;0;keith edwards;;the harmonious chromatic number of almost all trees;0A968F8B;006F40C7;1995
+4;0;keith edwards;;the harmonious chromatic number of bounded degree trees;0A968F8B;006F40C7;1996
+5;0;keith edwards;graham farr;on monochromatic component size for improper colourings;0A968F8B;0A3C919D;2005
+6;0;keith edwards;colin mcdiarmid;the complexity of harmonious colouring for trees;0A968F8B;0A3C919D;1995
+7;0;keith edwards;;the complexity of some graph colouring problems;4075;0A3C919D;1992
+8;0;keith edwards;niall cairnie;the computational complexity of cordial and equitable labelling;7320;01206F2B;2000
+9;0;keith edwards;;edge decomposition of complete tripartite graphs;368;01206F2B;2003
+10;0;keith edwards;;the harmonious chromatic number of complete r ary trees;9257;01206F2B;1999
+11;0;keith edwards;niall cairnie;the achromatic number of bounded degree trees;14604;01206F2B;1998
+12;0;keith edwards;;on a problem concerning piles of counters;19276;01206F2B;1996
+13;0;keith edwards;;preface;2856;01206F2B;2011
+14;0;keith edwards;;preface;8367;01206F2B;2013
+15;0;keith edwards;;preface;7894;01206F2B;2008
+16;0;keith edwards;graham farr;planarization and fragmentability of some classes of graphs;0A968F8B;01206F2B;2008
+17;0;keith edwards;mariusz woźniak,mirko horňak;on the neighbour distinguishing index of a graph;0A968F8B;0B1811E8;2006
+18;0;keith edwards;graham farr;fragmentability of graphs;8292;07A99D26;2001
+19;0;keith edwards;;the complexity of colouring problems on dense graphs;8929;05686292;1986
+20;0;keith edwards;;a new upper bound for the harmonious chromatic number;0A968F8B;0B86905B;1998
+21;2;keith edwards;;real time structured methods systems analysis;10221;1950587;1993
+22;3;keith edwards;tom rodden;jini example by example;3449;1425656;2001
+23;3;keith edwards;beki grinter,gregory d abowd;smart homes or homes that smart ;0A575E93;384AED02;2003
+24;3;keith edwards;victoria bellotti;intelligibility and accountability human considerations in context aware systems;02066FCD;04FD2EBF;2001

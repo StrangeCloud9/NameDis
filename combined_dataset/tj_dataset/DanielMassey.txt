@@ -1,0 +1,44 @@
+0;0;daniel massey;xiaoliang zhao,lixia zhang,lan wang,s f wu,dan pei,mohit lad;understanding bgp behavior through a study of dod prefixes;19532;1129775;2003
+1;0;daniel massey;lixia zhang,lei wang,duanqing pei,s f wu;a study of packet delivery performance during routing convergence;11860;46C2A057;2003
+2;0;daniel massey;lixia zhang,lan wang,keyur patel;frtr a scalable mechanism for global routing table consistency;5888;46C2A057;2004
+3;0;daniel massey;xiaoliang zhao,lixia zhang,lan wang,s f wu,dan pei,allison mankin;detection of invalid routing announcement in the internet;13830;46C2A057;2002
+4;0;daniel massey;lixia zhang,vasileios pappas;enhancing dns resilience against denial of service attacks;3401;46C2A057;2007
+5;0;daniel massey;soontee teoh,xiaoliang zhao,dan pei,randy bush,lixia zhang,lan wang,s felix wu,m a kwanliu;visual based anomaly detection for bgp origin as change oasc events;0B0338EC;472461FB;2003
+6;0;daniel massey;ross m mcconnell,indrajit ray,eunjong kim;reliably securely and efficiently distributing electronic content using multicasting;0582A04E;4692A0B1;2005
+7;0;daniel massey;lixia zhang,xingang zhao,dan pei;a study of bgp path vector route looping behavior;16339;4789F291;2004
+8;0;daniel massey;lixia zhang,xiaoliang zhao,lan wang,dan pei,robert p bush;protecting bgp routes to top level dns servers;13070;4789F291;2003
+9;0;daniel massey;lixia zhang,dan pei,beichuan zhang;timer interaction in route flap damping;7946;4789F291;2005
+10;0;daniel massey;bill fenner;fault detection in routing protocols;0349EE07;44F1AB80;1999
+11;0;daniel massey;lixia zhang,ricardo oliveira,mohit lad;inferring the origin of routing changes using link weights;4014;44F1AB80;2007
+12;0;daniel massey;indrajit ray,eunjong kim;global internet routing forensics validation of bgp paths using icmp traceback;0582A04E;1590424;2005
+13;0;daniel massey;xiaoliang zhao,s felix wu,randy bush,lixia zhang,lan wang,dan pei,allison mankin;observation and analysis of bgp behavior under stress;0011EAC4;44B13001;2002
+14;0;daniel massey;lixia zhang,eric osterweil,michael j ryan;quantifying the operational status of the dnssec deployment;0582A04E;452D6964;2008
+15;0;daniel massey;xiaoliang zhao,s felix wu,lixia zhang,lan wang,dan pei,allison mankin;an analysis of bgp multiple origin as moas conflicts;19197;44B13001;2001
+16;0;daniel massey;s f su,xiaoliang zhao,lixia zhang,lan wang,dan pei,allison mankin;improving bgp convergence through consistency assertions;17109;442BD7CD;2002
+17;0;daniel massey;lixia zhang,vasileios pappas,andreas terzis;a comparative study of the dns design with dht based alternatives;16023;442BD7CD;2006
+18;0;daniel massey;lixia zhang,xiaoliang zhao,mohit lad,beichuan zhang;analysis of bgp update surge during slammer worm attack;0011EAC4;43701CEE;2003
+19;0;daniel massey;lixia zhang,s felix wu,amy yen,xiaoliang zhao,ke zhang;on detection of anomalous routing dynamics in bgp;0B0338EC;463369F3;2004
+20;0;daniel massey;lixia zhang,akash nanavati,mohit lad;an algorithmic approach to identifying link failures;1773;46DAFD1F;2004
+21;0;daniel massey;lixia zhang,zhiguo xu,songwu lu,vasileios pappas,andreas terzis;impact of configuration errors on dns robustness;0582A04E;44B13001;2004
+22;0;daniel massey;lixia zhang,duane wessels,songwu lu,vasileios pappas,andreas terzis;impact of configuration errors on dns robustness;0582A04E;44B13001;2009
+23;0;daniel massey;ashish gupta,eunjong kim,batsukh tsendjav;resolving islands of security problem for dnssec;0582A04E;4371D954;2006
+24;0;daniel massey;lixia zhang,mohir lad;link rank a graphical tool for capturing bgp routing dynamics;2321;44F1E491;2004
+25;0;daniel massey;lixia zhang,r liu,beichuan zhang;collecting the internet as level topology;0582A04E;03EFACE8;2005
+26;0;daniel massey;sanjoy paul,daniela caldararu,sudhir aggarwal;a flexible multicast routing protocol for group communication;099D876D;03C7498F;2000
+27;0;daniel massey;lixia zhang,matt azuma,dan pei;bgp rcn improving bgp convergence through root cause notification;0582A04E;002F0F98;2005
+28;0;daniel massey;lixia zhang,matt azuma,dan pei;bgp rcn improving bgp convergence through root cause notification;0582A04E;03C7498F;2005
+29;0;daniel massey;lixia zhang,dan pei,beichuan zhang;an analysis of convergence delay in path vector routing protocols;0582A04E;03C7498F;2006
+30;0;daniel massey;lixia zhang,lan wang;persistent detection and recovery of state inconsistencies;05A45DE2;03C7498F;2007
+31;0;daniel massey;adam meyerson,lixia zhang,akash nanavati,mohit lad;minimum failure explanations for path vector routing changes;0582A04E;066ED013;2006
+32;0;daniel massey;lixia zhang,zhiguo xu,songwu lu,vasileios pappas,andreas terzis;impact of configuration errors on dns robustness;0582A04E;44B13001;2004
+33;0;daniel massey;lixia zhang,duane wessels,songwu lu,vasileios pappas,andreas terzis;impact of configuration errors on dns robustness;0582A04E;44B13001;2009
+34;0;daniel massey;lixia zhang,dan pei;a framework for resilient internet routing protocols;2536;0B1F0EDA;2004
+35;0;daniel massey;e k blum,xin wang,d stott parker;the dance party problem and its application to collective communication in computer networks;7426;474677D8;1997
+36;0;daniel massey;lixia zhang,xiaoliang zhao,lan wang,dan pei,robert p bush;protecting bgp routes to top level dns servers;9923;4789F291;2003
+37;0;daniel massey;lixia zhang,mohit lad;visualizing internet routing changes;7270;050D92AB;2006
+38;1;daniel massey;michael p lynch,david capps;a coherent moral relativism;085ADB71;0003E4AA;2009
+39;0;daniel massey;dorothy e denning;guest editors introduction securing the domain name system;0582A04E;455B6732;2009
+40;0;daniel massey;lixia zhang,eric osterweil;deploying and monitoring dns security dnssec ;1173;47405592;2009
+41;0;daniel massey;lixia zhang,eric osterweil;managing trusted keys in internet scale systems;18761;466431A5;2009
+42;0;daniel massey;patrick j walsh,christos papadopoulos,steve dibenedetto;analyzing the aftermath of the mccolo shutdown;18857;466431A5;2009
+43;0;daniel massey;lixia zhang,r liu,beichuan zhang;collecting the internet as level topology;0582A04E;03EFACE8;2005

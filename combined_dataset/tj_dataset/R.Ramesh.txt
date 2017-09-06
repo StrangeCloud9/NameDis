@@ -1,0 +1,60 @@
+0;0;r ramesh;i v ramakrishnan,r sekar;automata driven efficient subterm unification;09B0BBA7;42F73407;1994
+1;0;r ramesh;i v ramakrishnan,r sekar;automata driven efficient subterm unification;0474BFAF;42F73407;2001
+2;0;r ramesh;i v ramakrishnan;nonlinear pattern matching in trees;09B0BBA7;440ED19A;1992
+3;0;r ramesh;i v ramakrishnan;nonlinear pattern matching in trees;038CB6F6;440ED19A;1988
+4;0;r ramesh;t krishnaprasad,i v ramakrishnan,rakesh m verma;term matching on parallel computers;118;440ED19A;1989
+5;0;r ramesh;rakesh m verma,t krishnaprasad,i v ramakrishnan;term matching on parallel computers;038CB6F6;440ED19A;1987
+6;0;r ramesh;i v ramakrishnan,r sekar;adaptive pattern matching;5848;440ED19A;1995
+7;0;r ramesh;i v ramakrishnan,r sekar;adaptive pattern matching;09B0BBA7;440ED19A;1992
+8;0;r ramesh;i v ramakrishnan,t k chen;multistage indexing algorithms for speeding prolog execution;17906;07489CC9;1992
+9;0;r ramesh;i v ramakrishnan,ta chen and;multistage indexing algorithms for speeding prolog execution;09B0BBA7;07489CC9;1994
+10;0;r ramesh;i v ramakrishnan,david scott warren;automata driven indexing of prolog clauses;09B0BBA7;4524B15F;1989
+11;0;r ramesh;i v ramakrishnan,david scott warren;automata driven indexing of prolog clauses;09B0BBA7;4524B15F;1995
+12;0;r ramesh;i v ramakrishnan;optimal speedups for parallel pattern matching in trees;038CB6F6;42C509C4;1987
+13;0;r ramesh;i v ramakrishnan;incremental techniques for efficient normalization of nonlinear rewrite systems;09B0BBA7;42C509C4;1991
+14;0;r ramesh;weidong chen;a portable method of integrating slg resolution into prolog systems;13475;47977D8C;1994
+15;2;r ramesh;dennis hui;blind dc estimation in the presence of non gaussian signal;4DDD26E0;462744F4;2006
+16;4;r ramesh;inyong ham,constantinous tsatsoulis,setsuo ohsuga,r l kashyap,soundar r t kumara,victor s frost;intelligent computer integrated manufacturing i cim research perspectives;03C436D1;077B006D;1992
+17;5;r ramesh;m v thirumurthy,h r rao;a dynamic learning model for on line quality control using the taguchi approach;03C436D1;077B006D;2007
+18;5;r ramesh;m v thirumurthy,h r rao;a dynamic learning model for on line quality control using the taguchi approach;7953;077B006D;2007
+19;4;r ramesh;sudip bhattacharjee;enterprise computing environments and cost assessment;03C436D1;062B05D6;2000
+20;5;r ramesh;ray o waddoups,will pape,jagdish chandra,salvatore t march,satyen mukherjee,h raghav rao;information systems frontiers;4F1AE805;062B05D6;2000
+21;4;r ramesh;dee h andrews;distributed mission training teams virtual reality and real time networking introduction;10286;062B05D6;1999
+22;4;r ramesh;colin g drury;ears an online bibliographic search and retrieval system based on ordered explosion;10763;0A6BF76B;1987
+23;0;r ramesh;i v ramakrishnan;nonlinear pattern matching in trees;09B0BBA7;440ED19A;1992
+24;0;r ramesh;i v ramakrishnan;nonlinear pattern matching in trees;038CB6F6;440ED19A;1988
+25;0;r ramesh;t krishnaprasad,i v ramakrishnan,rakesh m verma;term matching on parallel computers;862;440ED19A;1989
+26;0;r ramesh;rakesh m verma,t krishnaprasad,i v ramakrishnan;term matching on parallel computers;038CB6F6;440ED19A;1987
+27;0;r ramesh;i v ramakrishnan,david scott warren;automata driven indexing of prolog clauses;09B0BBA7;4524B15F;1989
+28;0;r ramesh;i v ramakrishnan,david scott warren;automata driven indexing of prolog clauses;09B0BBA7;4524B15F;1995
+29;0;r ramesh;i v ramakrishnan;parallel tree pattern matching;17583;012074FB;1990
+30;0;r ramesh;i v ramakrishnan,r sekar;adaptive pattern matching;16079;440ED19A;1995
+31;0;r ramesh;i v ramakrishnan,r sekar;adaptive pattern matching;09B0BBA7;440ED19A;1992
+32;0;r ramesh;i v ramakrishnan,t k chen;multistage indexing for speeding prolog executions;9508;07489CC9;1994
+33;0;r ramesh;i v ramakrishnan,r sekar;automata driven efficient subterm unification;09B0BBA7;42F73407;1994
+34;0;r ramesh;i v ramakrishnan,r sekar;automata driven efficient subterm unification;0474BFAF;42F73407;2001
+35;0;r ramesh;weidong chen;implementation of tabled evaluation with delaying in prolog;0474BFAF;01D46A2B;1997
+36;0;r ramesh;j peter kincaid,a j g babu;variable depth trie index optimization theory and experimental results;03C436D1;055F1F1C;1989
+37;4;r ramesh;moustapha diaby;the distribution problem with carrier service a dual based penalty approach;9634;09DA8F85;1995
+38;4;r ramesh;mark h karwan,yongseok yoon;an optimal algorithm for the orienteering tour problem;3338;09DA8F85;1992
+39;3;r ramesh;r sampath kumar,n alagumurthy;simultaneous optimization of design tolerance and total cost for a piston and cylinder assembly;3790D794;4482E21B;2009
+40;6;r ramesh;c yaashuwanth;a new scheduling algorithms for real time tasks;7241;0B68DB42;2009
+41;4;r ramesh;xianjun geng,ram gopal,andrew b whinston,anna ye du;topographically discounted internet infrastructure resources a panel study and econometric analysis;03C436D1;0753A5A7;2008
+42;8;r ramesh;p s reddy;a simple method to test the stability of 2 d recursive digital filters of second order;08A8E382;709127;2008
+43;0;r ramesh;t krishnaprasad,i v ramakrishnan,rakesh m verma;term matching on parallel computers;15690;440ED19A;1989
+44;0;r ramesh;rakesh m verma,t krishnaprasad,i v ramakrishnan;term matching on parallel computers;038CB6F6;440ED19A;1987
+45;4;r ramesh;g chandrasekaran;microcomputer based multiple criteria decision support system for strategic planning;2111;02514EF1;1987
+46;4;r ramesh;j m cary;multicriteria jobshop scheduling;12191;0BBB40EA;1989
+47;0;r ramesh;t krishnaprasad,i v ramakrishnan,rakesh m verma;term matching on parallel computers;4128;440ED19A;1989
+48;0;r ramesh;rakesh m verma,t krishnaprasad,i v ramakrishnan;term matching on parallel computers;038CB6F6;440ED19A;1987
+49;4;r ramesh;mark h karwan,stanley zionts;theory of convex cones in multicriteria decision making;03C436D1;036FEF52;1988
+50;4;r ramesh;g chandra sekar;an integrated framework for decision support in corporate planning;4F1AE805;46789D3E;1988
+51;0;r ramesh;i v ramakrishnan,david scott warren;automata driven indexing of prolog clauses;09B0BBA7;4524B15F;1989
+52;0;r ramesh;i v ramakrishnan,david scott warren;automata driven indexing of prolog clauses;09B0BBA7;4524B15F;1995
+53;4;r ramesh;mark h karwan,stanley zionts;preference structure representation using convex cones in multicriteria integer programming;4F1AE805;01FC784F;1989
+54;4;r ramesh;ram gopal,stanley zionts;cascade graphs design analysis and algorithms for relational joins;1330;09DA8F85;2000
+55;0;r ramesh;james a voigt,joseph t evans,h n alshareef,m v raymond,t j headley,w l warren,b a tuttle;la0 5sr0 5coo3 electrode technology for pb zr ti o3 thin film nonvolatile memories;18236;096B53DD;1995
+56;0;r ramesh;i v ramakrishnan,t k chen;multistage indexing algorithms for speeding prolog execution;754;07489CC9;1992
+57;0;r ramesh;i v ramakrishnan,ta chen and;multistage indexing algorithms for speeding prolog execution;09B0BBA7;07489CC9;1994
+58;0;r ramesh;weidong chen;a portable method for integrating slg resolution into prolog systems;14021;47977D8C;1994
+59;7;r ramesh;;thin film ferroelectric materials and devices;15927;1938041;1997

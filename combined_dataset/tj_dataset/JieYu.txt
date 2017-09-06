@@ -1,0 +1,34 @@
+0;1;jie yu;yunjie xu,shun cai;the effects of web site aesthetics and shopping task on consumer online purchasing behavior;09E3EE34;4558D729;2008
+1;2;jie yu;jiebo luo;leveraging probabilistic season and location context models for scene understanding;005237C4;448AC690;2008
+2;2;jie yu;qi tian,nicu sebe,qing xue,thomas s huang;robust error metric analysis for noise estimation in image indexing;5159;45083D2F;2004
+3;2;jie yu;qi tian,jaume amores,nicu sebe;toward robust distance metric analysis for similarity estimation;02B554FC;45083D2F;2006
+4;2;jie yu;qi tian,nicu sebe,qing xue,thomas s huang;toward an improved error metric;7898;455477A7;2004
+5;2;jie yu;qi tian,ting rui,thomas s huang;parameterized discriminant analysis for image classification;2047;432251B5;2004
+6;2;jie yu;qi tian,nicu sebe,qing xue;a new analysis of the value of unlabeled data in semi supervised learning for image retrieval;636;432251B5;2004
+7;2;jie yu;qi tian,nicu sebe,jaume amores;a new study on distance metrics as similarity measurement;02B554FC;432251B5;2006
+8;2;jie yu;qi tian;toward intelligent use of semantic information on subspace discovery for image retrieval;3787;432251B5;2006
+9;2;jie yu;qi tian;adaptive discriminant projection for content based image retrieval;02B554FC;4372EE76;2006
+10;2;jie yu;jiebo luo,d c joshi,wei hao,david r mcintyre;recognizing picture taking environment from satellite images a feasibility study;005237C4;4372EE76;2008
+11;5;jie yu;haibo chen,binyu zang,rong chen,penchung yew;polus a powerful live updating system;017C99DB;45FFFB88;2007
+12;7;jie yu;john doyle,xiaoyun zhu;heavy tails generalized coding and optimal web layout;11933;442BD7CD;2001
+13;2;jie yu;qi tian,thomas s huang;boosting multiple classifiers constructed by hybrid discriminant analysis;02B554FC;06A2B60B;2005
+14;2;jie yu;qi tian;learning image manifolds by semantic subspace projection;02B554FC;43AA5802;2006
+15;2;jie yu;jiebo luo,dhiraj joshi,wei hao;event recognition viewing the world with a third eye;005237C4;43AA5802;2008
+16;1;jie yu;hock chuan chan,zhenhui jiang;knowledge contribution in problem solving virtual communities the mediating role of individual motivations;09E3EE34;1770258;2007
+17;0;jie yu;zhoujun li,huowang chen,xiaoming chen;a detection and offense mechanism to defend against application layer ddos attacks;0A254897;44D072F0;2007
+18;2;jie yu;qi tian,petia radeva,jaume amores,nicu sebe;distance learning for similarity estimation;005237C4;0BEAEA4E;2008
+19;2;jie yu;qi tian,ying wu,thomas s huang;self supervised learning based on discriminative nonlinear features for image classification;02B554FC;00065366;2005
+20;2;jie yu;qi tian;semantic subspace projection and its applications in image retrieval;005237C4;06DD66F4;2008
+21;2;jie yu;qi tian,ting rui,thomas s huang;integrating discriminant and descriptive information for dimension reduction and classification;7564;06DD66F4;2007
+22;3;jie yu;athina p petropulu,harish sethu;rate limited eafrp a new improved model for high speed network traffic;045716B5;42D493FC;2003
+23;3;jie yu;athina a petropulu,harish sethu;rate limited eafrp a new improved model for high speed network traffic;045716B5;42D493FC;2005
+24;5;jie yu;satish narayanasamy;a case for an interleaving constrained shared memory multi processor;01A8C383;436EE6FE;2009
+25;4;jie yu;dirk farin,h loos;multi cue based visual tracking in clutter scenes with occlusions;4058;43137C5C;2009
+26;2;jie yu;jiebo luo,thomas s huang,liangliang cao;enhancing semantic and geographic annotation of web images via logistic canonical correlation regression;005237C4;43AA5802;2009
+27;0;jie yu;zhoujun li,liming lu,chengfang fang;a lightweight mechanism to mitigate application layer ddos attacks;09E3EE34;44B337CB;2009
+28;0;jie yu;debao xiao,xuejiao liu,nian ma;a scalable vulnerability modeling and correlating method for network security;0A254897;44B337CB;2009
+29;2;jie yu;jiebo luo,xin jin,jiawei han;mining personal image collection for social group suggestion;11311;468A7487;2009
+30;6;jie yu;athanasios sideris;h control with parametric lyapunov functions;0349EE07;4773F002;1995
+31;6;jie yu;athanasios sideris;h control with parametric lyapunov functions;18862;4773F002;1997
+32;0;jie yu;zhoujun li;active measurement of routing table in kad;0A254897;43B6A1AD;2009
+33;8;jie yu;yanyan gao,xi li;validation of asip architecture description;06CA964A;464F6958;2008

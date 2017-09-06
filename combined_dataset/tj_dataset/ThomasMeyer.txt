@@ -1,0 +1,31 @@
+0;1;thomas meyer;richard john booth,kevin lee;knowledge integration for description logics;01E46A0B;46A05BB0;2005
+1;1;thomas meyer;kevin sang lee,jeff z pan,richard booth;finding maximally satisfiable terminologies for the description logic alc;3153;46A05BB0;2006
+2;1;thomas meyer;dongmo zhang,norman foo,rex kwok;negotiation as mutual belief revision;01E46A0B;46A05BB0;2004
+3;4;thomas meyer;renate klempienhinrichs,carolina von totth;collage grammars for collision free growing of objects in 3d scenes;0AC1438B;499547;2003
+4;1;thomas meyer;gerhard brewka,norman foo;lpod answer sets and nash equilibria;01E46A0B;46405877;2004
+5;1;thomas meyer;maurice pagnucco,zhi qiang zhuang;implementing iterated belief change via prime implicates;01E46A0B;46EF45E9;2007
+6;1;thomas meyer;anbu anbulagan,louise leenen,aditya ghose;modeling and solving semiring constraint satisfaction problems by transformation to weighted semiring max sat;03FAAFFE;46EF45E9;2007
+7;1;thomas meyer;kevin sang lee,jeff z pan,richard booth;computing maximally satisfiable terminologies for the description logic alc with cyclic definitions;11612;44DA004E;2006
+8;1;thomas meyer;laurent perrussel,jeanmarc thevenin;mutual enrichment for agents through nested belief change a semantic approach;01E46A0B;454F686A;2006
+9;1;thomas meyer;richard booth;equilibria in social belief removal;12059;44DA004E;2008
+10;1;thomas meyer;richard booth;equilibria in social belief removal;18076;0003E4AA;2010
+11;1;thomas meyer;johannes heidema,katarina britz;semantic preferential subsumption;1110;44DA004E;2008
+12;1;thomas meyer;louise leenen,peter harvey,aditya ghose;a relaxation of a semiring constraint satisfaction problem using combined semirings;01E46A0B;45FD9DD4;2006
+13;1;thomas meyer;;merging epistemic states;04254A53;45FD9DD4;2000
+14;4;thomas meyer;burkhart wolff,kolyang,christoph luth;tas and isawin generic interfaces for transformational program development and theorem proving;0AC1438B;42C509C4;1997
+15;4;thomas meyer;burkhart wolff;tactic based optimized compilation of functional programs;0AC1438B;450942AC;2004
+16;1;thomas meyer;rolf schwitter,anne cregan;sydney owl syntax towards a controlled natural language syntax for owl 1 1;13849;43E3020F;2007
+17;0;thomas meyer;christian tschudin,lidia yamamoto;an artificial chemistry for networking;001C3B8F;0655F58A;2008
+18;1;thomas meyer;richard booth,samir chopra;admissible and restrained revision;17562;08572D61;2006
+19;2;thomas meyer;peer r e mittl,pascal furet,heinz fretz;identification of cylin dependent kinase 1 inhibitors of a new chemical type by structure based design and database searching;4C81EC14;03DA0CAD;2001
+20;2;thomas meyer;patricia imbach,juerg zimmermann,pascal furet,hansgeorg capraro;structure based design of potent cdk1 inhibitors derived from olomoucine;4C81EC14;03DA0CAD;2000
+21;3;thomas meyer;rikard bogvad;on algorithmically checking whether a hilbert series comes from a complete intersection;5282;012074FB;2004
+22;1;thomas meyer;johannes heidema,katarina britz;modelling object typicality in description logics;09DBA719;46EF45E9;2009
+23;5;thomas meyer;felix eberli,stefan k gehrig;a real time low power stereo vision engine using semi global matching;35238AAD;453CB501;2009
+24;1;thomas meyer;richard booth,ivan varzinczak;next steps in propositional horn contraction;11705;47C39427;2009
+25;1;thomas meyer;chattrakul sombattheera,richard booth;a general family of preferential belief removal operators;05A9F14A;099A816C;2009
+26;1;thomas meyer;chattrakul sombattheera,richard booth;a general family of preferential belief removal operators;6652;099A816C;2012
+27;0;thomas meyer;daniel schreckling,christian tschudin,lidia yamamoto;robustness to code and data deletion in autocatalytic quines;001C3B8F;1586314;2008
+28;0;thomas meyer;christian tschudin,lidia yamamoto;a self healing multipath routing protocol;001C3B8F;44641471;2008
+29;1;thomas meyer;mehmet a orgun;proceedings of the second australasian workshop on advances in ontologies volume 72;05E74909;0ACD8486;2006
+30;6;thomas meyer;ralf steinmetz;multimedia synchronization techniques experiences based on different system structures;4FF45383;03EFACE8;1992

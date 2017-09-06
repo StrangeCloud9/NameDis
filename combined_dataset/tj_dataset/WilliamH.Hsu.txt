@@ -1,0 +1,34 @@
+0;0;william h hsu;;probabilistic learning in bayesian and stochastic neural networks;08BCC883;46A05BB0;1997
+1;0;william h hsu;simon kasif,arthur l delcher,harry r goldberg;probabilistic prediction of protein secondary structure using causal networks extended abstract ;17499;46A05BB0;1993
+2;0;william h hsu;eugene grois,mikhail b voloshin,david c wilkins;bayesian network models for generation of crisis management training scenarios;0966B229;46A05BB0;1998
+3;0;william h hsu;benjamin perry,haipeng guo,julie a stilson;a genetic algorithm for tuning variable orderings in bayesian network structure learning;0B4CEC90;46A05BB0;2002
+4;0;william h hsu;prashanth r boddhireddy,haipeng guo;an aco algorithm for the most probable explanation problem;0BF77E37;46EF45E9;2004
+5;0;william h hsu;haipeng guo;a learning based algorithm selection meta reasoner for the real time mpe problem;0B4CEC90;46EF45E9;2004
+6;0;william h hsu;martin s r paradesi,doina caragea;structural prediction of protein protein interactions in saccharomyces cerevisiae;0B4CEC90;44C5464F;2007
+7;0;william h hsu;tim weninger;text extraction from the web via text to tag ratio;0B4CEC90;47169EC5;2008
+8;0;william h hsu;steven m gustafson;layered learning in genetic programming for a cooperative robot soccer problem;7180;4413E269;2001
+9;0;william h hsu;jan antolik;evolutionary tree genetic programming;0B4CEC90;43F3068F;2005
+10;0;william h hsu;shekhar v gosavi,sanjoy das,shilpa a vaze;an ant colony approach for the steiner tree problem;9653;43F3068F;2002
+11;0;william h hsu;shekhar v gosavi,sanjoy das,shilpa a vaze;an ant colony algorithm for steiner trees new results;14400;43F3068F;2002
+12;0;william h hsu;haipeng guo;ga hardness revisited;0B4CEC90;43F3068F;2003
+13;0;william h hsu;steven gustafson,haipeng guo,yuhong cheng;genetic algorithms for reformulation of large scale kdd problems with many irrelevant attributes;7161;43F3068F;2000
+14;0;william h hsu;steven gustafson;genetic programming and multi agent layered learning by reinforcements;11469;43F3068F;2002
+15;0;william h hsu;benjamin b perry,haipeng guo,julie a stilson;a permutation genetic algorithm for variable ordering in learning bayesian networks from data;0B4CEC90;43F3068F;2002
+16;0;william h hsu;james a louis,cecil p schmidt;genetic algorithm wrappers for feature subset selection in supervised inductive learning;12882;43F3068F;2002
+17;0;william h hsu;david clutter,tom redman,michael welge;genetic wrappers for constructive induction in high performance data mining;2709;43F3068F;2000
+18;0;william h hsu;praveen koduru,stephen welch,sanjoy kumar das,j roe;dynamic system prediction using temporal artificial neural networks and multi objective genetic algorithms;13006;42CC6E2D;2005
+19;0;william h hsu;;relational graphical models of computational workflows for data mining;0B4CEC90;44E12FD1;2004
+20;0;william h hsu;simon kasif,arthur l delcher,harry r goldberg;protein secondary structure modeling with probabilistic networks;18459;43FD6777;1993
+21;0;william h hsu;david clutter,tom redman,michael welge;high performance commercial data mining a multistrategy machine learning application;0B4CEC90;07445D32;2002
+22;0;william h hsu;sylvian r ray;self organized expert modular network for classification of spatiotemporal sequences;089EA5DB;4799A10B;1998
+23;1;william h hsu;l s hsu,m f tenorio;the clusnet algorithm and time series prediction;12627;0BC82328;2011
+24;0;william h hsu;;genetic wrappers for feature selection in decision tree induction and variable ordering in bayesian network structure learning;0B4CEC90;0B7B9B75;2004
+25;0;william h hsu;sylvian r ray,david c wilkins;a multistrategy approach to classifier learning from time series;012FC667;03B4502A;2000
+26;1;william h hsu;manoel fernando tenorio,lokesoo hsu;parameter significance estimation and financial prediction;3892;08D0BBB4;1993
+27;0;william h hsu;amy e zwarico;automatic synthesis of compression techniques for heterogeneous;12034;07489CC9;1995
+28;0;william h hsu;haipeng guo;a machine learning approach to algorithm selection for np mathcal np hard optimization problems a case study on the mpe problem;11202;036FEF52;2007
+29;0;william h hsu;jing xia,tim weninger,waleed aljandal;an evolutionary approach to constructive induction for link discovery;0B4CEC90;43F3068F;2009
+30;0;william h hsu;jing xia,tim weninger,waleed aljandal;an evolutionary approach to constructive induction for link discovery;0B4CEC90;43F3068F;2009
+31;0;william h hsu;rodney r howell,tim weninger;graph drawing heuristics for path finding in large dimensionless graphs;0B4CEC90;465F7C62;2009
+32;0;william h hsu;jing xia,doina caragea;bi relational network analysis using a fast random walk with restart;0B4CEC90;468A7487;2009
+33;0;william h hsu;;control of inductive bias in supervised learning using evolutionary computation a wrapper based approach;0B4CEC90;446828;2003

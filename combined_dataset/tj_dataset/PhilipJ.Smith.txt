@@ -1,0 +1,30 @@
+0;0;philip j smith;steven j shute,d a krawczak,mark chignell;ep x a knowledge based system to aid in searches of the environmental pollution literature;10265;470CB4A0;1985
+1;0;philip j smith;rebecca denning;teaching problem solving through a cooperative learning environment;031EE95E;4558D729;1995
+2;0;philip j smith;jodi heintz obradovich,sally rudmann,stephanie guerlain,john svirbley,larry sachs,jack w smith,m kennedy,p strohm;design concepts for an instructional tool teaching abductive reasoning in antibody identification;19386;4558D729;1996
+3;0;philip j smith;jodi heintz obradovich,rebecca denning,stephanie guerlain,larry sachs,jack w smith,sally rudmann,p strohm;the transfusion medicine tutor using expert systems technology to teach domain specific problem solving skills;031EE95E;45E116C3;1996
+4;0;philip j smith;jodi heintz obradovich,jack w smith,stephanie guerlain,john svirbley,larry sachs,sally rudmann,p strohm;successful use of an expert system to teach diagnostic reasoning for antibody identification;031EE95E;45E116C3;1998
+5;1;philip j smith;steven parker,rajesh rawat,c r johnson;parallelization and integration of fire simulations in the uintah pse;11227;474677D8;2001
+6;2;philip j smith;bekka denning;elsa an electronic library search assistant demo ;4657;43FD776C;1993
+7;0;philip j smith;steven j shute,d a krawczak;ep x a demonstration of semantically based search of bibliographic databases;031EE95E;43FD776C;1987
+8;0;philip j smith;steven j shute,deb galdes;in search of knowledge based search tactics;031EE95E;43FD776C;1989
+9;0;philip j smith;steven j shute,deb galdes;in search of knowledge based search tactics;031EE95E;43FD776C;1989
+10;0;philip j smith;;document retrieval expertise in identifying relevant documents;6919;03B217F8;1990
+11;0;philip j smith;jack w smith,jane m fraser;a catalog of errors;8110;07B920C3;1992
+12;0;philip j smith;beverly janosky,charles r hildreth;online library catalog systems an analysis of user errors;11829;07B920C3;1986
+13;0;philip j smith;deb galdes,sally rudmann,donna l thomas,m s kennedy,janice blazina,t e miller,jack w smith,john r svirbely,jane m fraser;coping with the complexities of multiple solution problems a case study;15826;07B920C3;1991
+14;0;philip j smith;steven j shute;knowledge based search tactics;18838;0A6BF76B;1993
+15;0;philip j smith;steven j shute,mark chignell,beb galdes;knowledge based search tactics for an intelligent intermediary system;031EE95E;05308AFD;1989
+16;0;philip j smith;charles e billings,amy spencer;strategies for designing distributed systems case studies in the design of an air traffic management system;031EE95E;06BFA3BD;2007
+17;0;philip j smith;rebecca dennin;adaptive teaching strategies to improve individual student achievement in problem based learning environments;031EE95E;1014516;1996
+18;0;philip j smith;rebecca denning;adaptive teaching strategies to improve student learning in problem based learning environments;031EE95E;45E116C3;1996
+19;0;philip j smith;jodi heintz obradovich,sally rudmann,stephanie guerlain,john svirbley,larry sachs,jack w smith,m kennedy,p strohm;design concepts for an instructional tool teaching abductive reasoning in antibody identification;9732;4558D729;1996
+20;1;philip j smith;kwanliu ma,sandeep jain;visualizing turbulent mixing of gases and particles;1761;730120;1995
+21;0;philip j smith;steven j shute,d a krawczak,mark chignell;bibliographic information retrieval systems increasing cognitive compatibility;031EE95E;37864E98;1987
+22;0;philip j smith;mark thomas,w c giffin,thomas h rockwell;modeling fault diagnosis as the activation and use of a frame system;18227;04F860C6;1986
+23;1;philip j smith;k l ma;cloud tracing in convection diffusion systems;4E9F4E92;4566232D;1993
+24;1;philip j smith;kwanliu ma;virtual smoke an interactive 3d flow visualization technique;19106;467222;1992
+25;2;philip j smith;bekka denning;elsa abstract an electronic library search assistant;7233;43FD776C;1993
+26;0;philip j smith;steven j shute,mark chignell,beb galdes;knowledge based search tactics for an intelligent intermediary system;031EE95E;05308AFD;1989
+27;0;philip j smith;deb galdes,sally rudmann,donna l thomas,m s kennedy,janice blazina,t e miller,jack w smith,john r svirbely,jane m fraser;coping with the complexities of multiple solution problems a case study;5928;07B920C3;1991
+28;0;philip j smith;norman d geddes;a cognitive systems engineering approach to the design of decision support systems;031EE95E;781368;2002
+29;0;philip j smith;jodi heintz obradovich,rebecca denning,steve caisse,judith orasanu,c beck,c e mccoy;using critical incidents to understand the interactions of airline dispatchers with the traffic management system;031EE95E;1539306;1998

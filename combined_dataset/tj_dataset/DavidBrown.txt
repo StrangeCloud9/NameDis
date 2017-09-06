@@ -1,0 +1,53 @@
+0;0;david brown;luca cinquini,jose ruben orantes garcia,bob drach,ann chervenak,veronika nefedova,dean n williams,gary strand,arie shoshani,don middleton,alex sim,peter a fox,kasidit chanchio,david e bernholdt,carl kesselman,line catherine pouchard,ian foster;an ontology for scientific information in a grid environment the earth system grid;19792;4651456C;2003
+1;1;david brown;david cordes,allen parrish;experience in teaching a management oriented capstone software engineering course;0108016A;449CDF39;1995
+2;2;david brown;jianfeng feng;what is observable in a class of neurodynamics ;8315;4326CCD6;1998
+3;2;david brown;brunello tirozzi,jianfeng feng;output jitter diverges to infinity converges to zero or remains constant;17607;4326CCD6;1998
+4;3;david brown;honghai liu,chee seng chan;an effective human motion classification approach using knowledge representation in qualitative normalised templates;03C2675E;42F0CC9A;2007
+5;4;david brown;u persad,p m langdon,p john clarkson;cognitive scales and mental models for inclusive design;0661DECB;43331058;2007
+6;5;david brown;bradley c wheeler,peggy phillips,lynda m applegate;wiring the academy panel session what s working what s not what s next and why;02D0FFFC;43F65246;1997
+7;3;david brown;ian morgan,george turnbull,honghai liu;predictive unsupervised organisation in marine engine fault detection;03C2675E;4539ED1E;2008
+8;6;david brown;krishna n kurpad,steven m wright,mary p mcdougall;parallel imaging system design and limitations;056D3FC6;46C92457;2004
+9;1;david brown;matthew hudnall,david cordes,allen parrish,randy k smith,maury mitchell;a host architecture for automobile license plate recognition;10193;42E17B30;2007
+10;4;david brown;phong le,mark claypool,makoto wased;implicit interest indicators;0661DECB;45C028EA;2001
+11;2;david brown;jianfeng feng;effects of correlation and degree of balance in random synaptic inputs on the output of the hodgkin huxley model;4D9CAC13;45483BED;2010
+12;2;david brown;andrew p davison,jianfeng feng;structure of lateral inhibition in an olfactory bulb model;4D9CAC13;45483BED;1999
+13;2;david brown;stuart feerick,jianfeng feng;paradoxical relationship between output and input regularity for the fitzhugh nagumo model;4D9CAC13;45483BED;1999
+14;2;david brown;jianfeng feng;viewing a class of neurodynamics on parameter space;4D9CAC13;45483BED;1997
+15;3;david brown;ian morgan,george turnbull,honghai liu;time discretisation applied to anomaly detection in a marine engine;03C2675E;453637D6;2007
+16;3;david brown;christopher jesse,edward smart,honghai liu;analysing flight data using clustering methods;03C2675E;453637D6;2008
+17;3;david brown;yibo li,xiaofei ji,honghai liu;visual based view invariant human motion analysis a review;03C2675E;453637D6;2008
+18;7;david brown;philip lowthian,stephen bond,caroline young,giovanni merola,juanjose salazargonzalez;getting the best results in controlled rounding with the least effort;4F19DD64;42E401CE;2004
+19;9;david brown;;the new economy an engineer s perspective;4F799D2F;43ABF249;2006
+20;3;david brown;yang wang,patrick beullens,honghai liu;travel speed prediction using fuzzy reasoning;03C2675E;45737C92;2008
+21;10;david brown;manish g patel,john blackburn,rich gossweiler,mehran sahami,a i knight;google tv search dual wielding search and discovery in a large scale product;4CF99586;46F58A2E;2008
+22;11;david brown;j v brawley;composed products and module polynomials over finite fields;12239;01206F2B;1993
+23;2;david brown;jianfeng feng;low correlation between random synaptic inputs impacts considerably on the output of the hodgkin huxley model;4D9CAC13;02B93B6A;2000
+24;2;david brown;jianfeng feng;is there a problem matching real and model cv isi ;8799;02B93B6A;1999
+25;2;david brown;stuart feerick,jianfeng feng;significance of random neuronal drive;4D9CAC13;02B93B6A;2001
+26;2;david brown;andrew p davison,jianfeng feng;spike synchronization in a biophysically detailed model of the olfactory bulb;4D9CAC13;02B93B6A;2001
+27;2;david brown;stuart feerick,jianfeng feng;random pulse input versus continuous current plus white noise are they equivalent ;7878;02B93B6A;2000
+28;2;david brown;stuart feerick,jianfeng feng;inhibitory inputs increase a neurons s firing rate;4D9CAC13;02B93B6A;2001
+29;4;david brown;phong le,makoto waseda,mark claypool;inferring user interest;18420;0C45C5F4;2001
+30;13;david brown;lindsay evett;text formats and web design for visually impaired and dyslexic readers clear text for all;0322782F;0160C03B;2005
+31;14;david brown;j a n f gomes,elsa s henriques,marco antonio chaer nascimento,andre melo,nathalie reuter,maria joao ramos,bernard maigret,welly b floriano;the search for a new model structure of beta factor xiia;2567;03DA0CAD;2001
+32;14;david brown;herve minoux,christophe chipot,bernard maigret;structural analysis of the kgd sequence loop of barbourin an alpha iib beta 3 specific disintegrin;12373;03DA0CAD;2000
+33;2;david brown;jianfeng feng;decoding input signals in time domain a model approach;09B136B8;01A2F008;2004
+34;2;david brown;jianfeng feng;impact of correlated inputs on the output of the integrate and fire model;13870;0C56EDBC;2006
+35;2;david brown;jianfeng feng;a novel approach for analyzing dynamics in neural networks with saturated characteristics;4D9CAC13;0866EBEE;1996
+36;17;david brown;simon crosby;the virtualization reality;4F2861B3;02B7909E;2006
+37;15;david brown;jarir k chaar,inderpal s bhandari,michael j halliday,ram chillarege,e d tarver;a case study of software process improvement during development;565;007F6F5E;1993
+38;16;david brown;nese dernek,osman yurekli;identities for the exponential integral and the complementary error transforms;0535FE32;03009DEA;2006
+39;16;david brown;john maceli,osman yurekli;identities and parseval type relations for the l2 transform;13500;03009DEA;2008
+40;3;david brown;honghai liu,chee seng chan;adapting robot kinematics for human arm motion recognition;03C2675E;07F913FC;2007
+41;18;david brown;adrian sudol,martin jelin,douglas mccadden,jeffrey damon;hci professional involvement in k 12 education on target or missing the mark ;2455;43331058;2009
+42;19;david brown;chris bowes,wei ding,ping chen;large scale dependency knowledge acquisition and its extrinsic evaluation through word sense disambiguation;5877;44C0EC29;2009
+43;2;david brown;j f feng;coefficient of variation of interspike intervals greater than 0 5 how and when ;5853;0534F6C5;1999
+44;2;david brown;jianfeng feng;impact of temporal variation and the balance between excitation and inhibition on the output of the perfect integrate and fire model;4D9CAC13;0534F6C5;1998
+45;20;david brown;bernard dumouchel;understanding user behaviour and its metrics;17721;37864E98;2007
+46;3;david brown;christopher jesse,edward smart,honghai liu;qualitative classification of descent phases in commercial flight data;03C2675E;0C29CA79;2009
+47;21;david brown;sinead scullion,g leng;a model of lhrh self priming at the pituitary;4D9CAC13;910354;1998
+48;4;david brown;aparna s varde,brian l sayre,jianyu liang,stephen bique,richard d sisson,ehsan sheybani,elke a rundensteiner;component selection to optimize distance function learning in complex scientific data sets;0661DECB;47169EC5;2008
+49;23;david brown;jon sims williams,andrew mattthewman;an orthodontic expert system;14096;0A1902EC;1989
+50;3;david brown;xin wen,qizheng liao,honghai liu,shimin wei;motor fault diagnosis based on wavelet energy and immune neural network;14662;42CC6E2D;2009
+51;19;david brown;chris bowes,wei ding,ping chen;a fully unsupervised word sense disambiguation method using dependency knowledge;00F85EDF;45F914AD;2009
+52;22;david brown;kei davis,william d henshaw,daniel j quinlan,federico bassetti;overture an object oriented framework for high performance scientific computing;19537;44BF398F;1998

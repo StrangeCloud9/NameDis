@@ -1,0 +1,20 @@
+0;0;young park;hongjian niu;an execution based retrieval of object oriented components;046F75BC;44344A0A;1999
+1;0;young park;;organizing and retrieving class components based on types for reuse;046F75BC;44344A0A;1999
+2;0;young park;;software component retrieval by samples using concept analysis;13349;46A3F844;1999
+3;0;young park;nancy an;a structured approach to program reuse library;11597;46A3F844;1999
+4;3;young park;tongqueue lee;using temporal information in collaborative filtering an empirical study;5673;1660471;2006
+5;3;young park;tongqueue lee;a time based recommender system using implicit feedback;948;1860182;2006
+6;3;young park;tongqueue lee,eunchang lee;transition recommending mobile content using content diffusion and user preference;11426;1701503;2008
+7;5;young park;sam jin jeong,kun hee han;a combined technique of non uniform loops;16430;44087830;2006
+8;0;young park;nancy an;a structured approach to retrieving functions by types;046F75BC;454ED2F8;1998
+9;3;young park;tong queue lee;a similarity measure for collaborative filtering with implicit feedback;084D01D3;439B9AD2;2009
+10;6;young park;bongseop kim;web search using dynamic keyword suggestion based on formal concept analysis;195;44B7D8B2;2001
+11;7;young park;mihee yoon,hangrae kim,yoonho kim;intelligent and effective digital watermarking scheme for mobile content service;0CB865CB;453637D6;2005
+12;3;young park;tong queue lee;a time based approach to effective recommender systems using implicit feedback;084D01D3;00C89093;2008
+13;0;young park;benjamin goldberg;static analysis for optimizing reference counting;046F75BC;08D19590;1995
+14;0;young park;;software retrieval by samples using concept analysis;7210;0241FF68;2000
+15;8;young park;a thompson,tobias sienel,payman sadegh,x luo;a methodology for predicting service life and design of reliability experiments;5310;053A9641;2006
+16;1;young park;gyeong mi heo,romee lee;cyworld is my world korean adult experiences in an online community for learning;069BC91F;0AB656F3;2008
+17;3;young park;tong queue lee;an empirical study on effectiveness of temporal information as implicit ratings;01781AC4;00C89093;2009
+18;7;young park;yoon ho kim;e gov net based emergency management service;4D8391F1;833637;2008
+19;4;young park;won seok choi,hyunsuk hwang;electrical properties of pb zr ti o3 films prepared on ito glass;13249;096B53DD;2008

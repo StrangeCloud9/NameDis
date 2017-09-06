@@ -1,0 +1,82 @@
+0;0;thomas zimmermann;eberhard zehendner,torsten fink;amica einfache uniforme nutzung heterogener verteilter dynamischer ressourcen;7910;44E6CA1F;1999
+1;1;thomas zimmermann;andreas zeller,stephan neuhaus,christian holler;predicting vulnerable software components;0A0D2BAD;476F3906;2007
+2;1;thomas zimmermann;andreas zeller;visualizing memory graphs;12694;4788C323;2001
+3;1;thomas zimmermann;silvia breu;mining aspects from version history;05776AD7;45878F67;2006
+4;1;thomas zimmermann;silvia breu;mining aspects from version history;10884;45878F67;2007
+5;1;thomas zimmermann;christian lindig,silvia breu;ham cross cutting concerns in eclipse;05776AD7;46804BBA;2006
+6;1;thomas zimmermann;christian lindig,silvia breu;ham cross cutting concerns in eclipse;7905;46804BBA;2007
+7;1;thomas zimmermann;christian lindig,silvia breu;mining eclipse for crosscutting;14620;45878F67;2007
+8;1;thomas zimmermann;christian lindig,silvia breu,benjamin livshits;mining additions of method calls in argouml;05776AD7;454AACD8;2006
+9;1;thomas zimmermann;christian lindig,silvia breu,benjamin livshits;mining additions of method calls in argouml;727;45878F67;2007
+10;1;thomas zimmermann;;learning from project history to support programmers;16320;504040;2005
+11;1;thomas zimmermann;;taking lessons from history;05776AD7;45FFFB88;2006
+12;1;thomas zimmermann;stephan diehl,peter weisgerber,andreas zeller;mining version histories to guide software changes;05776AD7;45FFFB88;2004
+13;1;thomas zimmermann;stephan diehl,andreas zeller,peter weissgerber;mining version histories to guide software changes;16585;45FFFB88;2005
+14;1;thomas zimmermann;sunghun kim,andreas zeller,e james whitehead;predicting faults from cached history;05776AD7;45FFFB88;2008
+15;1;thomas zimmermann;sunghun kim,andreas zeller,e james whitehead;predicting faults from cached history;05776AD7;45FFFB88;2008
+16;1;thomas zimmermann;sunghun kim,andreas zeller,e james whitehead;predicting faults from cached history;2225;45FFFB88;2007
+17;1;thomas zimmermann;nachiappan nagappan;predicting defects using network analysis on dependency graphs;0A0D2BAD;45FFFB88;2008
+18;1;thomas zimmermann;michele lanza,harald gall;4th international workshop on mining software repositories msr 2007 ;05776AD7;45FFFB88;2007
+19;1;thomas zimmermann;sunghun kim,nicolas bettenburg,rahul premraj;duplicate bug reports considered harmful really ;0A0D2BAD;4532399F;2008
+20;1;thomas zimmermann;andreas zeller,adrian schroter;predicting component failures at design time;05776AD7;268018;2006
+21;1;thomas zimmermann;valentin dallmeier,nachiappan nagappan,premkumar devanbu,brendan murphy;defects 2008 international workshop on defects in large software systems;0A0D2BAD;430D9705;2008
+22;1;thomas zimmermann;stephan diehl,andreas zeller;how history justifies system architecture or not ;05776AD7;47CC151A;2003
+23;1;thomas zimmermann;daniel schreck,valentin dallmeier;how documentation evolves over time;05776AD7;47CC151A;2007
+24;1;thomas zimmermann;silvia breu;mining aspects from version history;05776AD7;45878F67;2006
+25;1;thomas zimmermann;silvia breu;mining aspects from version history;3536;45878F67;2007
+26;1;thomas zimmermann;sunghun kim,e j whitehead,kai pan;automatic identification of bug introducing changes;16490;45878F67;2006
+27;1;thomas zimmermann;valentin dallmeier;extraction of bug localization benchmarks from history;05776AD7;45878F67;2007
+28;1;thomas zimmermann;;fast data mining for programming support;8409;470954;2004
+29;1;thomas zimmermann;sunghun kim,andreas zeller,e james whitehead;mining version archives for co changed lines;05776AD7;454AACD8;2006
+30;1;thomas zimmermann;christian lindig,silvia breu;mining eclipse for cross cutting concerns;05776AD7;454AACD8;2006
+31;1;thomas zimmermann;sunghun kim,nicolas bettenburg,rahul premraj;extracting structural information from bug reports;0A0D2BAD;454AACD8;2008
+32;1;thomas zimmermann;ahmed e hassan,audris mockus,e james whitehead,andreas zeller,tudor girba,sunghun kim,miryung kim,martin pinzger;ta re an exchange language for mining software repositories;05776AD7;454AACD8;2006
+33;1;thomas zimmermann;david schuler;mining usage expertise from version archives;0A0D2BAD;454AACD8;2008
+34;1;thomas zimmermann;jacek śliwerski,andreas zeller;when do changes induce fixes ;05776AD7;454AACD8;2005
+35;1;thomas zimmermann;christian lindig,silvia breu,benjamin livshits;mining additions of method calls in argouml;05776AD7;454AACD8;2006
+36;1;thomas zimmermann;christian lindig,silvia breu,benjamin livshits;mining additions of method calls in argouml;8190;45878F67;2007
+37;1;thomas zimmermann;rahul premraj,andreas zeller,christian weiss;how long will it take to fix this bug ;4874;454AACD8;2007
+38;1;thomas zimmermann;;mining workspace updates in cvs;05776AD7;454AACD8;2007
+39;1;thomas zimmermann;;mining workspace updates in cvs;05776AD7;454AACD8;2007
+40;1;thomas zimmermann;christian lindig,silvia breu;aspect mining for large systems;05776AD7;43DFAE0A;2006
+41;1;thomas zimmermann;christian lindig,silvia breu;aspect mining for large systems;05776AD7;43DFAE0A;2006
+42;1;thomas zimmermann;konstantin halachev,valentin dallmeier,andreas zeller;erose guiding programmers in eclipse;05776AD7;43DFAE0A;2005
+43;1;thomas zimmermann;andreas zeller,rahul premraj,wolfgang holz;predicting software metrics at design time;0A0D2BAD;45443D53;2008
+44;1;thomas zimmermann;stephan diehl,andreas zeller;was software archive erzahlen;18051;1787487;2006
+45;1;thomas zimmermann;gengshen du,gunther ruhe;explaining product release planning results using concept analysis;4062;45F650F9;2008
+46;1;thomas zimmermann;benjamin livshits;dynamine finding common error patterns by mining software revision histories;05776AD7;477F6C83;2005
+47;1;thomas zimmermann;benjamin livshits;dynamine finding common error patterns by mining software revision histories;16384;73695;2005
+48;1;thomas zimmermann;jacek śliwerski,andreas zeller;hatari raising risk awareness;05776AD7;477F6C83;2005
+49;1;thomas zimmermann;jacek sliwerski,andreas zeller;hatari raising risk awareness;05776AD7;477F6C83;2005
+50;1;thomas zimmermann;sascha just,nicolas bettenburg,rahul premraj,cathrin weiss,adrian schroter;what makes a good bug report ;0A0D2BAD;477F6C83;2008
+51;1;thomas zimmermann;sascha just,nicolas bettenburg,rahul premraj,cathrin weiss,adrian schr ter;what makes a good bug report ;7246;477F6C83;2008
+52;1;thomas zimmermann;rahul premraj,nicolas bettenburg,sascha just,cathrin weiss,adrian schroter;what makes a good bug report ;4CE6FC2D;007F6F5E;2010
+53;1;thomas zimmermann;sascha just,rahul premraj;towards the next generation of bug tracking systems;4504;436976F3;2008
+54;1;thomas zimmermann;rahul premraj;building software cost estimation models using homogenous data;05776AD7;451D2615;2007
+55;1;thomas zimmermann;christian lindig,silvia breu;ham cross cutting concerns in eclipse;05776AD7;46804BBA;2006
+56;1;thomas zimmermann;christian lindig,silvia breu;ham cross cutting concerns in eclipse;17966;46804BBA;2007
+57;1;thomas zimmermann;;fine grained processing of cvs archives with apfel;05776AD7;46804BBA;2006
+58;1;thomas zimmermann;adrian schroter,nicolas bettenburg,rahul premraj,cathrin weis,sascha just;quality of bug reports in eclipse;0A0D2BAD;46804BBA;2007
+59;1;thomas zimmermann;sunghun kim,andreas zeller,e james whitehead;predicting faults from cached history;05776AD7;45FFFB88;2008
+60;1;thomas zimmermann;sunghun kim,andreas zeller,e james whitehead;predicting faults from cached history;05776AD7;45FFFB88;2008
+61;1;thomas zimmermann;sunghun kim,andreas zeller,e james whitehead;predicting faults from cached history;5563;45FFFB88;2007
+62;1;thomas zimmermann;dominique eyheramendy;object oriented symbolic derivation and automatic programming of finite elements in mechanics;12602;05531DA6;1999
+63;1;thomas zimmermann;paul holleis,daniel gmach;drawing graphs within graphs;18632;01FE6DE3;2004
+64;1;thomas zimmermann;stephan diehl,peter weisgerber,andreas zeller;mining version histories to guide software changes;05776AD7;45FFFB88;2004
+65;1;thomas zimmermann;stephan diehl,andreas zeller,peter weissgerber;mining version histories to guide software changes;11239;45FFFB88;2005
+66;1;thomas zimmermann;nachiappan nagappan,alfred v aho,kaitlin d sherwood,marc eaddy,vibhav garg,gail c murphy;do crosscutting concerns cause defects ;496;007F6F5E;2008
+67;1;thomas zimmermann;adrian schroter,rahul premraj,andreas zeller;where do bugs come from ;05776AD7;0B24320F;2006
+68;1;thomas zimmermann;jacek śliwerski,andreas zeller;when do changes induce fixes ;05776AD7;454AACD8;2005
+69;1;thomas zimmermann;nachiappan nagappan,andreas zeller;predicting bugs from history;0A0D2BAD;1477846;2008
+70;1;thomas zimmermann;markus pauser,andreas zeller,tilman holschuh,kim herzig,rahul premraj;predicting defects in sap java code an experience report;4CE6FC2D;45FFFB88;2009
+71;1;thomas zimmermann;jonathan sillito,rahul premraj,silvia breu;improving bug tracking systems;4CE6FC2D;45FFFB88;2009
+72;1;thomas zimmermann;nachiappan nagappan,andreas zeller;guest editors introduction mining software archives;4CE6FC2D;00669F99;2009
+73;1;thomas zimmermann;jonathan sillito,david schuler,david ma;expert recommendation with usage expertise;4CE6FC2D;4532399F;2009
+74;1;thomas zimmermann;;changes and bugs mining and predicting development activities;4CE6FC2D;4532399F;2009
+75;1;thomas zimmermann;nachiappan nagappan,emanuel giger,harald gall,brendan murphy;cross project defect prediction a large scale experiment on data vs domain vs process;4CE6FC2D;477F6C83;2009
+76;1;thomas zimmermann;sunghun kim,gaeul jeong;improving bug triage with bug tossing graphs;4CE6FC2D;477F6C83;2009
+77;1;thomas zimmermann;md mainur rahman,guenther ruhe;optimized assignment of developers for fixing bugs an initial evaluation for eclipse projects;4CE6FC2D;451D2615;2009
+78;1;thomas zimmermann;nachiappan nagappan;predicting defects with program dependencies;4CE6FC2D;451D2615;2009
+79;1;thomas zimmermann;jonathan sillito,rahul premraj,silvia breu;information needs in bug reports improving cooperation between developers and users;4CE6FC2D;473B0162;2010
+80;1;thomas zimmermann;s commend;object oriented nonlinear finite element programming a primer;18418;00FC6364;2001
+81;1;thomas zimmermann;andreas zeller,rahul premraj;predicting defects for eclipse;05776AD7;47059E35;2007

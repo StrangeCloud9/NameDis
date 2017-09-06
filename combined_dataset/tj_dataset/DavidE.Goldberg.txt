@@ -1,0 +1,257 @@
+0;0;david e goldberg;;genetic algorithms in search optimization and machine learning;2812;549757;1989
+1;0;david e goldberg;kumara sastry,yukio ohsawa;discovering deep building blocks for competent genetic algorithms using chance discovery via keygraphs;0966B229;913479;2003
+2;0;david e goldberg;martin v butz;generalized state values in an anticipatory learning classifier system;0966B229;1856890;2003
+3;0;david e goldberg;;little models big results;0966B229;46EF45E9;2005
+4;0;david e goldberg;hussein a abbass,k v l n sastry;sub structural niching in non stationary environments;18896;46EF45E9;2005
+5;0;david e goldberg;unamay oreilly;where does the good stuff go and why how contextual semantics influences program structure in simple genetic programming;0966B229;4413E269;1998
+6;0;david e goldberg;kumara sastry,paul winward,c m r r lima;fluctuating crosstalk as a source of deterministic noise and its effects on ga scalability;0966B229;43F3068F;2006
+7;0;david e goldberg;r e smith;variable default hierarchy separation in a classifier system;12617;451C6EC3;1991
+8;0;david e goldberg;clayton l bridges;the nonuniform walsh schema transform;8075;451C6EC3;1991
+9;0;david e goldberg;kalyanmoy deb;analyzing deception in trap functions;7898;451C6EC3;1993
+10;0;david e goldberg;kalyanmoy deb;a comparative analysis of selection schemes used in genetic algorithms;0966B229;451C6EC3;1991
+11;0;david e goldberg;james h clark,kalyanmoy deb;accounting for noise in the sizing of populations;1230;451C6EC3;1993
+12;0;david e goldberg;georges r harik;learning linkage;12775;451C6EC3;1996
+13;0;david e goldberg;jeffrey horn;genetic algorithm difficulty and the modality of fitness landscapes;8642;451C6EC3;1995
+14;0;david e goldberg;jeffrey d horn;toward a control map for niching;5184;451C6EC3;1998
+15;0;david e goldberg;hillol kargupta;search blackbox optimization and sample complexity;0966B229;451C6EC3;1996
+16;0;david e goldberg;chang wook ahn,r s ramakrishna;real coded bayesian optimization algorithm bringing the strength of boa into the continuous world;0966B229;43F3068F;2004
+17;0;david e goldberg;laura a albert;efficient discretization scheduling in multiple dimensions;0966B229;43F3068F;2002
+18;0;david e goldberg;martin v butz;bounding the population size in xcs to ensure reproductive opportunities;0966B229;43F3068F;2003
+19;0;david e goldberg;martin v butz,pier luca lanzi;bounding learning time in xcs;0966B229;43F3068F;2004
+20;0;david e goldberg;martin v butz,pier luca lanzi;gradient based learning updates improve xcs performance in multistep problems;0966B229;43F3068F;2004
+21;0;david e goldberg;martin v butz,xavier llora,martin pelikan;extracted global structure makes local building block processing effective in xcs;0966B229;43F3068F;2005
+22;0;david e goldberg;kumara sastry,martin v butz;tournament selection stable fitness pressure in xcs;0966B229;43F3068F;2003
+23;0;david e goldberg;erick cantupaz;are multiple runs of genetic algorithms better than one ;0966B229;43F3068F;2003
+24;0;david e goldberg;yingping chen;an analysis of a reordering operator with tournament selection on a ga hard problem;0966B229;43F3068F;2003
+25;0;david e goldberg;yingping chen;tightness time for the linkage learning genetic algorithm;0966B229;43F3068F;2003
+26;0;david e goldberg;yingping chen;introducing subchromosome representations to the linkage learning genetic algorithm;0966B229;43F3068F;2004
+27;0;david e goldberg;k v krishna sastry,jianhung chen,shinnying ho;fitness inheritance in multi objective optimization;9593;43F3068F;2002
+28;0;david e goldberg;jianhung chen,shinnying ho;quality time analysis of multi objective evolutionary algorithms;0966B229;43F3068F;2005
+29;0;david e goldberg;felipe p espinoza,barbara s minsker;performance evaluation and population reduction for a self adaptive hybrid genetic algorithm sahga ;0966B229;43F3068F;2003
+30;0;david e goldberg;;using time efficiently genetic evolutionary algorithms and the continuation problem;4722;43F3068F;1999
+31;0;david e goldberg;siegfried voessner;optimizing global local search hybrids;13225;43F3068F;1999
+32;0;david e goldberg;clarissa van hoyweghen,bart naudts;from twomax to the ising model easy and hard symmetrical problems;10762;43F3068F;2002
+33;0;david e goldberg;nazan khan,martin pelikan;multiple objective bayesian optimization algorithm;19073;43F3068F;2002
+34;0;david e goldberg;daniele loiacono,stewart w wilson,pier luca lanzi;extending xcsf beyond linear approximation;0966B229;43F3068F;2005
+35;0;david e goldberg;daniele loiacono,stewart w wilson,pier luca lanzi;xcs with computed prediction in multistep environments;0966B229;43F3068F;2005
+36;0;david e goldberg;daniele loiacono,stewart w wilson,pier luca lanzi;classifier prediction based on tile coding;0966B229;43F3068F;2006
+37;0;david e goldberg;dimitri knjazew;omega ordering messy ga solving permutation problems with the fast genetic algorithm and random keys;10620;43F3068F;2000
+38;0;david e goldberg;daniele loiacono,stewart w wilson,pier luca lanzi;prediction update algorithms for xcsf rls kalman filter and gain adaptation;0966B229;43F3068F;2006
+39;0;david e goldberg;alexander kosorukoff;evolutionary computation as a form of organization;9368;43F3068F;2002
+40;0;david e goldberg;claudio f lima,kumara sastry,fernando g lobo;combining competent crossover and mutation operators a probabilistic model building approach;0966B229;43F3068F;2005
+41;0;david e goldberg;xavier llora;wise breeding ga via machine learning techniques for function optimization;012FC667;43F3068F;2003
+42;0;david e goldberg;xavier llora,yingping chen,kei ohnishi,michael welge;enhanced innovation a fusion of chance discovery and evolutionary computation to foster creative processes and decision making;0966B229;43F3068F;2004
+43;0;david e goldberg;francesc alias,xavier llora,k p r sastry,michael welge;analyzing active interactive genetic algorithms using visual analytics;0966B229;43F3068F;2006
+44;0;david e goldberg;kumara sastry,xavier llora;the compact classifier system motivation analysis and first results;0966B229;43F3068F;2005
+45;0;david e goldberg;k v l n sastry,xavier llora;binary rule encoding schemes a study using the compact classifier system;0966B229;43F3068F;2005
+46;0;david e goldberg;kumara sastry,xavier llora,abhimanyu gupta,lalitha lakshmi;combating user fatigue in igas partial ordering support vector machines and synthetic fitness;0966B229;43F3068F;2005
+47;0;david e goldberg;martin pelikan,fernando g lobo;time complexity of genetic algorithms on exponentially scaled problems;10218;43F3068F;2000
+48;0;david e goldberg;tianli yu;toward an understanding of the quality and efficiency of model building for genetic algorithms;0966B229;43F3068F;2004
+49;0;david e goldberg;tianli yu;dependency structure matrix analysis offline utility of the dependency structure matrix genetic algorithm;0966B229;43F3068F;2004
+50;0;david e goldberg;tianli yu;conquering hierarchical difficulty by explicit chunking substructural chromosome compression;0AF5B565;43F3068F;2006
+51;0;david e goldberg;kumara sastry,yingping chen,kei ohnishi;inducing sequentiality using grammatical genetic codes;0966B229;43F3068F;2004
+52;0;david e goldberg;gerulf k m pedersen;dynamic uniform scaling for multiobjective genetic algorithms;0966B229;43F3068F;2013
+53;0;david e goldberg;martin pelikan;hierarchical problem solving and the bayesian optimization algorithm;6181;43F3068F;2000
+54;0;david e goldberg;martin pelikan;hierarchical boa solves ising spin glasses and maxsat;0966B229;43F3068F;2003
+55;0;david e goldberg;martin pelikan,erick cantupaz;bayesian optimization algorithm population sizing and time to convergence;17559;43F3068F;2000
+56;0;david e goldberg;shigeyoshi tsutsui,martin pelikan;combining the strengths of bayesian optimization algorithm and adaptive evolution strategies;8176;43F3068F;2002
+57;0;david e goldberg;k v l n sastry,martin pelikan,martin v butz;hierarchical boa on random decomposable problems;0966B229;43F3068F;2006
+58;0;david e goldberg;kumara sastry,martin pelikan;multiobjective hboa clustering and scalability;0966B229;43F3068F;2005
+59;0;david e goldberg;kumara sastry,martin pelikan;sporadic model building for efficiency enhancement of hierarchical boa;0966B229;43F3068F;2006
+60;0;david e goldberg;franz rothlauf,armin heinzl;bad codings and the utility of well designed genetic algorithms;17639;43F3068F;2000
+61;0;david e goldberg;kumara sastry,hussein a abbass,duane d johnson;sub structural niching in estimation of distribution algorithms;0966B229;43F3068F;2005
+62;0;david e goldberg;kumara sastry;genetic algorithms efficiency enhancement and deciding well with differing fitness variances;9272;43F3068F;2002
+63;0;david e goldberg;kumara sastry;genetic algorithms efficiency enhancement and deciding well with differing fitness bias values;0966B229;43F3068F;2002
+64;0;david e goldberg;k s sastry;scalability of selectorecombinative genetic algorithms for problems with tight linkage;0966B229;43F3068F;2003
+65;0;david e goldberg;kumara sastry;designing competent mutation operators via probabilistic model building of neighborhoods;0966B229;43F3068F;2004
+66;0;david e goldberg;kumara sastry;designing competent mutation operators via probabilistic model building of neighborhoods;19485;43F3068F;2004
+67;0;david e goldberg;kumara sastry;let s get ready to rumble crossover versus mutation head to head;0966B229;43F3068F;2004
+68;0;david e goldberg;kumara sastry;let s get ready to rumble crossover versus mutation head to head;16436;43F3068F;2004
+69;0;david e goldberg;todd j martinez,alexis l thompson,duane d johnson,jane owens,k v l n sastry,jeff leiding;multiobjective genetic algorithms for multiscaling excited state direct dynamics in photochemistry;0966B229;43F3068F;2006
+70;0;david e goldberg;claudio f lima,k v l n sastry;evaluation relaxation using substructural information and linear estimation;0966B229;43F3068F;2006
+71;0;david e goldberg;abhishek singh,yingping chen;modified linkage learning genetic algorithm for difficult non stationary problems;7305;43F3068F;2002
+72;0;david e goldberg;abhishek singh,yingping chen;modified linkage learning genetic algorithm for difficult non stationary problems;11324;43F3068F;2002
+73;0;david e goldberg;kurian tharakunnel,martin v butz;towards building block propagation in xcs a negative result and its implications;0966B229;43F3068F;2003
+74;0;david e goldberg;paul winward;fluctuating crosstalk deterministic noise and ga scalability;0966B229;43F3068F;2006
+75;0;david e goldberg;tianli yu,yingping chen,ali a yassine;genetic algorithm design inspired by organizational theory pilot study of a dependency structure matrix driven genetic algorithm;0966B229;43F3068F;2003
+76;0;david e goldberg;k v l n sastry,tianli yu;optimal sampling and speed up for genetic algorithms on the sampled onemax problem;0966B229;43F3068F;2003
+77;0;david e goldberg;kumara sastry,tianli yu;linkage learning overlapping building blocks and systematic strategy for scalable recombination;0966B229;43F3068F;2005
+78;0;david e goldberg;kumara sastry,xavier llora,tianli yu;do not match inherit fitness surrogates for genetics based machine learning techniques;0966B229;43F3068F;2007
+79;0;david e goldberg;kumara sastry,martin pelikan;empirical analysis of ideal recombination on random decomposable problems;0966B229;43F3068F;2007
+80;0;david e goldberg;kumara sastry,albert orriolspuig,ester bernadomansilla;modeling xcs in class imbalances population size and parameter settings;0966B229;43F3068F;2007
+81;0;david e goldberg;kumara sastry,albert orriolspuig,ester bernadomansilla,pier luca lanzi;modeling selection pressure in xcs for proportionate and tournament selection;0966B229;43F3068F;2007
+82;0;david e goldberg;kumara sastry;let s get ready to rumble redux crossover versus mutation head to head on exponentially scaled problems;0966B229;43F3068F;2007
+83;0;david e goldberg;kumara sastry,xavier llora;towards billion bit optimization via a parallel estimation of distribution algorithm;0966B229;43F3068F;2007
+84;0;david e goldberg;kumara sastry,albert orriolspuig,ester bernadomansilla;substructrual surrogates for learning decomposable classification problems implementation and first results;0966B229;43F3068F;2007
+85;0;david e goldberg;martin v butz,pier luca lanzi;empirical analysis of generalization and learning in xcs with gradient descent;0966B229;43F3068F;2007
+86;0;david e goldberg;kumara sastry,tianli yu,martin pelikan;population sizing for entropy based model building in discrete estimation of distribution algorithms;0966B229;43F3068F;2007
+87;0;david e goldberg;noriko imafuji yasui,xavier llora;graph theoretic measure for active igas interaction sizing and parallel evaluation ensemble;0966B229;43F3068F;2008
+88;0;david e goldberg;kumara sastry,thyago s p c duque;improving the efficiency of the extended compact genetic algorithm;0966B229;43F3068F;2008
+89;0;david e goldberg;hiroshi tamura,noriko imafuji yasui,xavier llora,kumara sastry,shunsuke saruwatari;speeding online synthesis via enforced selecto recombination;0966B229;43F3068F;2008
+90;0;david e goldberg;kumara sastry,yuji sato;improving small population performance under noise with viral infection tropism;0966B229;43F3068F;2008
+91;0;david e goldberg;k v l n sastry,martin pelikan;iboa the incremental bayesian optimization algorithm;0966B229;43F3068F;2008
+92;0;david e goldberg;k v l n sastry,martin pelikan;iboa the incremental bayesian optimization algorithm;4472;43F3068F;2008
+93;0;david e goldberg;mark hauschild,k v l n sastry,martin pelikan;using previous models to bias structural learning in the hierarchical boa;7256;43F3068F;2012
+94;0;david e goldberg;kumara sastry,mark hauschild,martin pelikan;using previous models to bias structural learning in the hierarchical boa;0966B229;43F3068F;2008
+95;0;david e goldberg;andre c p l f carvalho,xavier llora,thyago s p c duque,rosane m m vallim;a new approach for multi label classification based on default hierarchies and organizational learning;0966B229;43F3068F;2008
+96;0;david e goldberg;jeffrey d horn,nicholas nafpliotis;a niched pareto genetic algorithm for multiobjective optimization;0966B229;47BBF4CC;1994
+97;0;david e goldberg;hillol kargupta;polynominal complexity blackbox search lessons from the search framework;19840;47BBF4CC;1996
+98;0;david e goldberg;dirk thierens;elitist recombination an integrated selection recombination ga;13234;47BBF4CC;1994
+99;0;david e goldberg;hiroshi tamura,xavier llor,yuichi washida,noriko imafuji yasui;delineating topic and discussant transitions in online collaborative environments;17676;44A68539;2007
+100;0;david e goldberg;noriko imafuji yasui,xavier llor,shunsuke saruwatari;facilitation support for on line focus group discussions by message feature map;7383;44A68539;2008
+101;0;david e goldberg;noriko imafuji yasui,hiroshi tamura,xavier llora,yuichi washida;key elements extraction in online collaborative environments;0966B229;44A68539;2007
+102;0;david e goldberg;;genetic algorithms and rules learning in dynamic system control;9163;43319DD4;1985
+103;0;david e goldberg;;sizing populations for serial and parallel genetic algorithms;6921;43319DD4;1989
+104;0;david e goldberg;;zen and the art of genetic algorithms;13938;43319DD4;1989
+105;0;david e goldberg;kalyanmoy deb,bradley korb;don t worry be messy;14390;43319DD4;1991
+106;0;david e goldberg;hillol kargupta,georges r harik,kalyanmoy deb;rapidaccurate optimization of difficult problems using fast messy genetic algorithms;11456;43319DD4;1993
+107;0;david e goldberg;erick cantupaz;predicting speedups of ideal bounding cases of parallel genetic algorithms;7281;327796;1997
+108;0;david e goldberg;kalyanmoy deb;an investigation of niche and species formation in genetic function optimization;14813;43319DD4;1989
+109;0;david e goldberg;clayton l bridges;an analysis of reproduction and crossover in a binary coded genetic algorithm;4996;43319DD4;1987
+110;0;david e goldberg;robert lingle;alleleslociand the traveling salesman problem;2469;43319DD4;1985
+111;0;david e goldberg;jon t richardson;genetic algorithms with sharing for multimodalfunction optimization;13007;43319DD4;1987
+112;0;david e goldberg;philip segrest;finite markov chain analysis of genetic algorithms;3310;43319DD4;1987
+113;0;david e goldberg;robert e smith;nonstationary function optimization using genetic algorithms with dominance and diploidy;2130;43319DD4;1987
+114;0;david e goldberg;andrew horner;genetic algorithms and computer assisted music composition;14591;459FD6FD;1991
+115;0;david e goldberg;andrew horner;genetic algorithms and computer assisted music composition;14262;459FD6FD;1991
+116;0;david e goldberg;yuji sakamoto;takeover time in a noisy environment;14061;43319DD4;1997
+117;0;david e goldberg;dirk thierens;mixing in genetic algorithms;5293;43319DD4;1993
+118;0;david e goldberg;stewart w wilson;a critical review of classifier systems;3056;43319DD4;1989
+119;0;david e goldberg;;dynamic system control using rule learning and genetic algorithms;0108016A;47C39427;1985
+120;0;david e goldberg;arnaud quirin,martin v butz,jerzy korczak;analysis and evaluation of learning classifier systems applied to hyperspectral image classification;16213;45D416DF;2005
+121;0;david e goldberg;marco dorigo,stephanie forrest,r e smith,stewart w wilson,rick l riolo,lashon b booker,wolfgang stolzmann,john h holland,marco colombetti,pier luca lanzi;what is a learning classifier system ;0966B229;645644;2000
+122;0;david e goldberg;albert orriolspuig,ester bernadomansilla,k v l n sastry;substructural surrogates for learning decomposable classification problems;0966B229;1456096;2008
+123;0;david e goldberg;claudio f lima,kumara sastry,xavier llora,fernando g lobo;linkage learning rule representation and the x ary extended compact classifier system;14902;43F3068F;2007
+124;0;david e goldberg;martin v butz,wolfgang stolzmann;probability enhanced predictions in the anticipatory classifier system;0966B229;43F3068F;2000
+125;0;david e goldberg;ivan traus,xavier llora,ester bernado;accuracy parsimony and generality in evolutionary learning systems via multiobjective selection;0966B229;43F3068F;2002
+126;0;david e goldberg;k v l n sastry,xavier llora;binary rule encoding schemes a study using the compact classifier system;0966B229;43F3068F;2005
+127;0;david e goldberg;martin v butz,jaume bacardit;improving the performance of a pittsburgh learning classifier system using a default rule;0966B229;43F3068F;2007
+128;0;david e goldberg;martin v butz,pier luca lanzi;effect of pure error based fitness in xcs;0966B229;43F3068F;2005
+129;0;david e goldberg;chang wook ahn,r s ramakrishna;multiple deme parallel estimation of distribution algorithms basic framework and application;0966B229;44E5A1B2;2003
+130;0;david e goldberg;martin v butz,xavier llora,josep maria garrell,jaume bacardit;speeding up pittsburgh learning classifier systems modeling time and accuracy;0966B229;4727BEE5;2004
+131;0;david e goldberg;martin v butz,wolfgang stolzmann;investigating generalization in the anticipatory classifier system;0966B229;4727BEE5;2000
+132;0;david e goldberg;martin v butz,xavier llora,pier luca lanzi;knowledge extraction and problem structure identification in xcs;0966B229;4727BEE5;2004
+133;0;david e goldberg;yingping chen;introducing start expression genes to the linkage learning genetic algorithm;0966B229;4727BEE5;2002
+134;0;david e goldberg;;the theory of virtual alphabets;0966B229;4727BEE5;1990
+135;0;david e goldberg;jeffrey d horn,kalyanmoy deb;massive multimodality deception and genetic algorithms;18636;4727BEE5;1992
+136;0;david e goldberg;hillol kargupta,kalyanmoy deb;ordering genetic algorithms and deception;775;4727BEE5;1992
+137;0;david e goldberg;jeffrey horn;a timing analysis of convergence to fitness sharing equilibrium;0966B229;4727BEE5;1998
+138;0;david e goldberg;jeffrey horn,kalyanmoy deb;long path problems;0966B229;4727BEE5;1994
+139;0;david e goldberg;dimitri knjazew;large scale permutation optimization with the ordering messy genetic algorithm;14326;4727BEE5;2000
+140;0;david e goldberg;claudio f lima,kumara sastry,martin v butz,martin pelikan,fernando g lobo;substructural neighborhoods for local search in the bayesian optimization algorithm;0966B229;4727BEE5;2006
+141;0;david e goldberg;samir w mahfoud;a genetic algorithm for parallel simulated annealing;18722;4727BEE5;1992
+142;0;david e goldberg;martin pelikan;genetic algorithms clustering and the breaking of symmetry;0966B229;4727BEE5;2000
+143;0;david e goldberg;kumara sastry,martin v butz,martin pelikan;performance of evolutionary algorithms on random decomposable problems;0966B229;4727BEE5;2006
+144;0;david e goldberg;franz rothlauf;pruefer numbers and genetic algorithms a lesson on how the low locality of an encoding can harm the performance of gas;0966B229;4727BEE5;2000
+145;0;david e goldberg;dirk thierens;convergence models of genetic algorithm selection schemes;0966B229;4727BEE5;1994
+146;0;david e goldberg;kumara sastry,thyago s duque;enhancing the efficiency of the ecga;0966B229;4727BEE5;2008
+147;0;david e goldberg;naohiro matsumura,xavier llora;mining directed social network from message board;0966B229;43ABF249;2005
+148;0;david e goldberg;kumara sastry,tianli yu;online population size adjusting using noise and substructural measurements;0966B229;478757A6;2005
+149;0;david e goldberg;kumara sastry,martin pelikan;limits of scalability of multiobjective estimation of distribution algorithms;0966B229;478757A6;2005
+150;0;david e goldberg;kumara sastry,xavier llora;the compact classifier system scalability analysis and first results;0966B229;478757A6;2005
+151;0;david e goldberg;daniele loiacono,stewart w wilson,pier luca lanzi;xcs with computed prediction in continuous multistep environments;1129;478757A6;2005
+152;0;david e goldberg;daniele loiacono,stewart w wilson,pier luca lanzi;xcs with computed prediction for the learning of boolean functions;13542;478757A6;2005
+153;0;david e goldberg;claudio f lima,mark hauschild,martin pelikan,kumara sastry,fernando g lobo;influence of selection and replacement strategies on linkage learning in boa;7327;478757A6;2007
+154;0;david e goldberg;kumara sastry,pier luca lanzi,luca fossati,omar d castrillon gomez;a simple real coded extended compact genetic algorithm;15842;478757A6;2007
+155;0;david e goldberg;naohiro matsumura,xavier llora;communication gaps in social networks;0966B229;42F0CC9A;2005
+156;0;david e goldberg;r e smith;reinforcement learning with classifier systems adaptive default hierarchy formation;16153;077B006D;1992
+157;0;david e goldberg;lashon b booker,john h holland;classifier systems and genetic algorithms;01A8C383;0BB0DA67;1989
+158;0;david e goldberg;kalyanmoy deb;sufficient conditions for deceptive and easy binary functions;0966B229;056055AD;1994
+159;0;david e goldberg;;construction of high order deceptive functions using low order walsh coefficients;0966B229;056055AD;1992
+160;0;david e goldberg;;genetic and evolutionary algorithms come of age;0966B229;062B05D6;1994
+161;0;david e goldberg;kumara sastry,martin pelikan;efficiency enhancement of probabilistic model building genetic algorithms;8383;0B68DB42;2004
+162;0;david e goldberg;kumara sastry;let s get ready to rumble crossover versus mutation head to head;0966B229;43F3068F;2004
+163;0;david e goldberg;kumara sastry;let s get ready to rumble crossover versus mutation head to head;13771;43F3068F;2004
+164;0;david e goldberg;kumara sastry;designing competent mutation operators via probabilistic model building of neighborhoods;0966B229;43F3068F;2004
+165;0;david e goldberg;kumara sastry;designing competent mutation operators via probabilistic model building of neighborhoods;17421;43F3068F;2004
+166;0;david e goldberg;k l a sastry,martin pelikan;efficiency enhancement of genetic algorithms via building block wise fitness estimation;17167;478757A6;2004
+167;0;david e goldberg;kumara sastry,martin pelikan;efficiency enhancement of genetic algorithms via building block wise fitness estimation;12912;478757A6;2004
+168;0;david e goldberg;kumara sastry,unamay oreilly;population sizing for genetic programming based upon decision making;0966B229;0B68DB42;2005
+169;0;david e goldberg;hussein a abbass,kumara sastry;oiling the wheels of change the role of adaptive automatic problem decomposition in non stationary environments;19353;0B68DB42;2005
+170;0;david e goldberg;hussein a abbass,k v l n sastry;sub structural niching in non stationary environments;19902;46EF45E9;2005
+171;0;david e goldberg;kumara sastry,hussein a abbass,duane d johnson;sub structural niching in estimation of distribution algorithms;0966B229;43F3068F;2005
+172;0;david e goldberg;kumara sastry,martin pelikan;multiobjective hboa clustering and scalability;0966B229;43F3068F;2005
+173;0;david e goldberg;kumara sastry,martin pelikan;decomposable problems niching and scalability of multiobjective estimation of distribution algorithms;0966B229;0B68DB42;2005
+174;0;david e goldberg;k v l n sastry,martin pelikan;iboa the incremental bayesian optimization algorithm;0966B229;43F3068F;2008
+175;0;david e goldberg;k v l n sastry,martin pelikan;iboa the incremental bayesian optimization algorithm;3586;43F3068F;2008
+176;0;david e goldberg;jeffrey horn,kalyanmoy deb;implicit niching in a learning classifier system nature s way;0966B229;4607C954;1994
+177;0;david e goldberg;clarissa van hoyweghen,bart naudts;spin flip symmetry and synchronization;0966B229;4607C954;2002
+178;0;david e goldberg;clarissa van hoyweghen,bart naudts;spin flip symmetry and synchronization;13445;024E2B62;2006
+179;0;david e goldberg;kurian tharakunnel,martin v butz;analysis and improvement of fitness exploitation in xcs bounding models tournament selection and bilateral accuracy;0966B229;4607C954;2003
+180;0;david e goldberg;kurian tharakunnel,martin v butz;analysis and improvement of fitness exploitation in xcs bounding models tournament selection and bilateral accuracy;17084;024E2B62;2006
+181;0;david e goldberg;erick cantupaz;on the scalability of parallel genetic algorithms;0966B229;4607C954;1999
+182;0;david e goldberg;george harik,erick cantupaz,brad l miller;the gambler s ruin problem genetic algorithms and the sizing of populations;0966B229;4607C954;1999
+183;0;david e goldberg;georges r harik,erick cantupaz,brad l miller;the gambler s ruin problem genetic algorithms and the sizing of populations;5520;4607C954;1997
+184;0;david e goldberg;xavier llora;bounding the effect of noise in multiobjective learning classifier systems;0966B229;4607C954;2003
+185;0;david e goldberg;xavier llora;bounding the effect of noise in multiobjective learning classifier systems;2773;024E2B62;2006
+186;0;david e goldberg;brad l miller;genetic algorithms selection schemes and the varying effects of noise;0966B229;4607C954;1996
+187;0;david e goldberg;masaharu munetomo;linkage identification by non monotonicity detection for overlapping functions;0966B229;4607C954;1999
+188;0;david e goldberg;martin pelikan,erick cantupaz;linkage problem distribution estimation and bayesian networks;0966B229;4607C954;2000
+189;0;david e goldberg;martin pelikan,erick cantupaz;linkage problem distribution estimation and bayesian networks;2378;024E2B62;2006
+190;0;david e goldberg;franz rothlauf;redundant representations in evolutionary computation;0966B229;4607C954;2003
+191;0;david e goldberg;franz rothlauf;redundant representations in evolutionary computation;5816;024E2B62;2006
+192;0;david e goldberg;laura a mclay;efficient genetic algorithms using discretization scheduling;0966B229;4607C954;2005
+193;0;david e goldberg;laura a mclay;efficient genetic algorithms using discretization scheduling;2182;024E2B62;2006
+194;0;david e goldberg;franz rothlauf,armin heinzl;network random keys a tree representation scheme for genetic and evolutionary algorithms;0966B229;4607C954;2002
+195;0;david e goldberg;franz rothlauf,armin heinzl;network random keys a tree representation scheme for genetic and evolutionary algorithms;17247;024E2B62;2006
+196;0;david e goldberg;j l schlabach,caroline c hayes;fox ga a genetic algorithm for generating and analyzing battlefield courses of action;0966B229;4607C954;1999
+197;0;david e goldberg;j l schlabach,caroline c hayes;fox ga a genetic algorithm for generating and analyzing battlefield courses of action;8265;024E2B62;1998
+198;0;david e goldberg;martin v butz,xavier llora,martin pelikan;automated global structure extraction for effective local building block processing in xcs;0966B229;4607C954;2006
+199;0;david e goldberg;yingping chen;convergence time for the linkage learning genetic algorithm;007B93A0;478757A6;2004
+200;0;david e goldberg;yingping chen;convergence time for the linkage learning genetic algorithm;0966B229;478757A6;2005
+201;0;david e goldberg;yingping chen;convergence time for the linkage learning genetic algorithm;15996;478757A6;2006
+202;0;david e goldberg;daniele loiacono,stewart w wilson,pier luca lanzi;generalization in the xcsf classifier system analysis improvement and extension;0389C918;4607C954;2007
+203;0;david e goldberg;ole j mengshoel;the crowding approach to niching in genetic algorithms;0966B229;4607C954;2008
+204;0;david e goldberg;martin v butz,k s sastry;strong stable and reliable fitness pressure in xcs due to tournament selection;0966B229;02DB5E5E;2005
+205;0;david e goldberg;kumara sastry,martin v butz,pier luca lanzi;problem solution sustenance in xcs markov chain analysis of niche support distributions and the impact on computational complexity;0966B229;02DB5E5E;2006
+206;0;david e goldberg;k v l n sastry,martin pelikan;sporadic model building for efficiency enhancement of the hierarchical boa;0966B229;02DB5E5E;2008
+207;0;david e goldberg;kumara sastry,martin pelikan;scalability of the bayesian optimization algorithm;15354;01FD2A13;2002
+208;0;david e goldberg;fernando g lobo;the parameter less genetic algorithm in practice;0966B229;0B7B9B75;2004
+209;0;david e goldberg;shigeyoshi tsutsui,martin pelikan;getting the best of both worlds discrete and continuous genetic and evolutionary algorithms in concert;0966B229;0B7B9B75;2003
+210;0;david e goldberg;shigeyoshi tsutsui;search space boundary extension method in real coded genetic algorithms;0966B229;0B7B9B75;2001
+211;0;david e goldberg;;probability matching the magnitude of reinforcement and classifier system bidding;0108016A;03B4502A;1990
+212;0;david e goldberg;john h holland;genetic algorithms and machine learning;0108016A;03B4502A;1988
+213;0;david e goldberg;samir w mahfoud;parallel recombinative simulated annealing a genetic algorithm;0966B229;474677D8;1995
+214;0;david e goldberg;naohiro matsumura,xavier llora;communication gap management for fertile community;0966B229;42F0CC9A;2007
+215;0;david e goldberg;martin v butz,pier luca lanzi;gradient descent methods in learning classifier systems improving xcs performance in multistep problems;0966B229;05971759;2005
+216;0;david e goldberg;georges r harik,fernando g lobo;the compact genetic algorithm;8535;47BBF4CC;1998
+217;0;david e goldberg;georges r harik,fernando g lobo;the compact genetic algorithm;17826;05971759;1999
+218;0;david e goldberg;marco dorigo,m h garzon,david b fogel,rick l riolo,wolfgang banzhaf,john r koza,kumar chellapilla,hitoshi iba,kalyanmoy deb;genetic programming 1998 proceedings of the third annual conference;10354;05971759;1999
+219;0;david e goldberg;martin pelikan;a hierarchy machine learning to optimize from nature and humans;0966B229;0C5B7193;2003
+220;0;david e goldberg;kumara sastry,xavier llora;toward routine billion variable optimization using genetic algorithms;0966B229;0C5B7193;2007
+221;0;david e goldberg;martin pelikan;hierarchical bayesian optimization algorithm;0966B229;439998;2006
+222;0;david e goldberg;martin v butz,xavier llora,martin pelikan;effective and reliable online classification combining xcs with eda mechanisms;0966B229;1676383;2006
+223;0;david e goldberg;kumara sastry,martin pelikan;efficiency enhancement of estimation of distribution algorithms;0966B229;1133964;2006
+224;0;david e goldberg;tianli yu,s g santarelli;military antenna design using a simple genetic algorithm and hboa;0966B229;1022043;2006
+225;0;david e goldberg;alexander k hartmann,rajiv kalapala,martin pelikan;multiobjective estimation of distribution algorithms;04946B1E;1397608;2006
+226;0;david e goldberg;kumara sastry,tianli yu;population sizing to go online adaptation using noise and substructural measurements;0966B229;1898653;2007
+227;0;david e goldberg;kumara sastry,minqiang li,tianli yu;real coded ecga for solving decomposable real valued optimization problems;4212;478757A6;2007
+228;0;david e goldberg;kumara sastry,luigi nichetti,davide voltini,pier luca lanzi;real coded extended compact genetic algorithm based on mixtures of models;0966B229;1042062;2008
+229;0;david e goldberg;claudio f lima,kumara sastry,mark hauschild,martin pelikan,fernando g lobo;linkage learning accuracy in the bayesian optimization algorithm;0966B229;998545;2008
+230;0;david e goldberg;;genetic algorithms in search optimization and machine learning;8195;968440;1989
+231;0;david e goldberg;kumara sastry,martin v butz,mark hauschild,martin pelikan;performance of evolutionary algorithms on nk landscapes with nearest neighbor interactions and tunable overlap;0966B229;43F3068F;2009
+232;0;david e goldberg;martin v butz,xavier llora,patrick o stalph;on the scalability of xcs f ;0966B229;43F3068F;2009
+233;0;david e goldberg;thyago s p c duque;a new method for linkage learning in the ecga;0966B229;43F3068F;2009
+234;0;david e goldberg;martin pelikan,elizabeth radetic;effects of a deterministic hill climber on hboa;0966B229;43F3068F;2009
+235;0;david e goldberg;xavier llora,jose g morenotorres;binary representation in gene expression programming towards a better scalability;14439;45D416DF;2009
+236;0;david e goldberg;xavier llora,jose g morenotorres;binary representation in gene expression programming towards a better scalability;0966B229;43F3068F;2009
+237;0;david e goldberg;Jose Garcia Moreno-Torres,xavier llora;binary representation in gene expression programming towards a better scalability;5497;45D416DF;2009
+238;0;david e goldberg;Jose Garcia Moreno-Torres,xavier llora;binary representation in gene expression programming towards a better scalability;5782;45D416DF;2009
+239;0;david e goldberg;andre c p l f carvalho,thyago s p c duque,rosane m m vallim;the multi label ocs with a genetic algorithm for rule discovery implementation and first results;0966B229;43F3068F;2009
+240;0;david e goldberg;;genetic algorithms in search optimization and machine learning;10592;37970;1989
+241;0;david e goldberg;claudio f lima,martin pelikan,fernando g lobo;loopy substructural local search for the bayesian optimization algorithm;0966B229;0655F58A;2009
+242;0;david e goldberg;xavier llora,jose g morenotorres;binary representation in gene expression programming towards a better scalability;13799;45D416DF;2009
+243;0;david e goldberg;xavier llora,jose g morenotorres;binary representation in gene expression programming towards a better scalability;0966B229;43F3068F;2009
+244;0;david e goldberg;Jose Garcia Moreno-Torres,xavier llora;binary representation in gene expression programming towards a better scalability;14256;45D416DF;2009
+245;0;david e goldberg;Jose Garcia Moreno-Torres,xavier llora;binary representation in gene expression programming towards a better scalability;15305;45D416DF;2009
+246;0;david e goldberg;roy h campbell,xavier llora,abhishek verma;scaling genetic algorithms using mapreduce;6209;45D416DF;2009
+247;0;david e goldberg;kumara sastry,xavier llora;toward routine billion variable optimization using genetic algorithms short communication;0966B229;0C5B7193;2007
+248;0;david e goldberg;jon richardson;genetic algorithms with sharing for multimodal function optimization;10730;1104020;1987
+249;0;david e goldberg;r e smith;nonstationary function optimization using genetic algorithm with dominance and diploidy;9902;160309;1987
+250;2;david e goldberg;manuel valenzuelarendon;two analysis tools to describe the operation of classifier systems;12081;1709005;1989
+251;0;david e goldberg;dimitri knjazew;solving permutation problems with the ordering messy genetic algorithm;0966B229;002148B6;2003
+252;1;david e goldberg;yedidyah langsam,keith harrow;teching pl i using a microcomputer;04F31C2A;09B201F7;1986
+253;0;david e goldberg;kumara sastry,minqiang li,tianli yu;performance analyses of factorization based on gaussian pdf in recga;18902;327616;2007
+254;0;david e goldberg;t s p duque,kumara sastry,alexandre c b delbem;evolutionary algorithm for large scale problems;6406;45D416DF;2007
+255;0;david e goldberg;marco dorigo,stephanie forrest,r e smith,stewart w wilson,rick l riolo,lashon b booker,wolfgang stolzmann,john h holland,marco colombetti,pier luca lanzi;what is a learning classifier system ;0966B229;487501;2000
+256;0;david e goldberg;robert lingle;alleleslociand the traveling salesman problem;13695;43319DD4;1985

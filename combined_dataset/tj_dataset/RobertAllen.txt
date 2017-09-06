@@ -1,0 +1,21 @@
+0;0;robert allen;david cordes;running an nsf reu program observations comments and suggestions;0108016A;44344A0A;1992
+1;1;robert allen;remi douence,david garlan;specifying and analyzing dynamic software architectures;0477FFD3;46C99331;1998
+2;1;robert allen;david garlan;formalizing architectural connection;0477FFD3;45FFFB88;1994
+3;1;robert allen;david garlan,john ockerbloom;architectural mismatch or why it s hard to build systems out of existing parts;0477FFD3;45FFFB88;1995
+4;1;robert allen;david garlan;beyond definition use architectural interconnection;0477FFD3;08D7401B;1994
+5;1;robert allen;david garlan,gregory d abowd;using style to understand descriptions of software architecture;0477FFD3;477F6C83;1993
+6;1;robert allen;james ivers,david garlan;formal modeling and analysis of the hla component integration standard;4FF45383;477F6C83;1998
+7;1;robert allen;david garlan,john ockerbloom;exploiting style in architectural design environments;0477FFD3;477F6C83;1994
+8;4;robert allen;bruce lewis,steve vestal,dennis cornhill;using an architecture description language for quantitative analysis of real time systems;12283;47B42F95;2002
+9;5;robert allen;david c smith;neuro fuzzy closed loop control of depth of anaesthesia;0296D744;028803A7;2001
+10;1;robert allen;;the web interactive and multimedia education;1949;002F0F98;1998
+11;6;robert allen;paul england,ron underwood;rave real time services for the web;13745;43ABF249;1996
+12;7;robert allen;luigi cinque,dean yasuda,b allen,linda g shapiro,steven l tanimoto;an improved algorithm for relational distance graph matching;335ED749;00065366;1996
+13;1;robert allen;david garlan,john ockerbloom;architectural mismatch why reuse is so hard;0477FFD3;00669F99;1995
+14;8;robert allen;yalin zheng,mark s nixon;automated segmentation of lumbar vertebrae in digital videofluoroscopic images;18898;037612B1;2004
+15;1;robert allen;david garlan;a formal basis for architectural connection;0477FFD3;0880543B;1997
+16;1;robert allen;david garlan;errata a formal basis for architectural connection;0477FFD3;0880543B;1998
+17;2;robert allen;shing chun benny lam,brendan mccane;automated tracking in digitized videofluoroscopy sequences for spine kinematic analysis;0296D744;0A9361D2;2009
+18;1;robert allen;david garlan,john ockerbloom;architectural mismatch why reuse is still so hard;13949;00669F99;2009
+19;1;robert allen;david garlan;towards formalized software architectures;0477FFD3;1266414;1992
+20;1;robert allen;david garlan;a case study in architectural modelling the aegis system;0477FFD3;610336;1996
