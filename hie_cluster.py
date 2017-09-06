@@ -45,16 +45,15 @@ class Cluster:
 		for i in self.papers:
 			i.speakshort()
 
-def CombineCluster(cluster1,cluster2):
+def DelCluster(cluster1):
 	for i,c in enumerate(Clusters):
 		if(Clusters[i]==cluster1):
 			del(Clusters[i])
 			break
 
-	for i,c in enumerate(Clusters):
-		if(Clusters[i]==cluster2):
-			del(Clusters[i])
-			break
+	return 
+def CombineCluster(cluster1,cluster2):
+
 
 	global newcluster
 	tmp = Cluster(newcluster)
@@ -67,7 +66,7 @@ def CombineCluster(cluster1,cluster2):
 	for i in cluster2.papers:
 		tmp.add(i)
 
-	Clusters.append(tmp)
+	return tmp
 
 def Statement():
 
@@ -88,6 +87,8 @@ def read_file(file_name):
 		venue_id = line[6]
 		affiliation_id = line[5]
 		coauthors = line[3].split(",")
+		if(coauthors[0]==''):
+			coauthors = []
 		label = line[1] 
 		author = line[2]
 
@@ -98,20 +99,73 @@ def read_file(file_name):
 
 def Common_coauthor():
 	void_repeat = set()
+
+	mergelist = []
+	tail = 0
+
 	for i in range(len(Clusters)):
 		for j in range(i+1,len(Clusters)):
 			
 			
-			if(str(cluster1.label)+"-"+str(cluster2.label) not in void_repeat):
-				void_repeat.add(str(cluster1.label)+"-"+str(cluster2.label))
-				void_repeat.add(str(cluster2.label)+"-"+str(cluster1.label))
-			else :
-				continue
+			
 
-			papers1 = cluster1.papers
-			papers2 = cluster2.papers
+			papers1 = Clusters[i].papers
+			papers2 = Clusters[j].papers
 
-			 
+			flag = False
+
+			for paper1 in papers1:
+				for paper2 in papers2:
+
+					for co1 in paper1.coauthors:
+						for co2 in paper2.coauthors:
+							if(co1 == co2):
+								print ("----------")
+								print (paper1.ID,paper1.coauthors)
+								print (paper2.ID,paper2.coauthors)
+								print ("----------")
+								flag= True
+								break
+					if(flag):
+						break
+				if(flag):
+					break
+
+
+			if(flag):
+				flag = False
+
+				for k in range(tail):
+					if(Clusters[i] in mergelist[k]):
+						flag=True
+
+						if(Clusters[j] not in mergelist[k]):
+							mergelist[k].append(Clusters[j])
+						break
+					if(Clusters[j] in mergelist[k]):
+						flag=True
+
+						if(Clusters[i] not in mergelist[k]):
+							mergelist[k].append(Clusters[i])
+						break
+
+				if(flag==False):
+					mergelist.append([])
+					mergelist[tail].append(Clusters[i])
+					mergelist[tail].append(Clusters[j])
+					tail+=1
+	
+	for line in mergelist:
+
+		tmp = line[0]
+		for c in range(1,len(line)):
+			tmp = CombineCluster(tmp,line[c])
+
+		Clusters.append(tmp)
+
+		for i in line:
+			DelCluster(i)
+
 
 
 def Common_affiliation():
@@ -134,15 +188,16 @@ if __name__ == '__main__':
 		Clusters.append(tmp)  
 
 		newcluster+=1 
-	Statement()
 
-	print ("over!!!!!!!!!!!!!!!!!!")
-	CombineCluster(Clusters[1],Clusters[0])
-	Statement()
+	#Clusters.append(CombineCluster(Clusters[1],Clusters[0]))
+	#DelCluster(Clusters[1])
+	#DelCluster(Clusters[0])
 
 
-	#Common_coauthor()
+
+	Common_coauthor()
 	#Common_affiation()
+	Statement()
 
 
 
