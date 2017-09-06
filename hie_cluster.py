@@ -6,7 +6,7 @@ import time
 newcluster = 0
 Papers = []
 Clusters = []
-
+TrueClusters = {}
 class Paper:
 	def __init__(self, ID, title, year, venue_id, affiliation_id, coauthors, label, author):
 		self.ID = ID
@@ -67,6 +67,18 @@ def CombineCluster(cluster1,cluster2):
 		tmp.add(i)
 
 	return tmp
+def CombineMergelist(mergelist):
+	for line in mergelist:
+
+		tmp = line[0]
+	for c in range(1,len(line)):
+		tmp = CombineCluster(tmp,line[c])
+
+	Clusters.append(tmp)
+
+	for i in line:
+		DelCluster(i)
+
 
 def Statement():
 
@@ -117,13 +129,67 @@ def Common_coauthor():
 			for paper1 in papers1:
 				for paper2 in papers2:
 
+					if(paper1.affiliation_id==paper2.affiliation_id):
+
+						flag= True
+						break
+					if(flag):
+						break
+				if(flag):
+					break
+
+
+			if(flag):
+				flag = False
+
+				for k in range(tail):
+					if(Clusters[i] in mergelist[k]):
+						flag=True
+
+						if(Clusters[j] not in mergelist[k]):
+							mergelist[k].append(Clusters[j])
+						break
+					if(Clusters[j] in mergelist[k]):
+						flag=True
+
+						if(Clusters[i] not in mergelist[k]):
+							mergelist[k].append(Clusters[i])
+						break
+
+				if(flag==False):
+					mergelist.append([])
+					mergelist[tail].append(Clusters[i])
+					mergelist[tail].append(Clusters[j])
+					tail+=1
+	
+	return mergelist
+
+
+
+
+
+def Common_affiliation():
+	mergelist = []
+	tail = 0
+
+	for i in range(len(Clusters)):
+		for j in range(i+1,len(Clusters)):
+			
+			
+			
+
+			papers1 = Clusters[i].papers
+			papers2 = Clusters[j].papers
+
+			flag = False
+
+			for paper1 in papers1:
+				for paper2 in papers2:
+
 					for co1 in paper1.coauthors:
 						for co2 in paper2.coauthors:
 							if(co1 == co2):
-								print ("----------")
-								print (paper1.ID,paper1.coauthors)
-								print (paper2.ID,paper2.coauthors)
-								print ("----------")
+	
 								flag= True
 								break
 					if(flag):
@@ -155,22 +221,34 @@ def Common_coauthor():
 					mergelist[tail].append(Clusters[j])
 					tail+=1
 	
-	for line in mergelist:
+	return mergelist
 
-		tmp = line[0]
-		for c in range(1,len(line)):
-			tmp = CombineCluster(tmp,line[c])
+def CalculateMetrix(Clusters):
 
-		Clusters.append(tmp)
+	a = 0
+	for i in range(len(Papers)):
+		for j in range(i+1,len(Papers)):
+			if(Papers[i].label == Papers[j].label):
+				#print (i,type(Papers[i].label_predicted))
+				#print (j,type(Papers[j].label_predicted))
+				if(Papers[i].label_predicted == Papers[j].label_predicted):
+					a+=1
 
-		for i in line:
-			DelCluster(i)
+	ac = 0
+	ab = 0
+
+	for c in Clusters:
+		ac+=len(c.papers)*(len(c.papers)-1)/2
+
+	for c in TrueClusters:
+		ab+=len(TrueClusters[c])*(len(TrueClusters[c])-1)/2
+
+	pp = float(a)/float(ac)
+	pr = float(a)/float(ab)
 
 
+	print ("PF1 metrix is ",2*pp*pr/(pp+pr))
 
-def Common_affiliation():
-
-	return
 
 if __name__ == '__main__':
 
@@ -187,6 +265,10 @@ if __name__ == '__main__':
 
 		Clusters.append(tmp)  
 
+		if(paper.label not in TrueClusters):
+			TrueClusters[paper.label]=[]
+		TrueClusters[paper.label].append(paper)
+
 		newcluster+=1 
 
 	#Clusters.append(CombineCluster(Clusters[1],Clusters[0]))
@@ -195,10 +277,18 @@ if __name__ == '__main__':
 
 
 
-	Common_coauthor()
-	#Common_affiation()
+	mergelist = Common_coauthor()
+	CombineMergelist(mergelist)
+
+
+	mergelist = Common_affiliation()
+	CombineMergelist(mergelist)
+
+
+
 	Statement()
 
+	CalculateMetrix(Clusters)
 
 
 
